@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt4_00033" version="1.0" type="fixedLength">
+<article articleID="LBt4_00033_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />第一章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">微生物がもたらす病気の基礎知識</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>クレブシエラ・ニューモニエ（肺炎桿菌）の電子顕微鏡写真。</sentence>
+<sentence>クロム陰影法による。</sentence>
+<sentence>菌体の周囲に莢膜と線毛が観察される（倍率×１８０００）。</sentence>
+<sentence>加藤延夫編『医系微生物学　第２版』（朝倉書店、１９９６）より引用。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　微生物とは何か</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">微生物の種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生物のなかには、単細胞（細胞一個）で生活でき、増殖できるものがあります。</sentence>
+<sentence>このような生物は形も小さいので微生物とよばれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一言で微生物といっても単一種の生物を指すのではありません。</sentence>
+<sentence>その中には細菌、ウイルス、真菌（カビなど）、原虫（<sentence>アメーバなど。</sentence>
+<sentence type="quasi">原生動物ともよばれる</sentence>
+）が含まれます。</sentence>
+<sentence>微生物のうち、細菌は原核生物で、真菌と原虫は真核生物です。</sentence>
+<sentence>原核生物は原核細胞、真核生物は真核細胞から成る生物ですが、両者は細胞核の構造に違いがあります。</sentence>
+<sentence>真核細胞の核は核膜に包まれ、複数の染色体をつくりますが、原核細胞では核膜がなく、遺伝子そのものであるデオキシリボ核酸（ＤＮＡ）は、ゴム輪のような形をした環状のひもの状態で、それが幾重にも折りたたまれています。</sentence>
+<sentence>細胞分裂のとき、真核細胞は有糸分裂を行いますが、原核細胞は行いません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　核以外にも違いがあります。</sentence>
+<sentence>真核細胞にはミトコンドリアがありますが、原核細胞にはそれがなく、細胞膜がそのかわりの機能をもっています。</sentence>
+<sentence>原核細胞の細胞膜表面は特有の化学構造の細胞壁で覆われています。</sentence>
+<sentence>動物の真核細胞には細胞壁がなく、植物の真核細胞には細胞壁がありますが、それは原核細胞とは違って、セルロースまたはキチンからなるものです。</sentence>
+<sentence>また、一般に原核細胞は真核細胞に比べて大きさが小さいこともその特徴です。</sentence>
+<sentence>真菌は植物に近い微生物、原虫は動物に近い微生物と考えられます。</sentence>
+<sentence>　ウイルスは細菌よりも大きさが小さく、光学顕微鏡では観察することができません。</sentence>
+<sentence>細菌は肉水（ブイヨン）やそれを寒天で固めた人工培地で増殖しますが、ウイルスは細菌と異なり、このような人工培地では増殖できません。</sentence>
+<sentence>それは、自己複製に必要なエネルギーをつくり出す仕組みを欠いているためです。</sentence>
+<sentence>したがって、ウイルスは生きた細胞の中でのみ増殖します。</sentence>
+<sentence>その点が、ウイルスと細菌の決定的な違いです。</sentence>
+<sentence>厳密にいえば、ウイルスは細胞とはみなされません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">細菌</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　〈形と大きさ〉細菌の形は細菌の種類により異なります（図１）。</sentence>
+<sentence>細菌の単一細胞の基本形態は、球状、棒状、コンマ状、数回転あるいはそれ以上のらせん状です。</sentence>
+<sentence>球状、棒状、コンマ状のものをそれぞれ、球菌、<ruby rubyText="かん">桿</ruby>菌、コンマ状菌（ビブリオ型細菌）と総称します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　球菌には、一個一個ばらばらのもの（単球菌）、二つ並んでいるもの（双球菌）、鎖状に連なっているもの（レンサ<sampling type="end" />球菌）、ぶどうの房のようにかたまりをつくるもの（ブドウ球菌）などがあります。</sentence>
+</paragraph>
+</article>
+</sample>

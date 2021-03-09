@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00096" version="1.0" type="fixedLength">
+<article articleID="LBt3_00096_F001">
+<sentence>幅員四メートル未満の道は、道路中心線より水平距離二メートルを両側にふりわけた線が、道路境界線とみなされますから、敷地の一部は道路として、放出しなければなりませ<sampling type="start" />ん。</sentence>
+<sentence>上図のとおり、斜線部分は敷地面積から除外されます。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　また、道路と道路とが交差する角敷地（幅員六メートル未満の道路が一二〇度未満の角度で平面交差する角敷地）は、一辺二メートルの二等辺三角形による、すみ切りをして、道路として供出しなければなりません。</sentence>
+<sentence>このすみ切り部分は、敷地面積には入りますが、建物や塀は建てることができないことになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　戦前の古い家で、一・五メートル幅の道にしか接していない場合、明らかに建築基準法に違反しています。</sentence>
+<sentence>先に説明したとおり、道路の中心線から、左右に二メートルあてふりわけたところが、道路の境界線となります。</sentence>
+<sentence>ただし、昭和二五年一一月現在（建築基準法施行時）に、すでに建てられていた家は、既存不適格建築物と呼ばれ、現行の建築基準法に適合しないとしても、違反建築物として取扱われないことになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、この建物を新たに新築するときはもちろん、増改築をするときも、古い家を含めてもっとも新しい建築基準法に合わせなければなりませんから、道路の中心線から両方に二メートルあて幅員を拡張して、道路幅を四メートルにしなければならないわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、四メートルにすると、片方の境界線が川に入ってしまうような場合があります。</sentence>
+<sentence>この場合は、川の方の道路境界線より四メートルをとります。</sentence>
+<sentence>川ががけでも同じことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　結局、将来既存建物が建て替えられるときには、道路中心線より二メートルあて後退させ、建物の建て替えがすめば、自然に道路幅が四メートルになるよう規定しています。</sentence>
+<sentence>右のような道路を<quote>「みなし道路」</quote>（四メートルの幅員をもつ道路とみなす）といっています（建築基準法四二条二項）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上のように、道路を拡張できる空地があれば、その空地を買わなければなりません。</sentence>
+<sentence>これは実際問題として大変なことだと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、四メートル幅がどうしてもとれないという場合の道路はどうなるのでしょうか。</sentence>
+<sentence>この場合、つぎのように規定されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　道路幅を二・七メートル以上とします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　二・七メートルもとれないときは、一・八メートル未満であっても、建築審査会の同意を得れば、道路とすることができます。</sentence>
+<sentence>この場合、最少何メートル幅でよいかは決まっていませんが、通行可能、避難可能かが、その決め手となるでしょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">▼ケース２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">私道が狭いので隣地とあわせ新築の確認をとりたい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">Ｑ</sentence>
+<br type="automatic_original" />
+<sentence>私（甲地）は自宅から公道に出るために、従来幅〇・九一メートルの通路（自己所有）を通ってきました。</sentence>
+<sentence>最近、建物が老朽化したので建て替えようと考え建物を取り壊したうえ建築確認申請をしたところ、右通路が建築基準法四三条に定め<sampling type="end" />る道路の幅員（はば）に足りないとの理由で建築確認が得られませんでした。</sentence>
+</citation>
+</quotation>
+</article>
+</sample>

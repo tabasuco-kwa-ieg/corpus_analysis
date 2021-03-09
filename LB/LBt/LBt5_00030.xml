@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00030" version="1.0" type="fixedLength">
+<article articleID="LBt5_00030_F001">
+<paragraph>
+<sentence>　<sampling type="start" />１００ＫΩの抵抗を取り付ける。</sentence>
+<sentence>今までのステップと同じように片側をＩＣソケットにつないで余った部分を切り落とすが、もう片方は後で使うのでハンダ付けだけしてそのまま残しておく。</sentence>
+<sentence>切り離してはいけない。</sentence>
+<sentence>もし誤って切り離してしまった場合は、ハンダでつなげばいい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでは抵抗の間を２穴分取っているが、これは抵抗の大きさによる。</sentence>
+<sentence>３穴でも構わないし、抵抗が大きければ基板からはみ出さない限りそれ以上でも構わない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　５　入力用抵抗<enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前のステップと同じ。</sentence>
+<sentence>１００ＫΩの抵抗を取り付ける。</sentence>
+<sentence>ここもオレンジ色のほうをつないだら余った部分を切り、反対の足はハンダ付けだけしてそのまま残しておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　上下は穴１つ分ずれていて対称ではないので注意。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　６　基準抵抗<enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　今度はすぐ隣に１ＫΩの抵抗を取り付ける。</sentence>
+<sentence>まず先ほどの１００ＫΩの抵抗と同じようにＩＣソケットの足にくっつけてハンダ付けし、余った部分を切り取る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その次に、残してあった１００ＫΩの抵抗の足を１ＫΩの抵抗の足にくっつけてハンダ付けする。</sentence>
+<sentence>１００ＫΩの足の余りは切り取るが、１ＫΩの抵抗の足は後でグラウンドの配線に使うので、切り取らずに残しておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　７　基準抵抗<enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　反対側も同様にすぐ隣に１ＫΩを取り付ける。</sentence>
+<sentence>ＩＣソケットの足にくっつけてハンダ付けし、余った部分を切り取り、１００ＫΩの抵抗の足を１ＫΩの抵抗の足にくっつけてハンダ付けし、１ＫΩの足は切り取らずに残しておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　８　帰還抵抗<enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　今度は１０ＫΩを配置する。</sentence>
+<sentence>今までと同じようにＩＣソケットの足にくっつけてハンダ付けして余分を切り取った後、反対側の足は隣のＩＣソケットの足にくっつけてハンダ付けする。</sentence>
+<sentence>この余りは切り取る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　繰り返し書くが、オレンジ色の配線は裏から見ると左右逆に見えるので、間違えないように何度も確認して作業して欲しい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　９　帰還抵抗<enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　反対側も同様に１０ＫΩを配置する。</sentence>
+<sentence>ＩＣソケットの足にくっつけてハンダ付けして余分を切り取った後、反対側の足は隣のＩＣソケットの足にくっつけてハンダ付けしてこちらの余りも切り取る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ハンダがブリッジしていないか心配なら、この段階でテスターで調べる。</sentence>
+<sentence>導通モードか抵抗レンジで調べればいいだろう。</sentence>
+<sentence>ＩＣソケットの上からテスターでそれぞれの足の隣同士などを調べて、０Ω（接触）があったら駄目だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その場合は明るいところでよく見て、ブリッジしているハンダを溶かしてやり直す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｔｅｐ　１０　グラウンドの配線</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　グラウンドの配線を作る。</sentence>
+<sentence>残しておいた積層セラミックコンデンサの足同士を<sampling type="end" />まとめ、そこに１ＫΩの抵抗の残しておいた足をくっつけて、４本まとめてハンダ付けする。</sentence>
+</paragraph>
+</article>
+</sample>

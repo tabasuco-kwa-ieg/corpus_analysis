@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00008" version="1.0" type="fixedLength">
+<article articleID="LBg4_00008_F001">
+<paragraph>
+<sentence>　このように、<sampling type="start" />現在は第三世代のＤＤＳまで実用化されている。</sentence>
+<sentence>わが日本は、ＤＤＳ先進国の一つであるといえる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＤＤＳの発展には、つぎのような環境の変化が拍車をかけた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　世界的に新薬が出にくくなり、製薬メーカーは新薬に頼れなくなってきた。</sentence>
+<sentence>手持ちの有効成分（主薬）に手を加えて、ＤＤＳ製品として付加価値を高め、新しい販路を求めるようになった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　新素材が多く開発され、正確さを必要とするＤＤＳ製品の材料が多様となり、入手もかんたんになった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　バイオテクノロジーの技術で、病気を治療するホルモン物質などがかんたんに作れるようになった。</sentence>
+<sentence>これらは口から飲むと消化されて分解するので、注射をする。</sentence>
+<sentence>しかし、そのまま注射しても、ほとんど効かない。</sentence>
+<sentence>ＤＤＳにしてはじめて効果を発揮する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　薬剤学を中心とする学際的な視野の広い研究が進み、知識と技術のレベルが向上した。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　このような多くの理由が相まってＤＤＳの研究を盛りあげるようになった。</sentence>
+<sentence>しかし、ここで忘れてならないのは研究者たちの熱意だ。</sentence>
+<sentence>病床で苦しむ患者は、一日も早く回復を願っている。</sentence>
+<sentence>これに応えるため、研究者たちは日夜努力を続けている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［ＤＤＳの世代分類］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｅ・トムリンソン博士は、ＤＤＳをつぎのように分類した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">第一世代のＤＤＳ</sentence>
+<br type="automatic_original" />
+<sentence>従来型の製剤。</sentence>
+<sentence>散剤、錠剤、カプセル剤、注射剤、軟膏剤、坐剤など大部分がこれに入る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第二世代のＤＤＳ</sentence>
+<br type="automatic_original" />
+<sentence>徐放型製剤とプロドラッグ（後述）がこれに入る。</sentence>
+<sentence>両者ともかなり実用化が進んでいる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第三世代のＤＤＳ</sentence>
+<br type="automatic_original" />
+<sentence>経皮吸収治療システムや<ruby rubyText="オロス">ＯＲＯＳ</ruby>（後述）を主軸とする放出制御型製剤。</sentence>
+<sentence>両者ともすこしずつ実用化されつつある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第四世代のＤＤＳ</sentence>
+<br type="automatic_original" />
+<sentence>必要な部位（病巣）に薬物がミサイルのように送り込まれるタイプ。</sentence>
+<sentence>ガンなどの治療には非常に効果的だ。</sentence>
+<sentence>現在はまだ研究段階で、実用化は遠くない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第五世代のＤＤＳ（筆者が追加したもの）</sentence>
+<br type="automatic_original" />
+<sentence>第四世代のＤＤＳの精度を高めたもの。</sentence>
+<sentence>つまり有効成分が体の必要な部位に、必要なとき、必要な量だけ送り込まれるような製剤。</sentence>
+<sentence>高度の知識と技術が必要で、現在盛んに研究されている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>●３　ＤＤＳにはどんな製品があるか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前述のように、従来型の製剤も第一世代のＤＤＳだ。</sentence>
+<sentence>ここでは、第二世代以降のＤＤＳについて調べてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　医薬品には医療用（病院や診療所でもらうクスリ）と、ＯＴＣ薬（<sentence>街の薬局で買えるクスリ。</sentence>
+<sentence type="quasi">Ｏｖｅｒ　Ｔｈｅ　Ｃｏｕｎｔｅｒの頭文字をとった略号</sentence>
+）がある。</sentence>
+<sentence>第二世代以降のＤＤＳのほとんどは医療用だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　筆者は、実際的な見地から表１・７のような分類を試みている。</sentence>
+<sentence>表１・７をすこし詳しく見てみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）徐放型ＤＤＳ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば、錠剤から有効成分（薬物）がすこしずつ、長時間にわたっ<sampling type="end" />て持続的に出てくるように工夫されたものだ。</sentence>
+</paragraph>
+</article>
+</sample>

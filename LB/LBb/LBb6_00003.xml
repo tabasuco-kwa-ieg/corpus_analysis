@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb6_00003" version="1.0" type="fixedLength">
+<article articleID="LBb6_00003_F001">
+<paragraph>
+<sentence>　ネットワークの高度利用を実現するに<sampling type="start" />は、先述したようなデジタル・ファクシミリの開発をはじめ、いろいろなニューメディア機器や通信システムの開発が必要となる。</sentence>
+<sentence>松田によれば、複合通信研究所の開発目標は三つある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　事業所情報通信システム…企業の本社と支店、工場など事業所間を結ぶ通信システムで、Ｃ＆Ｃメーカーも日本電気がビジョン、富士通がコインズ、日立がプラネットとそれぞれ名づけたシステム機器の販売に力を入れているが、ＮＴＴもブレインと称する技術集団が企業の性格や目的に応じたＬＡＮの構築、ＰＢＸやワークステーションなどのコンサルタント活動を行っており、研究所ではそのための各種端末の開発にも力を入れている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　画像通信システム…キャプテンなどビデオテックス・システムの研究開発、静止画通信システムやテレビ会議、帯域圧縮技術、ナプルプスとキャプテンの変換技術などの研究を行う。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　ホームコミュニケーション・システム…ホームテレホンを発展させ、テレコントロールによるセキュリティ・システムやテレビとのドッキング、各種ニューメディアの接続に必要となるホームバスの標準化などの研究に取り組んでいる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また、これらの端末を開発していくうえで必要となる入出力のための各種デバイス（読み取り機構、記録機構、キーボードなど）の開発も複合通信研究所で受け持っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「現在はキーボードによる入力が主流だが、ニューメディア機器をより人間に近づけるためには、手書き文字をＯＣＲで読み取ったり、音声入力できるようにしたり、音声合成で出力したりといった技術革新が不可欠。</sentence>
+<sentence type="quasi">私たちはそれを“知的インターフェイス”といっているが、そういった基本的デバイスの開発もウチの重要な仕事の一つです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　この研究所の具体的な成果の一つとしてすでに商品化されているものに<quote>「コムエクセル」</quote>と名づけられたパソコン電話がある。</sentence>
+<sentence>これは、いま話題になっているパソコン通信を目的にしたものではなく、パソコンの機能を使って電話番号簿やスケジュールの管理、コムエクセル間のメール通信ができるというもの。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「これはアナログ電話機ですが、通信網がデジタル化されれば、いろいろなメディアを複合化できる。</sentence>
+<sentence>ＩＳＤＮになると６４キロビットが二つと１６ビットでチャンネルも豊富になるし、データやファクシミリにとってはものすごいハイスピードだから多彩なサービスが可能になる。</sentence>
+<sentence type="quasi">問題は、どんなサービスが便利なのか、またユーザーがどんなサービスを求めているかを見きわめることだ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　各種の端末を一つのネットワークで結ぶためには、プロトコル（通信手順）の開発が急務と<sampling type="end" />なる。</sentence>
+</paragraph>
+</article>
+</sample>

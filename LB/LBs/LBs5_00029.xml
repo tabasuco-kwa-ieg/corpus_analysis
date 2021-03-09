@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00029" version="1.0" type="fixedLength">
+<article articleID="LBs5_00029_F001">
+<noteBody>
+<sentence>Ｗｅｂページを記述する<sampling type="start" />ための<quote>「ＨＴＭＬ」</quote>という言語で書かれたメール。</sentence>
+<sentence>画像などを使った多彩な表現が可能。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ＨＴＭＬメールに埋め込まれている不正プログラムが実行されるのを防ぎます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●ほかのアプリケーションが勝手にメールを送信しようとしたら警告する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｏｕｔｌｏｏｋ　Ｅｘｐｒｅｓｓ以外のアプリケーションソフトが，Ｏｕｔｌｏｏｋ　Ｅｘｐｒｅｓｓのメール機能を利用して勝手にメールを送信しようとしたときに警告を表示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この設定は，感染するとメールを勝手に送信してしまうワーム（→Ｐ．１４）に対して有効です<noteMarker text="＊２" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">＊２</sentence>
+<br type="automatic_original" />
+<sentence>メール送信機能を独自に内蔵したウイルスに対しては，残念ながら効果は期待できません。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">●ウイルスの可能性がある添付ファイルを保存したり開いたりしない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　添付ファイルが，ウイルスが混入する可能性のある種類のファイルだった場合，その添付ファイルへのアクセスを禁止します（実際にウイルスであるかどうかはチェックされません→Ｐ．４２）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●ＨＴＭＬ電子メールにある画像および外部コンテンツをブロックする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＨＴＭＬメールは電子メールの中に画像を埋め込んで表示することができますが，このような画像の表示をブロックします<noteMarker text="＊３" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">＊３</sentence>
+<br type="automatic_original" />
+<sentence>この機能はＳｅｒｖｉｃｅ　Ｐａｃｋ　２で追加されたものです。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ＨＴＭＬメールでは，電子メールの中に外部サーバーにある画像を埋め込むことができます。</sentence>
+<sentence>これを利用して電子メールが読まれたかどうかをチェックする手法があり，これが迷惑メール（スパムメール）の業者が“名簿”を作成するのに悪用されています（→Ｐ．４６）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この設定では，ＨＴＭＬメールの画像が自動的に開かないようにすることで，このような危険を避けることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作手順</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<sentence>スタートメニューから［電子メール］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<sentence>Ｏｕｔｌｏｏｋ　Ｅｘｐｒｅｓｓが起動したら，［ツール（Ｔ）］メニューから［オプション（Ｏ）…］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<sentence>［セキュリティ］タブをクリックし，以下の項目を確認します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ＯＫ！</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">添付ファイルの扱い</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　上記の設定のうち，<enclosedCharacter description="○">３</enclosedCharacter>のチェックマークを付けることによって，３６ページのリストにある危険な拡張子を持つ添付ファイルは開いたり，実行できなくなります<noteMarker text="＊４" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">＊４</sentence>
+<br type="automatic_original" />
+<sentence>このような添付ファイルを開く方法は，１１７ページを参照してください。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　多くのウイルスは，これらの拡張子を持つ添付ファイルで送信されるので，ユーザーが不用意に開いてしまうことでウイルスに感染してしまう危険を未然に防ぐことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＨＴＭＬメールをテキストで表示する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＨＴＭＬメールとは，電子メールのなかにＷｅｂページを埋め込んで表示する機能です。</sentence>
+<sentence>テキストだけでのメールに比<sampling type="end" />べて多彩な表現が行えるメリットがありますが，これを悪用することで，ウイルスをダウンロードさせるのに使われこともあります（→Ｐ．１６）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

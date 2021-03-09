@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt0_00014" version="1.0" type="fixedLength">
+<article articleID="LBt0_00014_F001">
+<paragraph>
+<sentence>　一方では、計算機対人間、あるいは計算機対計算機ということ以上に、たとえば素粒子の実験などで使う巨大加速器や、ハワイのすばる望遠鏡で代表されるような、巨<sampling type="start" />大な天体観測装置のように、非常に高価で数が少ない実験装置や観測装置と、研究者とをつなぐケースもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この場合には、計算よりも取得したデータを配るという要求が強いのです。</sentence>
+<sentence>すなわち計算ではなく、むしろデータに対するグリッド（データグリッド）という考えです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">アメリカでのグリッド構築例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図四・二はアメリカの例です。</sentence>
+<sentence>ＮＳＦが、大学の研究者のためにスーパーコンピュータセンターを作って、スーパーコンピュータをネットワークを通じてみんなが使えるようにするというもので、テラグリッド計画（Ｅｘｔｅｎｓｉｂｌｅ　Ｔｅｒａｓｃａｌｅ　Ｆａｃｉｌｉｔｙ：ＥＴＦ）と呼ばれています。</sentence>
+<sentence>具体的にはアメリカにある三カ所（カリフォルニア州サンディエゴ、イリノイ州アーバナ、ペンシルベニア州ピッツバーグ）のスーパーコンピュータセンターを中心に、４０　Ｇｂｐｓ（ｂｉｔｓ　ｐｅｒ　ｓｅｃｏｎｄ：一秒間に四十ギガのデータ転送速度）の高速ネットワークでつなごうというもので、すでに動いています。</sentence>
+<sentence>ほかにもＮＡＳＡのＩＰＧ（Ｉｎｆｏｒｍａｔｉｏｎ　Ｐｏｗｅｒ　Ｇｒｉｄ）という研究所のほか、航空機を造っている会社、たとえばボーイング、ダグラス、ロッキードなども入った計画もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．２　ＮＳＦのテラグリッド計画</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">［ｈｔｔｐ：／／ｗｗｗ．ｔｅｒａｇｒｉｄ．ｏｒｇ］</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">マグリッドの概念図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　グリッドの話は、非常に高速なスーパーコンピュータを新しく作るということではなありません。</sentence>
+<sentence>既存のコンピュータをつないで、いかに一つに見せるかという技術、あるいは研究ですから、当然ソフトウェアの開発が中心になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際には、Ｌｉｎｕｘ’　Ｓｏｌａｒｉｓ’　Ｗｉｎｄｏｗｓなど、違った基本ソフトの上で違った計算機が動いており、その上にネットワークが張られています。</sentence>
+<sentence>そういう状況を、エンドユーザーから見たときに、コンピュータが一つの固まりとして一つの計算機室に置いてあって、そこで使っているように見せようという話なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのため、新たにグリッドミドルウェアと呼ばれるソフトウェアを開発して、その上に皮をかぶせることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それを、われわれはいくつかの層に分けて考えています。</sentence>
+<sentence>図四・三にあるように、中間部分にあるのはミドルウェア（共通サービス）層です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこでは、ネットワークをまたいで、たとえばセキュリティや、どの計算機が空いているかといった<quote>「資源管理」</quote>を行ったり、計算機同士をつなぐための通信のプロトコルなどをつかさどります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もともとは計算機室の中でやっていたようなそういう機能を、ネットワークを通じて、地理的に分散しても同じように<sampling type="end" />使えるようにしよう、ということです。</sentence>
+</paragraph>
+</article>
+</sample>

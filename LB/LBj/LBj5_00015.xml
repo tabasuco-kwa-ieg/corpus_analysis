@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00015" version="1.0" type="fixedLength">
+<article articleID="LBj5_00015_F001">
+<paragraph>
+<sentence>　電気製品が故障した<sampling type="start" />らどうしますか？</sentence>
+<sentence>　修理してもらおうとしたら、部品がないといわれて買い替えたという経験を持つ方も少なくないと思います。</sentence>
+<sentence>家電製品の中でも電気冷蔵庫やエアコンは、かなり値のはる商品です。</sentence>
+<sentence>買い替えるといっても、そうおいそれとはいきません。</sentence>
+<sentence>そんなとき、覚えているとよいのが<quote>「補修用性能部品の保有期間」</quote>です。</sentence>
+<sentence>電気製品は、その型式が製造されなくなっても、ある一定期間は部品を保有しておかなければならないことになっています（左図の通り）。</sentence>
+<sentence>ですから、その期間内であれば、部品の交換修理が可能です。</sentence>
+<sentence>冷蔵庫は、故障の少ない製品ですが、長く使っているとパッキングがきかなくなって冷蔵能力が落ちてきます。</sentence>
+<sentence>省資源、省エネの観点からも、部品の交換修理で長く上手に使いたいものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">電子レンジ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">普及率　７９％</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence><quote>「チンする」</quote>といったら<quote>「電子レンジで温める」</quote>という意味ですね。</sentence>
+<sentence>火を使わない調理器として珍しがられた電子レンジも、すっかり私達の生活の中に溶け込んでしまいました。</sentence>
+<br type="automatic_original" />
+</abstract>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">■電子レンジの加熱原理</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>マイクロ波で水の分子を振らす。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　トースターや電熱器は電気エネルギーを熱エネルギーに変換し、その熱エネルギーを利用して加熱するものですが、電子レンジの加熱原理はこれと全く違って、マイクロ波という電波の一種を直接食品に当てて、食品の中の水や油の分子を振動させ、この振動で生ずる摩擦熱で食品が加熱されます。</sentence>
+<sentence>電波といえばラジオやテレビを思い浮かべますが、調理にも利用できる電波とは一体どんなものでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>■電波って何？</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>空気中を伝わる高周波の電流。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　電気には直流と交流の２種類あることは、白熱灯のところ（三六頁）で説明しました。</sentence>
+<sentence>家庭にとどく電気は交流で周波数は５０または６０ヘルツ、つまり１秒間に５０回または６０回振動する波でした。</sentence>
+<sentence>電気は１秒間に３０万キロメートル進みますから<quote>「１秒間に進む距離」</quote>を<quote>「周波数」</quote>で割ると１つの波の長さがわかります。</sentence>
+<sentence>これを波長といいますので、ここでついでに覚えておきましょう。</sentence>
+<sentence>一口に交流といっても周波数によってその働きや伝わり方、用途が違ってきます。</sentence>
+<sentence>１秒間に波のくり返しの少ない交流を低周波、くり返しの多い交流を高周波と呼んでいます。</sentence>
+<sentence>低周波の交流は家庭にとどく電気や電話のように電源を通って伝わります。</sentence>
+<sentence>しかし周波数がどんどん高くなって３０キロヘルツ以上の交流になると、この交流電流の周りにできる電界と磁界の相互作用によって、電流の変化に応じたエネルギーが空気中を伝わっていくという現象が起きます。</sentence>
+<sentence>これを電界と磁界による波という意味で電磁波といいますが、電波も光もこの電磁<sampling type="end" />波の一種で周波数によって呼び名も用途も違っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

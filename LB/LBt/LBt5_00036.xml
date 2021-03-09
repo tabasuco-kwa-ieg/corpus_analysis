@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00036" version="1.0" type="fixedLength">
+<article articleID="LBt5_00036_F001">
+<paragraph>
+<sentence>図（ａ）は反転増幅器で，図（ｂ）<sampling type="start" />は非反転増幅器（ボルテージフォロワー）の場合で，（１）は保護前の状態です．</sentence>
+<sentence>（２）は入力が矩形波で，（３）はそのときの出力波形です．</sentence>
+<sentence>出力波形が遅れる理由は，スルーレートのページ（ｐ．５９）でお話しします．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図（ａ）の（４）は−入力端子への入力電圧波形，また図（ｂ）の（４）は差動入力電圧波形です．</sentence>
+<sentence>この電圧が短時間でも−８Ｖくらいになると，図２‐１４のようにブレークダウンするおそれがあります．</sentence>
+<sentence>このブレークダウンを軽減するための保護回路が（５）です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｒ<subScript>ｐ１</subScript>とＲ<subScript>ｐ２</subScript>は保護用外付けダイオードに流れる電流の制限用です．</sentence>
+<sentence>抵抗値は，動作に差し支えなければ１０ｋΩ程度を，またシリコンダイオードは小信号用を使います．</sentence>
+<sentence>シリコンダイオードにより，電位差を０．６Ｖ程度にクランプします．</sentence>
+<sentence>ショットキーダイオードならその半分くらいになり，さらに効果的です．</sentence>
+<sentence>電圧の降下はＲ<subScript>ｐ</subScript>で行われ，抵抗値は高いほど保護効果があるのですが，増幅器として使用する<correction originalText="する" type="excess"></correction><correction originalText="する" type="excess"></correction>うえで，あまり高くできないこともあり兼ね合いをとる必要があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，入力段がＪ‐ＦＥＴのオペアンプで，差動入力電圧の定格が±Ｖ<subScript>ｓ</subScript>以下の品種があります．</sentence>
+<sentence>このオペアンプの前段が同一電源を共有するオペアンプであれば，差動入力電圧が±Ｖ<subScript>ｓ</subScript>を超えないので，この形式の保護回路は必要ありません．</sentence>
+<sentence>この点だけに着目すると，バイポーラー形よりＪ‐ＦＥＴ形オペアンプの方が使いやすいかもしれません．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１４　過大差動入力でブレークダウン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１５　ブレークダウンの保護</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（５）出力短絡持続時間</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これは不測の事態を想定し，出力端子がグラウンドに直接短絡接続されたときに持ちこたえられる時間です．</sentence>
+<sentence>図２‐１６の例のように負荷電流を監視し，出力電流を制限する保護回路が内蔵されています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　出力端子から流出する電流は，Ｑ<subScript>１</subScript>とＲ<subScript>Ｅ１</subScript>を通ります．</sentence>
+<sentence>Ｒ<subScript>Ｅ１</subScript>の電圧降下が過剰に上昇するとＱ<subScript>３</subScript>が導通になり，Ｑ<subScript>１</subScript>のベース・エミッター間の電圧を下げ，結果的に出力端子から流出する電流を制限します．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　出力端子から流入する電流はＱ<subScript>２</subScript>とＲ<subScript>Ｅ２</subScript>を通ります．</sentence>
+<sentence>Ｒ<subScript>Ｅ２</subScript>の電圧降下が過剰に上昇するとＱ<subScript>４</subScript>が導通になり，Ｑ<subScript>２</subScript>のベース・エミッター間の電圧を下げ（グラウンド側に近づけ），結果的に出力端子から流入する電流を制限します．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　短絡保護機能が強化されたオペアンプの場合，最大内部消費電力以内であれば出力短絡持続時間が無制限となっている品種があります．</sentence>
+<sentence>ただし自己発熱でパッケージ自体の温度が上昇すると，内部消費電力の許容値が下がりますから過信は禁物です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１６　出力段の保護</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（６）保管温度範囲</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これは，オペアンプのＩＣがパッケージを含め<sampling type="end" />て劣化しない範囲の温度です．</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk6_00002" version="1.0" type="fixedLength">
+<article articleID="LBk6_00002_F001">
+<paragraph>
+<sentence>燃料費は利用者が負担しているので、社会的費用とは言えないという考え方もできるが、有限の枯渇性資源<sampling type="start" />を消費しているという観点からは、費用とみなすことができるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">地球温暖化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前項のエネルギー関係のデータを通じて、地球温暖化にかかわるＣＯ<subScript>２</subScript>排出量が求められる。</sentence>
+<sentence>また<quote>「ＣＯ<subScript>２</subScript>を一トン排出するごとに、どのくらい温暖化による損害があるか」</quote>という計算は、その仮定に不確実な部分があるものの一応の試算があり、たとえば炭素換算一トンあたり四〇〜一六〇ドル（一ドル一〇〇円とすれば、四〇〇〇円〜一万六〇〇〇円）といった数字<noteMarker text="（４）" />がある。</sentence>
+<sentence>別の方法として、ＣＯ<subScript>２</subScript>の一定量を工業的に吸収・処理する費用を、代替的に地球温暖化防止のための費用として計上するという考え方では、やはり炭素換算一トンあたり二万円という試算<noteMarker text="（５）" />があり、両者は近いところにある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（４）　杉山大志・長野浩司<quote>「地球温暖化問題における損害コスト評価および費用便益分析について」</quote>『エネルギー・資源』一六巻六号、一九九五年、二三頁。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（５）　嵐紀夫<quote>「大量発生源からのＣＯ<subScript>２</subScript>回収固定技術」</quote>『ＭＯＬ』二八巻五号、一九九〇年五月、六二頁。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４　農地と森林の公益的価値</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">クルマの不経済〜具体的試算例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　自動車の社会的費用の一例として、<enclosedCharacter description="○">１</enclosedCharacter>エネルギー消費、<enclosedCharacter description="○">２</enclosedCharacter>二酸化炭素の処理相当額、<enclosedCharacter description="○">３</enclosedCharacter>労働力、<enclosedCharacter description="○">４</enclosedCharacter>土地の要求量、<enclosedCharacter description="○">５</enclosedCharacter>事故の五項目を社会的費用として計上した場合、国内のクルマ交通は年間一七〇兆円（一九八五年での値）の社会的費用を発生しているという試算<noteMarker text="（６）" />がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（６）　多田正、小山徹、桜井徹、藤井憲男<quote>「自家用車から公共交通へのシフトによる社会的費用の評価」</quote>『エネルギー・資源』一四巻二号、一九九三年、七五頁。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　この社会的費用が、クルマ一台あたりいくらに相当するか計算してみよう。</sentence>
+<sentence>一九八五年時点でクルマ（自家用乗用車）は二七五〇万台あり、一七〇兆円を台数で割ってみると、一台あたりの社会的費用は、毎年およそ六四〇万円となる。</sentence>
+<sentence>ユーザーはこの費用を負担しているとは考えられない。</sentence>
+<sentence>なおこの計算は<quote>「産業連関データ」</quote>を使用しており、これ自体が五年に一度しか発行されないうえ、その処理は多大の手間を要するので、データがやや古い点はご理解いただきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同様の手法による別の検討例として、筆者が山梨県を例にして行った計算<noteMarker text="（７）" />では、同県内のクルマ交通を一〇％減らしたとき、社会的費用の節約は一五二億円（一九九〇年基準）と計算された。</sentence>
+<sentence>一方、これにともなう県ＧＮＰの減少を前述の産業連関データを用いて計算したところ、一一六億円であった。</sentence>
+<sentence>ただしこれには、クルマから鉄道・バスに転換することによる波及効果は含まれていないから、もしそれを考慮すれば、ＧＮＰの減少はもっと少なくなるであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（７）　上岡直見『平成７年度・やまなし環境ゼミナール』講<sampling type="end" />演資料、一九九五年一二月。</sentence>
+</noteBody>
+</article>
+</sample>

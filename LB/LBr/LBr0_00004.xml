@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr0_00004" version="1.0" type="fixedLength">
+<article articleID="LBr0_00004_F001">
+<paragraph>
+<sentence>また複<sampling type="start" />数の観点に関係する場合がある。</sentence>
+<sentence>その場合は、→：（をも見よ参照）で示したものもある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【練習問題】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　世界大百科事典　平凡社編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　現代神学の動向　沖野政弘</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　前田利家のすべて　花ヶ前盛明編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　デンマークを探る　小池直人</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　運輸省職員録　平成１２年版　運輸振興協会編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６　広辞苑　新村出編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">７　科学を考える　岡田猛編著</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">８　農林水産統計報告（経営‐１０）　農林水産省経済局統計情報部編集</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">９　クレヨンしんちゃん　臼井儀人</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０　工業数学　佐久間哲郎</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１　要約世界文学全集　新潮社</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１２　思考のためのインターネット　アリアドネ編</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">注）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>練習・演習問題の解法において、自然語に対応するシステム言語（ＮＤＣ）が自然語と同一の場台は〈‐〉で記す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>システム言語における歴史（的観点）は、以下（歴史）と記す。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【練習問題：解法】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　世界大百科事典　平凡社編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">２　現代神学の動向　沖野政弘</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">３　前田利家のすべて　花ヶ前盛明編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">４　デンマークを探る　小池直人</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">５　運輸省職員録　平成１２年版　運輸振興協会編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">６　広辞苑　新村出編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">注）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>言語のときは言語共通区分項目に注意。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>特に辞典類の合成表記では対＋地＋言共を優先させる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">７　科学を考える　岡田猛編著</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">８　農林水産統計報告（経営‐１０）　農林水産省経済局統計情報部編集</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">９　クレヨンしんちゃん　臼井儀人</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">１０　工業数学　佐久間哲郎</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">１１　要約世界文学全集　新潮社</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">１２　思考のためのインターネット　アリアドネ編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi">注）４．３．２．（２）‐<enclosedCharacter description="○">１１</enclosedCharacter>（<sentence>目的よりも一般読者を対象と見る。）</sentence>
+</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">【演習問題】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">０１　世界史年表・地図　亀井高孝他編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０２　染色加工の事典　日本学術振興会繊維高分子機能加工第１２０委員会</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０３　ピカソの祈り　柏倉康夫</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０４　日本文学地名大辞典：詩歌編上・下　日本文学地名大辞典刊行会編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０５　工業統計表　通商産業大臣官房調査統計部編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０６　建築と色彩　宮後浩・渡邉康人</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０７　就職試験よく出る一般常識問題　Ｉ．Ｎ．Ｐ就職能力開発センター編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０８　世界年鑑　共同通信社編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">０９　西洋近世晢学史　量義治</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０　新カタカナ語ポケット辞典　斎藤栄三郎編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１　科学の手品１０１　藤原卓哉</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１２　大久保利通と民業奨励　安藤哲</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１３　図説地中海物語　ディヴィド・アッテンボロー　橋爪若子訳</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１４　マクベス　シェイクスピア　森鴎外訳</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１５　医学英知大辞典　加藤勝治編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１６　日本語変換ハングル辞典　菊入直代・安相景監修</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１７　転職のすすめ　渡辺探</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１８　国史体系　５巻　黒板勝美編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９　ユングの文明論　ユングＣ．Ｇ　松本洋一編訳</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２０　栄養食事療法必携　中村丁次編著</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２１　自然を捨てた日本人：破壊と保全・復興の合間で　北原貞輔・石井薫編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２２　西洋古典学研究　日本西洋古典学会編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２３　塩と日本人　田村勇</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２４　台湾原住民研究　第４号　日本順益台湾原住民研究会編</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２５　眼の狩人：戦後写真家た<sampling type="end" />ちが描いた軌跡　大竹昭子</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

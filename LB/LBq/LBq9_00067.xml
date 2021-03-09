@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq9_00067" version="1.0" type="fixedLength">
+<article articleID="LBq9_00067_F001">
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><sampling type="start" />旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「おい、番頭さん、金は無事に戻りましたよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">番</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「それは、結構でございます。</sentence>
+<sentence type="quasi">ところで頭へは、何とかお礼を」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「そうさ、うっちゃっておくわけにはいくまい。</sentence>
+<sentence type="quasi">お前、ちょいと何か持って行って来ておくれでないか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">番</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「私が参るより、旦那さまがお<ruby rubyText="いで">出</ruby>になるのが順当じゃございますまいか。</sentence>
+<sentence type="quasi">何しろ大金でございますし…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「そうかね、そりゃァそうだ。</sentence>
+<sentence>で、どのくらいの礼をしたらいいだろう。</sentence>
+<sentence type="quasi"><ruby rubyText="いち">一</ruby><ruby rubyText="ぶ">分</ruby>でどうだろう」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">番</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「二百両に一分じゃすみません。</sentence>
+<sentence type="quasi">まァ、十両でございましょう」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ちと、高くないかい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">番</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ああいう気性の頭ですから、取る気遣いはありませんが、することだけはしなければなりますまい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「もし取ったら、お前の給金から引きますよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">番</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「冗談おっしゃっちゃいけない」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　これから大旦那が頭のところへ出かけます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「はいご免、さきほどはありがとうよ。</sentence>
+<sentence>おかげさまで二百両助かりました。</sentence>
+<sentence>実は伜があんまり道楽してしようがないので、お前も知っての通り三月ほど前に、<ruby rubyText="くら">蔵</ruby>の二階へ押し込めておいたが、それがきいたものか、少しは堅くなったようだから、一つ試しに金を取りにやったらよかろうと番頭がいうので、取りにやったところが落っことしたといやがる。</sentence>
+<sentence>お前さんが拾って届けてくれたんで、こんなありがたいことはない。</sentence>
+<sentence>そこでお礼の印に、ここに十両ある。</sentence>
+<sentence type="quasi">お前のことだから、十両は取るまいと番頭がいう…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「こりゃァ恐れ入ります。</sentence>
+<sentence><ruby rubyText="せっ">折</ruby><ruby rubyText="かく">角</ruby>のおぼし召しでございますから、項戴いたします。</sentence>
+<sentence type="quasi">おい、お茶を持っといで」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　<quote>「はい」</quote>といいながら、そこへお茶を持って出て参りましたのは、例の花魁で、あくまで素人に見せようというので、文金の高島田（主に御殿女中などが結った髪形で、明治以降は若い女性の正装）、なりもごく野暮で、どう見てもお座敷奉公した者としか見えません。</sentence>
+<sentence>大旦那はお茶を飲みながら目をつけております。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「あの方は、お前さんのご親類かえ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「へえ、あっしの妹で。</sentence>
+<sentence type="quasi">長いことご奉公してまして、こんど帰って参りまして…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「お<ruby rubyText="やしき">邸</ruby>へ。</sentence>
+<sentence>そうだろ、どうも行儀がよい。</sentence>
+<sentence>それにいい器量だ。</sentence>
+<sentence type="quasi">いくつになるね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「十九でございます」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ほほう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「当人が商人へ縁付きたいというので、いくらか準備しているようでございます。</sentence>
+<sentence>たくさんの支度じゃございませんが、タンス七棹に長持ちの二棹ぐらいは、持たしてやりたいなと思っております。</sentence>
+<sentence type="quasi">どうか旦那、売れ口がございましたら、お世話願います」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「いや、どうだろう、伜の嫁にくれまいか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「結構なお話ですが、若旦那のお気にはいりますまい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">旦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「伜が気にいらなかったら、わしが貰う」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">頭</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「冗談いっちゃいけない」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　大旦那がすっかり惚れ込んでしまい、立派な仲人を立て、若旦那の嫁になります。</sentence>
+<sentence>いやァその仲のいいこと、お父つぁん<sampling type="end" />も大喜び。</sentence>
+</paragraph>
+</article>
+</sample>

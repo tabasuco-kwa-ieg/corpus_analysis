@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn7_00066" version="1.0" type="fixedLength">
+<article articleID="LBn7_00066_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">水中型のキヤノン<sampling type="start" />オートボーイＤ５</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">防浸型のコニカ現場監督２８ＨＧ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ウェザープルーフカメラの防水保護等級</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ニコン・ニコノスＶは耐水深５０メートルの本格的水中カメラで別格である</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑ３９</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">タングステンタイプフィルムを日中に使うとき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<sentence>タングステン用フィルムはタングステンの頭文字をとって（Ｔ）の記号で表す。</sentence>
+<sentence>このＴタイプのフィルムは、主にスタジオで使われるフィルムで、電灯光（３２００度Ｋ）の光で撮影したときに最良の色が得られるように、カラーバランスされたフィルムだ。</sentence>
+<sentence>このタイプのフィルムを日中の光（５５００度Ｋ）で撮影すると、ひじょうに青味の強い色合いに写る。</sentence>
+<sentence>この強い青味を取り除いてノーマルな色合いにするには、ライトバランシング（ＬＢ）フィルターを使う。</sentence>
+<sentence>ＬＢＡ‐１２（フジ）、ラッテン８５Ｂ（コダック）、Ｗ‐１２（ケンコー）などのフィルターがある。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　山岳や自然風景にもこの青味を生かすこともあるが、あくまでも表現意図に基づくものでなければならない。</sentence>
+<sentence>ところで、普段私たちが何気なく使っているフィルムは、デーライトタイプ（Ｄ）といって、日中の光での撮影に適し、山岳写真の撮影にも多用されるフィルムだ。</sentence>
+<sentence>朝夕の色温度が低い光での撮影では、赤味強い色合いになり、朝焼けや夕焼けが表現できる。</sentence>
+<sentence>このときにタングステンタイプを使うと、フィルター無しでノーマルな色合いとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>タングステンタイプを日中の撮影に使うと青っぽく写る（上）。</sentence>
+<sentence>下はＬＢＡ‐１２フィルターで色補正したもの。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑ４０</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">デーライトタイプフィルムを電灯光下で使うと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<sentence>撮影時の光源としては、太陽光、電灯光、ストロボ光などがある。</sentence>
+<sentence>人の目には太陽光下でも、電灯光下でも白いものは白く、赤いものは赤く見ようとする光に対する順応性があるが、カラーフィルムは人の目のように、光に対する順応性がない。</sentence>
+<sentence>そこで、カラーフィルムには、撮影時の光源としてよく使われる太陽光（デーライト）と電灯光（タングステン光）に合わせて、デーライトタイプとタングステンタイプの２種類のフィルムが用意されている。</sentence>
+<sentence>撮影時の光源に合わせてフィルムを選べば、目で見たように自然な色合いで再現されるようになっている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　デーライトタイプのフィルムは、日中の色温度５５００度Ｋ（ケルビン）に合わせてあり、これより色温度の低い電灯光（３２００度Ｋ）で撮影するとひじょうに赤味の強い色合いに写ってしまう。</sentence>
+<sentence>太陽光でも朝夕の光は色温度が低いので、見た目より赤味の強い色合いに写るのはこのためだ。</sentence>
+<sentence>赤味を強調する撮影ならフィルターは使わないが、電灯下の撮影でノーマルな色合いにするには、（ＬＢ）ライトバランシングフ<sampling type="end" />ィルターを使用する。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt7_00001" version="1.0" type="fixedLength">
+<article articleID="LBt7_00001_F001">
+<paragraph>
+<sentence>製作の工具の項で前述しましたが，このようなドリル刃はれっきとした不良品ですから，呼称サイズの穴よりも大<sampling type="start" />きな穴になってしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　斜め穴は，竹材では起きることはまれであり，正目の木材では木目が垂直線に対してわずかに傾斜している場合には，ドリル刃が木目に沿って曲げられて必ず斜め穴になります。</sentence>
+<sentence>板目の木目の場合には木目が水辺線に平行になっていれば起きません（図３‐１４）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし，ドリリングマシンのテーブルの直角度に狂いがあると斜め穴にならないのが不思議であり，確実に斜め穴になります。</sentence>
+<sentence>筆者が購入したドリリングマシンは，まさか工作機械にこのようなことはないものと信じていましたが不幸にもこのケースであり，テーブルの狂いを修正して使用しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　木材の木目の悪影響を無くす材料取りは大切ですが，木目の角度によっては細いドリル刃で垂直な下穴をあけ，被加工物の下穴と本番ドリル刃の位置がずれないようにして本番の穴あけをすることができます（図３‐１５のＢ図）。</sentence>
+<sentence>ただし，木目が図中のＡ図のような急勾配の角度では，ドリル刃の開先角度が１２０°にしてあるために真っ直ぐに食い込みせずに，木目の密な年輪部に蹴られて細いドリル刃も曲げられます。</sentence>
+<sentence>そればかりか，斜め穴は穴径がφ３．８またはφ４．８の真円にならず曲げられた向きの長穴になってしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　金属よりはるかに軟質な木材だけに穴あけは容易と思いがちですが，木材の必然的な特質，年輪の粗密・硬質部と軟質部の相対的な硬度差によってドリル刃が逃げるので，斜め穴になってしまうのは避けようがありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，穴あけ作業時に軍手などの手袋を着用すると，うっかりしてドリル刃に噛まれると大けがの元になるので使用しません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１４　使いものにならない斜め穴</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１５　斜め穴あけにならないための対策</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　けがき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前出の<quote>「（ａ）　ブレードの設計とけがき」</quote>を参照してください。</sentence>
+<sentence>ただし，ブレード上面は最終的に曲面になりますが，<quote>「けがき線」</quote>は曲面に外接する矩形をけがきします。</sentence>
+<sentence>この時にブレード先端部を厚く，根元部を薄くします。</sentence>
+<sentence>ただし，ブレード材料の竹・木の別なく最小の厚さ１ｍｍ以下にしない注意が必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　成形（その１）―ブレード底面の削り出し―</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ブレードのピッチ角を正確に成形するために，最初にブレード底面をディスクグラインダで削ります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）　<quote>「けがき線」</quote>を目安にブレード前縁角部・先端の面取りをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（２）　面取り部に水性蛍光ペン（ピンク色が最適）を塗る。</sentence>
+<sentence>削り取るにつれて塗り色が次第に少なくなる状態が確認でき，削り過ぎの防止になる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（３）　塗り色部をほんのわずか残してディスクグラインダ削りを止める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（４）　荒目の小型平ヤスリ・半丸ヤスリで削り，残し部にスコヤを当て<sampling type="end" />て弦長部の直線が出ているかを確認しながら<quote>「けがき線」</quote>まで削る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

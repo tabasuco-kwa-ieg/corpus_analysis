@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh8_00013" version="1.0" type="fixedLength">
+<article articleID="LBh8_00013_F001">
+<list>
+<listItem>
+<sentence type="quasi">（こん<sampling type="start" />なことができるわけがない。）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・　会社の規則や規律について告げて、教える…教詔。</sentence>
+<sentence type="quasi">（これは実行しなければならない。）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　最後に、教える場所の条件を確認し教材と教具を用意する。</sentence>
+<sentence>これで講師としての準備は完了である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">講義・講演の計画を立てるチェックリスト</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　対象者は誰か…どのような仕事の経験のある人か。</sentence>
+<sentence>どのようなニーズが想定し得るか。</sentence>
+<sentence>理解力や行動力はどのレベルと考えてよいか、など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　教育基本方針…どこに教育の基本目標を置くか。</sentence>
+<sentence>受講者をどのように変え、どのように行動させることが目的か、など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　目的と内容…どのようなカリキュラムを設定するか。</sentence>
+<sentence>具体的にどのような内容とし、またどのような組み立てとするか、など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　教育の順序…予定しているカリキュラムを、最適の順序に配列する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　教育方法…教育目的とカリキュラムにあわせて、最適の教育方法を立案する。</sentence>
+<sentence type="quasi">（具体的な方法については、各章で詳述）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>６　教育の場所…実際の研修会場の場所や環境の条件を教育計画に組み入れる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>７　用意する教材…テキスト・ＯＨＰシート・テストなど、最適の教材を用意する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">６４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><quote>「講」</quote>と<quote>「教」</quote>の共通点と差異点をモデル化する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">講師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「複数の重要なキーワードについて、その共通点と相違点を明らかにし、また、相互の意味関係を構造的に捉えたい場合など、《言葉マップ》を作成して、その基本モデルに当てはめて考えてみれば、体系的な思考が可能になり、また思考の経済にもつながる。」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</abstract>
+<paragraph>
+<sentence>　二つのキーワードが出揃ったところで、ちょっと両者を比較して置こう。</sentence>
+<sentence>その目的は、どちらがより重要な上位概念であるを明らかにし、あくまでも<quote>「講」</quote>の立場を守りながら<quote>「教」</quote>からも学ぶべき点は学ぶことにある。</sentence>
+<sentence>上位概念とは、より大きく他の概念をその中に包括してしまう側のことをいう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　概念の大きさについては、あらためて指摘するまでもなく、教育が、講義や講演を包括していることは誰にもわかる。</sentence>
+<sentence>日常的に使用する頻度においても、それを間接的に証拠づける漢和字典の成語の数においても、圧倒的に教育のほうが上だからである。</sentence>
+<sentence>したがって、講義や講演は上位概念である教育の…ある特殊な形態、またはその手段・方法であると位置づけてもよいだろう。</sentence>
+<sentence>つぎに意味の違いであるが、<quote>「講」</quote>とは<quote>「双方が同じ構えとなって、同じ理解に到達するように話すこと」</quote>であり、<quote>「教」</quote>とは<quote>「先生と弟子の間で、知識・経験・技術を受け渡して、交流させること」</quote>であった。</sentence>
+<sentence>では両者の間に見られる共通点と差異点とは何だろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような比較を行なう場合に大切なことは、どの観点からそれをするかの<quote>「基準づくり」</quote>から始めることである。</sentence>
+<sentence>図示することが、その有力な手法の一つとなるだろう。</sentence>
+<sentence>図示する<sampling type="end" />ことによって、全体を構成する各部分、要素・要因がリストアップされ、要素と要素との関係も明らかにされてくるからである。</sentence>
+</paragraph>
+</article>
+</sample>

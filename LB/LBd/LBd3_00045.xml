@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd3_00045" version="1.0" type="fixedLength">
+<article articleID="LBd3_00045_F001">
+<paragraph>
+<sentence>　事業所業態別の災害件数は、化学工場（２０件）、製鉄所（９件）、石油精製所（７件）、製鋼所（７件）、発電所（７件）の順<sampling type="start" />となっている（第５６表参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第５６表　業態別災害件数</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３　危険物施設等における災害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　火災</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ア　火災件数と被害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　危険物施設における昭和６３年中の火災の発生件数は１５１件（前年１３２件）、損害額は２１億８，９００万円（同３５億８，７００万円）、死者及び負傷者はそれぞれ４人（同７人）、７７人（同６２人）となっている（第５７表）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　火災発生件数は、前年より１９件増加したが、火災による被害は、前年に比べ、負傷者数が１５人増加したものの、死者数は３人減少しており、損害額も前年に比べ、減少している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、危険物施設の火災による他への影響の程度についてみると、１４６件（<sentence>他の施設から類焼した５件を除く。</sentence>
+）の火災のうち１３６件（９３．１％）が当該危険物施設のみの火災にとどまり、７件（４．８％）が他へ延焼し、３件（２．１％）が危険物施設の危険物の漏えいに起因して施設外から火災となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次に、危険物施設別の火災発生状況をみると、取扱所での火災が１１７件と最も多く、その中でも一般取扱所での火災が８５件と全体の半数以上を占めている（第５８図）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、出火原因となった物質を消防法別表の分類等に従って区分すると、第５９表のとおり、危険物以外のもの５０件、第４類第１石油類３０件、第４類第３石油類２４件、第４類第２石油類１７件の順となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第５７表　危険物施設における火災の発生件数と被害状況</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第５８図　危険物施設別火災発生件数</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第５９表　出火原因別（類別品名別等）火災発生件数</sentence>
+<br type="automatic_original" />
+<sentence>（注）　分類は消防法別表の分類による。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">イ　火災の発生原因及び着火原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　昭和６３年中に発生した危険物施設における火災の発生原因の比率を、人的要因、物的要因及びその他の要因に区別してみると、人的要因が５５．６％（８４件）と最も多く、物的要因２３．８％（３６件）、その他の要因９．９％（１５件）となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、着火原因をみると、高温表面熱１３．２％（２０件）と最も多く、次いで静電気火花１２．６％（１９件）、裸火１１．９％（１８件）、電気火花９．３％（１４件）、過熱着火９．３％（１４件）となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ウ　無許可施設の火災</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　製造所、貯蔵所又は取扱所として許可を受けていない無許可施設での火災の発生件数は１２件で、負傷者は７人（死者なし）となっている。</sentence>
+<sentence>なお、これらの火災による損害額は、５，２８０万円となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">エ　危険物運搬中の火災</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　危険物運搬中の火災の発生件数は７件で、負傷者は３人（死者なし）となっている。</sentence>
+<sentence>なお、これらの火災による損害額は５４７万円となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　危険物流出等の事故</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　昭和６３年中の危険物施設における危険物流出等の事故発生件数（火災に至らなかったもの）は、２４０件（前年２３７件）となっている（第６０表、第６１図<sampling type="end" />）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

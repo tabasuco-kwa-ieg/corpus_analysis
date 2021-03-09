@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00010" version="1.0" type="fixedLength">
+<article articleID="LBl4_00010_F001">
+<paragraph>
+<sentence>　概念と単語を結びつける神経回路は、後頭葉から側頭葉にかけての部分に広<sampling type="start" />がっていると考えられている。</sentence>
+<sentence>固有名詞は思い出せないが普通名詞は思い出せるという患者は、側頭葉外側部や下部に障害がある。</sentence>
+<sentence>側頭葉中部の前方に障害のある患者は、普通名詞の想起には問題があるが、色の名前は正常に思い出せる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　左側の後頭葉から側頭葉にかけての広い領域に損傷のある患者は、名詞、人名、色の名前をすべて思い出すことができなくなってしまったが、概念の記憶はまったく正常である。</sentence>
+<sentence>左前頭葉外側部に障害があると、動詞や副詞の想起が異常になるばかりでなく、文法的に正しい文章をつくることができなくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">大脳皮質の左右半球の役割</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一つの言葉が多くの神経回路をいっせいに刺激する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一つの物を見たときに、脳のなかのそれぞれの部分は、その一部だけしか認識できない。</sentence>
+<sentence>物を部分にわけて認識し、その情報を集積して分類し、カテゴリーごとにまとめて神経細胞の<ruby rubyText="しゅう">収</ruby><ruby rubyText="そく">束</ruby><ruby rubyText="てん">点</ruby>に記録しているのではないかとダマジオたちは考えている。</sentence>
+<sentence>これらの収束点からは、脳のたくさんの部位に神経細胞の突起がのびているので、一つの刺激によって脳の離れた部分の神経回路がいっせいに働くことができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、沈丁花という言葉を聞いたときに、沈丁花のつぼみの濃い紅、開いた花の純白、花びらの質感、甘い香り、さらには春の訪れを告げる心地よい風の感触などが一気に思い出されるかもしれない。</sentence>
+<sentence>これらの記憶は、脳のことなった部分にたくわえられていると考えられるので、沈丁花という一つの言葉によって、脳のいろいろな部分の神経回路がいっせいに活性化される可能性がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　したがって、イメージというのは、一つの言葉なり物なりがあたえられたときに、その刺激によっていっせいに活性化される神経回路にたくわえられている記憶とみることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、神経回路の構造から考えて、言葉にイメージがつきまとうことは自然のなりゆきのように思われる。</sentence>
+<sentence>逆に、一つのパターンとして活性化される神経回路の情報を象徴的にあらわすものとして言葉が存在するときもある。</sentence>
+<sentence>たとえば、<quote>「愛」</quote>を物として取り出して見せることはできないが、人それぞれにあるイメージをもっているであろう。</sentence>
+<sentence>そのイメージの集約された象徴として<quote>「愛」</quote>という言葉は存在可能なのではなかろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような事実から、言葉というものは、いろいろな神経回路にたくわえられた情報をカテゴリーごとに収束した結果の象徴として抽出されるものであり、逆にその言葉があたえられると、それらの神経回路がいっせいに活性化されるという性質をもつものであろうと私は考えている。</sentence>
+<sentence>そのときに活<sampling type="end" />性化される神経回路がイメージをあたえるのではなかろうか。</sentence>
+</paragraph>
+</article>
+</sample>

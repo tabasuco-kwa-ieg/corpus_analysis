@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd4_00028" version="1.0" type="fixedLength">
+<article articleID="LBd4_00028_F001">
+<paragraph>
+<sentence>　斜面にそって上方を正方向としてｘ軸を設<sampling type="start" />定し，車輪の回転角をθとすると，ａθ＝ｘ。</sentence>
+<sentence type="quasi">エネルギー保存の式は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>ただし，斜面にさしかかったときの角速度がｖ／ａであることを用いた。</sentence>
+<sentence type="quasi">車輪の慣性モーメントはＩ＝Ｍａ<superScript>２</superScript>であるので，（１）式は</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となる。</sentence>
+<sentence type="quasi">これより</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>ただし，ｘ<subScript>Ｍ</subScript>＝ｖ<superScript>２</superScript>／ｇ　ｓｉｎ　ａとおいた。</sentence>
+<sentence type="quasi">積分変数をｙ＝ｘ<subScript>Ｍ</subScript>−ｘに変換すると，左辺は</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">となるので，結局</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>を得る。</sentence>
+<sentence>これは，ニュートンの運動方程式を解いた結果と一致する。</sentence>
+<sentence>確かめてみよ。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　なお，ｘ<subScript>Ｍ</subScript>は斜面を登り得る最高点で，その点ではｘ＝０である。</sentence>
+<sentence type="quasi">したがって（１）式より，最高点の水平面からの高さは</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence type="quasi">最高点の高さがｈを越すためには</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">より，斜面にさしかかるときの速さが</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>の条件を満たす必要がある。</sentence>
+<sentence>例題１２の結果と比較考察してみよ。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">２．８</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　エネルギー保存則より</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>質量Ｍ，半径ａの球の慣性モーメントは『第１巻』５章表５・１よりＩ＝２／５Ｍａ<superScript>２</superScript>である。</sentence>
+<sentence type="quasi">これと，ａω＝ｖを上の式に代入すると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">Ｎの方向のニュートン方程式は</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">２つの球がはなれない間は，ｒ方向（Ｎの方向）の運動をしないので，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">したがって</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">これらを（２）式に代入すると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">これに（１）式を用いると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">２つの球がはなれないための条件は，Ｎ≧０であるから，（３）式より</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>を得る。</sentence>
+<sentence>これより，２球がはなれる角度θ<subScript>ｃ</subScript>は，θ<subScript>ｃ</subScript>＝ｃｏｓ<superScript>−１</superScript>（１０／１７）であることがわかる。</sentence>
+<sentence>『第１巻』４章例題２と比較せよ。</sentence>
+<sentence>今の場合のほうがθ<subScript>ｃ</subScript>が大きくなった理由を考えてみよ。</sentence>
+<sentence>転がり落ちる球の回転エネルギーに注目するとわかる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">２．９</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　時刻ｔでのロケットの運動量をｍｖとする。</sentence>
+<sentence>ｔ＋ｄｔにはロケットの質量がｍ−μｄｔ，速さがｖ＋ａｄｔ（ただし，ａ＝ｖ）となる。</sentence>
+<sentence type="quasi">また，噴出した質量の運動量がμｄｔ（ｖ−ｖ<subScript>０</subScript>）であることに注意すると，運動量保存則（『第１巻』３‐２節参照）は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence type="quasi">（ｄｔ）<subScript>２</subScript>のオーダーの微小量を無視すると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>時刻ｔ＝０でｍ＝ｍ<subScript>０</subScript>であったとすると，ｍ＝ｍ<subScript>０</subScript>−μｔ。</sentence>
+<sentence type="quasi">これを代入して</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">一方，ｔ＋ｄｔとｔでの運動エネルギーの差は</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>第３等号で（１）式を代入した。</sentence>
+<sentence type="quasi">これより，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>つまり，燃料の爆発などにより質量を後方に噴出することにより，単位時間あたり１／２μｖ<subScript>０</subScript><superScript>２</superScript>のエネルギーを生み出しているのである。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　なお，（２）式を積分すると，ロケットの速度は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と求まる。</sentence>
+<sentence>確かめてみよ。</sentence>
+<sentence>ただし，この表式はｔ＜ｍ<subScript>０</subScript>／μでしか意味がない。</sentence>
+<sentence>ｔ→ｍ<subScript>０</subScript>／μでｖ→∞となるが，この極限では，ロケット本体も後方に噴出してしまうことになるので，実現不可能である。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２．１０</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　Ｏ点のまわりの角運動量保存則（『第１巻』３‐６節参照）より</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>ただし，ωはポールがＯ点に固定された直後のポールの角速度である。</sentence>
+<sentence type="quasi">Ｉ＝Ｍｌ<superScript>２</superScript>を用いると，ポール先端の固定直後での力学的エネルギーは</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となることがわかる。</sentence>
+<sentence type="quasi">Ｋ≧Ｍｇ（ｌ−ａ）であればＡ点が最高点に達することより，求める条件は</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　一方，助走の運動エネルギー<sampling type="end" />Ｋ<subScript>０</subScript>＝１／２Ｍｖ<subScript>２</subScript>すべてが有効に使われたとすると，到達できる高さｈは</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

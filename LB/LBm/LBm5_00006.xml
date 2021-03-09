@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00006" version="1.0" type="fixedLength">
+<article articleID="LBm5_00006_F001">
+<paragraph>
+<sentence>　Ⅰグループはすべての化粧品，医薬部外品<sampling type="start" />に，Ⅱグループは外用化粧品，外用医薬部外品に，Ⅲグループは粘膜に使用することのない外用化粧品，外用医薬部外品に使用できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　メイクに使用する有機色素はつぎのように整理するとわかりやすい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・粘膜以外の外用メイク（例：白粉）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">Ⅰグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ⅱグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ⅲグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">・粘膜に近いメイク（例：アイライナー）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">Ⅰグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ⅱグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">・粘膜用メイク（例：口紅）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ⅰグループ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　表７は上記のグループ別に色素名（色別），日本別名を併記した。</sentence>
+<sentence>種別は一般染料名で他章との関連を図るようにした。</sentence>
+<sentence>Ｃ．Ｉ．Ｎｏ．とは，カラーインデックス番号（Ｃｏｌｏｒ　Ｉｎｄｅｘ　Ｎｏ．）で，国際的に共通番号である。</sentence>
+<sentence>既存化学物質番号は日本における登録番号である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表７　薬事法による化粧品に使用可能なタール系色素</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">使用可能なヘア用色素類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　ヘアダイ（毛髪用染料）は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・恒久タイプ（Ｐｅｒｍａｎｅｎｔ　Ｔｙｐｅ）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・半恒久タイプ（Ｓｅｍｉｐｅｒｍａｎｅｎｔ　Ｔｙｐｅ）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・一時的タイプ（Ｔｅｍｐｏｒａｒｙ　Ｔｙｐｅ）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>の３種に大別される。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　恒久タイプは，医薬部外品に属するため表８の色素が使われる。</sentence>
+<sentence>それらの色素は，主として酸化染料である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　半恒久タイプは，カラーリンスと呼ばれる場合もあった。</sentence>
+<sentence>主として酸性染料が使われる。</sentence>
+<sentence>室温で，緩和な酸性下で染める程度であるから，シャンプーすると比較的簡単に色が抜ける。</sentence>
+<sentence>日本人のような黒髪には，明るい色を掛けてもほとんど効果はなかった。</sentence>
+<sentence>欧米人のような色の薄い毛髪の持主にはおしゃれ色として，グリーン，ピンク，パープルなどのカラーリングが可能であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一時的タイプは，ほんの少し付着させる目的で，顔料をバインダーで接着した程度であった。</sentence>
+<sentence>最近では，半恒久タイプと一時的タイプを分けることなく，洗い落ちの早い染毛剤を一括して一時的タイプと称するようになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　薬事法によるヘアダイに使用可能な色素類については，医薬部外品用の色素として酸化染料が分類されている。</sentence>
+<sentence>酸性染料は，表７に記載の色素に限定される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi">表８　薬事法によるヘア品（医薬部外品）に使用可能な酸化染料系色素</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">５‐アミノオルトクレゾール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２‐アミノ‐４‐ニトロフェノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２‐アミノ‐５‐ニトロフェノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１‐アミノ‐４‐メチルアミノアントラキノン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３，３´‐イミノジフェノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸２，４‐ジアミノフェノキシエタノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸２，４‐ジアミノフェノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸トルエン‐２，５‐ジノミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸ニトロパラフェニレンジアミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸パラフェニレンジアミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸Ｎ‐フェニルパラフェニレンジアミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸メタフェニレンジアミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">オクトアミノフェノール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">カテコール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩酸Ｎ‐フェニルパラフェニレンジアミン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１，４‐ジアミノアントラキノン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２，６‐ジアミノピリジ<sampling type="end" />ン</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+</article>
+</sample>

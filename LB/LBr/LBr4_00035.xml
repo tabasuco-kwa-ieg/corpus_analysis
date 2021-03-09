@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00035" version="1.0" type="fixedLength">
+<article articleID="LBr4_00035_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>これからもがんば<sampling type="start" />って下さい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+<article articleID="LBr4_00035_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">第二部　多様性にあふれた脳</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">５　カオスで脳をさぐる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">アナログ性と非同期性に着目―合原一幸</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　私は主として脳のモデルをどうつくるかを研究しているが、そこで重要と考えているのは、脳の基本素子である<quote>「ニューロン」</quote>をしっかり見るということである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今あるニューロンモデルで一番単純なものは<quote>「マカロック・ピッツモデル」</quote>といって、ニューロンの出力が入力のいわば多数決で決まる論理モデルである。</sentence>
+<sentence>これまでのモデルの多くがこの系統に入るが、実際のニューロンはどう見てもそんな単純なものとは思えない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>マカロック・ピッツモデル＝一九四三年にマカロックとピッツによって提案されたニューロンの数理モデル。</sentence>
+<sentence>当時ピッツはまだ一八歳であったという。</sentence>
+<sentence>ニューロンの発火の有無を、それぞれ１と０で表現した論理的ニューロンモデルである。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　そのことを最初に意識したのは修士課程在学中のときだった。</sentence>
+<sentence>当時、世の中のさまざまな不連続（破局）現象を説明するという<quote>「カタストロフ理論」</quote>が注目されていたが、ほとんどの例はカタストロフの標準系を単なるアナロジーとして現象に当てはめただけのものだった。</sentence>
+<sentence>これに対して、恩師の甘利俊一先生は自分でつくられたランダム神経回路網理論で<quote>「カスプカタストロフ」</quote>というものが自然に現れることを示された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私はこのモデルを少し複雑にして、例えばニューロンが発火したかしないかの履歴によって<ruby rubyText="しきい">閾</ruby><ruby rubyText="ち">値</ruby>やシナプス結合係数が変わる性質を入れてみた。</sentence>
+<sentence>するとより複雑な<quote>「バタフライカタストロフ」</quote>を見いだしたのだった。</sentence>
+<sentence>そのとき強く感じたのは、要素をちょっと複雑にしただけで<quote>「カスプ」</quote>から<quote>「バタフライ」</quote>になったのだから、本当のニューロンはいったいどれほど複雑なのか、そしてその性質が脳の情報処理にどう反映されているのかということだった。</sentence>
+<sentence>これが私の研究の出発点となった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで松本<ruby rubyText="げん">元</ruby>先生に弟子入りしてヤリイカの神経を調べ始め、<quote>「カオス」</quote>という現象を神経膜で見つけ、それ以降、実際に自分で観察したニューロンのカオスをどう数理モデル化し、カオス的な素子からなる脳をどうとらえるかという研究を続けてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>カオス＝<quote>「決定論的法則が生み出す不規則・不安定で長期予測不能な現象」</quote>のことであるが、数学的に厳密な定義はいまだにない。</sentence>
+<sentence>合原一幸『カオス―まったく新しい創造の波』（講談社）、合原一幸・黒崎政男『哲学者クロサキと工学者アイハラの神はカオスに宿りたもう』（アスキー出版局）参照。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　工学部にいると必ず<quote>「その研究は何の役に立つか」</quote>と聞かれる。</sentence>
+<sentence>そのとき私は<quote>「<sentence>従来のコンピューターはデジタルだが、脳は神経膜レベルで見るとア<sampling type="end" />ナログ性が本質的に<ruby rubyText="き">効</ruby>いている。</sentence>
+<sentence type="quasi">そしてカオスはこのアナログ性が現象の種になっているので、新しいアナログコンピューターがそこから出てくる</sentence>
+」</quote>と答えている。</sentence>
+</paragraph>
+</article>
+</sample>

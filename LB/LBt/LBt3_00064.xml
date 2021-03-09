@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00064" version="1.0" type="fixedLength">
+<article articleID="LBt3_00064_F001">
+<list>
+<listItem>
+<sentence type="quasi">オ　容<sampling type="start" />易に運搬することができる切符売場または入場券売場等</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　建物の個数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　建物の個数の基準は、効用上一体として利用される状態にある数棟の建物は、所有者の意思に反しない限り、１個の建物として取り扱うものとされています（準則７８条１項・２項）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、１棟の建物に構造上区分された数個の部分で独立した住居、店舗等その他の建物としての用途に供することができるものがある場合には、その各部分は、各別にこれを１個の建物として取り扱うものとされています。</sentence>
+<sentence>ただし、所有者が同一であるときは、その所有者の意思に反しない限り、１棟の建物の全部または隣接する数個の部分を１個の建物として取り扱うものとされています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　建物の床面積の定め方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　建物の床面積は、各階ごとに壁その他の区画の中心線（区分建物にあっては、壁その他の区画の内側線）で囲まれた部分の水平投影面積により、平方メートルを単位として定め、１平方メートルの１００分の１未満の端数は、切り捨てるものとされています（規則１１５条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、準則８２条によって特殊なものは、次のように定められています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　天井の高さ１．５メートル未満の地階及び屋階（特殊階）は、床面積に算入しない。</sentence>
+<sentence>ただし、１室の一部が天井の高さ１．５メートル未満であっても、その部分は、当該１室の面積に算入する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　停車場の上屋を有する乗降場及び荷物積卸場の床面積は、その上屋の占める部分の乗降場及び荷物積卸場の面積により計算する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　野球場、競馬場またはこれらに類する施設の観覧席は、屋根の設備のある部分の面積を床面積として計算する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　地下停車場、地下駐車場及び地下街の建物の床面積は、壁または柱棟により区画された部分の面積により定める。</sentence>
+<sentence>ただし、常時一般に開放されている通路及び階段の部分を除く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　停車場の地下道設備（地下停車場のものを含む）は、床面積に算入しない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>　階段室、エレベーター室またはこれに準ずるものは、床を有するものとみなして各階の床面積に算入する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">７</enclosedCharacter>　建物に附属する屋外の階段は、床面積に算入しない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">８</enclosedCharacter>　建物の一部が上階まで吹抜になっている場合には、その吹抜の部分は、上階の床面積に算入しない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">９</enclosedCharacter>　柱または壁が傾斜している場合の床面積は、各階の床面の接着する壁その他の区画の中心線で囲まれた部分による。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">１０</enclosedCharacter>　建物の内部に煙突またはダストシュートがある場合（その一部が外側に及んでいるものを含む）には、その部分は各階の床面積に算入し、外側にあるときは算入しない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">１１</enclosedCharacter>　出窓は、その高さ１．５メートル以上のものでその下部が床面と同一の高さにあるものに限り、床面<sampling type="end" />積に算入する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

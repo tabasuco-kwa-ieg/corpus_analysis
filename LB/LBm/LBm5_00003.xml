@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00003" version="1.0" type="fixedLength">
+<article articleID="LBm5_00003_F001">
+<paragraph>
+<sentence>　遊び心がいっぱいのおやつを友だちと食べるときは、材料や作り方の話題で盛<sampling type="start" />り上がって、楽しさも倍増します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">牛乳パックをケーキ型に</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>牛乳パックは防水加工なので、すぐ捨てちゃもったいないと思って、ケーキ型に利用してみました。</sentence>
+<br type="automatic_original" />
+<sentence>軽いし、大きさもちょうどいいし、切ったり破ったり簡単にできるし、とても便利。</sentence>
+<sentence>おいしいリサイクルです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">パック・デ・クリームいちご</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>さっぱりなのにコクがある、いちごとクリームチーズのアイスケーキ。</sentence>
+<br type="automatic_original" />
+<sentence>フードプロセッサーにガァーッとかけ、牛乳パックに流して固めればでき上がり。</sentence>
+<br type="automatic_original" />
+<sentence>パックをビリビリ破いて中身を出せば、ポイッと捨てられる。</sentence>
+<br type="automatic_original" />
+<sentence>空きパックも使いようね。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（６〜８人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　クリームチーズは室温に戻し、いちごはヘタを取る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　フードプロセッサーに全材料を入れ、なめらかにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　牛乳の空きパックの口を上から５ｃｍ深さまでカットして<enclosedCharacter description="○">２</enclosedCharacter>を流し、冷凍庫で凍らせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　牛乳パックの四つの角をカットし、ビリビリはがして中身を取り出し、一口大の角切りにして器に盛る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>●牛乳パックは１０００ｍｌか、３５０ｍｌと５００ｍｌの二つに分けて流してもいい。</sentence>
+<sentence>小さいほうが早く固まるから、待ちきれないときにおすすめ。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>全材料をフードプロセッサーに入れてなめらかにする。</sentence>
+<sentence>フォークで粗めにつぶすのもおいしい。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>口の４か所に上から５ｃｍ深さまではさみを入れて開き、流しやすくする。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>中身を出すときは四つの角を包丁でカットすると、ビリビリとはがしやすくなる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">パック・デ・キャラメルアイス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>これも牛乳パックで作るアイスケーキ。</sentence>
+<br type="automatic_original" />
+<sentence>２０年前に黒柳徹子さんが教えてくれたクッキーケーキが原点なの。</sentence>
+<br type="automatic_original" />
+<sentence>ほんとうはビスケットを生クリームできれいに包むんだけど、口の中に入れば同じでしょ。</sentence>
+<br type="automatic_original" />
+<sentence>ザクザク割って全部合わせてパックに流しちゃう。</sentence>
+<br type="automatic_original" />
+<sentence>香ばしいくるみとカラメルを入れるのがレミ流のアレンジ。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（６〜８人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　鍋に<enclosedCharacter>Ａ</enclosedCharacter>を入れて弱火で濃いカラメル色になるまで煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ボウルに粗めに割ったビスケット、生クリーム、くるみを入れ、アツアツの<enclosedCharacter description="○">１</enclosedCharacter>のカラメルを加えてサッと混ぜる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　すぐ牛乳パックに流し入れ、冷凍庫で冷やし固める。</sentence>
+<sentence>パックから出して、食べやすくカットして器に盛る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence>●大人向きにはブランデー少々を加えてもいい。</sentence>
+<sentence>このときは、生クリームに混ぜてから合わせると味が均一になる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●カラメルを作ったあとの鍋に牛乳を入れ、火にかけて溶かすとカラメルドリンクができるし、鍋のこびりつきも一挙に取れる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">パック・デ・ココナッツあずき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>あまーいあずき缶とココナッツ缶があれば、すぐ、おやつの時間。</sentence>
+<br type="automatic_original" />
+<sentence>和風のようで洋風の味わいの不思議なおいしさです。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（６〜８人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ボウルにあずきとココナッツミルクを<sampling type="end" />入れてよく混ぜ、ビスケットを粗めに割って加える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

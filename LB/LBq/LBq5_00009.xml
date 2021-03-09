@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00009" version="1.0" type="fixedLength">
+<article articleID="LBq5_00009_F001">
+<paragraph>
+<sentence>必要な機器は、前ページのファイル共有に使用した機器と、複数のパソコンで共有させたいドライブ<sampling type="start" />です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ファイルを共有するように設定したパソコンの中のどれか１台にプリンタやＭＯドライブを接続すれば、その他のパソコンからもそれらのドライブを使えるようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＣＤ‐ＲＯＭドライブを共有すれば、ほかのパソコンのＣＤ‐ＲＯＭドライブを使ってアプリケーションをインストールすることも可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし、ＣＤ‐Ｒ／ＲＷドライブやＤＶＤ‐ＲＯＭドライブなどは注意が必要です。</sentence>
+<sentence>これらのドライブを共有しても、ほかのパソコンからはＣＤ‐ＲＯＭドライブとしてしか使用できません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ほかのパソコンにあるデータをＣＤ‐Ｒ／ＲＷに記録したい場合は、ＣＤ‐Ｒ／ＲＷドライブが搭載されているパソコンにデータを移動させてから、そのパソコンで記録する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＣＤ‐ＲＯＭドライブやＤＶＤ‐ＲＯＭドライブを共有する機能は、ＣＤ‐ＲＯＭドライブを搭載していない軽量型のノートパソコンを使っている際に威力を発揮します。</sentence>
+<sentence>外付け型のＣＤ‐ＲＯＭドライブをノートパソコンに接続する手間が省けるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">プリンタやドライブを共有するときに必要な機器</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">インターネット接続を共有させる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インターネットには、基本的に１台のパソコンしか接続することができませんが、<quote>「ルータ」</quote>という機器を使えば、複数台のパソコンで同時にインターネットに接続することが可能になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在、どのような方法（アナログモデムやＡＤＳＬ）でインターネットに接続しているかによって、利用できるルータが異なります。</sentence>
+<sentence>詳しくは、左ページのイラストを見てください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　インターネット接続を共有するときに必要な機器は、まずそれぞれのパソコンにネットワークカードが必要です。</sentence>
+<sentence>加えて、パソコンの台数分＋１本のストレートケーブルに、ルータを１台。</sentence>
+<sentence>ルータに接続できるネットワークケーブルの数よりもパソコンの台数が多い場合は、さらにハブを用意します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ルータとハブをつなぐ場合は、特殊な方法で接続します。</sentence>
+<sentence>詳しくはルータの説明書を参照してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここで注意したいのが、利用している回線の種類です。</sentence>
+<sentence>複数のパソコンで同時にインターネットに接続すると１台あたりの回線速度が低下し、快適にインターネットを楽しむことができなくなってしまいます。</sentence>
+<sentence>可能であれば、ＡＤＳＬやＣＡＴＶなどの高速なインターネット回線を利用するとよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、使用しているプロバイダによっては、同時に接続できるパソコンの台数に制限がある場合もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">インターネット接続を共有するときに必要な機器</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">設定をしよう〜ハード編〜</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>ここから、実際に必要な機器を増設し、共有の設定を<sampling type="end" />していきます。</sentence>
+</abstract>
+</article>
+</sample>

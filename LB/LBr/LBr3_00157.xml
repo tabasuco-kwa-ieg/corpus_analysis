@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00157" version="1.0" type="fixedLength">
+<article articleID="LBr3_00157_F001">
+<list>
+<listItem>
+<sentence>２　国際価格に影響を与えない小国において，ある輸入財に関税が課せられた場合に，貿易量，消費者余剰，生産者余剰がどのよう<sampling type="start" />な影響を受けるかを図を用いて説明せよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　ある国で技術進歩により資本の限界生産力が増大したとする。</sentence>
+<sentence>このとき資本移動はどのような影響を受けるかを図を用いて説明せよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">第１０章　不確実性と社会的選択</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｕｍｍａｒｙ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">本章のサマリー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　将来起こりうる事象について，その確率が知られていいるような場合を危険の状態といい，危険の状態の効用を，危険がない場合の効用の期待値として表す考えを期待効用仮説という。</sentence>
+<sentence>危険に対する姿勢は効用関数の形状から，危険回避者，危険中立者，危険愛好者に分類される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　財の質についての情報が不完全な市場では，高品質の財は過小評価されるため，売り手は撤退していく傾向にある。</sentence>
+<sentence>危険を軽減する手段の１つが保険であり，保険に対する需要は，保険料の保険金に対する比率である保険プレミアムが低いほど増加する。</sentence>
+<sentence>保険市場でも，情報が不完全の場合には優良な顧客が駆逐されやすい。</sentence>
+<sentence>こうした現象は逆選抜と呼ばれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　社会における所得分配の状態を表す概念にローレンツ曲線とジニ係数がある。</sentence>
+<sentence>社会を構成する個々の主体の選好から，全体の選好を導く規則を社会的厚生関数というが，民主的と思われるすべての性質を満たす関数を構成することは不可能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１　危険に対する姿勢</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">●一寸先は闇</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">危険と期待効用仮説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　現実の経済においては，多くの意思決定が将来のことを考慮して行われている。</sentence>
+<sentence>たとえば将来の消費のために現在貯蓄したり，あるいは現在の消費のために資金を借り入れて，将来返済する計画を立てている。</sentence>
+<sentence>しかし誰も将来の出来事を確実に知ることはできない。</sentence>
+<sentence>その意味で，不確実性下で意思決定を行っているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　将来起こりうる個々の状態について，それがどのような確率で起こるかが知られているような場合を危険（ｒｉｓｋ）の状態と呼ぶことがあるが，そのときの意思決定について考察しよう。</sentence>
+<sentence>まず危険に対する人々の姿勢を分類する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　消費者の選好がある種の合理性の公準を満たすのであれば，危険の状態の効用は，危険がない場合の効用の期待値として表すことができる。</sentence>
+<sentence>こうした考え方を期待効用仮説という。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例として，１／２の確率で１００万円得られ，１／２の確率で何も得られないような状況を考えよう。</sentence>
+<sentence type="quasi">期待効用仮説に基づくと，このときの効用は１００万円を確実に得るときの効用ｕ（１００万）と何も得られないときの効用ｕ（０）の期待値</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>によって表される。</sentence>
+<sentence>１／２の確率で１００万円得られ，１／２の何も得られないような状況で，得られる金額の期待値は１／２・１００万＋１／２・０＝５０万である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　では，この危険の事態と，確実に５０万円<sampling type="end" />が得られる場合とでは，どちらが好まれるであろうか。</sentence>
+</paragraph>
+</article>
+</sample>

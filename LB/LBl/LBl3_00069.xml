@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00069" version="1.0" type="fixedLength">
+<article articleID="LBl3_00069_F001">
+<paragraph>
+<sentence>収入的なものは問いませんので、<sampling type="start" />収入がいくら高くても時間さえ短ければ良いことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば正規従業員の勤務時間が１日８時間で、１カ月間の勤務日数が２２日の会社があったとしましょう。</sentence>
+<sentence>そうすると８時間の４分の３ですから６時間、２２日間の４分の３ですから１６・５日（つまり切り捨てして１６日）という条件を両方とも満たすと加入せざるをえません。</sentence>
+<sentence>所定労働時間は週４０時間労働時間制の施行にともない短くなりましたが、大半の会社は次の条件を守れば加入させなくても良くなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>一、１日を５時間勤務にすれば、毎日勤務しても良い。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>二、１カ月を１５日までにすれば何時間勤務しても良い。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　雇用保険と社会保険の被保険者の加入要件は異なりますが、それでは結論としてどうすれば一番良いのでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　勤務時間を短くするコース（<sentence>１日を５時間にする。</sentence>
+<sentence>勤務日数は週５日間、月間２０日間にする。</sentence>
+<sentence type="quasi">そうなると雇用保険は短時間被保険者に該当するが、社会保険には該当しない）</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　勤務日数を短くするコース（<sentence>１カ月の勤務日数を１５日までにする。</sentence>
+<sentence>１日の勤務時間は８時間とする。</sentence>
+<sentence type="quasi">そうなると雇用保険は一般被保険者もしくは短時間被保険者に該当するが、社会保険は該当しない）</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">その４　おそろしい年金の不正受給</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　高齢者の処遇は、年金や雇用保険などが関係するため、難しい問題です。</sentence>
+<sentence>次のことに留意する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>一、厚生年金は、６０歳以上６５歳未満で受給する場合、賃金の多寡に応じて年金額が減額される。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>二、賃金が６０歳の時点と比べて８５％未満になった場合、雇用保険から高年齢雇用継続給付金が被保険者に対して支給される。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　そこで私としては次の順序に従って提案しています。</sentence>
+<sentence>企業側の事情をうかがいながら<enclosedCharacter description="○">１</enclosedCharacter>を、<enclosedCharacter description="○">１</enclosedCharacter>がダメなら<enclosedCharacter description="○">２</enclosedCharacter>を、<enclosedCharacter description="○">２</enclosedCharacter>がダメなら<enclosedCharacter description="○">３</enclosedCharacter>をというかたちです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　１日の勤務時間を短くしたり、出勤日数を減らしたりして、社会保険の加入要件に該当しないようにする。</sentence>
+<sentence>そうすると賃金がいくら高額であっても社会保険には加入せずに済む。</sentence>
+<sentence>ただし雇用保険の短時間被保険者の加入要件である週２０時間以上の労働時間以上にはしておく。</sentence>
+<sentence>この結果、厚生年金は満額支給される。</sentence>
+<sentence>雇用保険の高年齢継続雇用給付金も受給できる。</sentence>
+<sentence>この結果、厚生年金、雇用保険の高年齢継続雇用給付金、賃金、賞与という四つの収入ができます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　もし、どうしてもフルタイムで働かざるをえない場合は、社会保険に加入することになる。</sentence>
+<sentence>そうなると賃金の多寡に応じて年金が減額される。</sentence>
+<sentence>ただし賞与はいくら出しても、それが年３回以下の支給であるならば、年金には響かない。</sentence>
+<sentence>賃金は最低賃金法に触れない程度まで落とす<sampling type="end" />（約１２万円）。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

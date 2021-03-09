@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00046" version="1.0" type="fixedLength">
+<article articleID="LBo5_00046_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　ですから、依頼を受けた直後にテープメー<sampling type="start" />カーさんが持っている真空蒸着装置の小ぶりのモノを持ちまして研究したわけです。</sentence>
+<sentence>もちろん、磁気テープはできませんけど。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　えっ、真空蒸着プラントを東レ社内に入れた！？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうです。</sentence>
+<sentence>開発した樹脂フィルムがうまく機能するかどうか、磁気テープメーカーさんが持っているのに近い研究装置を持たないと正しい評価ができませんから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そこまでやる？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もちろん。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ということは、供給するのは樹脂フィルムだけでいいのに、実際に金属蒸着までやってみた？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　やりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　真空中でコバルトを３０００度Ｃに加熱して溶かして蒸気を飛ばし…？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ええ、それに近いことを。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　つまり最終製品に近いものを研究所で？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　同じような設備で。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あくまで評価のためですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　その装置の建造に発注メーカーは当然協力してくれたんでしょう？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いや、特に…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　少しは教えてくれたんでしょう？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　協力は特にないです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ない！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そういうことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　何千万円もかかったんでしょう？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もちろんそうです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そこまでしたら元がとれない？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もちろん（笑い）。</sentence>
+<sentence>ゆくゆくは採算がとれることを期待するわけです。</sentence>
+<sentence>我々研究の人間は研究成果が発現するまで相当なお金を使うものなんです。</sentence>
+<sentence>その間は会社に負担ばかりかけて。</sentence>
+<sentence>吉川英治の歌でしたかね、<quote>「菊づくり花咲くときは陰の人」</quote>というのがありましたが、研究の仕事がそれですよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　大島さん、『メタルカラーの時代』に載ることで<quote>「菊づくり花咲いたあとで表の人」</quote>になりますからね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ありがとうございます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ううう。</sentence>
+<sentence>こんなにしんみりしちゃうメタルカラー対談、初めて（笑い）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　金属でもセラミックでも素材のメーカーとか基礎になる部品を開発なさる方々の苦労は皆同じです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ささ、大島さん、元気を出して。</sentence>
+<sentence>それで、その樹脂フィルムって何でできているんですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ポリエステルのフィルムです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ポリエステル…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　磁気テープやコンデンサー、ワープロ用の感熱転写のリボン、みなポリエステルフィルムです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　熱転写プリンタのあれも同じですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうです。</sentence>
+<sentence>あれも東レが半分以上製造してます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あれも薄いわ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうです。</sentence>
+<sentence>磁気テープ用には、さらに薄いものもありますけど。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　つまり、基本技術では問題ない？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いや、表面の粗さや強度、引き伸ばしたときの伸びぐあいを示す<quote>「ヤング率」</quote>も違うので、作り方も製造マシンも違うんですよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そういうものなの？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　話題になったパチンコカードもポリエステルフィルムです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山根</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　急に身近な話題になった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">大島</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　うまく機能しているかどうか、問題はないかどうか、早<sampling type="end" />速パチンコ屋へ行ってやってみるんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

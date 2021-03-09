@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt4_00030" version="1.0" type="fixedLength">
+<article articleID="LBt4_00030_F001">
+<paragraph>
+<sentence>どのような色かを厳密に調べるために、特別な装置で酵素の吸収スペクトルなどを測定しま<sampling type="start" />す。</sentence>
+<sentence><ruby rubyText="ほたる">蛍</ruby>の光のような<ruby rubyText="けい">蛍</ruby><ruby rubyText="こう">光</ruby>をしめす酵素もありますので、蛍光測定装置で記録します。</sentence>
+<sentence>金属イオンを含む酵素の場合は、化学的、あるいは物理的な方法で結合している金属の種類や数を調べます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにして、未知の酵素の性質が次第に明らかになり、ほかの酵素の性質と比較してその全体像を明らかにして、酵素のくわしい性質が記録されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第６章　風変わりな酵素たち</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　地球上にはいま、約三千万種類の生物が生きているそうです。</sentence>
+<sentence>その多くはわたしたち人間や、サル、スズメ、コイ、ゴキブリ、イネ、パン酵母などのように、空気を利用して、大体、セ氏一五〜三〇度の環境で生活しています。</sentence>
+<sentence>しかし、どこにでも例外は存在します。</sentence>
+<sentence>微生物の中には、たいへん熱い環境に耐えるどころか、高い温度でないと生きられないものがいます。</sentence>
+<sentence>一方では、おどろくほど寒い環境を好む細菌がいます。</sentence>
+<sentence>このような微生物は、<ruby rubyText="きょく">極</ruby><ruby rubyText="げん">限</ruby><ruby rubyText="かん">環</ruby><ruby rubyText="きょう">境</ruby><ruby rubyText="び">微</ruby><ruby rubyText="せい">生</ruby><ruby rubyText="ぶつ">物</ruby>とよばれています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　極限環境微生物には温度だけでなく、ｐＨや圧力などにおいて<quote>「極限環境」</quote>でないと生育できないものもあります。</sentence>
+<sentence>そして、極限環境微生物は、自分の好む環境に合う酵素を生産して生きています。</sentence>
+<sentence><quote>「極限環境」</quote>といっても、人間からみて極限なのであって、極限環境に生きる生物からみたら、人間の生きている環境の方が変わっていると思うかもしれませんけれど。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１　熱湯にも耐えられる酵素と寒さ好きの酵素</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　熱に弱いのは、大体の生物に共通した性質です。</sentence>
+<sentence>どう<ruby rubyText="もう">猛</ruby>なライオンやトラでも、熱湯の中では生きていることはできません。</sentence>
+<sentence>微生物も同様で、熱い湯の中では死んでしまいます。</sentence>
+<sentence>外科手術の際に、雑菌の感染を防ぐため、手術道具を熱湯につけることをご存じでしょう。</sentence>
+<sentence>この加熱滅菌は、雑菌が熱湯で死滅することを利用しています。</sentence>
+<sentence>生物が熱湯に耐えられないのは、細菌や植物、動物の細胞もタンパク質やＤＮＡなど、熱に弱い生体成分からなりたっているからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、温泉やサウナや<ruby rubyText="たい">堆</ruby><ruby rubyText="ひ">肥</ruby>など、高い温度の環境で、セ氏七〇度でも生きている<ruby rubyText="こう">好</ruby><ruby rubyText="ねつ">熱</ruby><ruby rubyText="きん">菌</ruby>、さらには一〇〇度以上の高い温度で生育できる超好熱菌とよばれる細菌がいます。</sentence>
+<sentence>好熱菌や超好熱菌は、高い温度にも耐えられる耐熱性酵素をつくり、ふつうの生物では生育できない高い温度において、生命活動を行っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、ウシの肝臓から精製した酵素、グルタミン酸デヒドロゲナーゼは、セ氏六〇度で失活します。</sentence>
+<sentence>けれども、超好熱菌、パイロコッカス・フリオサスの酵素は、セ氏一一三度という高い温度でも失活しないで、高い活性をしめします。</sentence>
+<sentence>煮えたぎるお湯の中でも安定ですから、不死身といってもよい酵素です。</sentence>
+<sentence>しかし、逆に、ヒトの生活には快適<sampling type="end" />なセ氏二五度では活性をしめしません。</sentence>
+</paragraph>
+</article>
+</sample>

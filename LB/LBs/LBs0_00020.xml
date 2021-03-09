@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs0_00020" version="1.0" type="fixedLength">
+<article articleID="LBs0_00020_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">インターネット上の<sampling type="start" />ＰＤＦを検索する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>インターネットから検索条件に一致するＰＤＦを見つけ出すことができます。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>１　まず、パソコンがインターネットに接続されているか確認してください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　<quote>「検索パネル」</quote>の下の方にある<quote>「インターネット上のＰＤＦを検索」</quote>をクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　検索する語句をテキストボックスに入力して［インターネットから検索］ボタンをクリックします。</sentence>
+<sentence>この例では、<quote>「今年の海外旅行」</quote>と入力してみます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　ブラウザが開き、検索結果のページがすぐに表示されます。</sentence>
+<sentence>検索結果を見ると、入力した語句が含まれるＰＤＦが２件インターネット上で見つかりました。</sentence>
+<sentence>検索にかかった時間はわずか０．４５秒です。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　左の画面はブラウザの検索結果をクリックして表示されたＰＤＦです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＰＤＦ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１６　透かしと背景の追加</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>Ａｃｒｏｂａｔ　６．０では、ＰＤＦのページに<quote>「背景」</quote>や<quote>「透かし」</quote>を挿入できます。</sentence>
+<sentence><quote>「背景」</quote>とは、Ｗｅｂページのようにページの背景で使用されている色やパターンのことです。</sentence>
+<sentence><quote>「透かし」</quote>は、ページの上に挿入するテキストやグラフィックです。</sentence>
+<sentence>どのように挿入するのか見てみましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">透かしと背景を追加する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　まず、はじめに背景や透かしに挿入するＰＤＦファイルを用意します。</sentence>
+<sentence>ここでは、右のようなＰＤＦを用意しました。</sentence>
+<sentence>１ページ目が大きな文字で２ページ目がパターンのページになっています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　挿入するページを開いた状態で、［文書］メニューから［透かしと背景の追加］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　<quote>「透かしと背景の追加」</quote>ダイアログが表示され、開いているページがプレビューに表示されます。</sentence>
+<sentence>ダイアログの<quote>「種類」</quote>のところで、<quote>「背景」</quote>か<quote>「透かし」</quote>のどちらかを選択し、その下の<quote>「画面で表示」</quote><quote>「印刷時に出力」</quote>を指定します。</sentence>
+<sentence>印刷のときだけ出力したい場合は、<quote>「画面で表示」</quote>のチェックをはずします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　<quote>「ソースページ」</quote>の<quote>「参照」</quote>ボタンをクリックして、透かしや背景に使うＰＤＦを指定します。</sentence>
+<sentence>ここでは、ステップ１で用意したＰＤＦファイルを指定しています。</sentence>
+<sentence>指定したＰＤＦの１ページ目がプレビューに表示され、<quote>「透かし」</quote>を追加したときのイメージを確認できます。</sentence>
+<sentence><quote>「ページ番号」</quote>に<quote>「２」</quote>を指定して、<quote>「背景を追加」</quote>を選択するとＰＤＦの２ページ目が背景に挿入され、プレビューに表示されます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　<quote>「背景」</quote>や<quote>「透かし」</quote>を挿入するページの範囲と表示方法などを設定したら<quote>「ＯＫ」</quote>をクリックしてダイアログを閉じます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>６　左が<quote>「背景」</quote>、右は<quote>「透かし」</quote>を挿入した様子です。</sentence>
+<sentence><quote>「透かし」</quote>は薄く表示されるようにダイアログの設定で<quote>「不透明度」</quote>を７０％に指定してみました。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">背景を挿入</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">透かしを挿入</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">１７　ＰＤＦフォームの作成</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＰＤＦフォームを使って、紙の申請フォームを電子の申請フォームに<sampling type="end" />することができます。</sentence>
+</article>
+</sample>

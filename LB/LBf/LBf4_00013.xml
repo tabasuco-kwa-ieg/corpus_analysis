@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf4_00013" version="1.0" type="fixedLength">
+<article articleID="LBf4_00013_F001">
+<paragraph>
+<sentence>　<sampling type="start" />近視、乱視、あるいは遠視のときは物がはっきりと見えません。</sentence>
+<sentence>また、遠くのものがはっきり見えるのに、近くの細かいものがよく見えないときは、老視が疑われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほか、角膜の病気、白内障、硝子体混濁、網膜の病気、視神経の病気のときも視力が低下します。</sentence>
+<sentence>とくに糖尿病の人が、見えにくに場合などは、糖尿病性の白内障や、治療が厄介な糖尿病性網膜症のこともあります。</sentence>
+<sentence>糖尿病の人は充分注意しなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　片方の眼がまったく見えないのに、長い間、気づか<correction originalText="" type="omission">な</correction>いこともあります。</sentence>
+<sentence>朝顔を洗っているとき、偶然片眼を覆い、まったく見えないので、驚いて来診する場合もあります。</sentence>
+<sentence>視力が落ちる場合、重大な眼の病気のことがありますので、早めに眼科医の診察を受けてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●見えないところがある、視野が欠ける</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　網膜剥離、中心性網脈絡膜症、緑内障、眼底出血視神経障害など、厄介な眼の病気の場合などに視野が欠けます。</sentence>
+<sentence>このほか、脳下垂体付近や脳の視覚中枢の近くに病変があるとき、両眼とも、内側または外側が見えないとか、右半分や左半分が見えないという半盲という現象がおこったりします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　とにかく早目に、眼科医の診察をうけることが大事です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●物が小さく、ゆがんで見える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　中心性網脈絡膜症や網膜剥離のときなどに物が小さく見えるとか、ゆがんで見えることがあります。</sentence>
+<sentence>このほか、網膜の病気でもおこります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　やはり、早めに眼科医の診察を受けることが大切です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●眼の中に光ったものが見える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　眼の病気がなくても、光が眼のなかを走ることはよくあることです。</sentence>
+<sentence>また、視野のなかに泡のようなものが見えたり、ごく小さな影が見える場合は、飛蚊症といい、特に病気ではないことが多いようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ、眼のなかを光が走ることが頻発したり、飛蚊症が、突然多くなった場合、網膜剥離、硝子体出血、ぶどう膜炎などの前兆のこともあり、念のために眼科医の診察を受けて、病気の有無を確認してもらうことは大切なことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●眼の中に<ruby rubyText="にじ">虹</ruby>が見える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電灯をみたりした時に、虹が見えることがあります。</sentence>
+<sentence>電球のまわりに輪のような虹が見えたときは病的な虹で、緑内障があって眼圧が亢進したとき、そのような虹が見えたりします。</sentence>
+<sentence>眼科医の診察を受けてください。</sentence>
+<sentence>図７のように、放射状に出る虹はまったく心配ありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、コンタクトレンズを長時間装用した場合もハレイションをおこし、虹が見えることがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７　病的な虹と心配のない虹</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●ものが二つに見える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　角膜に濁りがあったり、水晶体が濁っていると、物が二つに見えることがありますし、手術のあとに物が二つに見えて困ることがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　よく、めがねをかけて、夜<sampling type="end" />間、自動車のヘッドライトが二つ見えると訴える人がいますが、これはレンズの反射によるもので心配いりません。</sentence>
+</paragraph>
+</article>
+</sample>

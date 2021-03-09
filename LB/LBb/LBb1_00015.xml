@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb1_00015" version="1.0" type="fixedLength">
+<article articleID="LBb1_00015_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">＊命題論（言葉によるものごとの明示につい<sampling type="start" />て）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">分析論前書</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">分析論後書</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">論拠集（トピカ）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ソフィストの論法について</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">第二巻</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">＊自然学講義</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">天体論</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">生成と消滅</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">第一〇巻</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">政治学</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">経済学（家政学）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">＊アテナイ人の国制</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">第一一巻</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">＊弁論術</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">アレクサンドロスのための弁論術講義</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">＊詩学（創作論）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">第一二巻</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">＊断片選集</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">（＊印が筑摩<quote>「世界古典文学全集」</quote>アリストテレス集所収、ただし『自然学講義』は八巻のうち四巻だけ）</sentence>
+<br type="automatic_original" />
+<sentence>というようなことになる。</sentence>
+<sentence>ただしアリストテレス著作を、このような順序に配列するのは、オクスフォード版の英訳全集がはじめて工夫したわけではない。</sentence>
+<sentence>それはベルリンのアカデミーが一八三一年に公刊したギリシア原文のアリストテレス全集の配列に従ったものであって、これに新しく『アテナイ人の国制』を加え、『断片集』をも直接に後続させたわけである。</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<paragraph>
+<sentence>　ベルリン・アカデミーのアリストテレス全集は全五巻で、最初の二巻がアリストテレスの原文テクストを含んでいる。</sentence>
+<sentence>第三巻は各種のラテン訳を集め、第四巻は古注、第五巻は断片と索引を収めている。</sentence>
+<sentence>第四巻はＣｈ．Ａ．Ｂｒａｎｄｉｓによって一八三六年に、第五巻は、断片はＶ．Ｒｏｓｅ、索引はＨ．Ｂｏｎｉｔｚによって一八七〇年に、編集公刊されている。</sentence>
+<sentence>現在の原文テクスト、あるいは訳文に附加され、多くの引用に使われている数字は、この全集の原文テクストのページ数を示すものであって、ａとｂは一ページが左右二段に分れているので、左をａ、右をｂであらわしたもので、更に行数を示すこともある。</sentence>
+<sentence>１２８ｂ　１５と言えば、一二八ページ右の段一五行目という意味である。</sentence>
+<sentence>ページ数は原文二巻を通じて連続通し数字になっているわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">二</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて本巻の構成であるが、アリストテレスの全著作のうち、まず第一に『詩学』を取ったのは、本巻が文学全集のうちの一巻であるがためである。</sentence>
+<sentence>アリストテレスのこの著作は、わが国では『詩学』という訳名で紹介されているが、その実際の内容は、読んでみればすぐわかるように、悲劇あるいは喜劇を取り扱ったものであって、われわれが詩という言葉で、すぐに思い浮べる漢詩や新体詩のたぐいについて、作詩の技法や韻律のいかんを論じたものではない。</sentence>
+<sentence>それは『政治学』が市民国家の構成や理想型を論じていると同じように、劇作品あるいは―叙事詩をも考慮に入れるとすれば―長篇小説の類をも含めて、文学作品（フィクション）の構成と理想条件を論じたものであるとすることもできるだろう<noteMarker text="＊" />。</sentence>
+<sentence>比較的新しい訳書では、Ａ　Ｔｒｅａｔｉｓｅ　ｏｎ　Ｆｉｃｔｉｏｎ　あるいは　Ｏｎ　ｔｈｅ　Ａｒｔ　ｏｆ　Ｆｉｃｔｉｏｎ　などの名が用いられるわけである。</sentence>
+<sentence>ホラティウスの　Ｄｅ　ａｒｔｅ　ｐｏｅｔｉｃａ　やボアロの<sampling type="end" />　Ｄｅ　ｌ’ａｒｔ　ｐｏｅｔｉｑｕｅ　についても、実際の内容は、アリストテレスのそれと同じ線上にあることが知られるだろう。</sentence>
+</paragraph>
+</article>
+</sample>

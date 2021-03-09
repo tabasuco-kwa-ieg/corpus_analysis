@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBon_00020" version="1.0" type="fixedLength">
+<article articleID="LBon_00020_F001">
+<paragraph>
+<sentence>石油ベンジンとは沸点５<sampling type="start" />０〜８０℃の留分をいう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　原油には不飽和炭化水素は含まれないが，ナフサを高温熱分解または接触改質にかけることにより，エチレン，プロピレン，ブタジエン，ＢＴＸなどが得られる．</sentence>
+<sentence>これらは石油化学工業でポリエチレン，塩化ビニルモノマー，アセトアルデヒド，ポリプロピレン，アクリロニトリル，ブタノール，フェノールなど重要な中間製品に変換されている．</sentence>
+<sentence>石油は，天然ガス，石炭とともにこのように有用な炭化水素群およびその原料からなっている．</sentence>
+<sentence>こう考えると，安価であるからといって燃焼させ二酸化炭素と水にし，熱エネルギーを取得することにしか使用しないのは，貴重な化学資源を無駄に浪費していることになり，たいへん残念なことである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">石油精製工程の例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">セッケンと界面活性剤</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ｓｏａｐ／ｓｕｒｆａｃｅ‐ａｃｔｉｖｅ　ａｇｅｎｔ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ステアリン酸ナトリウムＣ<subScript>１７</subScript>Ｈ<subScript>３５</subScript>ＣＯＯＮａのように，炭素数の多い高級脂肪酸のアルカリ金属塩をセッケンという．</sentence>
+<sentence>セッケンは，油脂を水酸化ナトリウムＮａＯＨなどのアルカリで煮てつくる．</sentence>
+<sentence>このとき油脂が加水分解されてセッケンとグリセリンが生じる反応が起こっている．</sentence>
+<sentence>この反応をけん化という．</sentence>
+<sentence>セッケンは，水に溶けると水の表面張力を減少させる．</sentence>
+<sentence>このように，溶媒に溶けてその表面張力を減少させる性質をもつ物質を界面活性剤という．</sentence>
+<sentence>セッケンは界面活性剤の代表的な例である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高級脂肪酸の代表例を表１に示す．</sentence>
+<sentence>脂肪酸は，同一分子内に疎水性（親油性ともいう）の炭化水素基と，親水性のカルボキシ基―ＣＯＯＨをもつが，とくに，けん化によって生じた<superScript>−</superScript>ＣＯＯ<superScript>−</superScript>Ｎａ<superScript>＋</superScript>のような塩は強電解質になる．</sentence>
+<sentence>このとき親水性の部分の水への溶解性は，さらに増す．</sentence>
+<sentence>通常のセッケンはナトリウム塩であるが，化粧用には低温での溶解度が大きいカリウム塩を用いることもある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　セッケンを，油を含む水の中に入れてかき混ぜると，セッケン分子の疎水基が油に溶けるので，油滴どうしが互いに接触しにくくなり，水に分散するようになる．</sentence>
+<sentence>この現象を乳化という．</sentence>
+<sentence>乳化によって，汚れの主成分である油を，セッケンで取り除くことが可能になる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　衛生思想の普及とともに，セッケンの使用量も多くなった．</sentence>
+<sentence>しかし，第一次世界大戦の頃には，食用の油脂と競合するために，動植物の油脂からセッケンをつくることが困難になった．</sentence>
+<sentence>そこで，石炭乾留の副生成物を原料にして，合成洗剤ともよばれる界面活性剤が合成された．</sentence>
+<sentence>現在は石油を原料にして，多種類の合成界面活性剤がつくり出されている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　生体内においては，油を溶かし込むため，胆汁酸やコレステロールなど多くの物質が，界面活性剤の役割<sampling type="end" />を担っている．</sentence>
+</paragraph>
+</article>
+</sample>

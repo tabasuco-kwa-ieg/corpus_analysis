@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi9_00163" version="1.0" type="fixedLength">
+<article articleID="LBi9_00163_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>病<sampling type="start" />気なのはお前の娘だ。</sentence>
+<sentence>よほど重い病気と見える。</sentence>
+<sentence>これまでついぞあんな蒼い顔をしていた事はない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>またサロメの顔を御覧なさる。</sentence>
+<sentence>あれが顔を御覧なされてはいけぬと申しますのに。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>おれに酒を<ruby rubyText="つ">注</ruby>いでくれい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence type="quasi">（酒を勧む。）</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence>さあ。</sentence>
+<sentence>サロメ。</sentence>
+<sentence>来ていっしょに酒を飲め。</sentence>
+<sentence>ここにいい酒がある。</sentence>
+<sentence>羅馬の皇帝がおれにわざわざ送ってくれられたのだ。</sentence>
+<sentence>お前のその小さい赤い<ruby rubyText="くちびる">唇</ruby>をこの盃に付けてくれい。</sentence>
+<sentence>そしたらおれがこの酒を飲み干そう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>女王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>わたくしは<ruby rubyText="のど">咽</ruby>は<ruby rubyText="かわ">渇</ruby>きませぬ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence><sentence>（妃に。</sentence>
+）お前の娘のあの返事を聞いたかい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>もっともな返事だと存じます。</sentence>
+<sentence>なぜあなたはあの娘の顔ばかり見ておいでなさりますか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>熟した<ruby rubyText="くだもの">果物</ruby>を持って来い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence type="quasi">（果物を勧む。）</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence>さあ。</sentence>
+<sentence>サロメ。</sentence>
+<sentence>おれといっしょにこの果物を<ruby rubyText="た">喰</ruby>べえ。</sentence>
+<sentence>お前のその小さい歯で果物に付けた歯形を見るのがおれは大好だ。</sentence>
+<sentence>この果物を少しばかり<ruby rubyText="か">嚙</ruby>み切って喰べてみい。</sentence>
+<sentence>そうしたら残りをおれが喰ってしまおう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>女王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>わたくしはお<ruby rubyText="なか">腹</ruby>はすいておりませぬ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence><sentence>（妃に。</sentence>
+）お前の娘はよく教育がしてあるな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>娘もわたしも帝王の血を受けたのでござります。</sentence>
+<sentence>あなたはそれとは違って<ruby rubyText="らく">駱</ruby><ruby rubyText="だ">駝</ruby>を追って世渡りをした者の子にお生れなさった。</sentence>
+<sentence>駱駝を追ったばかりではない。</sentence>
+<sentence>あなたの父親は<ruby rubyText="ぬす">盗</ruby><ruby rubyText="びと">人</ruby>でござりました。</sentence>
+<sentence><ruby rubyText="おい">追</ruby><ruby rubyText="はぎ">剝</ruby>でござりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>それは噓だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>本当だという事はよく御存じのはずでござります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>サロメ。</sentence>
+<sentence>おれの<ruby rubyText="そば">傍</ruby>へ来て<ruby rubyText="すわ">坐</ruby>れ。</sentence>
+<sentence>お前の母のいつも坐る、この玉座に坐らせてやろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>女王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>わたくしは足はくたびれておりませぬ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>娘は礼儀を知っておりますから、あなたがそんな無作法な事をおっしゃっても、娘の方が聞きませぬ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>こりゃ。</sentence>
+<sentence><sentence>（間。</sentence>
+）おれは何か<ruby rubyText="いい">云</ruby><ruby rubyText="つけ">付</ruby>るはずであったが、つい忘れてしまった。</sentence>
+<sentence>そうそう。</sentence>
+<sentence>ようようの事で思い出した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>予言者の声。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>見い。</sentence>
+<sentence>時節は<ruby rubyText="とう">到</ruby><ruby rubyText="らい">来</ruby>した。</sentence>
+<sentence>予言は当った。</sentence>
+<sentence><ruby rubyText="さき">先</ruby><ruby rubyText="ごろ">頃</ruby>からおれの言った日は、いよいよ今日だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>あの男を黙らせて下さりませ。</sentence>
+<sentence>わたしはあの声が聞きとうござりませぬ。</sentence>
+<sentence>あの男は始終わたしの悪口ばかりを言っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>いや、お前の事なぞは言ってはいぬ。</sentence>
+<sentence>それにあれは大予言者だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>予言者というものの事はわたしは信じませぬ。</sentence>
+<sentence>未来でどんな事があるという事が誰にだって知れるはずはござりません。</sentence>
+<sentence>その上あの男は始終わたしの事ばかり悪くいっております。</sentence>
+<sentence>あなたのあれを弁護なさるのは恐いからでござりましょう。</sentence>
+<sentence>あなたはあれを恐がっておいでなさりますね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>王。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>何でおれがあんな男を恐れるものか。</sentence>
+<sentence>おれは誰をも恐れるという事はない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence>妃。</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>いいえ。</sentence>
+<sentence>あなたはあの男を恐がっておいでなさります。</sentence>
+<sentence>もし本当に恐がっておいでなさらぬなら、六ヶ月も前からあの男を渡してくれいと、猶太人等<sampling type="end" />が騒いでおるのに、なぜお渡しなさりませぬ。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

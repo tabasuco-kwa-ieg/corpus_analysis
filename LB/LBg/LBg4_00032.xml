@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00032" version="1.0" type="fixedLength">
+<article articleID="LBg4_00032_F001">
+<list>
+<listItem>
+<sentence>３　円の対称性から、弦の方向は一定と<sampling type="start" />考えても一般性は失わない。</sentence>
+<sentence>その方向に垂直な直径をＰＱ、中心ＯとＰの中点をＲ、ＯとＱの中点をＳとする。</sentence>
+<sentence>ＰＱ上の一点Ｘを通ってＰＱに垂直な弦ＹＺをひくとき、ＹＺの長さが内接正三角形の一辺より長くなるのは、図３よりわかるように、ＸがＲとＳの間にあるときである。</sentence>
+<sentence>また、任意に一本の弦をひくというのは、ＰＱ上に任意の一点をとることだと考えてなんらさしつかえない。</sentence>
+<sentence type="quasi">したがって求める確率は、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となる（これが図５）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　さて、以上を整理すると、ベルトランの逆説の解は、解釈の仕方（１、２、３）によって１／３、１／４、１／２と、三通り出てきた。</sentence>
+<sentence>同じ問題で答えが三つもあるのはおかしいのではないか、という疑問が出てきても不思議ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この問題はどう考えればよいのであろうか。</sentence>
+<sentence>三通りとも正しいのであろうか。</sentence>
+<sentence>それとも他の二つは誤っているのであろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、この問題をシュミレーション（模擬実験）を試みて解いてみることにする。</sentence>
+<sentence>解が三通りもあるのは、１、２、３における、任意という概念の解釈が違うからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこでまず、半径が１／２で、中心が（１／２．１／２）の円を考え、それに内接する正三角形の一辺の長さをＬとする。</sentence>
+<sentence>次に任意の弦をひくのであるが、それは円周上に任意の二点をポイントすることである。</sentence>
+<sentence>それには、まずｘ軸上に区間（０から１）までの乱数（無秩序な数字、普通は乱数表からとる）を発生させる。</sentence>
+<sentence>その後、ｙの値は必然的に<quote>「円の上」</quote>の点か<quote>「円の下」</quote>の点かの二通りに決まるから（図６）、上か下かはサイコロの丁半によって決める（たとえば丁なら上、半なら下、というように）。</sentence>
+<sentence>以上で、円周上の任意の一点（ｘ<subScript>１</subScript>、ｙ<subScript>１</subScript>）が決まる。</sentence>
+<sentence>同様にして、円周上の他の任意の一点（ｘ<subScript>２</subScript>、ｙ<subScript>２</subScript>）も決まる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにして任意の二点（ｘ<subScript>１</subScript>、ｙ<subScript>１</subScript>）（ｘ<subScript>２</subScript>、ｙ<subScript>２</subScript>）が定まると、弦の長さＺは次の式で求められる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　そして、ＺとＬの大小関係を比較し、［Ｚ＞Ｌ］ならば、問題の趣旨にあっているのでカウントする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、［Ｚ＜Ｌ］ならば、問題の趣旨に反しているのでカウントしない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにして、乱数にしたがってＮ個の弦を作り、前述した模擬実験を行う。</sentence>
+<sentence>その結果、Ｎ個の弦のうちｎ個の弦の長さが内接三角形の一辺の長さより大きくなれば、問題の解は次の式によって推定される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　そこで、実際にＮ＝１０<superScript>５</superScript>程度の模擬実験をコンピュータを使って試みたところ、結果は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となった。</sentence>
+<sentence>すなわち、模擬実験の結果は、１の解釈（１／３）と同じようになった。</sentence>
+<sentence>これによって、１の解釈がより一般性を有していると考えられるのだが、さて…。</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<paragraph>
+<sentence>　このようにして、パラドックスに満ちた確率の問題（ベルトランの逆説）は解決された。</sentence>
+<sentence>そこで、それを記念して、アスカ高原地上絵解読委員会は、図６の絵を三つ<sampling type="end" />の地上絵の隣りに並べ、アスカ高原地上絵の一つに加えることにした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00024" version="1.0" type="fixedLength">
+<article articleID="LBl3_00024_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />案内</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>長野県宮田村と上松町との境、ＪＲ飯田線駒ヶ根駅からバスでしらび平、ロープウエーで千畳敷駅、さらに歩いて１時間。</sentence>
+<sentence type="quasi">２万５千分の１図：木曽駒ヶ岳</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</article>
+<article articleID="LBl3_00024_F002">
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="みなみ">南</ruby><ruby rubyText="こま">駒</ruby><ruby rubyText="が">ヶ</ruby><ruby rubyText="たけ">岳</ruby>（二八四一メートル）の祠</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>静かな縦走が楽しめる<quote>「南の駒ヶ岳」</quote>。</sentence>
+<sentence>春先には五人坊主の雪形も現れる。</sentence>
+<br type="automatic_original" />
+</abstract>
+<paragraph>
+<sentence>　中央アルプスのほぼ中央にあり、北に<ruby rubyText="うつぎ">空木</ruby><ruby rubyText="だけ">岳</ruby>、南に<ruby rubyText="せん">仙</ruby><ruby rubyText="がい">涯</ruby><ruby rubyText="れい">嶺</ruby>にはさまれ、山頂は緑のハイマツと岩稜との対比が人の目をとらえる。</sentence>
+<sentence>ロープウエーのある木曽駒ヶ岳から空木岳辺りまでは縦走するパーティーも多いが、この山域に入ると人はグンと少なくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　縦走路は頂上付近で伊那川ダムへの道を分け、三差路になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その三差路の大岩のかげに、黒い屋根の南駒ヶ岳神社の祠がある。</sentence>
+<sentence>風に飛ばされないよう、祠の両側は石が積まれ、岩盤に打ち込まれたボルトに針金で留められている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　祠は伊那側を向いており、明らかに飯島町の人たちによって建てられたもの。</sentence>
+<sentence>『飯島町誌』下巻によれば、一九二一（大正十）年に飯島青年会が初めて登ったときには、すでに祠があったという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　おそらく、木曽側の人たちによって建てられたものではないかとされているが、伊那側からの登山道ができてからは、飯島青年会が祠の修復、改築を行ってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一九四〇（昭和十五）年、南駒ヶ岳神社奉讃会が中心になり、登山口の市の瀬に高さ七〜八メートル、柱一メートルの大鳥居を建立し、参詣登山が行われたが、今はその礎石だけが残っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高山植物がきれいに咲く<ruby rubyText="すり">摺</ruby><ruby rubyText="ばち">鉢</ruby><ruby rubyText="くぼ">窪</ruby>カール上部には春先、<quote>「五人坊主」</quote>の雪形が現れ、伊那谷の人々の春の農作業（ダイズ、ヒエ、アワなどの種まき）の目安になっていた。</sentence>
+<sentence>また赤椰岳との間にある摺鉢窪避難小屋は、一九二九（昭四）年に百二十人の地元の山岳会や山の案内人組合の人たちによって建設されたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　祠のゆるみかかった針金やはがれた板などを整理し、さい銭をあげて出発したのが午前十時。</sentence>
+<sentence>奇っ怪な岩峰が並ぶ仙涯嶺を過ぎるころははりつめていたガスもあがり始め、陽がさし始めた。</sentence>
+<sentence><ruby rubyText="こす">越</ruby><ruby rubyText="も">百</ruby><ruby rubyText="やま">山</ruby>へのなだらかな道ばたにガンコウランの実が熟している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　甘酸っぱい実を口いっぱいにほおばりながら、昼過ぎには越百小屋跡の広場にテントを張り、雨具などを乾かすことができた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">案内</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>長野県飯島町と大桑村との境、ＪＲ中央本線倉本駅から歩いて１４時間で南駒ヶ岳。</sentence>
+<sentence type="quasi">２万５千分の１図：空木岳</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</article>
+<article articleID="LBl3_00024_F003">
+<titleBlock>
+<title>
+<sentence type="quasi">木曽<ruby rubyText="おん">御</ruby><ruby rubyText="たけ">嶽</ruby><ruby rubyText="さん">山</ruby>（三〇六七メートル）・御嶽神社</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>御嶽神社のある剣ヶ峰を初め、摩利支天山、継母山、継子山などがあり、今でも白装束の信者の姿が見られる。</sentence>
+<br type="automatic_original" />
+</abstract>
+<paragraph>
+<sentence>　木曽の御嶽山には各所に<ruby rubyText="れい">霊</ruby><ruby rubyText="じん">神</ruby><ruby rubyText="ひ">碑</ruby>が並ぶ。</sentence>
+<sentence>霊神碑は、修行を積んだ行者が死後、霊のおさまる霊場（墓所）に建てる石碑。</sentence>
+<sentence>江戸時<sampling type="end" />代の御嶽行者・一心行者も<quote>「御嶽を信仰するものは、死後御嶽の童子として霊魂を山に引き取ってもらえる」</quote>といっており、霊神碑は今でも増え続けている。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00016" version="1.0" type="fixedLength">
+<article articleID="LBq0_00016_F001">
+<paragraph>
+<sentence>　ここでは、図Ⅱ‐２のロボットのいくつかについて、<sampling type="start" />何故、これらのロボットを研究の対象として選んだのか、また、実際には、どのような知能が必要であったかを簡単に述べよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それぞれについての詳しい説明は、次の章で述べるので、ここでは、研究目的を中心に、そのロボットを選んだ理由などを紹介する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これからは、パーソナルロボットやホームロボットも普及してくるであろうが、それらに、われわれユーザーが、いろいろな知能を付け加えて行くことができれば素晴らしいと思うが、それは、それほど簡単なことではないということを理解していただき、基本的にはどのようなプロセスが必要なのかを分かっていただくためにも、ここで取り上げるようなロボットについての説明が役立つであろうと考えている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ロボットに、何か作業を行わせようと計画するとき、それに必要な知能を、人間の動作の観察、分析などから導き出し、ロボットのための知能を設計することが最初に必要なことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　けん玉ロボットの知能は、動的力を考慮した運動制御であった。</sentence>
+<sentence>動的力とは、静止していれば存在しないが、動きがあるために生じる力のことである。</sentence>
+<sentence>工業用ロボットの制御法では、けん玉は出来ない。</sentence>
+<sentence>工業用ロボットの運動制御は、与えられた軌道に沿うように命令される位置制御である。</sentence>
+<sentence>動きが遅い場合は、この制御で十分正確に軌道に沿った動きを実現できるが、動きが速いと（けん玉の場合は、スタートから玉を受けるまで〇・六秒という速さ）、遠心力やコリオリ力（六七頁参照）などの慣性力が位置制御に対する外乱になる。</sentence>
+<sentence>この外乱が大きくなると、位置制御だけでは望ましい運動を実現できなくなってしまう。</sentence>
+<sentence>けん玉を行うには、ロボットの指先を、正しい軌道にそって動かす必要がある（<sentence>玉を受ける皿はロボットの指先に取り付けられている。</sentence>
+<sentence>玉は、指先から糸でつり下げられている。</sentence>
+<sentence type="quasi">ロボットの構造については、図Ⅲ‐１参照</sentence>
+）。</sentence>
+<sentence>そこで、この外乱を常に積極的に打ち消そうとするのが、けん玉ロボットの知能なのである。</sentence>
+<sentence>遠心力やコリオリ力などの慣性力を打ち消すような力が出るように、肩や肘にあるモータに計算された電流を流してやるわけである。</sentence>
+<sentence>この知能により、それほど精度良くは作られていない学生の手作りロボットでも、九〇％以上の成功率でけん玉（振り上げた玉を皿で受ける）を行わせることができた。</sentence>
+<sentence>ＴＶカメラを備えて、画像処理によって玉の動きを追いかけるようにすれば、九五％以上の成功率になった。</sentence>
+<sentence>詳しい説明は、第Ⅲ章第１節で述べるが、このロボットに必要な知能は、<quote>「早く、正確に動く知能」</quote>とでもいうべきものであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ヨーヨーロボットの知能も、面白いものだった。</sentence>
+<sentence>単<sampling type="end" />なる運動のための知能のみでなく、適応する知能も必要であるという発見もあった。</sentence>
+</paragraph>
+</article>
+</sample>

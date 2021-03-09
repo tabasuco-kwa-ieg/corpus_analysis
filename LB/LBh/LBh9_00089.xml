@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh9_00089" version="1.0" type="fixedLength">
+<article articleID="LBh9_00089_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「承知しました。</sentence>
+<sentence type="quasi">お宅が暇な時<sampling type="start" />に、金どんをうちに寄こしなさい」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「金どんを手放すと決めた以上は、店に縛りつけたくないので、さっそく頼みます。</sentence>
+<sentence type="quasi">いくら金どんが利発でも、時計の方はズブの素人ですからね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「では、これから始めましょう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　辻粂吉と小林伝次郎は金太郎抜きで、このようなやりとりを交わした。</sentence>
+<sentence>金太郎にとって、それは願ってもないことであった。</sentence>
+<sentence type="quasi">小林時計店に残った金太郎に、伝次郎は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「修繕の手ほどきは無理なので、時計の成り立ちを話してあげよう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そう前置きして、時計の歴史を語り始めた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　大昔の人間は時間を計るのに、陽の影や水の落下速度を用いる、という極めて原始的な方法に頼っていた。</sentence>
+<sentence>日本で<quote>「<ruby rubyText="ろう">漏</ruby><ruby rubyText="こく">刻</ruby>」</quote>と呼ばれる水時計が初めて作られたのは、『日本書紀』によれば<ruby rubyText="さい">斉</ruby><ruby rubyText="めい">明</ruby>天皇六年（六六〇）、時の皇太子、<ruby rubyText="なかの">中</ruby><ruby rubyText="おおえの">大兄</ruby><ruby rubyText="おう">皇</ruby><ruby rubyText="じ">子</ruby>によってであった。</sentence>
+<sentence>その後、大宝元年（七〇一）に発せられた大宝律令に、<quote>「陰陽寮に楼台を設け、漏刻博士二人守辰十二名、漏の節を伺ふことを司り、時毎に鐘鼓を打つて時を報ぜしむ」</quote>と記されているように、<ruby rubyText="ときもりの">漏刻</ruby><ruby rubyText="はかせ">博士</ruby>が朝廷に詰めるようになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　天平七年（七三五）には、<ruby rubyText="きびの">吉備</ruby><ruby rubyText="まき">真</ruby><ruby rubyText="び">備</ruby>が唐から新しい型の漏刻を持ち帰っている。</sentence>
+<sentence>ヨーロッパ大陸でも、その始まりは同じく水時計や日時計だったが、イタリアのガリレオ・ガリレイが一五九二年（文禄元年）頃、教会の<ruby rubyText="つり">釣</ruby><ruby rubyText="どう">燈</ruby><ruby rubyText="ろう">籠</ruby>が揺れるのを見上げながら、<quote>「一つの振り子は、大きく揺れても小さく揺れても同じ時間で揺れる」</quote>ことを発見し、その<quote>「振り子の等時性」</quote>を基に振り子時計が作られた。</sentence>
+<sentence>一六五六年（明暦二年）のことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この振り子を動かすためのゼンマイが発明されて、時計は大きな進歩を見た。</sentence>
+<sentence>ヨーロッパの時計が日本に初めて持ち込まれたのは天文二十年（一五五一）、スペインの宣教師フランシスコ・ザビエルによってであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　ザビエルは布教の許しを得るために、持参した時計を<ruby rubyText="おお">大</ruby><ruby rubyText="うち">内</ruby><ruby rubyText="よし">義</ruby><ruby rubyText="たか">隆</ruby>に献上したが、それについて『大内義隆記』は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence>と、記している。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　江戸時代に入って、徳川家康は慶長十一年（一六一一）、司教代理のジュアンから<ruby rubyText="とけい">自鳴鐘</ruby>を献上された。</sentence>
+<sentence type="quasi">翌年、スペインの国王フィリップ三世から、家康に贈られた置時計の裏側には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi">　「一五八一年、スペインのマドリッドにおいて、ハンス・デ・エヴァワスが作製した」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<sentence>と、刻字されていた。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　家康は朝鮮からも自鳴鐘を贈られたが、それが故障した時、尾張から鍛冶工の津田助左衛門を駿府に呼んで修理させた。</sentence>
+<sentence>後に助左衛門は、この自鳴鐘をモデルに新しい時計を作り、それが縁で尾張藩の御時計師に召し抱えられた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　器用な日本人は、それらの時計の模倣から始めて、日本独自の時計を作るようになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いわゆる<quote>「和時計」</quote>だが、その形状から<ruby rubyText="やぐら">櫓</ruby>時計、<ruby rubyText="かぎ">鉤</ruby>時計、枕時計などと呼ばれた。</sentence>
+<sentence><ruby rubyText="たい">太</ruby><ruby rubyText="いん">陰</ruby><ruby rubyText="れき">暦</ruby>、つ<sampling type="end" />まり月の満ち欠けに基づく時刻は、昼間と夜間の長さが異なるため、その調節は振り子の錘に依った。</sentence>
+</paragraph>
+</article>
+</sample>

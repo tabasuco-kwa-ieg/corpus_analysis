@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm0_00006" version="1.0" type="fixedLength">
+<article articleID="LBm0_00006_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">アンジェリ<sampling type="start" />ーナ（Ａｎｇｅｌｉｎａ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>このウイルスは、常駐型でディスクのブートセクタに感染する。</sentence>
+<sentence>感染したディスクを起動するとウイルスはメモリーに常駐する。</sentence>
+<sentence>メモリーに常駐したウイルスは、ディスクアクセスを監視し、アクセスしたディスクに感染する。</sentence>
+<sentence>このウイルスは感染するだけで発病はしない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アンチシーモス（Ａｎｔｉ‐ＣＭＯＳ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>常駐型でブートセクタに感染する。</sentence>
+<sentence>ＩＢＭ‐ＰＣ及び互換機で感染したディスクを起動するとウイルスはメモリーに常駐する。</sentence>
+<sentence>メモリーに常駐したウイルスは、ディスクアクセスを監視し、アクセスしたディスクへ感染する。</sentence>
+<sentence>ＩＢＭ‐ＰＣ及びその互換機以外のシステムディスクに感染するとそのディスクは起動不可能になる。</sentence>
+<sentence>このウイルスに感染したデータディスクから起動すると暴走する（コンピュータ内のＣＭＯＳを破壊するような命令が存在することからこの名前が付けられたがその命令は動作しない）。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アンチテレフォニカ（Ａｎｔｉ‐ＴＥＬＥＦＯＮＩＣＡ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ブートセクタ感染型で、システム起動時に常駐する。</sentence>
+<sentence>発病は感染システムで４００回起動をかけた時、ディスクの大部分が無意味なデータが書き込まれ破壊される。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">イスラエル型（Ｔｙｐｅ　ｏｆ　Ｊｅｒｕｓａｌｅｍ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>常駐型ウイルス。</sentence>
+<sentence>ＭＳ‐ＤＯＳのプログラム（ＣＯＭおよびＥＸＥファイル）に感染し、約１．８Ｋバイトファイルサイズを増加させる。</sentence>
+<sentence>１３日の金曜日には実行したプログラムを削除する。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">インベーダー（Ｉｎｖａｄｅｒ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>常駐型ウイルス。</sentence>
+<sentence>実行ファイル（ＣＯＭおよびＥＸＥファイル９に感染するがＣＯＭＭＡＮＤ．ＣＯＭには感染しない。一定時間が過ぎると音楽を演奏する（ＣＰＵがｉ８０２８６の場合は演奏しない）。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ウィンナー（Ｖｉｅｎｎａ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>非常駐型ウイルス。</sentence>
+<sentence>実行ファイル（ＣＯＭファイル）に感染する。</sentence>
+<sentence>ウィンナーウイルスには様々な亜種があるが、感染したプログラムを実行すると、システムにリセットをかけることがある。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ウォンカ（Ｗｏｎｋａ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>このウイルスは、常駐型でディスクのブートセクタに感染する。</sentence>
+<sentence>感染したディスクを起動するとウイルスはメモリーに常駐する。</sentence>
+<sentence>ファイルに常駐したウイルスは、ディスクアクセスを監視し、アクセスしたディスクに感染する。</sentence>
+<sentence>このウイルスは感染するだけで発病はしない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">エアーコップ（Ａｉｒｃｏｐ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＩＢＭ‐ＰＣ及びその互換機で感染する。</sentence>
+<sentence>常駐型でフロッピーディスクのブートセクタに感染する。</sentence>
+<sentence>感染回数をカウントしており、感染回数が８の倍数になると、発病し、画面にメッセージ<quote>「．ＲＥＤ　ＳＴＡＴＥ　Ｇｅｒｍ　ｏｆｆｅｎｓｉｎｇ…Ａｉｒｃｏｐ」</quote>を表示する。</sentence>
+<sentence>感染が行われると、対象フ<sampling type="end" />ロッピーディスクのブートセクタを強制的に書き換えるため、システムが起動できなくなる場合がある。</sentence>
+</article>
+</sample>

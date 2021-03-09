@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00049" version="1.0" type="fixedLength">
+<article articleID="LBs3_00049_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">厚生年金だけでこれだけあれば<sampling type="start" />受給資格がある</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　国民年金と厚生年金とで二五年よりも、厚生年金だけで二五年の方が年金額が多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">短期加入の厚生年金でも、他の年金やカラ期間を含め二五年あれば受給できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　加入期間が短いので、年金をもらえるかどうか不安。</sentence>
+<sentence>こういう人の受給資格を判断するときには、年金知識が必要である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この項目では、昭和五年四月二日以降に生まれた人が加入した短期の<quote>「厚生年金」</quote>や<quote>「国民年金」</quote>について、話をすすめてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　昭和五年四月二日以降に生まれた人なら、厚生年金や国民年金の期間が<quote>「一か月」</quote>でも年金として受給できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし、つぎにあげる期間を合算して<quote>「二五年以上」</quote>あることが必要要件となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　厚生年金に加入した期間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　国民年金に加入した期間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　共済年金に加入した期間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　カラ期間</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　なお、厚生年金と共済年金に加入した人なら<quote>「二〇年」</quote>あれば、受給資格が確立する（昭和二七年四月一日以前に生まれた人）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例をあげてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ子さんは専業主婦で夫はサラリーマンである。</sentence>
+<sentence type="quasi">Ａ子さんの加入したのは、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　結婚前の厚生年金が六か月。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　年金法が変わり、昭和六一年四月から加入した国民年金が八年。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　たった<quote>「六か月加入の厚生年金」</quote>や<quote>「八年の国民年金」</quote>が受給できるのは<quote>「カラ期間」</quote>のお陰。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ子さんの場合は、カラ期間を含めて<quote>「二五年以上」</quote>あるから、短期加入の厚生年金や国民年金を受給できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この反対に、一三年かけた厚生年金を受給できないのはＢ夫さん。</sentence>
+<sentence>理由は、Ｂ夫さんは、国民年金を滞納したためである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ子さんの年金歴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　カラ期間を含め２５年以上の期間があるから６か月の厚生年金と８年の国民年金を受給できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｂ夫さんの年金歴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　厚生年金期間が１３年あるが、２０年に不足しているので、１３年の厚生年金はもらえない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">年金額の算出に使用される用語だけでも理解するのに一苦労</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　年金額の算出に当たって、使用される年金用語を憶えるだけでも容易なことではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この項目では、老後の年金である特別支給の老齢厚生年金、老齢基礎年金、老齢厚生年金、在職老齢年金の用語の解説をする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>・　特別支給の老齢厚生年金…新法に基づいて支給される老後の厚生年金をいう。</sentence>
+<sentence>この特別支給の老齢厚生年金は六五歳未満の人に支給される厚生年金で、六五歳を過ぎると、この特別支給の老齢厚生年金は、老齢基礎年金と、老齢厚生年金とに分かれる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　特別支給の老齢厚生年金は、定額部分の年金、報酬比例部分の年金、加給年金、特別加算の部分年金で構成される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>定額部分の年金…定額部分の年金とは、国民年金から支給される老齢基礎年金に相当する年金である。</sentence>
+<sentence>ただし、老齢基礎年金は六五歳から支給されるので、六五<sampling type="end" />歳に達するまでは、厚生年金から定額部分の年金として支給される。</sentence>
+</listItem>
+</list>
+</listItem>
+</list>
+</article>
+</sample>

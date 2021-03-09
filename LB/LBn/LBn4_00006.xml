@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn4_00006" version="1.0" type="fixedLength">
+<article articleID="LBn4_00006_F001">
+<paragraph>
+<sentence>平成元年（一九八九）に実験放送のはじまったハイビジョンの走査線数は、これまでの約二倍の一一二五本であり、画面の縦横比もこれまでの三対四から九<sampling type="start" />対一六横長になり、よりきれいで見やすくなる。</sentence>
+<sentence>高柳はこういった日本のテレビ時代の先がけとなった人である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">武藤　清</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　関東大地震による惨状を目にした武藤は、耐震建築の研究に精力を注ぎ、地震や建物の固有周期に目をつけた。</sentence>
+<sentence>その研究によって、日本に固有な土地問題を解決し、地震や台風にも強い超高層ビルの建設が可能になった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">武藤　清</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（１９０３〜１９８９）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">超高層ビル建築の基礎を築いた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　東京や大阪などの日本の大都市で、地上一〇〇メートル以上にそそり立ち、しかも地震などに強い超高層ビルが続々と建てられている。</sentence>
+<sentence>しかし日本では、昭和三八年（一九六三）七月まで、建物の高さは三一メートル（一〇〇尺）に制限されていた。</sentence>
+<sentence>その法律が改正された二年後の昭和四〇年八月に、わが国で最初の超高層ビルである霞が関ビルの建設がはじめられている。</sentence>
+<sentence>それは三井不動産が計画し、鹿島建設が建てたビルである。</sentence>
+<sentence>この霞が関ビルの建設に深く関係し、わが国の超高層ビル建築の基礎を築いたのが武藤清である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　武藤は、明治三六年（一九〇三）に現在の茨城県取手市で生まれた。</sentence>
+<sentence>彼がまだ二〇歳で、東京帝国大学工学部建築学科の学生だった大正一二年（一九二三）九月一日に関東大地震がおきた。</sentence>
+<sentence>家屋の全半壊約二五万戸、焼失家屋約四五万戸、行方不明を入れた死者約一四万人、物的損害の総額約五〇億円（当時の国家予算は約一五億円）という大きい被害をもたらした大地震であった。</sentence>
+<sentence>このとき廃虚となった東京の惨状に大きなショックを受け、武藤は耐震建築の研究を自分のライフワークにしようと決心した。</sentence>
+<sentence>大学に残って教授となり、研究と教育をつづけている間に第二次世界大戦がおき、東京はふたたび焦土と化した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　終戦とともにどっと入ってきた情報によって、武藤は戦争中のアメリカで耐震建築の研究が飛躍的に進歩したことを知った。</sentence>
+<sentence>強震計の開発とコンピューターの実用化である。</sentence>
+<sentence>地震の際の地面や建物のゆれを記録する装置が地震計である。</sentence>
+<sentence>しかしこれまでの地震計では、たとえば関東大地震のような大地震の際には、地震計の針が<quote>「振り切れて」</quote>しまい、ものの役に立つ記録がとれなかった。</sentence>
+<sentence>そういう心配のない地震計が強震計である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうして得られた記録をコンピューターで処理すると、次々にやってくる地震波の周期と<ruby rubyText="しん">振</ruby><ruby rubyText="ぷく">幅</ruby>が速いスピードで正確に分析される。</sentence>
+<sentence>耐震建築の設計にはこの二つを欠くことができないと考えた武藤は、その研究に没頭した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　研究している間に、地震や建物の固有周期の実態がはっきりとしてきた。</sentence>
+<sentence>地面の固有周期は、かたい地盤では短く、やわらかい地盤では長い。</sentence>
+<sentence>たとえば東京の山<sampling type="end" />の手の地盤はかたく、その周期は約〇・三秒である。</sentence>
+</paragraph>
+</article>
+</sample>

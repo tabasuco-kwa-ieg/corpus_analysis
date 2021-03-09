@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00155" version="1.0" type="fixedLength">
+<article articleID="LBk3_00155_F001">
+<paragraph>
+<sentence>　<sampling type="start" />しかし、ＮＴＴにおける電気通信機械設備や線路設備については、個々の構成部品でみるのではなく、ネット全体で機能するものですから、２０万円基準の適用はなく、１円以上が固定資産ということになります（端末設備については２０万円基準適用）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この２０万円基準で問題となるのは、<quote>「一式」</quote>の考え方です。</sentence>
+<sentence>法人税法における規定は次の通りです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【法人税法基本通達７‐１１‐１１】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　令第１３３条《小額の減価償却資産の取得価額の損金算入》の規定を適用する場合において、取得価額が２０万円未満であるかどうかは、通常１単位として取引されるその単位、例えば機械及び装置については１台又は１基ごとに、工具、器具及び備品については１個、１組又は１そろいごとに判定し、構築物のうち例えば枕木、電柱等単体では機能を発揮できないものについては１の工事等ごとに判定する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、次のような事例があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">《事例１》</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パソコンと専用プリンターを購入した。</sentence>
+<sentence>デスクの上で使用していたが、作業効率が悪いので、専用のラックを後で購入した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">《事例２》</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　応接セットを購入した。</sentence>
+<sentence>しかし、打合せの際に椅子が足りなくなったので買い足した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<paragraph>
+<sentence>　事例のようなことは日常的に起こるものです。</sentence>
+<sentence>この一式判断は、当初購入時点において取得目的を満足しているかどうかによります。</sentence>
+<sentence>満足していれば、その後の購入については個別に２０万円基準で判断します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　事例１においては、プリンタがないところにパソコン本体のみを購入し、時期をずらしてプリンターを購入するといったように個別に２０万円基準を適用することは、故意的であり、税務否認されかねません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この事例の場合は、<enclosedCharacter description="○">１</enclosedCharacter>と<enclosedCharacter description="○">２</enclosedCharacter>は一式となるので固定資産に計上し、<enclosedCharacter description="○">３</enclosedCharacter>は新たに発生した取得目的と考えられますので、２０万円基準を適用し費用処理します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　事例２の場合は、それぞれが取得目的を満足していますから、２０万円基準を採用し、個別に費用処理をします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　ＮＴＴにおける固定資産の体系</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＮＴＴにおける固定資産は、本社経理部長が定める<quote>「固定資産整理区分及び財産単位表」</quote>において次のように整理されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　整理区分表は、実体管理及び価値管理の要請から、膨大で多種にわたる固定資産を如何に管理していくかという観点から整理されたものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　ＮＴＴの固定資産の体系において、実体管理及び価値管理の基本単位とされるのが<quote>「細分」</quote>と呼ばれるものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　細分は、内訳本体と附属構成品からなっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、コンクリート柱という細分の場合は、支線、支線柱等の構成品を含めたもので実体管理（プラレコ又は現況調査等）及び価値管理（つまり価額計算）を行う<sampling type="end" />ものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

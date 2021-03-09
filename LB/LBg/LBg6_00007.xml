@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg6_00007" version="1.0" type="fixedLength">
+<article articleID="LBg6_00007_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">３１　あの手この手の思<sampling type="start" />案が実り</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　気はたいへん大きく重い物です。</sentence>
+<sentence>たとえば、直径四〇センチ、樹高二一メートル程度の木になると、その重さは地上部だけで一・五トンにもなります。</sentence>
+<sentence>また、木の生えている所はたいてい斜面であり、平均傾斜四〇度以上の場所もあります。</sentence>
+<sentence>このように険しい所から、木材をどのようにして運んでいるのかお話しします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　平均傾斜〇〜二〇度の所では、車両（スキッダーやフォワーダー）を使用して木材を運び出します。</sentence>
+<sentence>スキッダーは木材を全幹（枝を払った幹だけの木）または全木（枝を払っていない木）の状態で牽引します。</sentence>
+<sentence>フォワーダーは切りそろえた木材を積載して走行します。</sentence>
+<sentence>このような車両を使用するトラクター集材は、林道や作業道（ブルドーザーなどで造る簡単な道）がある程度造ってあれば準備にたいした手間がかからず、機動性も良いという長所をもっています。</sentence>
+<sentence>このため、かつては集材作業の大勢を占めた架線集材は漸減し、緩傾斜地ではトラクター集材が増加する傾向にあります。</sentence>
+<sentence>しかし、車両が林地を走り回ったり、作業道をつけたりすることで、林地を荒らしてしまうこともあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　斜面の平均傾斜が二〇度以上になると車両で走行するのは危険ですし、作業道をつけるのも困難になってきます。</sentence>
+<sentence>このように険しい所では、架線集材がよく使われます。</sentence>
+<sentence>架線集材は山に張ったワイヤロープを利用して木材を運び出す作業方法です。</sentence>
+<sentence>さまざまなワイヤロープの張り方があり、日本ではバリエーションまで含めると一〇〇種類以上あるといわれています。</sentence>
+<sentence>そのなかでも代表的なのがエンドレスタイラー式やダブルエンドレス式で、集材現場に行くとよく見かけます。</sentence>
+<sentence>架線集材はワイヤロープを何本も山に張らなければならないため、準備にかかり手間がかかります。</sentence>
+<sentence>しかし、木材を空中で輸送するため林地をあまり荒らさないという長所もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ほかの方法では接近することが困難な奥地林から木材を運び出す方法や、林地を荒らさずに運び出したい場合はヘリコプターを用いることがあります。</sentence>
+<sentence>ヘリコプター集材は、どんな所からでも早く木材を運び出せるのですが、チャーター料が高いため材価の高い木材でないとなかなか採算が合いません。</sentence>
+<sentence>また天候に左右されやすく、雨、霧、強風（一〇メートル／秒以上）のときは稼働できません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">集材手段のいろいろ（新編<quote>「集材機索張り図集」</quote>，１９７０より改変）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<authorsData>
+<sentence type="quasi">（朝日一司）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBg6_00007_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">３２　ツルがものをいう木の倒し方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　森林に生育している立木を切り倒す仕事を伐倒作業と呼びます。</sentence>
+<sentence>伐倒する手段として以前は<ruby rubyText="おの">斧</ruby>や<ruby rubyText="のこぎり">鋸</ruby>が使われていました。</sentence>
+<sentence>昭和三〇年代初期ごろからチェーンソーの使用が盛<sampling type="end" />んになり、現在ではこの方法が一般的となっています。</sentence>
+</paragraph>
+</article>
+</sample>

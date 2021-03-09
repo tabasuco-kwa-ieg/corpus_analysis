@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk8_00004" version="1.0" type="fixedLength">
+<article articleID="LBk8_00004_F001">
+<paragraph>
+<sentence>【現代の仮名】仮名の字母表としても見られるものに<quote>「いろは」</quote>があるが、そこに示される字<sampling type="start" />母の数は<quote>「ん」</quote>を加えて総計四八である。</sentence>
+<sentence>しかしこれは、この歌が作成された平安時代の状況を反映するからであって、その後の音韻変化の結果、<quote>「現代仮名遣い」</quote>では<quote>「ゐ」</quote><quote>「ゑ」</quote>を除いて四六字が（清音）仮名として用いられる。</sentence>
+<sentence>原則として一字が一音節に対応する音節文字であるが、<noteMarker text="＊" />濁音、<noteMarker text="＊" />半濁音の音節は右の清音仮名に符号を加えることで示し、その他、<noteMarker text="＊" />促音節を<quote>「っ」</quote>で、長音節・<noteMarker text="＊" />拗音節を二字以上の組み合わせで示したり、また<quote>「は」</quote><quote>「へ」</quote><quote>「を」</quote>を助詞の表記に用いたりする点は、この原則に反していて、むしろ<noteMarker text="＊" />表意文字的であるとも言える。</sentence>
+<sentence>この表意性は一面で歴史的仮名遣いにおいては一層強かったが、仮名という文字は、平安時代以後に変化したり新しく発生したりした音韻に対応する記号をいちいち創作することはせず、既存の字母を工夫することで済まそうとしてきた傾向が強い。</sentence>
+<sentence>最近のヴ・<substitution x0213="1-05-87" unicode="30AB,309A">カ</substitution>などもその例である。</sentence>
+<sentence>【沿革】<quote>「かな」</quote>という呼称は、もと<quote>「かりな」</quote>（<quote>「な」</quote>は字の意）が<quote>「かんな」</quote><quote>「かな」</quote>と転じたものとされる。</sentence>
+<sentence>すなわち、表意文字である漢字を、<noteMarker text="＊" />仮借の方法によって表音的に借り用いて日本語の表記に宛てた万葉仮名にその起源がある。</sentence>
+<sentence>もとの漢字が、<ruby rubyText="ま">真</ruby><ruby rubyText="な">名</ruby>すなわち本字であり<ruby rubyText="はれ">晴</ruby>の文字であるに対して、この仮名は<ruby rubyText="け">褻</ruby>の文字としての性格を持つという認識は、それ以来長くこの文字につきまとう。</sentence>
+<sentence>公式の文書は総て漢文で書かれるのであって、仮名が用いられるのは私的な世界（たとえば歌・私信・注解などの実用文等）に限るという状況は長く続いた。</sentence>
+<sentence>漢文を訓読するという場合も勿論その例外ではない。</sentence>
+<sentence>しかしまた、一面この私的な性格は、仮名という文字の形体及び用法における自由を許容することにもなった。</sentence>
+<sentence>万葉仮名は、一つの音節に対して多いものは三〇余字を宛てることができるなど、その総数は夥しいものであったが、これを実用上の必要と、また一面は美的要求という観点とから、次第に整理し加工して、その結果ここに、その用途に応じて平仮名・片仮名という二種類の体系が成立することになった（それでもなお平仮名にも片仮名にも<noteMarker text="＊" />異体の文字は少なくなかったが、明治三三年の小学校令によって現行の字体に統一された）。</sentence>
+<sentence>こうした仮名字体の変化は、当然これによって記される文章の質的変化と相関し、仮名文による自由な表現が平安文学の達成を単純にしたが、なおそこに見られる論理性や表意性の不足を補うものとして漢語的要素の摂取の必要が感じられるようになり、両要素の融合した和漢混淆文に基づく漢字仮名交じり文が現行日本語文の基本となった。</sentence>
+<sentence>機能を分担する二種類の仮名に更に漢字を用いる日本語の表記体系は、他に類の<sampling type="end" />ないぜいたくなものと言わなければならない。</sentence>
+</paragraph>
+</article>
+</sample>

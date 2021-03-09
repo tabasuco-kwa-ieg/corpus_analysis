@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi1_00023" version="1.0" type="fixedLength">
+<article articleID="LBi1_00023_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">第６<sampling type="start" />章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">組織の中のコンビ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">笑いが組織を活性化する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>弟や妹は怖いものなしのトリックスター。</sentence>
+<sentence>組織では彼らがコンビ成功のカギを握る。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">１●　お笑いが呼ぶ好感度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「歌は世につれ、世は歌につれ」</quote>というのは歌謡番組が沢山あった頃にいえるセリフ。</sentence>
+<sentence>トークショーやバラエティ番組がやたら幅をきかせる昨今、このセリフは説得力に欠ける。</sentence>
+<sentence>いい換えるとすると、<quote>「タレントは世につれ、世はタレントにつれ」</quote>ということにでもなろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＮＨＫは昭和５３年（’７８年）から毎年、全国の視聴者を対象に<quote>「好きなタレント・ベスト１０」</quote>の調査を行なっている。</sentence>
+<sentence>男性部門の場合、当初は、水谷豊（弟）、加藤剛（ひとりっ子）、石原裕次郎（弟）、加山雄三（兄）、渡哲也（兄）などというように、<quote>「兄弟型」</quote>にかかわらず、二枚目が主流を占めていたが、これは時代が二枚目を求め、一般の社会でも二枚目でマジメな青年がカッコいいともてはやされていたことの反映である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それでは、平成５年（９３年）の同調査ではどんなタレントが選ばれているのだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">’９３年度タレント好感度ベスト１０と<quote>「兄弟型・姉妹型」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■　男性部門</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<paragraph>
+<sentence>　勇気ある<quote>「がん告白」</quote>の後、闘いに力尽きたマジメ派の<enclosedCharacter description="○">３</enclosedCharacter>逸見さんを別にすると、上位７位までが<quote>「お笑い系」</quote>で独占されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、コンビ芸の<enclosedCharacter description="○">６</enclosedCharacter>ダウンタウン、<enclosedCharacter description="○">７</enclosedCharacter>とんねるずはもちろんのこと、<enclosedCharacter description="○">１</enclosedCharacter>ビートたけしにしてもその芸は、上位の<enclosedCharacter description="○">２</enclosedCharacter>さんま、<enclosedCharacter description="○">３</enclosedCharacter>逸見、<enclosedCharacter description="○">４</enclosedCharacter>所さんとのコンビによってアピールするケースがほとんどで、要約すれば<quote>「好感度」</quote>はコメディアンのコンビによって得ることができるとさえいえるそうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■　女性部門</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　山田邦子　<quote>「妹」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　森口博子　<quote>「妹」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　和田アキ子　<quote>「姉」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　森光子　<quote>「姉」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　三田佳子　<quote>「姉」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　久本雅美　<quote>「姉」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter>　泉ピン子　<quote>「ひとりっ子」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">８</enclosedCharacter>　観月ありさ　<quote>「妹」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">９</enclosedCharacter>　西田ひかる　<quote>「ひとりっ子」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１０</enclosedCharacter>　賀来千香子　<quote>「妹」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　女性部門も<quote>「姉妹型」</quote>対比では姉と妹が拮抗しているが、上位には<quote>「お笑い」</quote>色の強い女性がデンと座っている感じ。</sentence>
+<sentence>久本雅美は、前回調査の<enclosedCharacter description="○">６４</enclosedCharacter>位から一挙に<enclosedCharacter description="○">６</enclosedCharacter>位へ躍進した。</sentence>
+<sentence>圏外だが、急上昇組には<enclosedCharacter description="○">４５</enclosedCharacter>位から<enclosedCharacter description="○">１３</enclosedCharacter>位へ入った松本明子など、お笑い系がとにかく勢いがよいのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　男性部門では、たけしＶ４、女性部門では、邦子Ｖ６が示すように、かつては<quote>「お笑いタレント」</quote>としてくくられていた人たちが、今では普通のタレントとして、シリアスな発言もすれば本も書く。</sentence>
+<sentence>たけしや邦子以外のお笑い系のタレントも同じで、もはやコメディアンとかお笑いという言葉が意味をもたないくらい社会的にも浸透している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　男女を問わず、世の主流は<quote>「お笑い」</quote>である。</sentence>
+<sentence>と同時に、明るい笑いに好感をもつ、という風潮はブラウン管の中だけの話ではなく、家庭で、職場で、地域社会で、たけし〈弟〉的、邦子〈妹〉的人物が周囲をな<sampling type="end" />ごませてくれる、というようになってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

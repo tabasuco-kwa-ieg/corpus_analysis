@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00023" version="1.0" type="fixedLength">
+<article articleID="LBn5_00023_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">アクセルを踏むと点灯す<sampling type="start" />るインジケーターをあなどるな</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エンジンの中には一定量のエンジンオイルが溜められていて、オイルポンプで潤滑を必要としている部分に圧送しているんですよ。</sentence>
+<sentence>でね、オイルの膜を作ることで摩擦を減らし、焼き付くことなくスムーズに作動させているわけ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、エンジンオイルが規定量以下まで減ってしまうと、オイルポンプでは吸い出せなくなる。</sentence>
+<sentence>そうなると圧送力が低下して、無理をすればエンジンが焼き付いてしまう。</sentence>
+<sentence>そこで、オイルラインの途中に圧力センサーを設けて、圧力が低下したときには警告を発するようにしてあるんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これを意味するのが<quote>「オイルプレッシャーランプ」</quote>って呼ばれる魔法のランプみたいなマークのあるランプ。</sentence>
+<sentence>これが点灯したときは油圧が低下してますよってことなわけ。</sentence>
+<sentence>つまり、走ってるときにこれがついたら、かなりヤバいんですよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　でもね、オイルパンを破損するなどしてエンジンオイルが一気に漏れ出さない限り、つきっぱなしになることはない。</sentence>
+<sentence>たいていはオイル不足による油面変動が引き金となっているからなんです。</sentence>
+<sentence>で、そんなときには加速や減速でクルマが傾いたときに“パッ”と点灯し、元に戻れば消灯してしまうんですよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だから、もしも加減速につられてついたり消えたりするようなら無理は禁物。</sentence>
+<sentence>おとなしく走らせることが大切なんです。</sentence>
+<sentence>そうすれば、とりあえず潤滑されるから。</sentence>
+<sentence>ただし、エンジンオイルの補給が必要であることに変わりはないので、なるべく早くガソリンスタンドかなんかでエンジンオイルを補給するべきですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">油圧メーターでオイル量の不足を読み取ることもできる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">アクセルを踏んでエンジン回転を上げたときに油圧を読み取る</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">量のほか、汚れ具合も判断できるゲージでのオイルチェックは習慣にしたい</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＯＮＥ　ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">エンジンオイルは減っただけでも大きなトラブルに発展する</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＯＬＵＭＮ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">クルマにこれを積んでおけばホントにベンリ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ブースターケーブル</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">バッテリー上がりってすっごく困りますよ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　路上でバッテリーが上がっちゃったら、ホント、立ち往生でしょ。</sentence>
+<sentence>最近は道路も混んでいて、ＪＡＦもなかなか来てくれないしね。</sentence>
+<sentence>だから、ブースターケーブルは必需品なんです。</sentence>
+<sentence>近くにいるドライバーにちょっと声かけて、バッテリーを借りれば解決するんですから。</sentence>
+<sentence>手順はもちろんわかってますね、つなぐときはプラスから、エンジンがかかって、外すときはマイナスから。</sentence>
+<sentence>これは車内のシートバックのポケットにも入るから、別に邪魔にもならないし。</sentence>
+<sentence>ただし、買うときはコードの径が太いディーゼル用がおすすめ。</sentence>
+<sentence>電気をよく通すか<sampling type="end" />ら効率がいいし、熱を持ったりする危険もないからね。</sentence>
+</paragraph>
+</article>
+</sample>

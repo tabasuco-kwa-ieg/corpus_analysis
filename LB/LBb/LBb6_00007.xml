@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb6_00007" version="1.0" type="fixedLength">
+<article articleID="LBb6_00007_F001">
+<paragraph>
+<sentence>わが国で畑となる土地は、中部山岳<sampling type="start" />地帯以北の東北日本では圧倒的に<quote>「黒ボク」</quote>が多く、東海地方以西のいわゆる西南日本には、黒ボクとともに丘陵や<ruby rubyText="だん">段</ruby><ruby rubyText="きゅう">丘</ruby>の赤黄色味の強い土壌が多い。</sentence>
+<sentence>黒ボクについては先に少しふれたが、火山灰由来の特異な土で、その名に示されているように真っ黒な有機物を多量に含み、強酸性でアルミニウムの活性が高い。</sentence>
+<sentence>そしてこのアルミニウムがリン酸と安定な化合物を作り、リン酸の植物による吸収を強く阻害する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　他方、赤ないし黄色味の強い色を示す土は、丘陵の緩斜面とか段丘の上など、一般に比較的地形の安定した台地の上にのっており、長い時間にわたって温暖、湿潤な気候下で発達したものと考えられている。</sentence>
+<sentence>そのため土の材料はよく風化し、よく雨で洗われている。</sentence>
+<sentence>実際、これらの土が赤ないし黄色を示すのは、鉄分の多いことの表れであり、そのことはまた風化が進んでいることの証左にほかならない。</sentence>
+<sentence>したがって、赤黄色を示す台地の土は<ruby rubyText="えん">塩</ruby><ruby rubyText="き">基</ruby>類（カルシウム・マグネシウム・カリなど）の供給力が乏しく、強い酸性を示す。</sentence>
+<sentence>そのためリン酸の供給力もまた乏しい。</sentence>
+<sentence>わが国では黒ボクのことを、<ruby rubyText="ふ">腐</ruby><ruby rubyText="しょく">植</ruby>（＝有機物）質酸性土壌と呼ぶのに対し、赤黄色の台地の土のことを<ruby rubyText="こう">鉱</ruby>（＝無機物）質酸性土壌といいならわしてきた。</sentence>
+<sentence>そして昔も今も、わが国の畑の主体をなすのは、これら両酸性土壌にほかならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在でこそ、石灰を施用して酸性を<ruby rubyText="きょう">矯</ruby><ruby rubyText="せい">正</ruby>し、リン酸をはじめ肥料を多用することによって、これらの土の上でも永続的な畑作を営むことが可能になっているが、石灰も肥料もなかった時代に、黒ボクや赤黄色土の上で畑を作ることはきわめて困難であったと思われる。</sentence>
+<sentence>ただ一つ考えられるのは、<ruby rubyText="やき">焼</ruby><ruby rubyText="ばた">畑</ruby>である。</sentence>
+<sentence>焼畑で森林を焼いて大量の木灰を土に<ruby rubyText="かえ">還</ruby>せば、リン酸も塩基類も短期的には土の中に豊富になるから畑作も可能であったろう。</sentence>
+<sentence>しかし三年も使えば土の生産力は大きく低下したであろうし、その段階で放棄したとしても、黒ボク・赤黄色土の両方の土地とも容易には再びりっぱな森林に還らなかったのではないかと思われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こういうわが国の土壌条件の特異性に起因する畑作の困難さを考えると、土地に手を加えてまで稲作に固執した理由がわかるように思うのである。</sentence>
+<sentence>そして、このようなわが国における稲作受容のプロセスは、モンスーン・アジアの稲作圏の中でも特異なものではなかったろうか。</sentence>
+<sentence>この<ruby rubyText="ほっ">発</ruby><ruby rubyText="たん">端</ruby>における特異性は、その後の稲作の展開にも特異な性格を与えているように思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">自然を克服した稲作技術</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　熱帯アジアの稲作のように、圧倒的に大きい自然に対する適応として展開してきた稲作と違って、わが国の稲作は自然に手を加<sampling type="end" />え、灌漑をすることによって、はじめて可能になったものである。</sentence>
+</paragraph>
+</article>
+</sample>

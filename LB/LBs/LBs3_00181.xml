@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00181" version="1.0" type="fixedLength">
+<article articleID="LBs3_00181_F001">
+<paragraph>
+<sentence>注文を出すならば、この後のほう<sampling type="start" />が安心感があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●　株価はこうして形成される</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●　流動性に乏しい銘柄の場合</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｌｅｓｓｏｎ‐１２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">自動注文<enclosedCharacter description="○">１</enclosedCharacter>　［逆指値］大損しない投資家になる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「こうなったら買い」</quote>と条件指定できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、ここからはワンランク上のトレードを目指すための実践テクニックを紹介していきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　株価チャートの売り買いのシグナルのところで、<quote>「ポイントとなる株価（前の高値や移動平均、もみ合いの上値など）を抜けたら買い」</quote><quote>「ポイントとなる株価を下に抜けたら売り」</quote>と述べました。</sentence>
+<sentence>また、基本的には引値が重要ではあるものの、場中であってもそれが確認できたところでとりあえず売り買いを行い、引け前に再確認する、という方法も紹介しました。</sentence>
+<sentence>そうすると、ポイントとなる地点を抜けるか、抜けないかが、売買注文を出すかどうかの分かれ目になります。</sentence>
+<sentence>となると、<quote>「やっぱり取引時間中、株価を見られない人はできないじゃないか」</quote>という印象を持たれるかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実は<quote>「ある株価水準を抜けたら買う」</quote><quote>「ある株価水準を抜けたら売る」</quote>というのは、株価を見ていなくてもできるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それに使うのは<quote>「逆指値<noteMarker text="※１" />」</quote>という注文方法です。</sentence>
+<sentence>通常の<quote>「指値」</quote>とは、<quote>「いくらで買う」</quote><quote>「いくらで売る」</quote>と値段だけ指定をしますが、この逆指値は、<quote>「株価がいくら以上（または以下）になったら、成行で買う（または売る）」</quote>というふうに、条件付きで予約注文します。</sentence>
+<sentence>もちろん、<quote>「株価がいくら以上（または以下）になったら、いくらで指値注文を出す」</quote>といったやり方もできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">［逆指値］</sentence>
+<br type="automatic_original" />
+<sentence>ぎゃくさしね●　ある一定の値段以上（以下）になったら発注するという条件の買い（売り）注文のこと。</sentence>
+<sentence>普通の“指値”は“２００円で買い”といった値段を指定する注文だが、厳密には、“２００円以下なら買い”という条件になっている。</sentence>
+<sentence>それとは逆の“２００円以上なら買い”という注文だから“逆指値”と呼ばれる。</sentence>
+<sentence>逆指値も、いったん発注されると、普通の成行または指値として扱われる。</sentence>
+<sentence>逆指値サービスの導入に関しては、カブドットコム証券が業界のパイオニア。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　この逆指値を使えば、場中に買いシグナルが出たときも、また、損切りの水準を割ってしまったときも、自動的に注文を出すことができます。</sentence>
+<sentence>具体的な例を見てみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>〈例１〉前の高値が５００円。</sentence>
+<sentence type="quasi">昨日の引値は４８７円というケース</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　株価が５００円以上になったら買い注文が発動されるように、注文条件を入力しておきます。</sentence>
+<sentence>日々出来高の多い大型株の場合は<quote>「成行」</quote>にしてもよいと思いますが、安全策をとるならば、<quote>「株価が５００円以上になったら、指値＝５００円」</quote>で（買付）注文を出すといった形にします。</sentence>
+<sentence>これなら、５００円の株価がついたとき、一番安い売り気配が５００円であれば<sampling type="end" />それを取りに行きますし、もし、そのとき一番安い売り気配が５０１円以上だったときには、買い気配の５００円のところに、あなたの出した注文が表示されることになります。</sentence>
+</paragraph>
+</article>
+</sample>

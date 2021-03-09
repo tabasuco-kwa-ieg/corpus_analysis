@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00012" version="1.0" type="fixedLength">
+<article articleID="LBl8_00012_F001">
+<paragraph>
+<sentence>　したがって表記<sampling type="start" />のような場合は，ａｄｖｉｓｅよりｓｕｇｇｅｓｔとかｓｈｏｕｌｄを使ったほうがよい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なおここでｙｏｕ　ｈａｄ　ｂｅｔｔｅｒ…を使って表わすのも不適切であろう．</sentence>
+<sentence>これはかなりきつく響く表現だからである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">質問する</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">［⇔（聴衆の）１人］</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<quotation>
+<citation>
+<sentence>聴衆の１人が講師に質問した．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［解説］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ａｓｋ　ａ　ｑｕｅｓｔｉｏｎ　ｏｆ　ｔｈｅ　ｓｐｅａｋｅｒは文法的にはありうる形であるが，文語で古い形である．</sentence>
+<sentence>ａｓｋ＋人＋ａ　ｑｕｅｓｔｉｏｎならよい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">〜していた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>日本人は明治の中頃までは着物を着ていました．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［解説］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここでの問題は，日本人の着物習慣の事実が語法の選択に関係してくることである．</sentence>
+<sentence>Ｓ　ｕｓｅｄ　ｔｏ　Ｖ．と言えば，<quote>「現在はＳはＶしていない」</quote>ということである．</sentence>
+<sentence>したがって上掲の英文では，明治の中頃以後は日本人はまったく着物を着なくなった，というふうに解釈されてしまう．</sentence>
+<sentence>事実は，その後も日本人も人によっては（また機会によっては）着物を着ていたのである．</sentence>
+<sentence>ｕｓｅｄ　ｔｏ　ｗｅａｒのところは単にｗｏｒｅとすればよい．</sentence>
+<sentence>別の見方をすると，そのころから日本人もだいぶ洋服を着るようになったのであるから，そのことを表わしてもよいであろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">自動車が停まっている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">（⇒停まっている）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">死にかけている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>いくつかのサンゴは死にかけています．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［解説］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　サンゴは群生していてまとまって見えるので，<enclosedCharacter>Ｕ</enclosedCharacter>名詞として扱ってよい．</sentence>
+<sentence>したがって複数形でなくてよい．</sentence>
+<sentence>サンゴが<quote>「死ぬ」</quote>と言っても，その始まりがいつであるか普通見た目にはわからないので，ｂｅｇｉｎ　ｔｏ〜という表現はここでは適切ではない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">［参考］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　似た場合で，<quote>「その赤ちゃんは眠り始めた」</quote>というのをｂｅｇａｎ　ｔｏ　ｓｌｅｅｐとは普通表わさない．</sentence>
+<sentence>人が実際眠るその始まりというものがわからないからである．</sentence>
+<sentence>代りにｗａｓ　ｇｏｉｎｇ　ｔｏ　ｓｌｅｅｐかｗａｓ　ｆａｌｌｉｎｇ　ａｓｌｅｅｐと表わす．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（６）時には</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>冬は６時には暗くなります．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［解説］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「暗くなる」</quote>という現象は６時に急に起こるわけではなく，６時よりだいぶ前から少しずつｇｅｔ　ｄａｒｋする現象が始まるものである．</sentence>
+<sentence>ここで<quote>「６時には」</quote>というのは，<quote>「６時ごろまでに」</quote>ということであるから，ｂｙ　ｓｉｘとすべきである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">（災害で）死ぬ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>多数の人がその空襲で死にました．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［解説］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ｄｉｅ　ｏｆ〜＝<quote>「〜で死ぬ」</quote>と機械的に憶えているとこういう間違いをする．</sentence>
+<sentence>まずこのような事故や戦争などのときの<quote>「死ぬ」</quote>はｄｉｅではなくｂｅ　ｋｉｌｌｅｄである．</sentence>
+<sentence>そして，<quote>「死ぬ」</quote>ことと<quote>「空襲」</quote>との関係は，時期の関係か場所の関係であるから，ｏｆ〜ではなくｉｎ〜である．</sentence>
+<sentence><quote>「事故で死ぬ」</quote>がｂｅ　ｋｉｌｌｅｄ　ｉｎ　ａｎ　ａｃｃｉｄｅｎｔであることを思いあわせればよい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">しばしば〜である</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>１６<sampling type="end" />歳の男の子は，しばしば父親と同じくらいの背丈がある．</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+</article>
+</sample>

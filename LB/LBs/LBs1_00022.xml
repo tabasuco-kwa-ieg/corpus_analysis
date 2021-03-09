@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs1_00022" version="1.0" type="fixedLength">
+<article articleID="LBs1_00022_F001">
+<quotation>
+<citation>
+<sentence type="quasi"><sentence>なぜなら、あるレベルｎにあっての獲得は、先行のレベルｎ−１ですでに確立された関<sampling type="start" />係を、事後に豊かにできるからである。</sentence>
+<sentence>たとえば化学では、電子の説明は原子価の新しい概念形成に到達した。》</sentence>
+</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ここで少し歴史をさかのぼろう。</sentence>
+<sentence>一九五二年である。</sentence>
+<sentence>フランスのムランに近いラ・ロシェットで数学教育研究・改善国際委員会の第四回目の会合がもたれた。</sentence>
+<sentence><quote>「数学の構造と精神の構造」</quote>というテーマに数学的構造についての発表を行ったのは、ブルバキと名乗るフランスの数学者の集まりの一員であるＪ・デュードネであった。</sentence>
+<sentence>彼は、ブルバキ学派の見出した三つの基本的構造、代数構造、順序構造、位相構造について述べた。</sentence>
+<sentence>ピアジェは、心理発達の観点から、操作に、分類操作、順序づけの操作、空間操作が見出されたことを報告した。</sentence>
+<sentence>この見事な一致は、人々の目を見張らせたという。</sentence>
+<sentence>それにも増してピアジェ自身が、自分の研究の方向に確信を得たのではないかと思われる。</sentence>
+<sentence>それでは<quote>「カテゴリー論」</quote>に関して、<quote>「晩年に語る」</quote>の中で述べているのを見よう。</sentence>
+<sentence type="quasi">〔註、右の講演は<quote>「思考の誕生」</quote>（朝日出版社）ｐ．６３〕</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>《ブルバキは数学の構造についてのすばらしい理論を作り、諸構造を三種類の母構造、すなわち代数構造、順序構造、トポロジー構造にまとめました。</sentence>
+<sentence>ブルバキらは、どのようにして構造を築き上げたのでしょうか。</sentence>
+<sentence>彼らは理論を計画的に築き上げたのではなく、後で計画的にしたのです。</sentence>
+<sentence>彼らが理論を築き上げたのは、一連の比較、デュードネが帰納法と呼んだ方法、すなわち共通の構造を見出そうと努めるのに数学の全く異なったトピックを比較することによったのです。</sentence>
+<sentence>そして、その過程で、彼らはひとまとまりの手続きを利用したのですが、それから理論を作りはしなかったのです。</sentence>
+<sentence>この理論は、射（モルフィズム）と圏（カテゴリー）の理論です。</sentence>
+<sentence>それは後になってマクレイン〔註、アメリカの数学者〕とアイレンバーグ〔註、ポーランド出身のアメリカの数学者〕とが作り上げたのです。</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ブランギエ〕　で、先生御自身もそれに取り組んでいらっしゃいましたね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ピアジェ〕　私たちが取り組んだのは、もちろん子どもの研究で、操作の役割に対して射の役割が何であるかをみるためです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ブランギエ〕　射というのは何でしょうか。</sentence>
+<sentence>語を定義しなくてはなりませんね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ピアジェ〕　対応づけのことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ブランギエ〕　比較ですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ピアジェ〕　比較、その通りです。</sentence>
+<sentence>色々なシステム間に共通なある形を探すための比較です。</sentence>
+<sentence>したがって、構造を保存する対応を射と呼びます。</sentence>
+<sentence>群は、他の群と同じ構造をもつのであれば同型（イゾモルフ）であると言えるのです。</sentence>
+<sentence>直接的操作、逆操作、結合律…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ブランギエ〕　これらは、一項対一項の比較なのでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>〔ピアジェ〕　いえ、いろいろあり得ます。</sentence>
+<sentence>一項対一項もありますし<sampling type="end" />、関係対関係、変換対変換、構造対構造というように、比較の集合の全体です。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</citation>
+</quotation>
+</article>
+</sample>

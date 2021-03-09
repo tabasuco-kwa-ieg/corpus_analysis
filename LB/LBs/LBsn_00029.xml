@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBsn_00029" version="1.0" type="fixedLength">
+<article articleID="LBsn_00029_F001">
+<titleBlock>
+<title>
+<sentence>ＳＰ２を削除して元の環境に戻すことはで<sampling type="start" />きるの？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａｎｓｗｅｒ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＰ２を削除（アンインストール）すると、ＳＰ２のインストール時に保存したシステムのバックアップが自動的に展開され、元のシステム環境に戻すことができます。</sentence>
+<sentence>ただし、システムのバックアップを削除してしまった場合やＳＰ２が入っている環境にＳＰ２をインストールした場合には、元の環境に戻すことはできません。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■ＳＰを削除して元の環境に戻す方法</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＭＥＭＯ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＳＰ２アンインストール後の注意点</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＰ２を削除（アンインストール）すると、ＳＰ２適用後にインストールしたアプリケーションが起動しなくなったり、部分的に動作がおかしくなったりする場合があるので注意が必要です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＰ２適用後にインストールしたアプリケーションは削除しておくと安全</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＰ２の削除後にアプリケーションの動作異常が発生するのを防ぐには、ＳＰ２適用後にインストールしたアプリケーションをＳＰ２を削除する前にいったんアンインストールしておくようにします。</sentence>
+<sentence>ＳＰ２を削除した後に再度アプリケーションをインストールし直すと、トラブルを回避することができます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑｕｅｓｔｉｏｎ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｑ．０６７</sentence>
+<br type="automatic_original" />
+<sentence>ＨＤに空きがないので古いパソコン状態を残さずにＳＰ２をインストールしたい！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａｎｓｗｅｒ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>セットアップモジュールをダウンロード（またはＣＤ‐ＲＯＭで入手）してからＳＰ２をインストールする場合には、セットアップモジュールを起動する際にコマンドラインオプション（起動オプション）を指定すると、古いパソコン環境をバックアップせずにＳＰ２をインストールすることができます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>インストール方法の変更にはオプションを活用せよ！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＰ２では通常のインストールで古いシステムが必ず自動保存されます。</sentence>
+<sentence>しかし、古いパソコンなどでハードディスクに空きがないため、古いシステムを削除したいという場合は、セットアップモジュールに<quote>「／ｎ」</quote>のコマンドラインオプションを指定してコマンドプロンプトからインストーラを実行することで、古いシステムを残さずにＳＰ２をインストールすることができます。</sentence>
+<br type="automatic_original" />
+<sentence>なお、古いシステムを残さずにＳＰ２をインストールすると、ＳＰ２適用後にトラブルが発生した場合に、元のシステムに戻せないので注意が必要です。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">通常のインストール</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オプションを付けたインストール</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■システムをバックアップせずにＳＰ２をインストールする方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>古いシステムはバックアップするのが基本！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＰ２のインストール前に古いシステムをバックアップしておかないと、トラブルが発生した場合に元に戻せません。</sentence>
+<sentence>最悪の場合、パソコンを<sampling type="end" />初期化してＷｉｎｄｏｗｓ　ＸＰを再インストールすることになるので注意が必要です。</sentence>
+</article>
+</sample>

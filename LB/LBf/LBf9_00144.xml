@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf9_00144" version="1.0" type="fixedLength">
+<article articleID="LBf9_00144_F001">
+<paragraph>
+<sentence>　要するに、<quote>「２Ｎ」</quote>に駐機した旅客機は、反時計回り（左回り）に回転す<sampling type="start" />るプッシュバックをするのに対し、<quote>「８Ｎ」</quote>の旅客機は、時計回り（右回り）に回転するプッシュバックをするのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　となると、<quote>「２Ｎ」</quote>に駐機した大韓航空００７便と、<quote>「８Ｎ」</quote>に駐機した日航機は、プッシュバックの方向が反対だったということになる。</sentence>
+<sentence>プッシュバックの方向が反対なら、ＩＮＳのプラットフォームが受けた力（加速度）の方向も反対になり、それによって生じたプラットフォームの傾き方も反対になる。</sentence>
+<sentence>“<quote>「ナブ」</quote>切り換えミス”によってＩＮＳ異常が生じたとみられる日航機が、正規のルートより南へ逸れて行ったのであれば、大韓航空００７便が（もし同じように“<quote>「ナブ」</quote>切り換えミス”の落とし穴にはまっていたのなら）北へ逸れるということは、むしろ論理的に合う話になる。</sentence>
+<sentence>日航機が北へ逸れていたのなら、かえって論理的に合わなくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　問題は、日航機は<quote>「北」</quote>へ逸れたのか、それとも<quote>「南」</quote>へ逸れたのかという、出発点に戻った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">《<quote>「北」</quote>か<quote>「南」</quote>かは、どうしても確認しなければならない》</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　私は、そう思った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">〈追記〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　『ブラック・ボックス』を書いた時点では、このようにプッシュバック時の回転方向を、直接プラットフォームの傾き方に結びつけて考えたのだが、その後の検討で、プラットフォームの傾きは、そんな単純な関係で決まるものではないことがわかった。</sentence>
+<sentence>しかしＩＮＳ異常の原因を分析するという、専門家にも難しい作業に取り組んだノンフィクション・ライターの四苦八苦の取材と思考の過程をそのまま記録するという意味で、単行本の原文をそのまま残した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プラットフォームの傾きの問題については、次章で詳述する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２１：アンカレッジ空港（国際線）のスポットの配置およびプッシュバック方式</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">八・五度偏向の仮説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ機長からの疑問</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一九八五年春の国際情勢は、大きく揺れ動いていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　年明け早々の一月九日、ジュネーブで開かれた米ソ外相会談（シュルツ・グロムイコ会談）は、米ソ軍縮交渉を再開することで一致し、久々に東西間に緊張緩和の空気が戻りそうな状況になってきた。</sentence>
+<sentence>三月には、ソ連のチェルネンコ書記長の死去にともない、ゴルバチョフ政権が発足、ソ連の外交姿勢が大きく変わりそうになってきた。</sentence>
+<sentence>一方、日米関係は、経済摩擦がかつてないほど激化し、中曽根政権はその対応に必死になっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私自身についていえば、同時に進行しているいくつかの作品の取材と執筆に追われているうちに、四月を迎えていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ機長からの長文の手紙を受け取ったのは、そんな折、四月に入って間もなくだった。</sentence>
+<sentence>それは手紙というよりは、単行本の『撃墜（下）』（文庫版の中巻）について専門的な検討を加えた二十二ページにおよぶレポートであり、ＩＮＳの<sampling type="end" />技術解説書のコピー二十ページが<ruby rubyText="てん">添</ruby><ruby rubyText="ぷ">付</ruby>されていた。</sentence>
+</paragraph>
+</article>
+</sample>

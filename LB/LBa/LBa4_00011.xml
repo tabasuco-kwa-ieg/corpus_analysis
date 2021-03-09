@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa4_00011" version="1.0" type="fixedLength">
+<article articleID="LBa4_00011_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">ジョルダーノ・<sampling type="start" />ブルーノ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　しかしながら、われわれはつぎのことを忘れてはならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　天文学的世界像の精度は、ケプラーの発見した法則によっていちじるしく向上したが、その世界像は、基本的にはコペルニクスの世界像であるにせよ、今日のコペルニクス的世界像とはいちじるしく異なっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ケプラー同様コペルニクスも、宇宙空間は太陽系がそのほとんどを占めている、と考えていた。</sentence>
+<sentence>恒星は、かれらによれば、全宇宙を包む天球に貼り着いた小さな点である。</sentence>
+<sentence>ジョルダーノ・ブルーノが、無限の天空についてその考えを発表し、恒星を独立した太陽系だと主張したとき、ケプラーはただちにその考えと戦い始めた。</sentence>
+<sentence>今日の知識へと通じる階段を登ることは、何と難しいことだったのか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">望遠鏡によるガリレオの天文学的諸発見</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　天文学は、観測手段の改良によって、すなわち望遠鏡の発明によって、ケプラーの知識を越えてさらに決定的な進歩を遂げた。</sentence>
+<sentence>実用的な望遠鏡を最初に作って天空観測に用いたという功績は、ガリレオのものである。</sentence>
+<sentence>かれは、望遠鏡の最初の発明者ではなかったが、その<ruby rubyText="うわさ">噂</ruby>を耳にして組み立てたのである。</sentence>
+<sentence>かれは、望遠鏡を月に向けて、月面上の<ruby rubyText="はん">斑</ruby><ruby rubyText="てん">点</ruby>を、そのギザギザの形と輝点移動とから巨大な山であると考えた（一六一〇年）。</sentence>
+<sentence>金星に望遠鏡を向けて、その形が月と同様<ruby rubyText="かま">鎌</ruby>のような形になることを、かれは観察した。</sentence>
+<sentence>金星は、太陽から光を受ける結果、周期的に鎌の形となる。</sentence>
+<sentence>土星に望遠鏡を向けてその<quote>「三重の」</quote>姿を見たのだが、その詳しいことはまだよく分からなかった。</sentence>
+<sentence>木星に望遠鏡を向けて、衛星（四つの輝く衛星）を観測した。</sentence>
+<sentence>これは、かれによって<quote>「メディチ星」</quote>と名づけられたのである。</sentence>
+<sentence>こういったことはことごとく、コペルニクス的世界像を拡張深化し、ガリレオの時代の人たちをおおいに驚かせたに違いない。</sentence>
+<sentence>アリストテレスに基づく自説が<ruby rubyText="きゅう">窮</ruby><ruby rubyText="ち">地</ruby>に立つことの分かっていた旧学派の学者からは、当然のことながら反撃の火の手が上がった。</sentence>
+<sentence>ガリレオのたいへん危うい立場は、かれのケプラーに<ruby rubyText="あ">宛</ruby>てた一通の書簡をみればよく分かる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「私の研究にひとめで関心を寄せて下さり、最初に、おそらくは唯一人、私の主張に賛同して下さいましたあなたのような鋭く率直な方に、これ以上何を望むことがあるのでしょうか。</sentence>
+<sentence>深く感謝いたしております。</sentence>
+<sentence>ところが、われわれの大学の著名な哲学者は、再三の誘いにもかかわらず今なお月を見ることも望遠鏡を見ることさえも拒んで、真理の光に対して目をつぶっております。</sentence>
+<sentence>このような人たちに何をおっしゃろうというのでしょうか。</sentence>
+<sentence>こういった人たちは、哲学をアエネーイスやオデュッセイアのよ<sampling type="end" />うな本だとみなして、真理は宇宙や自然の研究からではなく文献の<ruby rubyText="きょう">校</ruby><ruby rubyText="ごう">合</ruby>から見出されるのだ、とみずから断言もし、信じてもおります。</sentence>
+<sentence>われわれの大学の高名な哲学者の中には、まるで<ruby rubyText="じゅ">呪</ruby><ruby rubyText="もん">文</ruby>のような単なる思弁的議論から、新惑星は存在しないと主張する人がいます。</sentence>
+<sentence>このようなことをお聞きになれば、お笑いになるでしょうね。」</sentence>
+</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

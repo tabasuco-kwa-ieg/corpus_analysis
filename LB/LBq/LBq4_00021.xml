@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00021" version="1.0" type="fixedLength">
+<article articleID="LBq4_00021_F001">
+<paragraph>
+<sentence>質量はやさしく言えば、物体のもつ物質の量の大きさ、と理解して<sampling type="start" />もらってよいです。</sentence>
+<sentence>もう少し精確には、物質に固有な力学的性質にかかわる量で、物体に力を加えて動かそうとするときの抵抗の大きさとして定義することができます。</sentence>
+<sentence>いっぽう重量は“重さ”すなわちその物体に作用する重力の大きさで、質量と重力加速度ｇとをかけ合わせたものですから、単位もまったく別のものになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、月面にいって測れば重量は地上の約六分の一になりますが、質量＝物質量は変わりません。</sentence>
+<sentence>しかしそうはいっても、この地上はｇの支配下にありますから、やはり混同しやすいのです。</sentence>
+<sentence>実際にも、ある物体の質量を測るということになると、原理的にはキログラム原器とその物体との重量の比較によって行うことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、質量一キログラムの物体に作用する重力を重量キログラムと呼び、ｋｇｆ（日本では時にｋｇｗとも書く）という単位記号で区別することもあります。</sentence>
+<sentence>このｋｇｆは力の単位として通用するわけで、ＳＩ単位ニュートンで表わせば、約九・八〇七ニュートンにあたります（１　ｋｇｆ≒１ｋｇ×９．８０７ｍ／ｓ<superScript>２</superScript>）。</sentence>
+<sentence>同じような考えから重量ポンドも定義できるわけで、これが二一七ページのプサイのところに出てきた１ｂｆで、約〇・四五四重量キログラムにあたります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キログラム原器</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一ミリリットルの混乱</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、この一九世紀を維持し続けているような国際キログラム原器というクラシカルな作品は、スタートとなった定義<quote>「最大密度の水一立方デシメートル（一〇〇〇立方センチメートル）の質量」</quote>と、どういう関係にあるのでしょうか。</sentence>
+<sentence>測定によると、実際の水の一キログラム（もちろんキログラム原器を基準として測る）は、一気圧、最大密度で一・〇〇〇〇二八立方デシメートルだというのです。</sentence>
+<sentence>逆に言えば、一立方デシメートルの水は、〇・九九九九七二キログラムしかないのです。</sentence>
+<sentence>実はこれは、たいへん困った問題をひき起こしたのでした。</sentence>
+<sentence>つまり、一ミリリットルと一立方センチメートルが異なるという結果が生まれたのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それはこういうことです。</sentence>
+<sentence>一リットルというのは、もともと一キログラムの水の最大密度での体積として定義されたものですから、一ミリリットルは一グラムの水の体積です。</sentence>
+<sentence>従ってそれは、一・〇〇〇〇二八立方センチメートルと、一立方センチメートルよりわずかながら大きくなってしまうのです。</sentence>
+<sentence>この困った事態は、一九六四年に一リットルの定義を<quote>「一立方デシメートルに等しい」</quote>と変えることで、解消されましたが、一時は混乱もあったのです。</sentence>
+<sentence>学生時代に、<quote>「一ミリリットルの水と一立方センチメートルの水の違いを述べよ」</quote>なんて言われて答えられなかった<sampling type="end" />記憶が、実際に私にはあるのです。</sentence>
+</paragraph>
+</article>
+</sample>

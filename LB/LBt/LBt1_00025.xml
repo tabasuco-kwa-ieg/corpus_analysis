@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt1_00025" version="1.0" type="fixedLength">
+<article articleID="LBt1_00025_F001">
+<titleBlock>
+<title>
+<sentence>人間にとって植物とはい<sampling type="start" />かなる存在なのか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">天外</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はじめまして。</sentence>
+<sentence>本日はよろしくお願いします。</sentence>
+<sentence>僕は今、作家の瀬名秀明さんと<quote>「心って何だろう」</quote><quote>「意識って何だろう」</quote>というテーマで、対談をしてるんですけど、その話の中で<quote>「植物にも意識はあるのだろうか」</quote>っていうことに話が及びまして…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">瀬名</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それで、三輪先生に一度お話を伺ってみたいねっていう話になったんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">三輪</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それはわざわざご指名をいただきまして（笑）。</sentence>
+<sentence>僕もロボット犬<quote>「ＡＩＢＯ」</quote>の開発総責任者の天外さんやベストセラー作家の瀬名さんに、私どもの研究についてお話しできるなんて本当に光栄です。</sentence>
+<sentence>ただ、<quote>「意識」</quote>の問題に関心はありますけど、植物の意識について特に研究しているわけではありませんので、お役に立てるのかどうか…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">天外</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　三輪先生は、もともとは機械工学がご専門で、形状記憶合金を使ってマイクロ・ロボットを開発されたりしてましたが、そのあとは植物の研究をずっと続けてらっしゃるようですね。</sentence>
+<sentence>何かそういうきっかけがあったんですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">三輪</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ええ。</sentence>
+<sentence>実は形状記憶合金の研究をしていくうちに、その振る舞いが生体筋肉に似た性質をもっているということがわかってきて、生物の自己組織的な現象に興味をもち始めたんです。</sentence>
+<sentence>で、生物をそのような観点から捉え直して、エンジニアリングに結びつけていこうかな、と思いついたわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なんで植物だったかっていうと、一つは、機械は多かれ少なかれ人間や動物をモデルにして開発されてきたのですが、脳や感覚器官をもたない植物をモデルにしたらどうなるのかなと思ったこと。</sentence>
+<sentence>植物型のロボットのようなものがあってもいいわけですね。</sentence>
+<sentence>それと、実は僕が血を見るのが好きじゃなかったからです。</sentence>
+<sentence>動物と違って、植物は血が出ないからいいかなって（笑）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">瀬名</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　なるほど（笑）。</sentence>
+<sentence>具体的にはどんなご研究を？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">三輪</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　植物を物質論的というより、むしろ情報システム論的、あるいは関係論的な観点から捉え、個と個の関係や個と集団との関係がどのようにつくられていくのかを調べていこうってことで研究を始めました。</sentence>
+<sentence>例えば、植物は個々バラバラのように振る舞っているように見えるけど、全体としてはそれらが調和していくような秩序を自己組織化しているようなところがあります。</sentence>
+<sentence>その仕組みはどうなっているか、っていうようなことですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最近は、植物同士がどんなふうにコミュニケーションを取り合って集団を形成しているのか、特に、森を一種のコミュニティと見なして森を一つの舞台とした時に、植物がどのように関係し合ってその多様性を維持しているのか、なんてことを研究しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">瀬名</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それは非常に面白そうな研究<sampling type="end" />テーマですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

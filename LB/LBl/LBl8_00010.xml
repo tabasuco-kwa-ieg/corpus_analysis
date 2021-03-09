@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00010" version="1.0" type="fixedLength">
+<article articleID="LBl8_00010_F001">
+<sentence>最近では対話やシナリオにカセットテープ付きのものが多く現れて<sampling type="start" />いるから，この方面の研究が飛躍的に促進されることが期待されよう。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　このような各方面にわたる広汎な資料から，受身構文は会話文に少なく，論文に多いといったようなことはカードによらずとも容易に観察されるであろうし，各分野に特徴的に現れる語法についても，この網の目ですくい上げられるわけである。</sentence>
+<sentence>次のようなｓｕｃｈ　ｔｈａｔの使用は会話文や普通の書き言葉には，大体現れないのであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　以上は，あくまでも，英国人が自国語について行った語法調査の資料収集法である。</sentence>
+<sentence>当然外国人として日本人が行う語法調査には，これだけでは不十分である。</sentence>
+<sentence>これについては次節で述べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１．２　文法性と容認性に関する整理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　これらは文法的に（ここでは一応規範文法をさす，以下特記しない）言っても誤りがなく，語法的にも容認される文である。</sentence>
+<sentence type="quasi">それに対して，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<sentence>がある。</sentence>
+<sentence>これは文法的には問題はあるが，語法的に一般に認められている文である。</sentence>
+<sentence>一方，次のように文法的に正しいように思われるが，語法的に容認されない文がある。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　これに対して，次の文は文法的にも語法的にも<quote>「感謝する」</quote>の意では認められない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　上のことから，文法性（ｇｒａｍｍａｔｉｃａｌｉｔｙ）を縦軸，容認性（ａｃｃｅｐｔａｂｉｌｉｔｙ）を横軸として図式化すると，次のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　文法性にも容認性にも段階があり，それぞれＸからＸ’へ，ＹからＹ’へと漸次的推移（ｃｌｉｎｅ）をなしている。</sentence>
+<sentence>したがって，Ａ，Ｂ，Ｃ，Ｄに分けても必ずしも画一的でなく，境界線付近ではどちらに入れてよいか迷う例も多い。</sentence>
+<sentence>また人によって意見の異なることも少なくない。</sentence>
+<sentence>また，連語環境にも大いに左右されることも忘れてはならない。</sentence>
+<sentence>たとえばＷｈｏ　ａｒｅ　ｙｏｕ　ｌｏｏｋｉｎｇ　ｆｏｒ？</sentence>
+<sentence>のように前置詞の目的語にｗｈｏを認めない保守主義の文法家でもＷｈｏ　ｄｉｄ　ｙｏｕ　ｓｅｅ？</sentence>
+<sentence>と他動詞の目的語は認める人もいる（ｃｆ．Ｂ．Ａ．Ｐｙｔｈｉａｎ（１９７９），Ａ　Ｃｏｎｃｉｓｅ　Ｄｉｃｔｉｏｎａｒｙ　ｏｆ　Ｃｏｒｒｅｃｔ　Ｅｎｇｌｉｓｈ）。</sentence>
+<sentence>しかし，Ｗｈｏ　ｄｉｄ　ｙｏｕ　ｇｉｖｅ　ｔｈｅ　ｂｏｏｋ？</sentence>
+<sentence>は一般に容認されなれない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで，Ａはしばしばあらたまった堅い言い方で，主として書き言葉に用いられ，Ｂはおもにくだけた日常語で，話し言葉に用いられるのが普通である。</sentence>
+<sentence>したがって，日常の会話で，Ａの語法（といってもすでにふれたように段階があるが）を使えば，場合によっては，どんな感じを与えるか，次の例が雄弁に教えてくれるであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　いつも乱暴な言葉を使っている探偵や刑事にとって，このｗｈｏｍは相当ショックであったようである。</sentence>
+<sentence>逆に相手や場面が異なれば，この表現で<sampling type="end" />なくてはならない場合もあるのは申すまでもない。</sentence>
+</paragraph>
+</article>
+</sample>

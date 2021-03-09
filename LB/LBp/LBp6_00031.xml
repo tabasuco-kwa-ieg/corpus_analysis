@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp6_00031" version="1.0" type="fixedLength">
+<article articleID="LBp6_00031_F001">
+<paragraph>
+<sentence>それこそ人生のオールマイティの切り札であ<sampling type="start" />る。</sentence>
+<sentence>それが正に統計的予測の目的であり，未来に起きることを予測することは，以上の理由から統計モデルが扱う問題の中で，最もエキサイティングな課題である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　株価や為替レートの予測，競馬や競輪などのギャンブルの予測は，理屈抜きに人々を興奮させる。</sentence>
+<sentence>統計的なデータ解析など役には立たないという意見と，統計的な法則を守った人だけがお金を儲けているという意見が錯綜する中で，今日も予測モデルは作られている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２種類の予測課題</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　予測モデルを扱う場合に最も大切な視点は<quote>「当該の予測が，総和が一定の富を奪い合う行為であるか否か」</quote>という区別である。</sentence>
+<sentence>一定の富を奪い合う行為を予測することを，ここでは仮に<quote>「ゼロサム予測」</quote>と呼び，そうでないものを<quote>「非ゼロサム予測」</quote>と呼ぶことにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　株価や為替レートの予測，競馬や競輪などのギャンブルの予測は，手数料や胴元代を引いた残りという一定の富を奪い合う行為のために予測しているからゼロサム予測である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全ての参加者が儲かるということは有り得ないから，ゼロサム予測には，安定的に成功する再現可能な科学的命題というものは存在しない。</sentence>
+<sentence>あるとすれば一時的に，そのモデルが他の競争者に知られていないという優位性があるだけで，時間と共にそのモデルの効果は減じてくる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当たればそれだけ熱心にライバルに研究されるから，逆説的ではあるが，今，よく当たることは，直ぐに当たらなくなることの直接的な原因となる。</sentence>
+<sentence>つまり自分で自分の首を絞めながら，その移ろいやすいほんの一時的な優位性を確保するために<ruby rubyText="しのぎ">鎬</ruby>を削ることが，ゼロサム予測家の宿命ということになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じ理由から，当たる方法を格安で伝授するということも有り得ない。</sentence>
+<sentence>それは，その方法の経済的効果以上の値段で<quote>「伝授」</quote>して，伝授している側が儲けているに過ぎない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">非ゼロサム予測</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　統計的なデータ解析など役には立たないという人の多くは，<quote>「予測とは，即ちゼロサム予測である」</quote>と勘違いし，かつそこで痛い思いをした人である。</sentence>
+<sentence>安定的にゼロサム予測で勝ちつづけることは，問題の構造上有り得ないのだから，そのことを指して統計モデルを非難してはいけない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　視点を変えて，ゼロサムでない非ゼロサム予測は，ゼロサム予測と比較して結果がずっと安定しているという性質に注目したらどうであろうか。</sentence>
+<sentence>非ゼロサム予測も使いようによってはビジネス上の富をもたらす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば非ゼロサム予測の例として，商品の売り上げ予測を考えてみよう。</sentence>
+<sentence>明日，商品が幾つ売れるかという事象の予測は，一定の富を奪い合う行為を直接予測することではない。</sentence>
+<sentence>上手にデータを集<sampling type="end" />めれば精度は確実に高くなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr8_00011" version="1.0" type="fixedLength">
+<article articleID="LBr8_00011_F001">
+<list>
+<listItem>
+<sentence type="quasi"><sentence>《学業成績はいまいちだ。</sentence>
+<sentence type="quasi">でもほんとうは頭がい<sampling type="start" />い》</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><sentence>《ほんとうは頭がいい。</sentence>
+<sentence type="quasi">学業成績はいまいちだが》</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　<quote>「が」</quote>で結ぶ場合、前の文は従で、後の文が主である。</sentence>
+<sentence>後の文意を一層明らかにするために前の文がある。</sentence>
+<sentence>単に二つの文をつなぐためだけに<quote>「が」</quote>を使うのは考えものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　厳密に言えば、伝えたい内容に最適の表現は、その文脈の中で一つしかない筈だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">最適な表現を探そう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで筆者の講座では年に一回だが、句会の真似事をする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　有季定形の俳句を、用紙に一句書かせて集め、それを四つに分けて、学生に黒板に書かせる。</sentence>
+<sentence>各句に番号をつけて、学生に三句選句させ投票させる。</sentence>
+<sentence>披講は講師がつとめ、句が読まれた学生には手を挙げて名乗らせる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　投票が集中する句。</sentence>
+<sentence>３０人弱の出席者のうち１０人前後に選ばれる句がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">《足音に励まされつつ霜の朝》<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　これは２００１年度の経済学部２年、Ｆ・Ｗさんの作だ。</sentence>
+<sentence>多くの学生にサクサクという霜を踏む音が伝わった。</sentence>
+<sentence>同時に、周辺の風景も浮かび、自分を励ましながら寒い道を歩む作者に感情移入したに違いない。</sentence>
+<sentence>５・７・５の１７音の中に概念が一つにまとまっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高得票の句の条件を探ると、第一に一読して何を表現しているか分かること、第二は、伝えたいことを直接表現していないにもかかわらず伝わってくることなどだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような検討をしながら、得票がない句にも触れる。</sentence>
+<sentence>選ばれない原因はいろいろだが、一見良さそうでありながら捨てられる句には、わずか１７音の中に、二つ以上の概念が入り込んで、焦点が絞りきれていないものがある。</sentence>
+<sentence>季語が重なったり、季節感が異なる語句があったりは論外だが、あれもこれもと言いたいことを読み込みすぎた句は、言いたいことが伝わらない。</sentence>
+<sentence>あるいは誤解される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　俳句は短詩という形態で、主張、思想を直接的には表現しないが、言わんとするところは絞り込まなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　主語、述語などは、ほとんどの場合省略する。</sentence>
+<sentence>省略しても通じるように詠む。</sentence>
+<sentence>しかしそのせいで誤解が生じることもしばしばだ。</sentence>
+<sentence>一般の文章ではそれは避けなければ共感を得られない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　学生の文章に多いのは、先にも触れたが主語も述語もあり、読み手に誤解は生じさせないものの、明らかに<quote>「よじれ」</quote>ている文章である。</sentence>
+<sentence>主語を受ける述語が見当たらない文、あるいはちぐはぐな述語になっている文などである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これはある学生の<quote>「自分」</quote>を書いた文の一部である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence type="quasi">《風貌は、髪はボサボサ、目つきは悪く、ひょろっとした体形をしている》</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　<quote>「風貌は」</quote>の結びがない。</sentence>
+<sentence><quote>「私は」</quote>としたほうが素直に風貌を伝えることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　話し言葉では、しばしば、主語と述語の不具合が出てしまう。</sentence>
+<sentence>テレビのアナウンサーがインタビューで、優勝者にこう語りかけていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　《たく<sampling type="end" />さんの方が応援につめかけてもらってますが、ひとことどうぞ》</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

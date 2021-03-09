@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00093" version="1.0" type="fixedLength">
+<article articleID="LBl3_00093_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence>○計画を進めることによって、どのようなよいことが起こった<sampling type="start" />かをリストにできるだろうか？</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<paragraph>
+<sentence>　効果が上がっていることは継続しつつ改良を加えていこう。</sentence>
+<sentence>効果の出ていないことはやめるか改良を加えよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自殺に関する知識を広め自殺を予防する活動を行なうなんて、気の遠くなるほど大きな仕事に思えるかもしれない。</sentence>
+<sentence>だが、あきらめてはいけない。</sentence>
+<sentence>多くの若者たちがこのような大きな問題と懸命に取り組み、なおかつ成功をおさめている。</sentence>
+<sentence>そう、きみだってできる。</sentence>
+<sentence>きみひとりの力で、若者の自殺をくいとめようなんて思わないこと。</sentence>
+<sentence>ひとりで活動をスタートさせなくてもいい。</sentence>
+<sentence>地域の人々、学校の仲間や先生、家族たちが、きみを支えてくれるだろう。</sentence>
+<sentence>みんなが力を出し合えば、若者の命を自殺から守るためにきっとなにかができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　自殺をはかる若者たちは、数ある選択のなかから生きないことを選択しているのではない。</sentence>
+<sentence>ほかにとるべき道がひとつでもあったら、彼らは自殺という道を選ばない。</sentence>
+<sentence>自殺に関する知識を広め、自殺予防の活動をすることは、死にたいと思っている若者に、ほかに選択できる道があるのを教えることだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<sentence>＊左のページをコピーして切り取り、財布か定期入れのなかに入れて、携帯しよう。</sentence>
+<sentence>一案として、きみの住んでいる地域の市民グループに、若者の自殺を予防する活動のひとつとして、このカードの印刷と配布を引き受けてもらってもいい。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</article>
+<article articleID="LBl3_00093_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">訳者あとがき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　だれだって、<quote>「ああ、生きててよかった」</quote>と心の底から思えるような人生を送りたい。</sentence>
+<sentence><quote><sentence>「やったあ！</sentence>
+」</quote>と叫びたくなるような達成感もほしい。</sentence>
+<sentence><quote>「あなたがいてくれてほんとうによかった」</quote>と言ってくれるだれかと、<quote>「あの人がいるから生きていられる」</quote>と感じられるだれかと、めぐりあいたいと思っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　でも、なかなかうまくいかない。</sentence>
+<sentence>生きてると、苦しいことがけっこうたくさんある。</sentence>
+<sentence>何十年と人生を生きたおとなだって、みんな言うだろう。</sentence>
+<sentence>人生はけっこう苦しい、と。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だけど、若いときの苦しさは、とくべつだ。</sentence>
+<sentence>人間はそういうふうにできているらしい。</sentence>
+<sentence>思春期には、嵐が吹きすさぶような何年かが、かならずある。</sentence>
+<sentence>はたからは波ひとつない平らな海に見えても、深い底で水が逆巻いていることもある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　この本『友だちを自殺させないためにきみにできること』Ｔｈｅ　Ｐｏｗｅｒ　ｔｏ　Ｐｒｅｖｅｎｔ　Ｓｕｉｃｉｄｅ―Ａ　Ｇｕｉｄｅ　ｆｏｒ　Ｔｅｅｎｓは、そんな嵐のなかを生きる仲間の命をどうやったら自殺から救うことができるかという手引き書である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自殺をはかる若者の多くは、自殺の計画を友だちに打ちあけている。</sentence>
+<sentence>友だちが死のうと考えているのを知ったとき、どんな行動をとればいいだろう。</sentence>
+<sentence>あるいは、ことばには出さないが、生きているのがつ<sampling type="end" />らそうな友だちに、なにができるだろう。</sentence>
+</paragraph>
+</article>
+</sample>

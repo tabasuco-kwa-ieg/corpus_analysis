@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr8_00003" version="1.0" type="fixedLength">
+<article articleID="LBr8_00003_F001">
+<paragraph>
+<sentence>　<quote>「ａ　ｄｕｔｙ　ｏｆ　ｗｅａｒ」</quote>という表現が実際に使われてい<sampling type="start" />るかどうか，Ｇｏｏｇｌｅで調べればすぐわかります．</sentence>
+<sentence>次のようにフレーズ指定で検索すると，ゼロ件でした（表４．１）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４．１　用例の確認</sentence>
+<br type="automatic_original" />
+<sentence>［注］全体を半角の二重引用符で囲むとフレーズ指定になります．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　表４．１から，<quote>「ａ　ｄｕｔｙ　ｏｆ　ｗｅａｒ」</quote>という表現が使われていないことがわかります．</sentence>
+<sentence>ここでは，この事実を確認するだけにしておきましょう．</sentence>
+<sentence>翻訳ソフトで結果がへんな場合，入力する日本語を少し修正すると，うまくいくことがあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">日本語を修正する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば，次のように修正すると，自然な訳文が出力されます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">［ＭＴ訳２］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　建設現場では，ヘルメットと安全靴を着用しなければならない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　この訳文を見ると，原文にはない主語が補われていることがわかります．</sentence>
+<sentence><quote>「義務付ける」</quote>と<quote>「しなければならない」</quote>とは，多少ニュアンスは違いますが，基本的な意味は同じですから，この訳文で一応ＯＫということにします．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>ヘルメットの訳語は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「ヘルメット」</quote>の訳語として，三省堂のＥｘｃｅｅｄには<quote>「ｈｅｌｍｅｔ」</quote>しか記載されていませんが，研究社の英和中辞典には，次の２つの候補が記載されています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　建設現場でかぶる<quote>「ヘルメット」</quote>で，どちらの訳語がいいのでしょうか．</sentence>
+<sentence>そのような場合，Ｇｏｏｇｌｅの画像検索が役立ちます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｇｏｏｇｌｅのイメージ検索</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｇｏｏｇｌｅの検索サイトは，次の［ウェブ］に設定されています．</sentence>
+<sentence>ここで，隣の［イメージ］をクリックすると，イメージ検索ができるようになります（図４．１）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．１　イメージ検索</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　ここで，<quote>「ｈｅｌｍｅｔ」</quote>と入力して，Ｇｏｏｇｌｅ検索をクリックすると，次のような画像が表示されます．</sentence>
+<sentence>引き続き，<quote>「ｈａｒｄ　ｈａｔ」</quote>で検索してみましょう（図４．２）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．２　ｈｅｌｍｅｔとｈａｒｄｈａｔの画像</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ｈｅｌｍｅｔ左：ｗｗｗ．ｍｏｔｏｗｏｒｌｄｒａｃｉｎｇ．ｃｏｍ／ｏｆｆ‐ｒｏａｄ‐ｓｐｅｃｉａｌｓ．ｈｔｍｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｈｅｌｍｅｔ右：ｗｗｗ．ａｍｅｒｉｃａｎｐｌａｓｔｉｃｓｃｏｕｎｃｉｌ．ｏｒｇ／ｂｅｎｅｆｉｔｓ／ｉｎ＿ｙｏｕｒ＿ｌｉｆｅ／ｐ…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｈａｒｄｈａｔ左：ｗｗｗ．ｍｄｃｒｅｓｅａｒｃｈ．ｃｏｍ／ｃｌｉｅｎｔｓ．ｈｔｍ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｈａｒｄｈａｔ右：ｗｗｗ．ａｍｅｒｉｃａｎ‐ｗｏｒｋｗｅａｒ．ｃｏｍ／ｓａｆｅｔｙ．ｈｔｍ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　表示された画像を見比べると，次のような相違に気がつきます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>・ｈｅｌｍｅｔ：オートバイに乗る人やアメリカン・フットボールの選手がかぶるヘルメット．</sentence>
+<sentence>中世の騎士の鉄仮面など．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・ｈａｒｄ　ｈａｔ：工事現場で作業者がかぶる完全帽．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　建設現場で着用する<quote>「ヘルメット」</quote>の訳語としては，<quote>「ｈａｒｄ　ｈａｔ」</quote>のほうがよいことがわかります．</sentence>
+<sentence>これを踏まえて，先ほどの［ＭＴ訳２］を修正し，語順を入れ替えてみましょう．</sentence>
+<sentence>これ<sampling type="end" />で，一応，通じる英語になりました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

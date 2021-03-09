@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00006" version="1.0" type="fixedLength">
+<article articleID="LBq0_00006_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　じゃあ、お<sampling type="start" />願いします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　（客注用紙を渡す）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中畑</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　どのくらいかかるの？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　取次店にございましたら二〜三日、なければ出版社まで注文書が回りますので二〜三週間かかります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中畑</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そんなにかかるの？</sentence>
+<sentence>　でも、中央公論やったら割合大手だから比較的早いんじゃないの？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうですね。</sentence>
+<sentence>出版社の営業部に注文書が届きましたら、すぐそこから納品してくれます。</sentence>
+<sentence>取次店との行き来の便も多いでしょうから、中小の出版社よりは早く入ってくるでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中畑</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そしたら、お願いします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（客注用紙を見て）あの、お客様。</sentence>
+<sentence>ご住所もお願いいたします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中畑</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いや、入ってきたら電話してもらったらいいから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　では、電話連絡と書いておきます。</sentence>
+<sentence>ありがとうございました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　落合（客）、井川に声をかける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">落合</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　すみません。</sentence>
+<sentence>新評論の『聖王ルイ』という本を探しているんですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">井川</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（書籍総合目録を見ながら）新しい本でしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">落合</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そんなに新しい本ではないと思いますが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">井川</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それでは、目録に載っていないので絶版かと思われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　初老の紳士青田、井川に声をかける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">青田</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　岩波書店の『現代の問いとしての西田哲学』はあるかな？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">井川</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それは、古い本でしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">青田</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そんなに古い本じゃないと思うが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">井川</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　新刊ですか？</sentence>
+<sentence>　少々お待ちくださいませ。</sentence>
+<sentence>（内線で）新刊で岩波書店の『現代の問いとしての西田哲学』ありますでしょうか？</sentence>
+<sentence>　はい。</sentence>
+<sentence>最近、新刊で西田哲学関係は見た覚えがない？</sentence>
+<sentence>　はい、すみません。</sentence>
+<sentence>（青田に）新刊でしたら、まだ入荷していないようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">青田</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　（首をひねりながら去る）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ちょっと漠然とした話で申し訳ないんですが、中国の人の名前がタイトルになった本を探しているのですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">村山</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　出版社とか、著者とかお分かりにならないでしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　著者は<quote>「宮」</quote>で始まる名前だったかと思うのですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">村山</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　出版社は結構有名なところだったと思うのですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">村山</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それは小説ですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい確か。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">若松</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ごめんください。</sentence>
+<sentence>講談社と申しますが、文芸書担当の方お願いできますでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　村山さん、講談社さんがお見えです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">村山</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（講談社営業部員に気づき）ああ今日は。</sentence>
+<sentence>こちらのお客様、お聞きしてくれる？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いらっしゃいませ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　講談社か、新潮社じゃなかったかな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　文芸書でございますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　書名や著者はご存知ですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それが、はっきりしないんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　新刊でございましょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうだと思うんです。</sentence>
+<sentence>新聞で見たから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">中西</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　新刊は、タイトルか著者がはっきりしないと探せないのですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">清原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　だったら、もう一度調べて出直します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　内線電話が鳴る。</sentence>
+<sentence type="quasi">江夏、取る</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">江夏</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい、一課です。</sentence>
+<sentence>はい、吉本隆明さんの本ですね。</sentence>
+<sentence>確認します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">松井</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>（客）、井川に声をかける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">松井</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　日本文芸社の『はじめて<sampling type="end" />の手話』という本を探しているのですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

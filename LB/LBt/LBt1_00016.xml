@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt1_00016" version="1.0" type="fixedLength">
+<article articleID="LBt1_00016_F001">
+<sentence>親と親友のどちらが心理的な支えになってくれるかについて調べた研究で<sampling type="start" />は、１２歳までは親、１２歳以降は親友の存在が重視されることがわかった。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>■はったつプチコラム■　クラスでの人気はどう決まるか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>小学校のクラスには人気者と排斥される者がいるものだが、人気者は学習や運動面にすぐれて積極的な子、排斥される子は協調性や自分を制御する力に欠けることが多いという。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●―ギャング・エイジ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">小学校高学年の友人関係が社会性を養う</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">児童期</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●ギャング集団が社会性を発達させる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　小学校５〜６年生くらいになると、友だち同士の結びつきが強くなり、同年齢の仲間同士でグループを作って行動することが多くなります。</sentence>
+<sentence>このグループを<quote>「ギャング集団」</quote>と呼び、グループを作る時期を<quote>「ギャング・エイジ」</quote>と呼んでいます。</sentence>
+<sentence>その後、青年期にはしだいにギャング集団は消えていきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">＊ギャング集団</sentence>
+<br type="automatic_original" />
+<sentence>児童期中期から後期に現れる、まとまりの強い仲間集団のことをいう。</sentence>
+<sentence>集団内の地位や役割を果たすことで、社会的知識や技能を得る機会となる。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ギャング集団は４〜８人くらいの同性のメンバーで構成される<quote>「小さな社会」</quote>で、仲間以外の人にはとても閉鎖的。</sentence>
+<sentence>集団内のつながりは密接です。</sentence>
+<sentence><quote>「自分たちのことは自分たちでする」</quote>といった意識を持ち、集団内のルールや活動計画を独自に考え、実行しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、メンバーにはそれぞれ役割があり、それを果たすと他のメンバーに認められます。</sentence>
+<sentence>それが、<quote>「自信」</quote>という感情につながります。</sentence>
+<sentence>さらに、集団で行動することによって、人を助けることや同情すること、責任感、義務感、忠誠など、いろいろな社会性を学んでいます。</sentence>
+<sentence>このように、ギャング・エイジは子どもの発達にとって大切なプロセスなのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●社会性のない大人が増える可能性も</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　しかし、このギャング集団は、最近ではしだいに消失しつつあるようです。</sentence>
+<sentence>生活空間の変化によって路地や空き地、原っぱといった子どもの遊び場が少なくなっていること、また、テレビゲームやパソコンの発達によって家でひとりで遊ぶ子どもが増えていることなどが、原因として挙げられます。</sentence>
+<sentence>塾に通うなどで、遊び時間が少なくなったことも一因でしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">＊生活空間</sentence>
+<br type="automatic_original" />
+<sentence>個人の行動に関係する空間のこと。</sentence>
+<sentence>レヴィンという研究者によると、現実に生活する物理的空間ではなく、個人の行動を規定する心理学的な場所をいう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　いずれにしても、ギャング・エイジは人格の発達に必要な一過程です。</sentence>
+<sentence>それを経ないことによって、今の子どもたちが社会性のとぼしい大人になってしまうのではという心配もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「ギャング集団」</quote>の現状は…</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ギャング集団の特徴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">・小学校高学年〜中学生</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・４〜８人くらいの同性から構成</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・役割分担がはっきりしている</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・仲間だけに通じる<sampling type="end" />ルールがある</sentence>
+</listItem>
+</list>
+</article>
+</sample>

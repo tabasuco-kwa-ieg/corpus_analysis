@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00037" version="1.0" type="fixedLength">
+<article articleID="LBj5_00037_F001">
+<paragraph>
+<sentence>この場合、<quote>「発泡スチロール再資源化検討委員会（もしくは評議会）」</quote>は年数回開催され、作業部会の作成した調査<sampling type="start" />予測結果・計画案等に対する検討・承認を行うことになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．発生量の調査と予測</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２‐１　発生量の調査方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　発泡スチロール発生量の調査方法には、大別して以下の２つがあり、市場の状況に適した方法を採用する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（１）排出事業者へのアンケート調査</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）実際に排出された発泡スチロールの実測調査</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）排出事業者へのアンケート調査</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　各排出事業者にアンケート調査票を配布し、その結果から発泡スチロールの発生量を推定する方法である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アンケートによる調査の長所としては、系統組織や市場関係者団体を利用して配布・回収を行うことにより、大規模な市場であっても少人数の調査要員で実施可能である点である。</sentence>
+<sentence>短所としては、回答者の主観が入り込むため正確さに不満が残ることと、対象者に調査協力のとりつけが必要である点が挙げられる。</sentence>
+<sentence>事前に調査対象者に対し文面等で調査への協力依頼を呼びかけておくことが望ましい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◆図３‐１　アンケートによる調査の流れ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　実際の方法としては、発泡スチロールを排出する全ての事業者にアンケート調査票を配布し、各自の発泡スチロール排出状況を記入・返送してもらう。</sentence>
+<sentence>アンケート内容は、１日に発生した発泡スチロールの量（サイズ、荷の種類と箱数）、当日の荷の取り扱い量等である（参考資料３参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アンケートを回収した後、それぞれの回答から荷の取り扱い量１ｔ（もしくは１ｋｇ）あたりの発泡スチロール発生量を算出し（個別原単位）、さらに全体での平均を求める（発生原単位）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　市場の１日あたりの発泡スチロール発生量及び年間発生量は、発生原単位と市場の荷の取り扱い総量より、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となる。</sentence>
+<sentence>ただし、以後の予測の精度を向上させるため、発泡スチロールを排出しない部門（食肉等）があれば、総取り扱い量から除いておく必要がある。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（２）実際に排出された発泡スチロールの実測調査</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ある１日に集積場等に排出された発泡スチロール量の全てを実際に測定・計数し、総排出量を求める方法である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この方法は、小規模な市場であれば内部関係者のみによる実施も可能であるが、大規模な市場となると通常業務との兼ね合い等もあり、内部関係者だけでは実施は困難と思われる。</sentence>
+<sentence>そのような場合は、外部の調査会社等に委託することとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◆図３‐２　実測による調査の流れ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　調査は、発泡スチロールの発生量が最大となる年末などの時期（繁忙期）と、それ以外の時期（通常期）の２回以上行う。</sentence>
+<sentence>調査の結果から、通常期の日発生量（通常日発生量）、繁忙期の日発生量（最大日発生量）を求めて年間発生量を導く。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　さらに、予測を行うために取り扱い量１ｔ（もしくは１ｋｇ）あたりの発泡スチロール発生量（発<sampling type="end" />生原単位）を算出する。</sentence>
+</paragraph>
+</article>
+</sample>

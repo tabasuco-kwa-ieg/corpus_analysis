@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp0_00015" version="1.0" type="fixedLength">
+<article articleID="LBp0_00015_F001">
+<abstract>
+<sentence>元の表と同じ場所に置いて使うことが多いのですが、<sampling type="start" />グラフ専用のシートを使うこともできます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>グラフは周囲が■で囲まれた状態（グラフ全体が選択された状態）で、マウスを使って自由に移動できます。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>マウスポインタをグラフの右下隅にある■に合わせると、ポインタの形が<image no="1" description="クロスのポインタ" />から<image no="2" description="グラフエリアの境界" />に変わります。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ポインタの形が変わったらマウスの左ボタンを押し、ボタンを押したまま拡大または縮小したい方向にドラッグします。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>マウスのボタンを離すと、グラフはその時点での大きさになります。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>グラフを専用のシートに移したい場合は、グラフ内の適当な空白位置でマウスの右ボタンをクリックします。</sentence>
+<sentence>表示されたメニューから<quote>「場所」</quote>を選択します。</sentence>
+<sentence>この操作はグラフの周囲が■で囲まれた状態（グラフ全体が選択された状態）で行います。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><quote>「新しいシート」</quote>を選んでクリックし、<quote>「ＯＫ」</quote>ボタンを押します。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>グラフが専用のシートに移動します。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>表示するシートの切り替えは、画面左下にあるシート名の書かれたタブをクリックします。</sentence>
+<sentence>画面は<quote>「Ｇｒａｐｈ１」</quote>というシートが表示された状態です。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">５３　グラフの種類を変える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>グラフの種類は、描き終わった後で別の種類のグラフに変更することもできます。</sentence>
+<sentence>データの内容によっては適さないものもありますが、いろいろ試して内容にふさわしい種類を選んでください。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>グラフの周囲が■で囲まれた状態（グラフ全体が選択された状態）で、グラフ内の適当な空白位置でマウスの右ボタンをクリックします。</sentence>
+<sentence>表示されたメニューから<quote>「グラフの種類」</quote>を選択します。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>最初にグラフを描いたときと同じ要領で、<quote>「グラフの種類」</quote>と<quote>「形式」</quote>を指定し決まったら<quote>「ＯＫ」</quote>ボタンをクリックしてください。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>表の選択範囲はそのままで、グラフの種類だけが変更されました。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ショートカットキー集</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">エクセル篇</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>エクセルでショートカットキーを使うと、ワークシートやセル内での移動が簡単になり、作業がスピードアップします。</sentence>
+<sentence>毎日エクセルを使う人ならぜひマスターしましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence>Ｃｔｒｌ＋Ｈｏｍｅ　ワークシートの先頭に移動します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｃｔｒｌ＋Ｅｎｄ　データが入力されている範囲の右下隅のセル（Ａ１などのワークシートの先頭のセルに対する反対側のセル）に移動します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ＰａｇｅＤｏｗｎ　１画面下にスクロールします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ＰａｇｅＵｐ　１画面上にスクロールします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ａｌｔ＋ＰａｇｅＤｏｗｎ　１画面右にスクロールします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ａｌｔ＋ＰａｇｅＵｐ　１画面左にスクロールします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｃｔｒｌ＋ＰａｇｅＤｏｗｎ　ブック内の次のシートをアクティブにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｃｔｒｌ＋ＰａｇｅＵｐ　ブック内の前のシートをアクティブにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ａｌｔ＋Ｅｎｔｅｒ　セル内で改行。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｓｈｉｆｔ＋Ｅｎｔｅｒ　セルの入力を確定し、選<sampling type="end" />択範囲内で上に移動します。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

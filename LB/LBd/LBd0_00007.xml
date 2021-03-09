@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd0_00007" version="1.0" type="fixedLength">
+<article articleID="LBd0_00007_F001">
+<paragraph>
+<sentence>さらに，ｆ（ｘ）が，図３．６のように間隔⊿ｘの<sampling type="start" />くし形関数によって近似的に表現されているとする．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように，連続な定義域上で定義された関数に対してその<quote>「標本」</quote>を離散的な点の上でとることを，２．１節に述べたように，関数の標本化（ｓａｍｐｌｉｎｇ）という．</sentence>
+<sentence type="quasi">このとき，標本化に用いた点を定義域とする関数をｆ<subScript>ｓ</subScript>（ｘ）とすれば，ｎを整数として，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>が成り立つ．</sentence>
+<sentence type="quasi">そこで，両辺のフーリエ変換をとると，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>ただし，Ｆ（ｕ）＊δ（ｕ−（ｎ／⊿ｘ））であることを用いている．</sentence>
+<sentence>式（３．１３）は，ｆ（ｘ）の標本化が，そのフーリエ変換に対して１／⊿ｘ間隔で和をとっていくことに対応することを示している．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　とくに，｜ｕ｜＞１／（２⊿ｘ）のときはＦ（ｕ）＝０であるようにＦ（ｕ）の値が制限されていると仮定する．</sentence>
+<sentence type="quasi"><sentence>（このようなＦ（ｕ）は，帯域制限（ｂａｎｄｌｉｍｉｔｅｄ）されているという．</sentence>
+）このとき，矩形関数</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>をＦ<subScript>ｓ</subScript>（ｕ）にかけたもののフーリエ逆変換は，もとの関数ｆ（ｘ）に一致する．</sentence>
+<sentence type="quasi">すなわち，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　以上の結果を定理にまとめたものを，標本化定理（ｓａｍｐｌｉｎｇ　ｔｈｅｏｒｅｍ）という．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">定理２（標本化定理）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パターン関数のフーリエ変換が，標本化された周波数の１／２以上の空間周波数成分を含まなければ，周波数領域の標本値から，空間領域におけるもとの関数が完全に復元できる．</sentence>
+<sentence type="quasi">［］</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　標本化定理によれば，もとの関数ｆ（ｘ）のフーリエ変換Ｆ（ｕ）が高周波成分を含まなければ，標本化という表現変換法は十分に有効である．</sentence>
+<sentence>この条件は厳しいようにみえるかもしれないが，Ｆ（ｕ）の高周波成分をあらかじめ取り除くローパスフィルタを通して前処理をしておけば，実際的にもある程度成り立つようにすることができる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３．６　パターン関数のくし形関数近似</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）　量子化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　上に述べた標本化は，パターン関数の定義域を離散化することであるが，関数の値を離散化することは，２．１節に述べたように，量子化（ｑｕａｎｔｉｚａｔｉｏｎ）とよばれる．</sentence>
+<sentence>量子化は，関数の値をいくつかの量子化レベルだけに制限することによって行われる．</sentence>
+<sentence>たとえば，図３．７（ｂ）は，図３．７（ａ）のパターンを３ビットのレベルに量子化したものである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，パターン関数ｆ（ｘ）の１ビット量子化パターン<missingCharacter attribute="Latin" unicode="U+FFFD" description="ｆの上にｃｏｍｂｉｎｉｎｇ　ｃｉｒｃｕｍｆｌｅｘ　ａｃｃｅｎｔ">〓</missingCharacter>（ｘ）を生成する場合，まず，ｆ（ｘ）のパターン要素の強度の頻度分布を求める．</sentence>
+<sentence type="quasi">次に，その分布の最小値を与える強度をａとするとき，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>とすればよい．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３．７　パターンの量子化の例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３．４　空間的構造表現への変換</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パターン関数の表現から空間的構造表現を生成する方法はたくさんあり，そのうちの代表的なものについては，４章で解説する．</sentence>
+<sentence>ここでは，その一つの例として，与えられた標本点の集まりから，それらの点を内挿して得られる曲線を生成する方法について述べよう．</sentence>
+<sentence>なお，このような問題は，パタ<sampling type="end" />ーン認識において不完全なパターンの境界や領域を推定するときによく出てくる．</sentence>
+</paragraph>
+</article>
+</sample>

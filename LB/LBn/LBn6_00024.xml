@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn6_00024" version="1.0" type="fixedLength">
+<article articleID="LBn6_00024_F001">
+<paragraph>
+<sentence>また、試験<sampling type="start" />管内での働きがわかった場合でも、生体での機能を確実に評価するためには、実験動物による評価方法が必要になる。</sentence>
+<sentence>遺伝子の機能を直接的に動物で評価する方法としては、得られたＤＮＡ配列に相当する動物の遺伝子を抑制して機能の変化を調べる方法と、そのＤＮＡ配列を動物に導入する方法の二種類があり得る。</sentence>
+<sentence>１９９６年から大塚製薬が開始したノックアウト・マウス（特定の遺伝子の発現を抑制したマウス）によるＤＮＡ機能解析プロジェクトは、前者の例である。</sentence>
+<sentence>また、後者は、疾患に関連する遺伝子を導入した実験動物を作成することを通して、治療法や薬剤の評価系を構築することを可能にするであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　〈モデル生物〉の特許のあるものは、これらの実験動物系の先駆となるものである。</sentence>
+<sentence>遺伝子治療や癌ワクチンを開発しているベンチャーである、セル・ジェネシス（Ｃｅｌｌ　Ｇｅｎｅｓｙｓ）による、ＭＨＣクラスⅠ抗原の抑制モデル<quote>「一般的提供者細胞のための相同組換え」</quote>（ＷＯ９１０１１４０）の特許は、ノックアウト・マウスを作成する基本方法の一つである相同組換え技術をクレームしている。</sentence>
+<sentence>また、アメリカの医薬企業であるブリストル・マイヤーズ・スクイブの<quote>「ニューロトロフィン受容体における欠失マウス」</quote>は、神経細胞が退行する病気の実験モデルとなるノックアウト・マウスをクレームしている。</sentence>
+<sentence>これらの特許は、ノックアウト・マウスを直接商品化することを目指しているのではなく、新薬開発の手段としてそれらを用いる（またはライセンスする）権利を確保しているものと考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まとめると、〈モデル生物〉の特許は、商業的ゲノム研究で得られる人間や実験動物のＤＮＡ配列情報を特許化する際の付随的なクレームとして増加する一方で、そのようなＤＮＡ配列情報を医薬企業やベンチャー企業が新規医薬品の開発に結び付ける手段を確保する目的でも出願されている。</sentence>
+<sentence>従って、〈モデル生物〉は、ゲノム研究に代表されるような、遺伝子を情報として解析する技術が医薬品開発領域へ適用されるに伴って増加してきた<quote>「技術プッシュ」</quote>型の特許である。</sentence>
+<sentence>また、ＤＮＡ配列情報も〈モデル生物〉も、必ずしもそれ自体が直接商品化されるわけではない。</sentence>
+<sentence>それらは、直接商品となる知識（この場合は医薬品の化学的組成など）を生産するための知識である。</sentence>
+<sentence>このような知識が、ライセンスやＲ＆Ｄ協力を通じて交換・蓄積されることを前提として、知的所有権として専有化されることは、〈Ｒ＆Ｄ・知的所有権システム〉に特徴的な現象であろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表９　〈モデル生物〉の対象疾患</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">生物工場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　〈生物工場〉は、産業応用が可能な蛋白質を作るように、遺伝<sampling type="end" />的に改変した動植物をクレームしている。</sentence>
+</paragraph>
+</article>
+</sample>

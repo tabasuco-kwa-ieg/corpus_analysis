@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00007" version="1.0" type="fixedLength">
+<article articleID="LBg4_00007_F001">
+<list>
+<listItem>
+<sentence type="quasi"><sampling type="start" />１８９６〜１８９７年：噴煙と地鳴りをくりかえした</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９０５〜１９０６年：小噴火をくりかえした</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９１８年：御釜が沸騰</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９２３年：御釜の中心からガスが噴出</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９３３年：群発地震</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９３９年：御釜の中心からガスが噴出</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９４０年：かもしか温泉付近で小噴火</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９６２年：地鳴りと群発地震</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９６６年：濁川本流と<ruby rubyText="ふりこ">振子</ruby>沢に挟まれた三角帯に新温泉と噴気帯が出現</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９７１年：地鳴り</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９７２年：地鳴りと地震</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">七日原扇状地<enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　遠刈田温泉前でバスをおり，すぐ広い道路を南にはいると，まもなく松川の橋をわたります。</sentence>
+<sentence>そのまま右前方に蔵王連峰をながめながら１５００ｍほど進むと，一面牧草におおわれた広大な平坦面にでます。</sentence>
+<sentence>七日原です（図４‐５‐２）。</sentence>
+<sentence>この平坦面は江戸時代から牧場として開拓され，約４０ｈａの面積を占めています。</sentence>
+<sentence>その主要な部分は<ruby rubyText="おおぎ">扇</ruby>のようなかたち（ＡＢＣ）を示していて，等高線はＡを中心として同心円状に発達しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いっぽうこの扇形の平坦面には，秋山沢をはじめ３条の川がＡを中心として放射状に発達し，そのうち秋山沢だけはその上流が南蔵王の山腹に発達する谷川に連結しているのに対して，他の２条は七日原の中に水源をもっています。</sentence>
+<sentence>また，七日原は表面こそきれいに耕されていますが，耕地の下はどこを掘っても砂にまじって大きな石がごろごろしています。</sentence>
+<sentence>したがって，七日原の平坦面はこのような砂れき層の<ruby rubyText="たい">堆</ruby><ruby rubyText="せき">積</ruby><ruby rubyText="めん">面</ruby>であることがわかります（図４‐５‐３）。</sentence>
+<sentence>このようにして，この平坦面はまちがいなく扇状地です。</sentence>
+<sentence>扇状地は地面の傾斜が急に変化するところにできます。</sentence>
+<sentence>この場合，南蔵王の急斜面を流れてきた秋山沢は，８００ｍの等高線をこえたあたりで傾斜のゆるい平坦地にでます。</sentence>
+<sentence>その結果，急に運搬力がおとろえ，それまで運んできた砂れきをそこにばらまきます。</sentence>
+<sentence>流路を右に左に移しながら，くりかえしくりかえしこのようなことをつづけてきた結果として，谷口のところに頂点をもつ半円錐形の堆積面ができあがります。</sentence>
+<sentence>それが扇状地です。</sentence>
+<sentence>大和町の王城寺原も船形山の山麓に発達した扇状地です。</sentence>
+<sentence>扇状地の水はしばしば地面を流れないで地下にしみこみ，砂れき層の中を流れていることがあります。</sentence>
+<sentence>このような現象を<ruby rubyText="ふく">伏</ruby><ruby rubyText="りゅう">流</ruby>とよんでいます。</sentence>
+<sentence>その場合，伏流水が扇状地の末端のところで清水として湧きでていることがあります。</sentence>
+<sentence>七日原でもそのような現象が見られるかどうか，しらべてみるのもおもしろいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４‐５‐３　七日原扇状地の堆積面</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">溶岩流末端の滝<enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エコーラインにはいる手前１０００ｍあまりのところに滝見台があります。</sentence>
+<sentence>ここから，蔵王火山を背景にして，澄<sampling type="end" />川渓谷にかかる２つの滝をながめることができます。</sentence>
+</paragraph>
+</article>
+</sample>

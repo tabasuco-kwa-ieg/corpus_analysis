@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00025" version="1.0" type="fixedLength">
+<article articleID="LBt5_00025_F001">
+<paragraph>
+<sentence>なお、次世<sampling type="start" />代空港システム技術研究組合（ＡＳＴＲＥＣ）は、成田国際空港（株）をはじめ、現在６０社が参加する組合です（国土交通省所管認可法人）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>秋葉原電気街地区物流ＴＤＭ実証実験</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　共同配送センターとともに物流効率化を目指して、無線ＩＣタグを活用した家電製品の動脈物流における、無線ＩＣタグ導入による期待効果、運用上の課題を調査するため実施されました。</sentence>
+<sentence>実施期間は、２００４年１０月１２日〜１１月１１日。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter><quote>「自律的移動支援プロジェクト」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　障害の有無や年齢，国籍などに関係なく、すべての人にとって便利で暮らしやすい<quote>「ユニバーサル・デザイン」</quote>による町づくりの一環として、歩行者の利便性向上を目指して行われ、無線ＩＣタグを道路や住所表示板などに大量に埋め込み、手のひらサイズのリーダーを通して情報を提供しました。</sentence>
+<sentence>実施期間は２００４年９月３０日〜。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>航空手荷物管理システム（手ぶら旅行）実証評価事業（成田空港）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　利用者の利便性およびセキュリティ向上を目指し実施されました。</sentence>
+<sentence>旅行者が自宅で預けた手荷物は、出発空港（成田空港）に運ばれ、内容物の安全と旅行者のチェックインを確認後、搭乗機に乗せられます。</sentence>
+<sentence>これにより、利用者は、自宅から目的地の空港まで手ぶらで旅行することが出来ることになります。</sentence>
+<sentence>無線ＩＣタグにより、手荷物は、特定の旅行者の持ち物であることが認識され、陸と空の運送上のセキュリティが確保されます。</sentence>
+<sentence>実験実施期間は、２００４年３月〜２００５年３月。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">秋葉原地区ＴＤＭ実証実験（物流共同化）の概要</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典　秋葉原物流効率化実行委員会</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">現状の運用方法と手ぶら旅行における運用方法</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典　次世代空港システム技術研究組合</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">運用モデル毎の手荷物セキュリティ対応方法</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典　次世代空港システム技術研究組合</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４‐１４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">無線ＩＣタグを利活用した医療分野（病院）での実証実験例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>業務が多忙等の理由により、患者の取り違え、手術や投薬ミスなどが残念ながら発生しています。</sentence>
+<sentence>ここでは、これら医療ミスを防止する方法として、無線ＩＣタグ内蔵のＩＤ‐Ｒｉｎｇを利用し、適正な検査・手術・投薬が行われることを確認できた実証実験について説明します。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">概要</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　無線ＩＣタグ内蔵の“指輪型”認証装置（ＩＤ‐Ｒｉｎｇ）と電子カルテを利用して、患者を正しく確認し、適正な医療サービスを提供支援するシステムです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　患者の指にはめられたＩＤ‐Ｒｉｎｇをリーダー・ライターで読み取り、読み取られたデータと電子カルテ上の患者ＩＤとが等しいかチェックされます。</sentence>
+<sentence>正しく一致した場合、はじめてカルテが記入可能となり、その後、手術や投薬等も行うことができるようになります。</sentence>
+<sentence>このように<sampling type="end" />、患者の本人確認を厳密に行うことにより、医療ミスの防止、患者のプライバシーの保護・情報漏洩の防止、検査情報一元化などを実現し、医療コストの削減を図ります。</sentence>
+</paragraph>
+</article>
+</sample>

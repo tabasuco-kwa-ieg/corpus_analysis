@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00025" version="1.0" type="fixedLength">
+<article articleID="LBr5_00025_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">―主要製造<sampling type="start" />業一七業種の姿とその行く末</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　空洞化という現実―製造業一七業種の現状</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本章ではまず日本の主要製造業がおかれている立場を正確に把握するため、個別一七業種について、現在の国際環境の変化とそれが与える国内立地（海外移転）への影響について述べたい。</sentence>
+<sentence>象徴業種である製造業一七業種について次表のとおり五つに分類し、各グループごとに分析を行った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">加工・組立型　‥自動車、自動車部品、工作機械、一般機械・産業用機械、造船</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">産業素材型　‥鉄鋼、化学（汎用）、化学（特殊）、非鉄金属</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ＩＴ・電子関連型　‥電子部品、半導体、半導体製造装置、ＩＴ関連機器</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">内需関連型　‥セメント、紙パルプ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">国際分業型　‥家電、繊維</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　右に列挙したほとんどの業種で概観されるのは、マーケットのグローバル化に伴う国際的な企業間競争が熾烈化し、最適地調達・最適地生産は避けられないという、非常に厳しい環境の中で生き残り策を模索していることだ。</sentence>
+<sentence>また、決して少なくない業種において、中国をはじめとするアジア諸国が、低い各種コストや潜在的に巨大なマーケットとしての魅力から、世界の一大生産拠点となっている。</sentence>
+<sentence>その結果として、一〇年前と比較すると産業素材型の<quote>「化学（特殊）」</quote>、ＩＴ・電子関連型の<quote>「ＩＴ関連機器」</quote>など一部の業種を除いて、日本の国際競争力の相対的低下、国内生産拠点の縮小（海外生産比率上昇）という厳しい結果を報告することになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　海外生産へのシフトは決して今に始まったことではない。</sentence>
+<sentence>低コスト生産を目指しアジアを中心に生産拠点の移転が進んでいる国際分業型、政治・為替リスクの回避を目的として消費地立地が進んでいる加工・組立型の一部（自動車、自動車部品）では、以前からその動きが顕著であった。</sentence>
+<sentence>しかし、むしろ注目すべきことは、生産のほとんどが国内で行われる産業素材型や内需関連型に分類される業種までもが、一部海外生産にシフトし始めたことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　仮にこの状況を放置した場合、今後、各業種とも生産活動の海外シフトは続き、むしろその動きが加速することが避けられない。</sentence>
+<sentence>加えて、現状ではほとんどの業種で国内に立地している設計・開発活動についても生産活動の動きに追随し、ある程度の海外シフトが進むものと予測されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　前ページ図２‐１、２‐２は、産業の国際競争力と国内立地（＝海外移転）の相関関係をイメージとしてとらえるため、産業問題研究会のメンバーによる企業ヒアリングなどをもとにして、複数の要素をランク付けしながら、総合的に判断して作成したものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１　国際競争力と国内立地の相関関係（イメージ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐２　１７業種の相関関係（現状）</sentence>
+<br type="automatic_original" />
+<sentence>〔注〕あくまでもイメージ図。</sentence>
+<sentence>縦軸は日本に立<sampling type="end" />地する各業種の工場を世界と比較した相対的な競争力を示す。</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

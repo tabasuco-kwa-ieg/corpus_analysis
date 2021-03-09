@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBsn_00011" version="1.0" type="fixedLength">
+<article articleID="LBsn_00011_F001">
+<sentence>ＴＶｆｕｎＳＴＵＤＩＯは、テレビ録画ができるタイプのＦＭＶシリーズに共通で採用されている、ＡＶ総合ソ<sampling type="start" />フトウェアです。</sentence>
+<sentence>テレビの視聴や録画をはじめ、ＤＶＤビデオの作成に使用するＤＶＤｆｕｎＳＴＵＤＩＯもこのソフトから起動することができます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>間違った場合は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>手順５で間違った番組をドラッグしてしまったときは、登録した番組を選択して、［クリア］をクリックします。</sentence>
+<sentence>その後、もう一度手順５からやり直します。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＤＶＤ＋Ｒ／ＲＷメディアには書き込めない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＦＭＶシリーズに登載されているＤＶＤｆｕｎＳＴＵＤＩＯは、ＤＶＤ＋Ｒ／ＲＷメディアには対応していません。</sentence>
+<sentence>またＴＶｆｕｎＳＴＵＤＩＯにも、ＤＶＤ＋Ｒ／ＲＷメディアに書き込む機能はありません。</sentence>
+<sentence>メディアを購入するときは、ＤＶＤ‐ＲかＤＶＤ‐ＲＷメディアを購入してください。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＤＶＤビデオにしたい番組を探すには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＤＶＤビデオにしたい番組を探すときは、手順３の画面で番組の表示方法を変更するといいでしょう。</sentence>
+<sentence>一覧表示や番組の詳細などが表示されるので、効率よく番組を探すことができます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">書き込みたい番組がＤＶＤ‐Ｒの容量を超えてしまったときは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＤＶＤメディアの容量に対して、書き込みたい番組が大きすぎたときは、下のような画面が表示されます。</sentence>
+<sentence>［ＯＫ］をクリックすると、画質を落として書き込むことができます。</sentence>
+<sentence>ただし、ＤＶＤビデオの作成時間は長くなります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＤＶＤビデオにした番組は削除しておこう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＤＶＤビデオを作成した番組は、パソコン内に残しておく必要はありません。</sentence>
+<sentence>機会を見つけて削除しておくと、それだけ録画容量に余裕ができます。</sentence>
+<sentence>番組の削除は、ＴＶｆｕｎＳＴＵＤＩＯから行ないましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>間違った場合は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>手順９で、ＤＶＤ‐Ｒメディアをドライブにセットせずに［書き込み］をクリックしてしまったときは、［ディスクが見つかりません］という注意を促す画面が表示されます。</sentence>
+<sentence>新しいＤＶＤ‐Ｒメディアをセットして、［ＯＫ］をクリックします。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＴＶｆｕｎＳＴＵＤＩＯで作成しよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>録画した番組をそのまま１枚のＤＶＤビデオにするには、ＴＶｆｕｎＳＴＵＤＩＯを使います。</sentence>
+<sentence>ＴＶｆｕｎＳＴＵＤＩＯは、もともとテレビの視聴のためのソフトですが、ＤＶＤオーサリングソフトのＤＶＤｆｕｎＳＴＵＤＩＯと連動しているので、特に２つのソフトの切り替えを意識することなく、ＤＶＤビデオを作成できます。</sentence>
+<sentence>作成にかかる時間は、番組の長さや画質、メディアの種類によって異なります。</sentence>
+<sentence>ＤＶＤビデオの作成中は、テレビ番組の録画予約やパソコンのスタンバイもできなくなりますので、都合のいい時間を見計らって作成を開始してください。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">レッスン３５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＮＥＣのパソコン<sampling type="end" />で録画した番組をＤＶＤビデオにするには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

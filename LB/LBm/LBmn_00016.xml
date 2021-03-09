@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBmn_00016" version="1.0" type="fixedLength">
+<article articleID="LBmn_00016_F001">
+<paragraph>
+<sentence>　わたしのアパートのむかいの<sampling type="start" />家の<ruby rubyText="にわ">庭</ruby>にも<ruby rubyText="い">以</ruby><ruby rubyText="ぜん">前</ruby>は池があり、ヒキガエルが<ruby rubyText="たまご">卵</ruby>を<ruby rubyText="う">産</ruby>みにきていたそうです。</sentence>
+<sentence>その池はもうありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　池がなくなり、毎年春には、おとなのヒキガエルが<ruby rubyText="こう">交</ruby><ruby rubyText="つう">通</ruby><ruby rubyText="じ">事</ruby><ruby rubyText="こ">故</ruby>にあって死んでいるということは、わたしのすむ東京の町では、あたらしい世代が生まれてくるのはむずかしく、ヒキガエルはへっていくいっぽうだといえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　でも、学校にはかならずといっていいほど池があります。</sentence>
+<sentence>なくてもつくることができるでしょう。</sentence>
+<sentence>池をつくったら、近所の公園からヒキガエルの<ruby rubyText="たまご">卵</ruby>かオタマジャクシをすこし分けてもらいましょう。</sentence>
+<sentence>そのオタマジャクシがカエルになれば、はやければ三年後、おそくとも四年後には、学校の池にヒキガエルが<ruby rubyText="たまご">卵</ruby>を<ruby rubyText="う">産</ruby>みにくるかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">日本にいるおもなカエル</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">右上：アマガエル</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">右下：モリアオガエル</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">左上：ツチガエル</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">左下：カジカガエル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">オタマジャクシの<ruby rubyText="か">飼</ruby>い方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　カエルの<ruby rubyText="たまご">卵</ruby>を<ruby rubyText="し">飼</ruby><ruby rubyText="いく">育</ruby>できる数だけ池からとってきて、洗面器にいれます。</sentence>
+<sentence>水は、水道の水をバケツなどに２〜３日いれておいたものをつかい、１週間に１〜２回、３分の２くらい入れかえます。</sentence>
+<sentence>２週間くらいでオタマジャクシが泳ぎはじめたら、水そうにうつします。</sentence>
+<sentence>えさは、はじめはパンやごはんつぶ、大きくなったらニボシやカツオブシ、キンギョのえさなど。</sentence>
+<sentence>のこったえさが水をよごすので、えさはあげすぎないようにしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、後ろ足がはえ、それから前足が出てきます。</sentence>
+<sentence>そして<ruby rubyText="お">尾</ruby>が短くなってきて、だんだんカエルらしくなります。</sentence>
+<sentence>こうなると、えらでなく<ruby rubyText="はい">肺</ruby>で<ruby rubyText="こ">呼</ruby><ruby rubyText="きゅう">吸</ruby>しはじめるので、おぼれ死んでしまわないように、水そうの水を<ruby rubyText="へ">減</ruby>らし、石などをおいて上がれる場所をつくってあげます。</sentence>
+<sentence>カエルは生きている小さな虫を食べるので、<ruby rubyText="し">飼</ruby><ruby rubyText="いく">育</ruby>するのがとてもむずかしい生きものです。</sentence>
+<sentence>子ガエルになったら、もとの池に放してあげましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><ruby rubyText="たまご">卵</ruby>は１０<ruby rubyText="こ">個</ruby>くらいでじゅうぶん</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">水温が上がりすぎないよう<ruby rubyText="ひ">日</ruby><ruby rubyText="かげ">陰</ruby>におく</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">水からあがれるよう石や<ruby rubyText="すな">砂</ruby>を入れる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBmn_00016_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">地球</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">天気<ruby rubyText="よ">予</ruby><ruby rubyText="ほう">報</ruby>　コンピュータの計算で<ruby rubyText="よ">予</ruby><ruby rubyText="そう">想</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「月がかさをかぶると雨」</quote><quote>「<ruby rubyText="あさ">朝</ruby><ruby rubyText="がすみ">霞</ruby>は<ruby rubyText="は">晴</ruby>れ」</quote>などと、むかしから、天気を<ruby rubyText="よ">予</ruby><ruby rubyText="そう">想</ruby>するさまざまなことわざがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　天気をあらかじめ知ることは、だれものぞみますが、農業や<ruby rubyText="ぎょ">漁</ruby><ruby rubyText="ぎょう">業</ruby>をいとなむ人びとにとってはとくに、たいせつです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　天気<ruby rubyText="よ">予</ruby><ruby rubyText="ほう">報</ruby>は、<ruby rubyText="き">気</ruby><ruby rubyText="しょう">象</ruby>についての<ruby rubyText="じょう">情</ruby><ruby rubyText="ほう">報</ruby>をひろくあつめ、それをもとに天気を<ruby rubyText="よ">予</ruby><ruby rubyText="そく">測</ruby>し、そのけっかをおおくの人につたえるものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="げん">現</ruby><ruby rubyText="だい">代</ruby>の天気<ruby rubyText="よ">予</ruby><ruby rubyText="ほう">報</ruby>は、<ruby rubyText="き">気</ruby><ruby rubyText="しょう">象</ruby><ruby rubyText="えい">衛</ruby><ruby rubyText="せい">星</ruby>をはじめとする<ruby rubyText="かん">観</ruby><ruby rubyText="そく">測</ruby><ruby rubyText="き">器</ruby>、<ruby rubyText="だい">大</ruby><ruby rubyText="き">規</ruby><ruby rubyText="ぼ">模</ruby>な<ruby rubyText="じょう">情</ruby><ruby rubyText="ほう">報</ruby><ruby rubyText="もう">網</ruby>や、<ruby rubyText="おお">大</ruby><ruby rubyText="がた">型</ruby>のコンピュータなどによってなりたっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">天気<ruby rubyText="よ">予</ruby><ruby rubyText="ほう">報</ruby>のはじまり</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一八五四年一一月一四日、トルコ、イギリス、フランス<ruby rubyText="れん">連</ruby><ruby rubyText="ごう">合</ruby><ruby rubyText="ぐん">軍</ruby>がロシアとたたかった<ruby rubyText="せん">戦</ruby><ruby rubyText="そう">争</ruby>（クリ<sampling type="end" />ミア<ruby rubyText="せん">戦</ruby><ruby rubyText="そう">争</ruby>）のさいちゅうに、<ruby rubyText="こっ">黒</ruby><ruby rubyText="かい">海</ruby>を<ruby rubyText="ぼう">暴</ruby><ruby rubyText="ふう">風</ruby>がおそって、フランスの<ruby rubyText="ぐん">軍</ruby><ruby rubyText="かん">艦</ruby>が<ruby rubyText="ちん">沈</ruby><ruby rubyText="ぼつ">没</ruby>してしまいました。</sentence>
+</paragraph>
+</article>
+</sample>

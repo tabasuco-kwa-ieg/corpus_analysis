@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00017" version="1.0" type="fixedLength">
+<article articleID="LBl5_00017_F001">
+<titleBlock>
+<title>
+<sentence>Ｑ　ドライ・イーストを入れすぎたとき、どんな<sampling type="start" />副作用が残りますか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　何度か、発酵がうまくいかずに、強い発酵を望んでドライ・イーストを多めに加えたことがある。</sentence>
+<sentence>しかし、酵母菌が食べる糖分の量は限られているのと逆に、食べる糖分が少ないと余分なドライ・イーストの苦みだけが残ってしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、ドライ・イーストを加える場合は、先に砂糖、ハチミツなどを人肌のお湯に溶いたものに加えて予備発酵させてから、その溶液をドブロクに入れた方が効果的だろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">応用編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ　より本格的に、手作り米麹でドブロクを作りたいのですが？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　手作りの米麹を作るには、まず<ruby rubyText="こうじ">麹</ruby><ruby rubyText="むろ">室</ruby>と呼ばれる保温施設の役割を果たすものを作らなければならない。</sentence>
+<sentence>しかし、恐れるにあらず。</sentence>
+<sentence>一般家庭にも電気こたつや電気毛布、電気あんかというものがあるではないか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は電気こたつとダンボール箱を組み合わせて即席<ruby rubyText="こうじ">麹</ruby><ruby rubyText="むろ">室</ruby>を作ってみた。</sentence>
+<sentence>意外に容易に手作りの、しかも生の米麹ができた（図３）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　まず、ドブロク作り同様に蒸した米（炊いてもよい）を４０度に冷まし、種麹菌を振りかける。</sentence>
+<sentence>（種麹の入手は農協に問い合わせるのが早いだろう）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　種麹菌を振りかけた蒸し米を両手でよくもむ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　それを図のように饅頭型にしてさらしなどの目の粗い布で軽く包み、寿司桶に入れる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　即席麹室は、あらかじめセットしておくこと。</sentence>
+<sentence>足を取った電気こたつを裏返すようにしてダンボール箱に入れ、こたつの発熱部分に寿司桶が直接触れることをさけるため、ブロックなどを乗せておく。</sentence>
+<sentence>その上にフタをした<enclosedCharacter description="○">３</enclosedCharacter>の寿司桶を置く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　電気こたつのスイッチや温度調節機能を使って、ダンボール内部を３７度に維持する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>　１８〜２０時間経過後、ダンボールから寿司桶を取り出し、温度を変化させないように素早く蒸し米をしゃもじなどでかきまぜ、図のように溝を入れ、再び即席麹室に戻す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">７</enclosedCharacter>　１２時間後、蒸し米が乳白色に変色し固まってきたら、電気こたつのスイッチを切り、さらに１０〜１２時間ダンボール内に放置しておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">８</enclosedCharacter>　１０〜１２時間後に寿司桶を取り出し、できあがった米麹を外気にさらして急冷する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、手作り生米麹のできあがりだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">麹を作ってみる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ　予備発酵によるドブロク作りとは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前述の主婦のアイデアだが、予備発酵によるドライ・イーストの発酵は、ドブロク作りの成功率を上げるとともに、すっぱさを抑えるのには効果的だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　手間をかけてもドブロク作りの成功率を上げたい人にはぜひ勧めたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、５ｌコースの場合、人肌（３６度〜３７度）のお湯１００ｍｌに砂糖を３〜４ｇ溶かす。</sentence>
+<sentence>その溶液にドライ・イースト（６ｇ）を入れる。</sentence>
+<sentence>よくハシやスプーンなどでかきまぜる。</sentence>
+<sentence>５分ほどで泡立ちはじめれば、発酵<sampling type="end" />が順調な証。</sentence>
+</paragraph>
+</article>
+</sample>

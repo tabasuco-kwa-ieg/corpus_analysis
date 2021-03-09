@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00060" version="1.0" type="fixedLength">
+<article articleID="LBr4_00060_F001">
+<paragraph>
+<sentence>赤道域の熱は、図７．７に示すように、ハドレー循環と呼ばれる赤道域と中緯度をはさむ子午面に沿う循環によって中緯度に運ばれていますが、この赤道域の<sampling type="start" />熱源がエルニーニョ現象によってその位置や強さを大きく変えます。</sentence>
+<sentence>そして、ロスビー循環と呼ばれる中・高緯度の熱を南北方向に運ぶ大気の運動が、ハドレー循環の変動などの影響を受けて変化することが、エルニーニョ現象の影響が中・高緯度まで及ぶ原因となっていると考えられています。</sentence>
+<sentence>しかし、先ほども述べましたように、ハドレー循環の強く現れる場所のわずかな変化、ロスビー循環の流れの蛇行が生ずる場所の変化、あるいは極地方の寒気の影響などにより、中緯度の個々の地域に与えるエルニーニョ現象の影響は大きく様相を変えることもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７．７　ハドレー循環とロスビー循環の模式図（木村ら，１９８４）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">五　エルニーニョ現象と日本の天候</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次に、エルニーニョ現象が発生中の日本の主な天候の特徴について、<quote>「近年における世界の異常気象と気候変動―その実態と見通し―（Ｖ）」</quote>（気象庁、一九九四）をもとに見ていきましょう。</sentence>
+<sentence>ここで、平年より高い（多い、早い）、平年並、平年より低い（少ない、遅い）の三階級は、統計的にそれぞれ、三〇％、四〇％、三〇％の割合で出現するように階級分けしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　梅雨期</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エルニーニョ現象年には、梅雨明けが遅れる傾向があります。</sentence>
+<sentence>一九五一〜九二年の統計によれば、エルニーニョ現象年には八〇％以上の割合で、沖縄を除き梅雨明けが平年並または遅くなっています（図７．８）。</sentence>
+<sentence>なお、梅雨入りについては、とくにエルニーニョ現象との関連は見られません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　夏の天候</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　夏の天候の特徴としては、エルニーニョ現象発生中の夏の気温が平年より低くなる傾向が挙げられます。</sentence>
+<sentence>六〜八月の平均気温の統計（一九五一〜九二年）を見ますと、エルニーニョ現象発生中の夏の気温は、全国的に七〇％以上の割合で平年並または低くなっています（図７．９）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　台風</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エルニーニョ現象の発生した年には、統計的（一九五一〜九二年）にその前年や翌年に比べ台風の発生数が少なくなる傾向があります（図７．１０）。</sentence>
+<sentence>台風の発生地域についてみますと、エルニーニョ現象発生年には、主な発生地域である太平洋西部熱帯域の対流活動が弱まって、この地域での発生数が少なくなり、一方、対流活動の活発な領域が東へ移動するため、マリアナ諸島の東海上での発生数が増加する傾向がみられます。</sentence>
+<sentence>また、エルニーニョ現象年には、台風の発生緯度が低くなる傾向が指摘されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、一九九七〜九八年のエルニーニョ現象時にあたる一九九八年の台風発生数は一九個で、台風の統計を取り始めた一九五一年以来最も少なくなりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　冬の天候</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エルニーニョ現象発生中には、冬の気温が平年より高くなる傾向があります。</sentence>
+<sentence>一九五一〜九二年の統計<sampling type="end" />によりますと、エルニーニョ現象年の冬には、八〇％以上の割合で、一二〜二月の三か月平均気温が全国的に平年並または高くなっています（図７．１１）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

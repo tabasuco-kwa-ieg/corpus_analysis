@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00082" version="1.0" type="fixedLength">
+<article articleID="LBf3_00082_F001">
+<paragraph>
+<sentence>　さて、東の方向に向かって時速３ｋｍ<sampling type="start" />で歩く人は、いまから２時間後には、基準の地点からどちらの方向になんｋｍの距離のところにいるか、という式と答をみてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　速さ×時間＝距離　という公式からみれば、この式と答は簡単にわかります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　２時間後には、東のほう６ｋｍのところにいるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、いまから２時間前はどこにいたでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　いまから２時間前には、西のほう６ｋｍのところにいたのでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今度は、西の方向へ時速３ｋｍで歩いていく人を考えてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　西に向かって時速３ｋｍで歩く人が、いまから２時間後にはどこにいるでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　基準の地点から西の方向６ｋｍのところにいることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じように、いまから２時間前にはどこにいたでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　西に向かって歩く人がいまから２時間前には、基準の地点から東のほう６ｋｍのところにいたことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、速さ、時間、距離の関係からも、正と負の数の乗法を、意味づけることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほかにも、いくつかの事例で乗法を説明できますが、トランプカードとこの速さ・時間・距離との関係が、わかりやすい典型的なものだと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１９　除法（１）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　わり算のことを、中学からは除法といいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　正と負の数の除法にも、わり算と同じようにひとつは１あたり量を求める等分除と、いくつ分を求める包含除とよばれるもうひとつの意味があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トランプカードを例にして考えてみましょう。</sentence>
+<sentence>となりから同じ点数のカードを３枚とって、全部で６点の得をしました。</sentence>
+<sentence>カード１枚あたりの点数はなん点だったでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これを式にすると、わり算の意味から全部の数÷いくつ分＝１あたり量　にあてはめて　（＋６点）÷（＋３枚）となります。</sentence>
+<sentence>その答が１枚あたり＋２点、黒の２点のカードであることは、さきほどのかけ算の逆だから容易に理解できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、３枚とって、全部で６点の損をしたとすると、１枚あたりの点数はどうでしょうか。</sentence>
+<sentence>（−６点）÷（＋３枚）という式ですから、この答が１枚あたり赤の２点であることも簡単です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　つぎに、となりの人に３枚とられるときのことを考えてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　まず、となりの人に同じ点数のカードを３枚とられて、全部で６点の得をしたときの式と答は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となり、１枚あたり赤の２点のカードをとられたことになります。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　同じように、となりに同じ３枚のカードをとられて、全部で６点の損をしたときにはどうでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となり、黒のカードで１枚あたり２点ずつのカードであったことがわかります。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　除法のときも、乗法のようにつぎのルールがあることになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　つまり、同符号どうしの除法の答はプラスになり、異なった符号どうしのときの答はマイナスになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　と<sampling type="end" />ころで、分数のわり算のときに学んだのですが、わり算は除数（わる数）の逆数をかけることによって、答を求めることができます。</sentence>
+</paragraph>
+</article>
+</sample>

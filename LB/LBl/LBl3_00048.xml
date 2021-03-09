@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00048" version="1.0" type="fixedLength">
+<article articleID="LBl3_00048_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">住民監査請求は、どのようにするので<sampling type="start" />すか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑ１　住民監査請求の制度とは、どんなものですか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　住民監査請求の制度とは、自治体の職員などによる違法または不当な公金の支出によって納税者である住民が損害を受けることを防止するために住民に監査請求権を認めた制度をいいます。</sentence>
+<sentence>個々の住民が自分の自治体の監査委員に職員などによる財務会計上の行為などについて監査を請求できるのです。</sentence>
+<sentence>地方自治法に定められた制度です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　住民監査請求の規定は、地方自治法２４２条にわずか１条しかありませんが、わかりにくい規定になっています。</sentence>
+<sentence>この規定の要点を整理すると次のようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<sentence type="quasi"><quote>「住民監査請求」</quote>によって</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">自治体の長・委員会・職員の</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">違法または不当な</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　公金の支出</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　財産の取得・管理・処分</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　契約の締結・履行</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　債務その他の義務の負担</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　公金の賦課・徴収や財産の管理を怠る事実（職務を怠ること）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>について、住民が、<enclosedCharacter description="○">１</enclosedCharacter>監査、<enclosedCharacter description="○">２</enclosedCharacter>その行為の防止や是正、<enclosedCharacter description="○">３</enclosedCharacter>その怠る事実を改めること、<enclosedCharacter description="○">４</enclosedCharacter>自治体のこうむった損害の補塡を請求することができます。</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<paragraph>
+<sentence>　地方自治法２４２条１項は住民監査請求について次のように規定しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">２４２条１項</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　普通地方公共団体の住民は、当該普通地方公共団体の長もしくは委員会もしくは委員、または当該普通地方公共団体の職員について、違法もしくは不当な<enclosedCharacter description="○">１</enclosedCharacter>公金の支出、<enclosedCharacter description="○">２</enclosedCharacter>財産の取得、管理もしくは処分、<enclosedCharacter description="○">３</enclosedCharacter>契約の締結もしくは履行もしくは<enclosedCharacter description="○">４</enclosedCharacter>債務その他の義務の負担がある（<sentence>当該行為がなされることが相当の確実さをもって予測される場合を含む。</sentence>
+）と認めるとき、または<enclosedCharacter description="○">５</enclosedCharacter>違法もしくは不当に公金の賦課もしくは徴収もしくは財産の管理を怠る事実（<sentence>以下<quote>「怠る事実」</quote>という。</sentence>
+）があると認めるときは、これらを証する書面を添え、監査委員に対し、監査を求め、当該行為を防止し、もしくは是正し、もしくは当該怠る事実を改め、または当該行為もしくは怠る事実によって当該普通地方公共団体のこうむった損害を補塡するために必要な措置を講ずべきことを請求することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑ２　住民監査請求ができる者の範囲は、どうなっていますか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　住民監査請求ができる者（請求人）は、普通地方公共団体（都道府県と市町村）の住民とされています。</sentence>
+<sentence>住民とは、その自治体の区域内に住所を有する者をいいます。</sentence>
+<sentence>住民には外国人、未成年者、会社のような法人または法人でない団体（町内会、ＰＴＡなど）も含まれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　住所の有無は、一般に住民登録または外国人登録によって確認されますが、会社のような法人は登記所（法務局）の法人の登記簿によって確認されます。</sentence>
+<sentence>法人でない団体の場合には登記簿がありませんから、会則などで確認することに<sampling type="end" />なります。</sentence>
+</paragraph>
+</article>
+</sample>

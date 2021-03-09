@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo6_00029" version="1.0" type="fixedLength">
+<article articleID="LBo6_00029_F001">
+<paragraph>
+<sentence>　１編成の定員は、当初の７０００系は３５２人、うち座席が１７０人、７２００系は３３８人、うち座<sampling type="start" />席が１５８人である。</sentence>
+<sentence>ボックスシートの一部を３人掛けロングシートにしたから座席定員が減るのはわかるが、立席も減るのは不思議に思える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは室内立席有効面積が狭くなったためである。</sentence>
+<sentence>ロングシートに座る人の足が出る部分を含まないために（現実の満員時ここにも立つ）、立席有効面積が若干狭くなったことと、扉間の車体幅が狭くなったことの二つの理由からである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ゆりかもめの乗降扉はプラグドアといって車体外面に引き戸が開くようになっていた。</sentence>
+<sentence>７０００系は一度車体の外側に出て開く構造で、閉まっているとき扉も側面も同一平面となっている。</sentence>
+<sentence>開くときに指詰め事故があったので、７２００系では扉の側面を２０ｍｍ内側に凹ませて、そのまま引くようになり、扉間の車体幅が合計４０ｍｍ狭くなったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　７２００系のインバータ制御は三相６００Ｖ交流電源を一度直流１０００Ｖにしてから、三相交流かご形モーターを三相インバータで三相交流に変換制御をする。</sentence>
+<sentence>なにかまどろっこしいような気がするが、インバータ制御は、今のところこのようにするしかない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　起動加速度３・５、減速度３・５と新交通システムとしては標準である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＡＴＯによる無人運転なので、運転士は基本的に乗務しない。</sentence>
+<sentence>通常モード、駅停車時間を伸ばすモード、遅延回復モードがあり、中央指令所から操作する。</sentence>
+<sentence>中央指令所では扉開閉制御、出発指令、照明・冷暖房制御も行える。</sentence>
+<sentence>また異常時に対応できるよう、列車と中央指令所間に個別、または一斉通話できる列車無線装置があり、異常時などは乗客と中央指令所間で送受話ができるようにしている。</sentence>
+<sentence>これは基本的に無人の駅でも同様である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　無人運転なので、突発的な乗客増、多くは国際展示場の開館および閉館時などのときは、すぐに列車を増発できる。</sentence>
+<sentence>これが有人運転ならばまず乗務員の手配をしなくてはならず、即時対応はできない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　基本的には無人運転だが、降雪時を含む異常時には有人運転も行う。</sentence>
+<sentence>このため運転要員もいるが、運転士が必要とする動力車操縦免許を所持している社員は少ないし、運転するにはその路線のあらゆる設備や勾配、カーブなどの位置を習熟しておかなければならない。</sentence>
+<sentence>そこで、免許養成検修や操縦講習、習熟運転をすることがあり、このときはＡＴＯをはずしてＡＴＣをバックアップに、普段は客用の正面座席に運転士が座って手動運転をする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【ダイヤ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　新橋―有明間だけの運転で、有明で車庫ともつながっているので入出庫による途中駅からの運転はない。</sentence>
+<sentence>所要時間は２３分、表定速度は３０・５キロである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　朝ラッシュ時は３分３０秒毎、昼間時５<sampling type="end" />分毎、夕ラッシュ時４分毎の運転である。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd4_00015" version="1.0" type="fixedLength">
+<article articleID="LBd4_00015_F001">
+<paragraph>
+<sentence>　グラム陽性菌Ｌ．ａｃｉｄｏｐｈｉｌｕｓおよびグラム陰性菌Ｅ．ｃｏｌｉの<sampling type="start" />サイクリックボルタメトリーを行ったところ，それぞれ０．６８Ｖ，０．７２Ｖ，（ｖｓ．ＳＣＥ）に酸化波が得られましたが，還元波は検出されませんでした．</sentence>
+<sentence>ピーク電流は２回目の走査において，Ｌ．ａｃｉｄｏｐｈｉｌｕｓのピーク電流は３８％減少したのに対し，Ｅ．ｃｏｌｉは１回目の８０％の電流が示されました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　２次波のピーク電流値を測定したところ，グラム陰性菌では１次波ピーク電流値に対して８０％以上の値を示したのに対し，グラム陽性菌では５０％以下の値となりました．</sentence>
+<sentence>さらにピーク電位を測定したところ，グラム陽性菌はすべて０．６７±０．０１Ｖ（ｖｓ．ＳＣＥ）でグラム陰性菌は０．７１±０．０２Ｖ（ｖｓ．ＳＣＥ）でした．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの結果より，腸内細菌において，グラム陽性菌とグラム陰性菌をピーク電位と，１次波ピーク電流値に対する２次波ピーク電流値の割合を電気化学的に測定することにより，短時間に識別できることが明らかになりました．</sentence>
+<sentence>さらに，抗原抗体反応を利用することにより，種や属のレベルまでの識別もできることが明らかになっています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに，動物細胞の識別を試みました．</sentence>
+<sentence>特にがん細胞と血球細胞の識別ができれば，この方法によりがんの診断などが可能になります．</sentence>
+<sentence>Ｔ細胞，Ｂ細胞，マクロファージ，腹水胆肝がん細胞などの識別も同様に可能になりました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">アレルギーセンサ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アレルギー性鼻炎，喘息などの即時型アレルギーは，アレルゲンに対して生体内で生産されるＩｇＥ抗体が主な原因と考えられています．</sentence>
+<sentence>そのため，臨床医学において，血液中のＩｇＥを検出・定量することはアレルギーの診断のために重要です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　血液中のＩｇＥ濃度は非常に低く，現在，ＩｇＥの測定にはＲＩＳＴ，二重抗体法などが最も広く使われています．</sentence>
+<sentence>しかし，そのいずれもが放射性元素を用い，操作が煩雑であるため，もっと簡単に測定できるセンサが望まれています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで，識別素子として，細胞表層識別素子にＩｇＥレセプターを有する好塩基球を用いたセンサを構成し，血清中のＩｇＥを検出することを検討しました．</sentence>
+<sentence>アレルギーセンサの原理を図７３に示します．</sentence>
+<sentence>ＩｇＥレセプターを有する好塩基球としてＲＢＬ‐１を使用しました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７３　アレルギーセンサの原理図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　ＲＢＬ‐１細胞から得たサイクリックボルタモグラムには，０．３４〜０．３５Ｖと０．６８〜０．７０Ｖ（ｖｓ．ＳＣＥ）付近に特異的な電流が得られました．</sentence>
+<sentence>ところが，ＩｇＥが結合したＲＢＬ‐１細胞から得られたピーク電位は，０．３１〜０．３４Ｖ（ｖｓ．ＳＣＥ）と低くなり，ピーク電流値も約３０％近く減少しました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これはＩｇＥ抗体が細胞膜上のＩｇＥレセプターと結合した<sampling type="end" />ことにより，細胞膜の構造に変化が生じ，塩基性顆粒の細胞膜透過性が変わったためと考えられます．</sentence>
+</paragraph>
+</article>
+</sample>

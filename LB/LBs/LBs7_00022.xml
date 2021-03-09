@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs7_00022" version="1.0" type="fixedLength">
+<article articleID="LBs7_00022_F001">
+<figureBlock>
+<caption>
+<list>
+<listItem>
+<sentence type="quasi">ポイント<sampling type="start" /><enclosedCharacter description="●">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence>つくりの最初の線（４の線）は、へんの二本の横線（１、３の線）の間から書き始めます。</sentence>
+<sentence>４の線は、１の横線と平行にして書くと、つくりが下がることがなくなります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ポイント<enclosedCharacter description="●">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence>へんとつくりの間が狭いと、文字の伸びやかさが失われてしまいます。</sentence>
+<sentence>へんとつくりが調和するように、つくりは少し間をあけて書きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">筆の動きを見てみよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>つちへんの右側は、左側よりも短く切りそろえるような気持ちで書く。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>つくりは、１と３の横線の間を目安にして、書き始める。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>へんとつくりの下部をそろえるようにして、曲がりを書いていく。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">上下の組み立て</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ステップ１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">まずは書いてみよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>左のお手本と<quote>「書き方のヒント」</quote>を参考にして半紙に<quote>「雨雲」</quote>を書いてみましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">◎書き方のヒント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　<quote>「雲」</quote>の上部と下部の大きさの関係に注意しましょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　<quote>「雲」</quote>の横線は、すべて同じ長さで書きますか？</sentence>
+<sentence>　それとも長さに変化をつけて書きますか？</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　<quote>「雲」</quote>の中心線がどこにあるのかを考えながら書きましょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ステップ２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">比べてみよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>あなたが半紙に書いたものとお手本とを比べてみましょう。</sentence>
+<br type="automatic_original" />
+<sentence>お手本どおりに書けましたか。</sentence>
+<sentence>次のようになりませんでしたか？</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence>Ａ　文字に、安定感がなくなってしまった。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>下すぼまりの字形になっていないためです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｂ　上部が不安定になってしまった。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>下部が小さ過ぎてバランスが悪いためです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｃ　上下の幅が同じになってしまった。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>横線の長さに差をつけていないためです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｄ　文字が傾いてしまった。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>上下の中心を通していないためです。</sentence>
+<br type="automatic_original" />
+<sentence>ステップ３で解決法を確認しましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ステップ３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">確認しよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>間違った書き方をしている場合はそれぞれの解決法を参考にして、正しい書き方をしっかりと身につけましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence>これで解決！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「雲」</quote>のように、あめかんむりをふくむ文字では、下すぼまりの字形にすると、安定する場合が多いです。</sentence>
+<sentence>下部の横線を、あめかんむりの横線よりも短く書くと、下すぼまりの字形に仕上げることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｂ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence>これで解決！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　下すぼまりの字形にするといっても、下部が小さ過ぎると全体のバランスが崩れて安定しません。</sentence>
+<sentence>右図のアとイの長さを同じに書いてしまうのが原因です。</sentence>
+<sentence>イをアよりも長く書くことで、上部を支えてバランスを保つのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">ポイント<enclosedCharacter description="●">１</enclosedCharacter>を確認</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｃ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence>これで解決！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「雲」</quote>のように、横線を多くふくむ文字では、それぞれの長さに変化をつけることが大切になってきます。</sentence>
+<sentence>ウ→オ→エの順に線を短くすることで、文字全体のバランスがとれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">ポイント<enclosedCharacter description="●">２</enclosedCharacter>を確認</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence>これで解決！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文字の中心がずれていると、バランスが崩れ、落ち着きのない印象になってしまいます。</sentence>
+<sentence><quote>「雲」</quote>では、あめかんむりの縦線が中心になりますの<sampling type="end" />で、この線に合わせるように下部を書くとバランスがとれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

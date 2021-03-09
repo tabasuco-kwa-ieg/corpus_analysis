@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf4_00036" version="1.0" type="fixedLength">
+<article articleID="LBf4_00036_F001">
+<paragraph>
+<sentence type="quasi">　雨の塩素がすべて海塩に由来するとすると，また海塩組成が海水組成に等しいとすると，海水では１ｋｇ中に塩素が<sampling type="start" />１９，３５３ｍｇ，ホウ素が４．４ｍｇ含まれているから</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　５．３μｇ／ｌは，雨水中の過剰ホウ素あるいは海塩補正のホウ素ともいわれ，これは海塩に由来しないホウ素である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>濃度比：読んで字のごとくであるから，表２・２４のように同一試料中の元素間の濃度比もあるが，同一元素の異なる系の間の濃度比もよく用いられる．</sentence>
+<sentence type="quasi">たとえばマグネシウム（Ｍｇ）の海水中の濃度（表２・１１）と，海に生育する植物中の濃度（表２・２３）との濃度比，ＣＲ（ｃｏｎｃｅｎｔｒａｔｉｏｎ　ｒａｔｉｏ）を求めれば</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　鉄についての濃度比は，表２・１２の海水の鉄濃度を用いて，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　鉄についての濃度比，１．８×１０<superScript>７</superScript>という数字は大きいとはいえ，この数字自体は単なる比であって，濃度比単独では海水から植物へ鉄が濃縮しているかどうかを示すものではない．</sentence>
+<sentence>鉄の濃度比をマグネシウムの濃度比４．０と比較するときに初めて，鉄はマグネシウムよりも海水から植物へ濃縮されているといえる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでいう濃度比を‘濃縮係数’と称している本も多いが，上述のように濃度比単独では濃縮を意味しないから，これを濃縮係数と呼ぶのをやめた方がよいと筆者は思う．</sentence>
+<sentence>英語の‘ｃｏｎｃｅｎｔｒａｔｉｏｎ’には，‘濃度’という意味の他に‘濃縮すること’という意味もあるので，おそらく混同されて使用され始めたのであろう．</sentence>
+<sentence>濃縮には‘ｅｎｒｉｃｈｍｅｎｔ’が対応しているのである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>濃縮係数：ある系ＡにおけるＭに対する濃度比を，系Ａの成分の起源あるいは系Ａの母体と考えられる系ＢにおけるＭに対する濃度比で割った値を濃縮係数，ＥＦ（ｅｎｒｉｃｈｍｅｎｔ　ｆａｃｔｏｒ）という．</sentence>
+<sentence>Ｍ成分には系Ｂに特有な元素で，なるべく主成分が選ばれる．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence type="quasi">　海の植物中の塩素（Ｃｌ）濃度を４，７００ｐｐｍ，海水の塩素濃度を１９，３５３ｐｐｍとし，前記マグネシウムと鉄の塩素を基準にした濃縮係数をそれぞれ求めると，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　濃縮係数の場合はそれ単独で，海の植物にはマグネシウムが，母体である海水よりも１７倍濃縮され，鉄は７×１０<superScript>７</superScript>倍も濃縮されていることがわかる．</sentence>
+<sentence>ＥＦ＝１ならば濃縮は全く起こっていなく，ＥＦ＜１ならこの場合，植物から海水の方へ濃縮が起こっていることを示すことになる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上の表わし方は，場合によっては便利なものであるが，ときによっては数字の誤差が大変大きくなることに注意すべきである．</sentence>
+<sentence>濃度比のとき分母，分子にそれぞれファクター２の誤差（±６０％の変動係数）があると，たとえば濃度比１，０００の数字は２５０―４，０００へと変動する．</sentence>
+<sentence>また，濃縮係数を求める４つの数値のうち３つにそれぞれファクター２の誤差があるときは，濃縮係数１，０００は１<sampling type="end" />２５―８，０００へと誤差が大きく増幅されるから，その点への配慮を十分にわきまえておかなければならない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

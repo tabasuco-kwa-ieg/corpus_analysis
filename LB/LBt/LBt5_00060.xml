@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00060" version="1.0" type="fixedLength">
+<article articleID="LBt5_00060_F001">
+<paragraph>
+<sentence>接続先として［広帯域］グループに［ブロードバンド接続（または利用者の設定した<sampling type="start" />名前）］アイコンが表示されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■ＡＤＳＬモデム用の接続ファイルの構成</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><quote>「広帯域」</quote>とはＡＤＳＬのようにデータ転送速度を高速化した電話回線のことです。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　また、ルータ型モデム用の接続ファイルは、［ＬＡＮまたは高速インターネット］グループに作成され、プライベートＩＰアドレスが割り当てられます。</sentence>
+<sentence>接続先として［インターネットゲートウェイ］グループに［インターネット接続］アイコンが表示されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■ルータ型モデム用の接続ファイルの構成</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>パソコンにデジタルビデオカメラなどからの映像の取り込みに利用されるＩＥＥＥ１３９４インターフェースが装備されている場合は、［ＬＡＮまたは高速インターネット］グループに［１３９４接続］が表示されます。</sentence>
+<sentence>Ｗｉｎｄｏｗｓ　ＸＰではＩＥＥＥ１３９４経由でもパソコン同士をＬＡＮで接続することができるということですが、一般的にはあまり使われていません。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＬＡＮを構築する</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">［ネットワーク接続］でＴＣＰ／ＩＰを設定する</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">実用＝５　教養＝４　専門＝１</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ２８６　ネットワークの接続ファイルはどこにあるの？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ａ）ネットワークの接続ファイルは［ネットワーク接続］コントロールパネル内にある。</sentence>
+<sentence>ＬＡＮアダプタごとに作成される接続ファイルには、ネットワークの設定が記録されている。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">［実５教４専１］［ネットワーク接続］コントロールパネルを開いて接続ファイルを見る</sentence>
+<br type="automatic_original" />
+</abstract>
+<paragraph>
+<sentence>　ウィザードで作成されたインターネットの接続方式ごとに接続ファイルは、［ネットワーク接続］コントロールパネルの中に表示されます。</sentence>
+<sentence>［ネットワーク接続］コントロールパネルを開くには、次のような方法があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>●［コントロールパネル］ウィンドウで作業する分野から［ネットワークとインターネット接続］をクリックして、コントロールパネルの一覧で［ネットワーク接続］をクリックする（カテゴリ表示の場合、→Ｑ２５６参照）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●［コントロールパネル］ウィンドウで［ネットワーク接続］をダブルクリックする（クラシック表示の場合）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●［マイネットワーク］ウィンドウに表示されるタスクの一覧で［ネットワーク接続を表示する］をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●タスクトレイの［ネットワーク］アイコンを右クリックして、表示されるショートカットメニューから［ネットワーク接続を開く］を選択する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　日常的に利用する時は、４番目のタスクトレイから起動する方法が手軽でしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■タスクトレイから［ネットワーク接続］コントロールパネルを開く</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ２８７　ネットワーク接続の状況を確認するには？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ａ）ネットワークが正しく稼動しているか、ＬＡＮケーブルが接続されているかなど、ネットワーク接続の状況は［ローカ<sampling type="end" />ルエリア接続の状態］ダイアログボックスで確認できる。</sentence>
+</abstract>
+</article>
+</sample>

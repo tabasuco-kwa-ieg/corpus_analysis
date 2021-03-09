@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm2_00077" version="1.0" type="fixedLength">
+<article articleID="LBm2_00077_F001">
+<paragraph>
+<sentence>　秀吉は、天下人への道を歩み始めた一五八三年（<ruby rubyText="てん">天</ruby><ruby rubyText="しょう">正</ruby>一<sampling type="start" />一）から<ruby rubyText="やま">山</ruby><ruby rubyText="しろ">城</ruby>で検地をおこない、以後、勢力圏の拡大とともに、検地をおこなって、ほぼ全国に及んだ。</sentence>
+<sentence>これによって農民の生活は変わった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず検地帳が、村ごとに作成された。</sentence>
+<sentence>中世では郷村制度によっていたが、検地のさいに<quote>「村切り」</quote>をおこない、村の境界を明らかにして、村の<ruby rubyText="たか">高</ruby>が定まった。</sentence>
+<sentence>そして土地の一筆（区画）ごとに調査をした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　検地では国また郡を単位にして、<quote>「かいと」</quote>というように字名をつけ、土地は山林・藪などを除き、田・畠・屋敷に分類し、さらに上・中・下・下々の品等にわけた。</sentence>
+<sentence>面積は、中世での一反三六〇歩を三〇〇歩として、一間六尺三寸、基準を五間に六〇間とした。</sentence>
+<sentence>現在は一間六尺になっているが、少なくとも三六〇歩を三〇〇歩にしたのは、計算の上で便利であったろうが、一反の面積は九一パーセント余の減となっている。</sentence>
+<sentence>そして地域により異なるが、上田では一石五斗を基準生産高＝石盛・斗代として定め、あとは中田一石二斗と三斗下がりとし、上畠は一石二斗で、二斗下がり、屋敷は上畠並とした。</sentence>
+<sentence>畠・屋敷を含めて、米の高で表しているが、従来は貫高制といって銭表示のところも多く、<ruby rubyText="お">織</ruby><ruby rubyText="だ">田</ruby>政権では米と銭の表示が基本であったから、これを天正の石直しと呼んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして検地帳に登録されたのは、百姓としての土地所持であった。</sentence>
+<sentence>従来の土地関係では、守護などのような支配権、領主のもつ領有権、農民では名主・作人・下作人の権利があった。</sentence>
+<sentence>そして当時は在地領主がいたから、農民の土地権利だけではなく、支配権を除く領主の権利も含めて、複雑な土地関係が村内に存在していた。</sentence>
+<sentence>これを整理したのである。</sentence>
+<sentence>そこでは一地一作人の原則によって、その土地を所持している一人の百姓が登録された。</sentence>
+<sentence>これによって所持権は認められ安定した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>太閤検地尺　秀吉は全国的に検地をおこなったが、これは島津氏の領国に示された基準の検地尺。</sentence>
+<sentence>石田三成の署判が見える。</sentence>
+<sentence>尚古集成館蔵。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">太閤検地の意味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　戦後の太閤検地研究では、そのさい小農民自立政策として在地領主などの下にいた作人などの農民が上位のものをおしのけて登録されたと考えられた。</sentence>
+<sentence>しかしこれは誤りである。</sentence>
+<sentence>在地領主らが兵農分離で城下町へ移り、農民が村に残されて、検地帳に登録をされたことはあったが、旧領主クラスの者が村に残った時は、彼らが百姓として登録され、当時一定の土地権利を認められ、なかには土地の一部を年貢免除地にしてもらったり恩恵を与えられた。</sentence>
+<sentence>また彼らの下にある農民が登録されたさいも、その登録人の肩書に、旧領主の被官とか譜代とか記したのであった。</sentence>
+<sentence>この肩書には<ruby rubyText="か">鍛</ruby><ruby rubyText="じ">冶</ruby>・大工の職人やかわた・河原者などの被差別民もあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　太閤検地ではこの<sampling type="end" />ように百姓を主に、他の身分の者も含めて、農村にある被支配身分の者の土地所持を確定したのであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

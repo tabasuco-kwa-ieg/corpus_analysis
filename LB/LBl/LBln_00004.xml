@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBln_00004" version="1.0" type="fixedLength">
+<article articleID="LBln_00004_F001">
+<paragraph>
+<sentence>　ウイルスには、ＤＮＡの代わりに、ＲＮＡを遺伝子として使っ<sampling type="start" />ている仲間がいて、このようなウイルスを<quote>「ＲＮＡウイルス」</quote>、ＲＮＡウイルスがもっているＲＮＡを<quote>「ｖＲＮＡ」</quote>とよびます。</sentence>
+<sentence>ＲＮＡウイルスにも、いろいろな仲間がいますが、とくに、レトロウイルスとよばれる仲間には、いわゆるがんウイルスやエイズのウイルス（ＨＩＶ）がいて、人間の生活と、深刻な関わりをもっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　レトロウイルスは、宿主の細胞に侵入すると、自分のＲＮＡをもとに、手持ちの逆転写酵素（後述）を使い、まず、自分のＲＮＡと相補的な構造の一本鎖ＤＮＡを合成します。</sentence>
+<sentence><quote>「転写」</quote>というのは、ＤＮＡをもとに、それと相補的な“裏文字”のｍＲＮＡをつくることでした。</sentence>
+<sentence>“逆転写”というのは、その逆で、ＲＮＡを鋳型にして、それと相補的なＤＮＡをつくることです。</sentence>
+<sentence>“レトロ”というのは逆という意味で、<quote>「レトロ調」</quote>のレトロと同じ意味です。</sentence>
+<sentence>ｍＲＮＡから逆転写されてできたＤＮＡのことを<quote>「ｃＤＮＡ（相補的ＤＮＡ）」</quote>とよんでいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにしてできた一本鎖のＤＮＡは別の酵素の力を借りて、相手の鎖をつくり、二本鎖のＤＮＡになります。</sentence>
+<sentence>このＤＮＡは宿主のＤＮＡの一部にもぐり込んで、しばらくはそこで“休眠”します。</sentence>
+<sentence>“本人”は休眠していても、宿主のＤＮＡが複製されれば、一緒に増えることになります。</sentence>
+<sentence>病原ウイルスが感染後しばらく休眠して発病しない場合、<quote>「潜伏期」</quote>にあるといいます。</sentence>
+<sentence>エイズでは、この潜伏期が数年にわたることが多いようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　休眠からさめると、ウイルスの情報をもったＤＮＡが鋳型になり、ｖＲＮＡとｍＲＮＡがつくられ、このｍＲＮＡの情報にしたがって、宿主のリボゾーム上で、ウイルスの蛋白質（逆転写酵素など）がつくられます。</sentence>
+<sentence>このようにしてつくられた蛋白質は、ｖＲＮＡをとりこんでウイルス粒子となり、宿主から出ていきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ｖＲＮＡの逆転写でつくられたＤＮＡは、宿主ＤＮＡのどこにでも割り込むのではなく、割り込み場所は限定されているようですが、割り込み場所が悪いと、宿主のＤＮＡを異常な状態にして、その細胞をがん化する場合もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、レトロウイルスはたいへん恐ろしいウイルスですが、宿主のＤＮＡに割り込む性質を使うと、目的の遺伝子を、このウイルスを利用して、宿主細胞の核のＤＮＡに送り込むことができます。</sentence>
+<sentence>また、逆転写酵素は、それ自身たいへん有能な役者で、この役者に頼んで、生物から取り出したｍＲＮＡから“試験管の中で”ＤＮＡをつくってもらうことができ、バイオテクノロジーにとってはなくてはならない存在です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＤＮＡの運び屋としては、このほかのウイルスや、特殊な細菌も利用されていて（第１３章参照）、なかには、<quote>「酵母人工染色体」</quote>（ＹＡＣ）のよ<sampling type="end" />うに、いくつかのＤＮＡをつなぎ合わせてつくった人工の運び屋もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

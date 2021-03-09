@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp4_00017" version="1.0" type="fixedLength">
+<article articleID="LBp4_00017_F001">
+<paragraph>
+<sentence><sampling type="start" />健康保険が使えることもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　西洋薬では、べんぴに対しては下剤、下痢に対しては下痢止めと決まっていますが、漢方では、べんぴも下痢も腸の働きが乱れたためにおこっていると考え、本来の働きに戻すために薬を使います。</sentence>
+<sentence>長い漢方医学の臨床経験にもとづき、患者さんの症状や病気の現われ方を見て、体力や抵抗力といった体質、心の状態などを総合的に診断し、おもに<quote>「実証」</quote>と<quote>「虚証」</quote>に分けて薬が処方されるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　漢方薬はじっくり効く薬というイメージがありますが、カゼなどの急性病なら２〜３日で効きますし、慢性病でも２〜３週間でなんらかの効果があるのがふつうです。</sentence>
+<sentence>これで効かないようなら処方が合っていない可能性があります。</sentence>
+<sentence>頭痛や吐き気、胃腸障害、下痢、<ruby rubyText="ほっ">発</ruby><ruby rubyText="しん">疹</ruby>など何か異常を感じたときは漢方薬を飲むのをやめて主治医や薬剤師さんに相談してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>漢方薬には副作用がない？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　よく漢方薬には副作用がないから安心だといわれます。</sentence>
+<sentence>たしかに<quote>「証」</quote>に合っていれば副作用の心配は少ないといえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　けれども、<quote>「証」</quote>というものは不変ではありません。</sentence>
+<sentence>年齢によって体力がついてきたりおとろえたり、とくに女性の場合はホルモンのバランスが影響して体質が変わってきます。</sentence>
+<sentence><quote>「証」</quote>に合わない薬はかえって逆効果です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、漢方薬を服用して一時的に悪化したり不快な症状があらわれ、その後急速に病気が治っていくことがあります。</sentence>
+<sentence>これは<quote>「<ruby rubyText="めん">冥</ruby><ruby rubyText="げん">眩</ruby>」</quote>といって、漢方薬が効いている証拠のひとつとされていますが、副作用との区別がむずかしいものです。</sentence>
+<sentence>強い作用をもつマオウやダイオウ、ブシなどの生薬が含まれた処方はとくに注意が必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+</caption>
+<figure>
+<titleBlock>
+<title>
+<sentence type="quasi">実証のべんぴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●がっしりした体格で体力がある</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●肩こりやのぼせがある</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●下剤がよく効く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●水分がなくカチカチにかたまったベンが出る</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">虚証のべんぴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●きゃしゃな体格で体力がない</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●冷え性で胃腸が弱い</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●下剤を飲むと腹痛や下痢になる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●ウサギのフンのようなコロコロしたベンが出る</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<figureBlock>
+<caption>
+</caption>
+<figure>
+<sentence type="quasi">べんぴに処方されるおもな漢方薬</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="etc" />
+<noteBody>
+<sentence type="quasi">★＝過敏性腸症候群に有効な漢方薬</sentence>
+<br type="automatic_original" />
+</noteBody>
+</figure>
+</figureBlock>
+<figureBlock>
+<caption>
+</caption>
+<figure>
+<sentence type="quasi">漢方薬に使われるおもな生薬</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="etc" />
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">民間療法に使われる薬草</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">薬草と呼ばれるもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　薬草とは、草のほかに、一般には樹木をも含めていわれます。</sentence>
+<sentence>草根木皮を<ruby rubyText="せん">煎</ruby>じたり、粉末にして服用するからといって、すべてが漢方薬ではありません。</sentence>
+<sentence>ドクダミやゲンノショウコ、センブリ、ハトムギ、ビワの葉などは、古くから広く利用されてきました。</sentence>
+<sentence>なかには漢方薬の原料となる薬草も見られますが、おもにひとつの薬草をひとつの症状に適応させた単純な用法で使われます。</sentence>
+<sentence>これらは<quote>「民間薬」</quote>と呼ばれ、はっきりとした薬効が確認されたり、成分が解明<sampling type="end" />されているものばかりとはいえません。</sentence>
+</paragraph>
+</article>
+</sample>

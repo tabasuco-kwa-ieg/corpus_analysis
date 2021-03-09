@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBon_00024" version="1.0" type="fixedLength">
+<article articleID="LBon_00024_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「わあーすごい。</sentence>
+<sentence type="quasi">インターネットにわたしのペレ<sampling type="start" />ット、のっちゃった」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、<ruby rubyText="さけ">叫</ruby>びました。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「顔写真もさしつかえなかったらのせてあげるわよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence type="quasi">といわれたのですが、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「公のページなので、やめにしておきましょう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、お母さんが<ruby rubyText="しょう">消</ruby><ruby rubyText="きょく">極</ruby><ruby rubyText="てき">的</ruby>になって、やめました。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">■メールの書き方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　わたしは、<quote>「研究所公開日」</quote>がとても楽しかったので、<ruby rubyText="おお">大</ruby><ruby rubyText="たけ">竹</ruby>さんにお礼をいいたいと思いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　お母さんに相談したら、電話ではお仕事のじゃまになるので、手紙か電子メールにしたら、とアドバイスしてくれました。</sentence>
+<sentence>そこで、メールで出してみたいといって、出し方を教えてもらいました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　メールで出すときも、手紙のように、相手の名前や、自分の名前はもちろん、住所なども書くように注意されました。</sentence>
+<sentence>お母さんのところにくるメールには、こういうことをきちんと書いてないのが多くて、いきなり自分の<ruby rubyText="よう">用</ruby><ruby rubyText="けん">件</ruby>だけを書いてくる<ruby rubyText="しつ">失</ruby><ruby rubyText="れい">礼</ruby>なのもあるそうです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　問い合わせのときはとくに、その目的や、自分が調べてわかったことなどを書いて、何の努力もせずにやみくもにたずねているのではないことを示さなくてはいけない、と教えてもらいました。</sentence>
+<sentence>相手の時間と労力をさいて教えてもらうのですから、聞く方も努力が必要だというのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　手紙では、<ruby rubyText="じっ">実</ruby><ruby rubyText="さい">際</ruby>に見せてもらったペレットがとても不思議で勉強になったことや、その場でホームページをつくってもらってとてもうれしかったことを書きました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">みどりが書いた電子メール</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">大竹千代子様</sentence>
+<br type="automatic_original" />
+<sentence>大竹さん、お元気ですか。</sentence>
+<br type="automatic_original" />
+<sentence>先日は研究所でいろいろお話しを聞かせてくださって、ありがとうございました。</sentence>
+<br type="automatic_original" />
+<sentence>インターネットで上手にしらべると、本当にいろいろな<ruby rubyText="じょう">情</ruby><ruby rubyText="ほう">報</ruby>を手にいれることができました。</sentence>
+<br type="automatic_original" />
+<sentence>また、どうやって、ホームページを作るかも、そばで見てすこしわかりました。</sentence>
+<sentence>デジタルカメラで私のペレットを写真に<ruby rubyText="と">撮</ruby>って、すぐインターネットにのせてもらって、<ruby rubyText="ゆめ">夢</ruby>のような楽しい経験をしました。</sentence>
+<sentence>家に帰って、お父さんとペレットがのったホームページを見ながら、<quote>「わが家のホームページ」</quote>を作ろうかと、話しがはずみました。</sentence>
+<br type="automatic_original" />
+<sentence>こんど、クラスのみんなで海へいって<ruby rubyText="ちょう">調</ruby><ruby rubyText="さ">査</ruby>します。</sentence>
+<sentence>お母さんからもよろしくとのことです。</sentence>
+<br type="automatic_original" />
+<sentence>では、お元気で。</sentence>
+<sentence type="quasi">さようなら</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">×月××日</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">森村　みどり</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〒××××××</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">×××××××××××本町１‐２３‐４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ｅ‐ｍａｉｌ　ｍｏｒｉｍｕｒａ＠××××××．ｎｅ．ｊｐ</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<noteBody>
+<sentence>※メールでは半角のカタカナや<ruby rubyText="とく">特</ruby><ruby rubyText="しゅ">殊</ruby>な記号を使うと、文字化け（読めない文字）になることがある点も気をつけなくてはいけない。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">■<ruby rubyText="おお">大</ruby><ruby rubyText="たけ">竹</ruby>さんからの返事</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi">　<ruby rubyText="もり">森</ruby><ruby rubyText="むら">村</ruby>　みどり様</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　七月三〇日付けの電子メールを受け取りました。</sentence>
+<sentence>ありがとうございました。</sentence>
+<sentence>思いがけない人からのメールでしたので、名前を見たとき、いちばん最初にあけてみました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わたしは、まず、みどりさんのような<ruby rubyText="わか">若</ruby>い<ruby rubyText="かた">方</ruby>が、研究所に<ruby rubyText="きょう">興</ruby><ruby rubyText="み">味</ruby><sampling type="end" />を持って、たずねてくれたことにとても<ruby rubyText="かん">感</ruby><ruby rubyText="げき">激</ruby>しました。</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

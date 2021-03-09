@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs4_00034" version="1.0" type="fixedLength">
+<article articleID="LBs4_00034_F001">
+<paragraph>
+<sentence>前節で紹介したのは単なるエネルギー収支だけであり、具体的にどうやって莫大なエネルギーを取り出すかについては何も紹介しな<sampling type="start" />かった。</sentence>
+<sentence>そのメカニズムについて少し考えてみることにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">降着円盤</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　重力発電で重要な役割を果たしているのは<quote>「降着円盤」</quote>と呼ばれるものである。</sentence>
+<sentence>活動銀河中心核にある超大質量ブラックホールにガスが吸い込まれていく状況を考えてみる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　降着するガスは、もともとは銀河円盤やバルジ（円盤銀河の中央部にある、回転楕円体のような膨らんだ構造）の部分に存在している。</sentence>
+<sentence>それらのガスが少しずつ銀河の中心部へと集まってきて、最後に超大質量ブラックホールに吸い込まれることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ガスは超大質量ブラックホールに対して球対称的にあらゆる方向から降り積もっていくのだろうか？</sentence>
+<sentence>　これは本章の冒頭で考えた質量降着の方法である。</sentence>
+<sentence>原理的には可能である。</sentence>
+<sentence>しかし、現実的ではない。</sentence>
+<sentence>なぜならガスは多かれ少なかれ銀河の中で回転運動をしているからである。</sentence>
+<sentence>つまりガスは角運動量を持っているはずである。</sentence>
+<sentence>したがって超大質量ブラックホールの周辺にやってきたガスはその周りを回転しながら降り積もっていくことになる。</sentence>
+<sentence>超大質量ブラックホールの周りにはそのようなガスが集まってくるので、最終的にはガスの円盤のような構造ができあがる。</sentence>
+<sentence>これが降着円盤である（図４‐１）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４‐１　超大質量ブラックホールとその周りにある降着円盤　（ＮＡＳＡ／ＣＸＣ／Ｍ．Ｗｅｉｓｓ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">熱放射</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　降着円盤内のガスは超大質量ブラックホールの強烈な重力場に支配されており、円盤内のガス密度はかなり高くなる。</sentence>
+<sentence>したがって円盤内をガスが回転しながら少しずつ落ち込んでいくとき、摩擦が生じる。</sentence>
+<sentence>この摩擦熱でガス円盤はどんどん高温になっていく。</sentence>
+<sentence>超大質量ブラックホールに近づくにつれ温度は上がり、１０万Ｋにも達するようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　円盤のガス密度は高いので、円盤の各場所を見てみると、各場所で熱平衡状態になっていると近似的に考えることができる。</sentence>
+<sentence>このような場所からは、熱放射（黒体放射と呼ばれる）という形で電磁波が放射される（図４‐２）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　円盤の内側では１０万Ｋ以上の高温になり、外側に行くにつれて温度は下がっていく。</sentence>
+<sentence>ブラックホールの半径の１００倍から１０００倍の距離までくると、円盤の温度は数千Ｋにまで下がる。</sentence>
+<sentence>結局、円盤からの熱放射は色々な温度の場所から放射される熱放射の総和になる。</sentence>
+<sentence>例えば１０万Ｋの熱放射のピークは紫外線やＸ線領域にくる。</sentence>
+<sentence>また、数千Ｋの熱放射のピークは可視光帯にくる。</sentence>
+<sentence>それらが足し合わされて、可視光から紫外線、Ｘ線の電磁波が放射されることになる（図４‐３）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような降着円盤を使用するアイデアは、１９６９年にイギリスのリンデンとベルによっては<sampling type="end" />じめて提案された。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBnn_00001" version="1.0" type="fixedLength">
+<article articleID="LBnn_00001_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />リアターン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＩＤＥ　ＣＯＡＣＨ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">フロントターン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ボールを持たないターンでは，サイドキックで方向を変えることが多いが，クロスターンで行えるかどうかが，プレイ向上のカギだ。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">リアターン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相手につき当たりそうなほど接近したり，<ruby rubyText="はげ">激</ruby>しくチェックされたりしたときは，必ずリアターンでポジショニングするのが基本。</sentence>
+<sentence>この技術ができなければプレイは向上しない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＯＮ<ruby rubyText="ワン">Ｅ</ruby>　ＰＯＩＮ<ruby rubyText="ポイント">Ｔ</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">高い<ruby rubyText="し">姿</ruby><ruby rubyText="せい">勢</ruby>でのターン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><ruby rubyText="いっ">一</ruby><ruby rubyText="ぱん">般</ruby>に姿勢を低くしてターンするが，ボールを保持しないときのターンは，回転半径を<ruby rubyText="しゅく">縮</ruby><ruby rubyText="しょう">小</ruby>し，スピードを出すためにも高い姿勢のほうがよい。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">リバースターン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＯＮＥ　ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ピボットフット（<ruby rubyText="じく">軸</ruby><ruby rubyText="あし">足</ruby>）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ジャンプストップはどちらを軸足にしてもよい。</sentence>
+<sentence type="quasi">ストライドストップ，ワンフットスト</sentence>
+<br type="automatic_original" />
+<sentence>ップは，最初に着地した足を軸足にしなければならない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＩＤＥ　ＣＯＡＣＨ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ポストなどでポジショニングするときに使う。</sentence>
+<sentence>完全に一回転して相手の横や後ろにつく。</sentence>
+<sentence>再びターンしてとび出す場合は，ボールを見ながらターンできるリアターンが望ましい。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ジャンプストップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＩＤＥ　ＣＯＡＣＨ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ボールを受けてのストップの基本は，空中でボールを受けることにある。</sentence>
+<sentence>着地は，左右に足を開いて（前後にはしない）同時に行う。</sentence>
+<sentence>ひざを曲げ，おしりをかかとにつけるくらい<ruby rubyText="こし">腰</ruby>を落とす。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ストライドストップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ワンフットストップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＩＤＥ　ＣＯＡＣＨ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ストライドストップ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ボールを空中で受け，進行方向に<ruby rubyText="かた">片</ruby><ruby rubyText="あし">足</ruby>ずつ止まる。</sentence>
+<sentence>最初に着地した足（<ruby rubyText="じく">軸</ruby><ruby rubyText="あし">足</ruby>）より次の足は前方に出す。</sentence>
+<sentence>後方に着地した場合は，ワンフットストップと見なされる。</sentence>
+<sentence>上体を起こし，<ruby rubyText="ほ">歩</ruby><ruby rubyText="はば">幅</ruby>はあまり広くしない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンフットストップ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>空中でボールを受け，片足でしっかりとストップする。</sentence>
+<sentence>ふつう進行方向に対し，９０度以上に開いてもう一方の足を下ろす。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＭＩＳ<ruby rubyText="ミス">Ｓ</ruby>　ＰＯＩＮ<ruby rubyText="ポイント">Ｔ</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">接面を変えるとトラベリング</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ピボットフットの<ruby rubyText="ゆか">床</ruby>との接面は一度決めたら変えられない。</sentence>
+<sentence>これを変えるとトラベリングとなる。</sentence>
+<sentence>つま先を接面にするのがよい。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">相手に正対し，ひざを<ruby rubyText="やわ">柔</ruby>らかく使ってステップ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">４　ディフェンスフットワーク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ボクサーズステップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">サイドステップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">クロスステップ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＩＤＥ　ＣＯＡＣＨ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ボクサーズステップ，サイドステップ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ゲームで相手を守るとき，足を動かすことが第一になる。</sentence>
+<sentence>ボール保持者のフエイクに対しては，最大級に速く反応する必要がある。</sentence>
+<sentence>その場合，<ruby rubyText="きん">近</ruby><ruby rubyText="きょ">距</ruby><ruby rubyText="り">離</ruby>を速く動けるボクサーズステップを使うとよい。</sentence>
+<br type="automatic_original" />
+<sentence>そして，連続してそれ以上動くときにはサイドステップがよい。</sentence>
+<br type="automatic_original" />
+<sentence>サイドステップは，ひざを柔らかく保ち，ひじは軽く曲げる。</sentence>
+<sentence><ruby rubyText="りょう">両</ruby><ruby rubyText="うで">腕</ruby>とも上げないこと。</sentence>
+<sentence>両腕が上がると肩に力が入る。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">クロス<sampling type="end" />ステップ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

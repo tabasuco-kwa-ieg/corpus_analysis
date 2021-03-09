@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj6_00001" version="1.0" type="fixedLength">
+<article articleID="LBj6_00001_F001">
+<paragraph>
+<sentence>この場合、日本企業にとっては、値下げをしてライバル企業のシェアを奪おうにもＶＩＥがあるために<quote>「<sampling type="start" />天井」</quote>があることになる。</sentence>
+<sentence>そこで、日本企業は、ＶＩＥがなかった場合に比べ、値下げ競争を緩和する。</sentence>
+<sentence>米国企業も当然にして追随して値上げし、結果として、日本市場での全般的価格水準はＶＩＥによって上昇する。</sentence>
+<sentence>つまり、ＶＩＥは、数量面を規制することによって価格水準の上昇を招き、消費者余剰の減少をもたらす。</sentence>
+<sentence>第３章第１節で導入したベルトラン価格競争の理論を応用すれば、この結論は明らかである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、日本市場は目に見えない不可思議な慣行や規制等によって保護されているため、ＶＩＥによってこうした市場の歪みを是正することは、実態をより自由貿易に近付けるものとして前向きに評価できるとする主張が見られる。</sentence>
+<sentence>しかし、もし、国内市場が何らかの手段によって保護されているとすれば、国内の価格水準は自由貿易下で実現されたはずのレベルよりも高くなっているであろう。</sentence>
+<sentence>ＶＩＥは今見たように値下げ競争を緩和し価格水準の上昇を招くものであるから、ＶＩＥの導入は経済実態を自由貿易状態からむしろ遠ざけるものになってしまうのである<noteMarker text="（１０）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（１０）Ｇｒｅａｎｅｙ，Ｔ．（１９９３）“Ｉｍｐｏｒｔ　Ｎｏｗ！：Ａｎ　Ａｎａｌｙｓｉｓ　ｏｆ　Ｖｏｌｕｎｔａｒｙ　Ｉｍｐｏｒｔ　Ｅｘｐａｎｓｉｏｎｓ（ＶＩＥｓ）ｔｏ　Ｉｎｃｒｅａｓｅ　Ｕ．Ｓ．Ｍａｒｋｅｔ　Ｓｈａｒｅｓ　ｉｎ　Ｊａｐａｎ，”Ｄｉｓｃｕｓｓｉｏｎ　Ｐａｐｅｒ　Ｎｏ．３４３，Ｕｎｉｖｅｒｓｉｔｙ　ｏｆ　Ｍｉｃｈｉｇａｎは、ベルトラン・ケースを定式化して本文で述べたような結論を確認しており参考になったが、それにとどまらず、国内市場の保護に対抗すべく導入されたＶＩＥが自由貿易状態からの逸脱をむしろ拡大するという結論がクールノー・ケースでも維持されることや、クールノー・ケースではＶＩＥによって内外企業の生産がシフトするだけでなく市場規模全体が縮小することなども証明している。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　要するに、戦略的通商政策を推奨したＢＳモデルが数量競争を始めとした前提に依存した脆弱なものであったのと同様に、ＶＩＥを支持する論拠も全く確かなものではなく、また、仮定するのが数量競争にせよ価格競争にせよ、ＶＩＥをＶＥＲと区別する積極的意味は見当たらないのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６‐２　ＶＩＥの効果（数量競争ケース）</sentence>
+<br type="automatic_original" />
+<sentence>（注）ｑ：生産量，Ｒ：反応曲線，ただし，＊は外国を示す。</sentence>
+<sentence>π：等利潤曲線　（π<subScript>Ｖ</subScript>＜π<subScript>Ｃ</subScript>），ＯＳ：ＶＩＥでのシェア。</sentence>
+<sentence>添字のＣ，Ｖはそれぞれ自由貿易，ＶＩＥを意味する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６‐３　価格競争とＶＩＥ</sentence>
+<br type="automatic_original" />
+<sentence>（注）Ｒ，Ｒ＊：自国，外国企業の反応曲線，Ｒ<subScript>Ｖ</subScript>：ＶＩＥ下での自国企業の反応曲線，Ｂ（Ｐ<subScript>Ｂ</subScript>，Ｐ<subScript>Ｂ</subScript>＊）：自由貿易均衡，Ａ（Ｐ<subScript>Ｖ</subScript>，Ｐ<subScript>Ｖ</subScript>＊）：ＶＩＥ均衡。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">日米貿易バランスのマクロ<sampling type="end" />経済分析</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

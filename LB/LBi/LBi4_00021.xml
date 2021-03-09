@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00021" version="1.0" type="fixedLength">
+<article articleID="LBi4_00021_F001">
+<paragraph>
+<sentence>ＲＢタンパク質と結合している細胞タンパク質は活性が抑制されているが，ＲＢタンパク質から遊離すると共に活性となり，その結果，細胞がＳ期へ移<sampling type="start" />行できるようになるのではないかというのが最も単純な仮説である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４‐６　細胞周期の進行に伴って変化するＲＢタンパク質のリン酸化</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６　ＲＢタンパク質をリン酸化するキナーゼ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これまでに述べてきたことからわかるように，ＲＢタンパク質のリン酸化にかかわるプロテインキナーゼは，細胞周期，細胞分化を制御する重要な酵素であると考えられる．</sentence>
+<sentence>ではどのようなキナーゼがＲＢタンパク質をリン酸化しているのだろうか．</sentence>
+<sentence>この問題については，同時期に急激に進歩した細胞周期の研究がヒントを与えてくれた．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　細胞周期の研究は酵母の遺伝学や海産無脊椎動物の発生学が中心となって飛躍的な進歩をとげたが，その結論によれば，細胞周期の主要な制御点であるＧ１期からＳ期への移行とＧ２期からＭ期への移行はいずれもｃｄｃ２キナーゼ／サイクリンによって調節されていることになっている．</sentence>
+<sentence>ｃｄｃ２キナーゼはセリン／スレオニンキナーゼで，その活性はリン酸化，脱リン酸化と細胞周期ごとに合成と分解を繰り返すタンパク質，サイクリンとの結合によって調節されている（図４‐７）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，酵母についてはこれでよいのだが，最近になって高等真核生物ではもう少し複雑であることがわかってきた．</sentence>
+<sentence>すなわち，Ｇ２期からＭ期への移行はｃｄｃ２キナーゼ／サイクリンによって制御されているが，Ｇ１期からＳ期への移行はＣＤＫ２（ｃｙｃｌｉｎ　ｄｅｐｅｎｄｅｎｔ　ｋｉｎａｓｅ　２）などの異なったキナーゼによって調節されていることがわかってきたのである（図４‐６）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　したがって，ＣＤＫ２がＲＢタンパク質をリン酸化すると考えると話がすっきりするのだが，実際にＲＢタンパク質はｉｎ　ｖｉｔｒｏでＣＤＫ２の良い基質となり，リン酸化される部位もｉｎ　ｖｉｖｏでリン酸化の起きている部位とよく一致する．</sentence>
+<sentence>また，細胞周期上でＲＢタンパク質のリン酸化の起こるタイムコースとＣＤＫ２の活性化するタイムコースはよく一致するし，ＣＤＫ２の一部はＲＢタンパク質に結合しているようである．</sentence>
+<sentence>さらに，ＣＤＫ２はサイクリンのうちでもサイクリンＥとよばれるサイクリンと結合しているが，細胞にサイクリンＥを強制発現するとＲＢタンパク質のリン酸化が増大する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＲＢタンパク質のリン酸化にはいくつかのキナーゼが関与していると考えられ，Ｓ期に入ってからはサイクリンＡと結合したｃｄｃ２キナーゼも関係しているといわれている．</sentence>
+<sentence>最近の研究によれば，ＣＤＫ２やｃｄｃ２キナーゼと構造の似た酵素はかなりの数存在するようであるし，サイクリンにもたくさんの種<sampling type="end" />類のあることがわかってきている．</sentence>
+</paragraph>
+</article>
+</sample>

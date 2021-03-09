@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd4_00018" version="1.0" type="fixedLength">
+<article articleID="LBd4_00018_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">積分とは面積を求めるこ<sampling type="start" />と</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　積分を<quote>「分かった積もり」</quote>などと言う人もいます。</sentence>
+<sentence>でも、本書もここまで読んでくれば、積分とは、<quote>「面積あるいは体積を細かく分けて計算すること」</quote>ということがわかったでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　機も熟しました、鉄は熱いうちに打てとも言いますので、ここで積分の定義をしておきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在、高校の教科書では、<quote>「積分は微分の逆演算」</quote>という形で積分を定義しています。</sentence>
+<sentence>しかし、本当は積分のほうが微分よりずっと簡単なのですから、ストレートに積分の定義をしたほうが良いでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　結局、次のようにするのです。</sentence>
+<sentence>関数ｆ（ｘ）の積分とは、ｆ（ｘ）とｘ軸で囲む面積を求める操作と考えてください。</sentence>
+<sentence>図で説明した計算が定積分と言われるものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">積分の公式を予想する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　それでは具体的な関数について積分をしてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、最も簡単な関数の定数関数についての積分です。</sentence>
+<sentence>定数関数というのは、ｘの値にかかわらず、ｆ（ｘ）が一定の値をとる関数のこと。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　具体的にいうと、式としては、下のようにｆ（ｘ）＝ｃの形をしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このｆ（ｘ）について、ｘが０からｔまでのｙ＝ｆ（ｘ）とｘ軸の囲む面積は、図のように長方形と同じこと。</sentence>
+<sentence>ですから、その面積はｃｔとなります。</sentence>
+<sentence type="quasi">つまり</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>です。</sentence>
+<sentence>とくに、ｃが１のときは、１をｘ<superScript>０</superScript>と見ることもできることに注意してください。</sentence>
+<sentence type="quasi">つまり、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>と書くこともできます。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　次に、直線を表わすｙ＝ｘです。</sentence>
+<sentence>そのグラフは下のように三角形ですから、その面積は、今度は三角形の面積の公式を使えます。</sentence>
+<sentence type="quasi">つまり、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>ですね。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　今の二つの例から、どんな公式が予想できるでしょうか。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>と<enclosedCharacter description="○">２</enclosedCharacter>をじっくり見てください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と予想できたでしょうか。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ｙ＝ｘ（＝ｘ<superScript>１</superScript>）のグラフ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">今の２つの例から</sentence>
+<br type="automatic_original" />
+<sentence><rejectedSpan type="formula"></rejectedSpan>と予想できる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ｙ＝ｃのグラフ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">とくにｃ＝１のとき</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ｙ＝１（＝ｘ<superScript>０</superScript>）について</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">不定積分とは何ぞや</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前項の積分がわかっていると、積分する範囲が<quote>「ａからｂ」</quote>の場合でも、この式を用いて計算できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　というのは、初めに０からｂまでの積分をし、次に０からａまでの積分をし、それを引けばよいのですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ですから、前項で述べた０からｔまでの積分の計算が本質的な意味を持っていることがわかります。</sentence>
+<sentence type="quasi">そこで、あの式のｔと０を書かない形で、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と書いておきます。</sentence>
+<sentence>これを不定積分と言います。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ニュートンの基本定理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　微分・積分でニュートンがカバリエリに長じたのは、その原理をしっかりとつかまえたこと。</sentence>
+<sentence>彼はどう、その基本定理を押さえたのでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いま、ｙ＝ｆ（ｘ）とｘ軸、ｙ軸、ｘ＝ｔで囲まれる面積をＳ（ｔ）としましょう。</sentence>
+<sentence type="quasi">これは、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>のことでしたね。</sentence>
+<sentence>Ｓ（ｔ）はｔが変化すれば変わりますから、ｔの関数です。</sentence>
+<sentence>ｔがｈだけ増加するとき、Ｓ（ｔ）はＳ（ｔ＋ｈ）になります。</sentence>
+<sentence type="quasi">この増加の比、すなわち、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>の比が極限がＳ（ｔ）の微分でしたね。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　左ペ<sampling type="end" />ージの結果を<quote>「微分積分学の基本定理」</quote>といいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

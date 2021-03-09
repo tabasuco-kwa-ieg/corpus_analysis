@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00018" version="1.0" type="fixedLength">
+<article articleID="LBrn_00018_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">Ｃ<sampling type="start" />ＯＭＰＬＥＭＥＮＴ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">■　ハードディスクの空き容量を確認する方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ハードディスクの空き容量は、マイコンピュータのウィンドウでハードディスクのアイコンを選択すると、ウィンドウのタスクメニューの<quote>「詳細」</quote>欄に表示されるので、ここで確認することができます。</sentence>
+<sentence>なお、<quote>「詳」</quote>欄の内容が非表示になっている場合は、<quote>「詳細」</quote>の文字の右端にある<image description="○の中に「下へ」" no="1" />をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">１３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">マイドキュメントを使用する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　Ｗｉｎｄｏｗｓ　ＸＰには、ユーザーが作成したファイルを保存する場所として<quote>「マイドキュメント」</quote>というフォルダが用意されています。</sentence>
+<sentence>ここでは、マイドキュメントの概要と使用方法について解説します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">マイドキュメントとは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マイドキュメントとは、ユーザーが作成したファイルを保存しておくために、Ｗｉｎｄｏｗｓ　ＸＰにあらかじめ用意されているフォルダです。</sentence>
+<sentence>ワープロソフトで作成した文書ファイルや、デジタルカメラで撮影した画像ファイルなどを保存しておく用途で使用します。</sentence>
+<sentence>なお、マイドキュメントはユーザーごとに作成され、マイコンピュータには<quote>「（ユーザー名）のドキュメント」</quote>というフォルダ名で表示されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●マイドキュメント</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">マイドキュメントの仕組み</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スタートメニューに表示される<quote>「マイドキュメント」</quote>や、マイコンピュータに表示される<quote>「（ユーザー名）のドキュメント」</quote>フォルダは、本物のフォルダではなく、フォルダのショートカット（１５６ページ参照）です。</sentence>
+<sentence>マイドキュメントの実際のフォルダは、起動ドライブ（Ｃドライブ）の<quote>「Ｄｏｃｕｍｅｎｔｓ　ａｎｄ　Ｓｅｔｔｉｎｇｓ」</quote>→<quote>「（ユーザー名）」</quote>→<quote>「Ｍｙ　Ｄｏｃｕｍｅｎｔｓ」</quote>フォルダです（<quote>「Ｍｙ　Ｄｏｃｕｍｅｎｔｓ」</quote>ではなく<quote>「（ユーザー名）のドキュメント」</quote>の場合もある）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">マイドキュメントの中に用意されているフォルダの役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マイドキュメントの中には、マイピクチャとマイミュージックというフォルダがあらかじめ用意されています。</sentence>
+<sentence>また、Ｗｉｎｄｏｗｓムービーメーカーというビデオ映像編集ソフトを起動すると、マイビデオというフォルダが自動作成されます。</sentence>
+<sentence>それぞれのフォルダには、次のような役割があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■マイピクチャ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マイピクチャは、画像ファイルを格納するためのフォルダです。</sentence>
+<sentence>このフォルダは、画像ファイルを縮小表示したり、フォルダのアイコンに画像を表示するなど、画像ファイルを扱いやすいように設定されています。</sentence>
+<sentence>デジタルカメラで撮影した画像や、インターネットから入手した画像などを整理する用途で使うと便利です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">■マイミュージック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マイミュージックは、音楽（音声）ファイルを格納するためのフォルダです。</sentence>
+<sentence>このフォルダは、音楽ファイルのアー<sampling type="end" />ティスト名やアルバム名を表示したり、フォルダのアイコンにアルバムの画像を表示するなど、音楽ファイルを扱いやすいように設定されています。</sentence>
+</paragraph>
+</article>
+</sample>

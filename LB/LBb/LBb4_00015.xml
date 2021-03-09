@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb4_00015" version="1.0" type="fixedLength">
+<article articleID="LBb4_00015_F001">
+<list>
+<listItem>
+<sentence>☆各巻に検索表<sampling type="start" />がついています。</sentence>
+<sentence>これは星空を表しています。</sentence>
+<sentence>北緯３５°を中心にして，北緯４０°と３０°の星空をダブらせて描いてあります。</sentence>
+<sentence>北緯３５°は関東，近畿，山陽，九州北部までを含み，北緯４０°は東北以北，北緯３０°は九州以南で見た星空に，ほぼ匹敵します。</sentence>
+<sentence>ほとんど日本全国をカバーしてありますので，観測する土地の緯度にあわせて，星空を選んでください。</sentence>
+<sentence>本文の<quote>「星座の動き」</quote><quote>「星図」</quote>でも同じです。</sentence>
+<sentence>３つの円の真ん中の太い線は北緯３５°，その上の線が北緯４０°，下の線が北緯３０°の地平線を示しています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆検索表は１〜１２月まであります。</sentence>
+<sentence>各月の検索表には，その月に南中する星座についてのみ星を線で結んであります（ただし，さがす際の目安星となる北斗七星，こぐま座，カシオペア座は除きます）。</sentence>
+<sentence>そして，それぞれの星座に記号をつけておきました。</sentence>
+<sentence>たとえばⅣＣといえば次のことを意味します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆初めのⅣは季節を示しています。</sentence>
+<sentence>Ⅰ＝春，Ⅱ＝夏，Ⅲ＝秋，Ⅳ＝冬となっていますので，Ⅳは冬の巻ということになります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆次にアルファベットのＣですが，これは原則として，その巻の南中順を示しています。</sentence>
+<sentence>ＣはＡＢＣで数えると３番目ですから，その巻では３番目に早く南中する星座ということを表します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆また，本文の引き出し記号を色分けしました。</sentence>
+<sentence>水色は天の赤道より北の星座，ピンク色は天の赤道より南の星座（ただし，日本から見えない，または見づらい星座は藤色），そして黄色は黄道星座を示しています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆なお，日本から見えない，あるいは見づらい星座は一括して南天星座として表しました。</sentence>
+<sentence>こちらにも各星座に同様な記号がつけてあります。</sentence>
+<sentence>これらの記号は，そのまま本文のその星座を引き出すときの大切なキーワードになります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆本文は，１つの星座を８ページ単位で構成してあります（南天の星座の一部は除きます）。</sentence>
+<sentence>それぞれ星座単位の写真，星座の見つけ方，星座の動き，星座の見え方，星座の見どころ，２００１年分点の星図，そして星座についての解説がしてあります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆このうち星図については，２００１年分点に歳差補正を行いました。</sentence>
+<sentence>個々の恒星については，固有運動による恒星の移動量がこの星図上では明確に表せないため（星図がコンパクトであることと，恒星の表記が大きいことによる），恒星および星雲・星団は１９５０年分点で表してあります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>☆星座さがしのコツは，特徴ある星列（または星座）をいくつか覚えてしまうことです。</sentence>
+<sentence>右を見ても左を見てもわからない星ばかりでは，星座の見つけようがありません。</sentence>
+<sentence>また，星座は，いつも南中時のスタイルで見えるとはかぎりません。</sentence>
+<sentence>時間（月日と時刻）をつねに頭に入れて，星座をさがしてください。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+<article articleID="LBb4_00015_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">検索（１月）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１２月<sampling type="end" />中旬２３時（夜１１時）</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

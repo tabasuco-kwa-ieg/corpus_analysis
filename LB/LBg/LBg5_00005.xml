@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00005" version="1.0" type="fixedLength">
+<article articleID="LBg5_00005_F001">
+<paragraph>
+<sentence>　他人の肖像や他人の氏名，著名な雅号，芸名等については，その他人の承諾を得た場合以外は商標登録を受けることができない（<sampling type="start" />商標４条１項８号）。</sentence>
+<sentence type="quasi">ここで登録をできないこととされているものは，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　他人の肖像</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　他人の氏名もしくは名称，これらの著名な略称</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　他人の著名な雅号，芸名もしくは筆名，これらの著名な略称</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　この要件は，人格権保護を目的とするものであるから，ここでいう<quote>「他人」</quote>とは，現存する者に限定されるが，日本人ばかりでなく外国人も含まれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　他人の肖像</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　その他人であることが特定できる肖像画や，写真が該当する。</sentence>
+<sentence>一般人，有名人を問わない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　他人の氏名または名称等</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ありふれた氏または名称は，<quote>「株式会社」</quote>，<quote>「商会」</quote>“Ｃｏ．，Ｌｔｄ．”等と結合しても登録されない（商標３条１項４号）。</sentence>
+<sentence>氏だけでなく名前を含めた氏名にすると，ありふれているとはいえないので登録性はある。</sentence>
+<sentence>しかしながら，他人の氏名と一致する場合には，その他人の承諾があった場合にのみ登録を可能としている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　名称は，会社等の法人の名称を含むので，同一名称の社名が電話帳等で確認された場合には，その会社の承諾を要する。</sentence>
+<sentence>氏名，会社の名称等は略称の場合は著名でない限り承諾を受ける必要はない。</sentence>
+<sentence>ただし，<quote>「株式会社」</quote><quote>「財団法人」</quote>などを省略しても，社会通念上，フルネームと同一性の認められるような場合は，著名でなくても承諾を要するとの趣旨の判例もある（日本美容医学研究会事件―東京高判昭和５２年１２月２２日判タ３６４号２７７頁）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　著名な雅号，芸名等</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　雅号や芸名，筆名，これらの略称については，著名な場合にのみ，その者の承諾を要する。</sentence>
+<sentence>雅号や芸名等は，ある程度は恣意的に採択されるものであり，そのすべてを人格権として保護するのは行き過ぎなため，<quote>「著名な」</quote>ものに限定している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１０　周知商標，著名商標</sentence>
+<br type="automatic_original" />
+<sentence>Ｑ２３　長年使用してかなり有名になっている自社商標を，他人が登録することを阻止できるか。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次に該当するような商標が出願された場合は，その商標登録は拒絶される。</sentence>
+<sentence>出願公告されたときは異議申立により，また登録されたときは無効審判請求により，その登録を阻止することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　未登録周知商標と同一または類似の商標（商標４条１項１０号）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　出所混同のおそれのある商標（商標４条１項１５号）</sentence>
+<br type="automatic_original" />
+<sentence>商標の出願時に，これらに該当する場合には拒絶される（商標４条３項，１５条１号）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">◆　未登録周知商標</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　他人の業務に係る商品もしくはサービスを表示するものとして需要者の間で広く知られている商標またはこれに類似する商標は，使用されている商品，サービスばかりでなく，これらに類似するものについても登録されない（商標４条１項１０号）。</sentence>
+<sentence>このような商標が他人に登録されることにより生じ得る出所の混同を防止すると同時に，未登録<sampling type="end" />ではあっても信用を蓄積した商標の既得権を保護するためである。</sentence>
+</paragraph>
+</article>
+</sample>

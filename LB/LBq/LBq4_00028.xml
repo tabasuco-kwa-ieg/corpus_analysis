@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00028" version="1.0" type="fixedLength">
+<article articleID="LBq4_00028_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　ちょうどその頃、ＭＩＴ（マサチューセッツ工科大学）に留学するチャンスがあり、並列<sampling type="start" />計算機を研究しているアービンド（Ａｒｖｉｎｄ）教授の研究室に一年間お世話になりました。</sentence>
+<sentence>アービンド教授はデータフロー計算機の大御所の一人でしたが、彼の研究室にＤＮＡの配列解析プログラムの並列化を研究している学生がいまして、彼の話を聞いたときに、<quote>「<sentence>これは面白い。</sentence>
+<sentence type="quasi">よくわからないけどこれは面白い</sentence>
+」</quote>という直感的な閃きが湧いたのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それからおもむろに、分子生物学の教科書を買いまして一所懸命、辞書を引いて、わからない、わからないといいながら、コンピュータの研究をほったらかして分子生物学の勉強を始めたんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">佐倉</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　その分子生物学の勉強をしてらしたのが何年のことですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小長谷</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　分子生物学の教科書を初めて見たのが一九八七年。</sentence>
+<sentence>留学して最初の半年ぐらいはいろいろコンピュータの研究をしていたのですが、あとの半年はもっぱら、分子生物学の勉強をしてたんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">佐倉</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　並列化のアプリケーションを研究していたのは、教授ではなかったんですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小長谷</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　アービンド教授でなくて、そこにいた学生の一人がたまたま遺伝子解析の基本であるホモロジー解析アルゴリズムの並列化<noteMarker text="＊１" />をアプリケーションの一つとして研究していたんです。</sentence>
+<sentence>遺伝子解析は複雑な記号処理が必要なので、これはもしかしたら推論マシンの応用に役に立つかもと思ったわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<noteBody>
+<sentence type="quasi">＊１　ホモロジー解析アルゴリズムの並列化</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　塩基配列やアミノ酸配列の類似性により、機能的に類似し、共通の祖先を持つ遺伝子を探索することをホモロジー解析という。</sentence>
+<sentence>多数の照合計算を行うため、並列化により検索速度を大幅に向上することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">佐倉</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　並列処理というのは、何台ものコンピュータを並べて繋げるってイメージがあるけど、実際はどうなんです？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小長谷</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　アービンド教授のところで研究していた並列計算機というのは演算器をたくさん並べて、プログラムをデータが揃った命令から実行するデータ駆動型並列計算機です。</sentence>
+<sentence>データの流れに沿って命令が実行されるので<quote>「データフローマシン」</quote>といいます。</sentence>
+<sentence><quote>「データ駆動」</quote>の考え方は現在のマイクロプロセッサの中にもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">佐倉</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　マイクロプロセッサの中にデータフローマシンがあるんですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小長谷</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　現在のマイクロプロセッサチップのなかには、複数の命令を同時に実行できるように演算器が複数個入っています。</sentence>
+<sentence>その命令レベルの並列制御というのは、オペランド<noteMarker text="＊２" />が揃った命令から実行するというデータ駆動方式で、データフローマシンの考え方と原理は同じです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<noteBody>
+<sentence type="quasi">＊２　オペランド</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　コンピュータの動作は命令と呼ばれる情報によって決められている。</sentence>
+<sentence>命令は命令<sampling type="end" />の種類を示すオペレーションコードと、命令の実行時に用いるデータの場所を示すオペランドから成り立っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+</article>
+</sample>

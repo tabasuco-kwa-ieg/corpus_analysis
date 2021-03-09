@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk7_00033" version="1.0" type="fixedLength">
+<article articleID="LBk7_00033_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　生き<ruby rubyText="え">餌</ruby>については、魚ならチャブやカワムツなどコイ科の小魚<sampling type="start" />がいちばん効果があるようです。</sentence>
+<sentence>鉤につけた後もずっと生きているのがパーチです。</sentence>
+<sentence>背びれをよく切れるナイフで切って使いますが、このとき魚を傷つけないように注意しなくてはなりません。</sentence>
+<sentence>背びれを取ったら、頭と背びれの中間に小さく切れ込みを入れて鉤素を入れますが、ここでも魚を傷つけないように細心の注意を払ってください。</sentence>
+<sentence>鉤素は皮と身の間を通すようにそのまま背中に沿って差し込み、尾の近くにも切れ込みを入れておいてそこで引き出します。</sentence>
+<sentence>次に尾のところを糸で縛りますが、魚を傷めないように必要以上に強く縛らないでください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人によっては、さぐり針のようなものを使って鉤素を差し込みやすいようにする人もいますが、自分でいろいろ研究しながらいい方法を見つけるのがいちばんだと思います。</sentence>
+<sentence>これに関してはこのくらいにしておいて、次はカエルを鉤につける方法についてお話しすることにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">猟師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　先生、さきほどカエルには毒を持つものもあるとおっしゃいましたよね。</sentence>
+<sentence>そういうカエルに触るのは危ないのではないですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">釣り師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　その通りです。</sentence>
+<sentence>今からカエルについての注意をお教えします。</sentence>
+<sentence>カエルには二種類あるということを知っておいてください。</sentence>
+<sentence>陸生のカエルと水生のカエルです。</sentence>
+<sentence>陸生のカエルは陸で生まれて陸で育ちます。</sentence>
+<sentence>いろいろな種類があり、色もさまざまです。</sentence>
+<sentence><ruby rubyText="まだら">斑</ruby><ruby rubyText="も">模</ruby><ruby rubyText="よう">様</ruby>のものもいれば、緑色のカエル、黒っぽいカエル、茶色のカエルもいます。</sentence>
+<sentence>緑色をしていて小さいカエルは、トップセルによれば、毒を持っているそうです。</sentence>
+<sentence>ヒキガエルも毒を持っています。</sentence>
+<sentence>大きくて骨が多く、特に雌のほうが太っています。</sentence>
+<sentence>ヒキガエルは陸生ですが、ときには水に入ることもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トップセルによると、陸生のカエルの中には卵から生まれるものもあるそうですが、プリニウスは土から生まれるものもあるといっています。</sentence>
+<sentence>土から生まれたカエルたちは、冬になるとまた土に戻り、翌年の夏にはカエルになるというのです。<noteMarker text="＊５" /></sentence>
+<sentence>カルダヌスは雨のように空から降ってくるカエルの謎を解いたということですが、私としては、降ってくるのは水生のカエルだけにしてほしいのですがね。</sentence>
+<sentence>なぜかというと、水生のカエルには毒がないからですよ。</sentence>
+<sentence>そういうカエルはだいたい二月から三月にかけて溝などの泥の中に黒っぽい卵を産みます。</sentence>
+<sentence>産卵期の水生のカエルは雄も雌も宙返りをしたり、ゲロゲロと騒がしく鳴きますが、ヒキガエルなど陸生のカエルは決してそういうことはありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊５　カルダヌス…イタリアの自然哲学者・医学者・数学者カルダーノ（一五〇一〜七六）のラテン語名。</sentence>
+<sentence>ミラノ・パヴィア・ボロー<sampling type="end" />ニャの各大学で数学・医学を教授した。</sentence>
+</noteBody>
+</speech>
+</quotation>
+</article>
+</sample>

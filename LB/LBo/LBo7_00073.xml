@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo7_00073" version="1.0" type="fixedLength">
+<article articleID="LBo7_00073_F001">
+<sentence>手順３の［ファイル形式］で［Ｗｉｎｄｏｗｓの背景］<sampling type="start" />以外を選択すると、自由な値を設定することもできます。</sentence>
+<sentence>このとき［縦横比を固定］にチェックを付けると画像の比率を保ったまま縮小することができます。</sentence>
+<sentence>メールで送る場合など、ＩＸＹ　ＤＩＧＩＴＡＬで撮った画像そのままでは大きすぎるときに利用しましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">お気に入りは壁紙にしよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＩＸＹ　ＤＩＧＩＴＡＬで撮った画像もただ見たり、印刷しているだけではおもしろくありません。</sentence>
+<sentence>せっかくですから、お気に入りの画像は壁紙にしてみましょう。</sentence>
+<sentence>ＺｏｏｍＢｒｏｗｓｅｒ　ＥＸを使えば、撮った画像の中から壁紙にしたいものを選んで、表示方法を設定するだけで簡単にＷｉｎｄｏｗｓの壁紙にすることができます。</sentence>
+<sentence>さらに、手順５で幅と高さを半分にすれば、画面上に４つ並べて表示することもできます。</sentence>
+<sentence>いくら壁紙に設定してもＺｏｏｍＢｒｏｗｓｅｒ　ＥＸに元の画像は残っているので、その日の気分に合わせて気軽にいろいろな画像を壁紙にしましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">３３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">メールで画像を送りたい</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">電子メールの作成</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">メールで送りたい画像を選ぶ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<sentence>注意　メールを送るにはインターネット接続サービスプロバイダーへの加入契約と、モデムを利用できる環境が必要です。</sentence>
+<sentence type="quasi">詳しくは弊社刊［できるインターネットＷｉｎｄｏｗｓ　Ｍｅ版］をご覧ください</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">［電子メールの作成］を選ぶ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">［リサイズしてＪＰＥＧで圧縮する］を選ぶ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">４</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">画像の大きさを縮める</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">５</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">画像が圧縮された</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">６</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">［完了］をクリックする</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">７</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">メールに画像が添付された</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">間違ったときは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>縮小率を設定せず［次へ］ボタンをクリックしたときは、［戻る］ボタンをクリックして、元へ戻って設定をやり直しましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">送る前にプレビューで画像を確認</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>手順６で［プレビュー］ボタンをクリックすると、縮小した画像を送信前に確認することができます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">画像サイズを縮めることを忘れずに</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＩＸＹ　ＤＩＧＩＴＡＬで撮った画像のデータサイズは平均約６００ＫＢ。</sentence>
+<sentence>これをそのままメールに添付すると、送信するにも受信するにも１枚約２分以上かかります。</sentence>
+<sentence>そこで適度に画像を縮小・圧縮してメールに適した画像サイズにしましょう。</sentence>
+<sentence>例えば、このレッスンでは［縮小率］を［３０％］、［画質］を［高］で圧縮した結果、５４２ＫＢの画像が１６ＫＢと約１／３０のサイズになっています。</sentence>
+<sentence>これなら一瞬でメールの送受信はできます。</sentence>
+<sentence>ただし、かなりの高圧縮なので印刷には向かない画像となります。</sentence>
+<sentence>どうしても印刷品質を保ちたい場合は、手順３で［このままのサイズで送る］にチェックを付けて、オリジナルの画像を送りましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">３４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ほかのアプリケーションで画像を使いたい</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">画像<sampling type="end" />のコピー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

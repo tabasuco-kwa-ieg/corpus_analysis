@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe4_00020" version="1.0" type="fixedLength">
+<article articleID="LBe4_00020_F001">
+<paragraph>
+<sentence>図１‐２（ｂ）はチェルノブイリの事故の後で、オースト<sampling type="start" />リアのある町で飲料水中のヨウ素１３１の放射能がどのように減っていったかを示すものだ。</sentence>
+<sentence>ここで注意しておきたいのは、実際の飲料水中のヨウ素の濃度は、ヨウ素１３１の物理学的な寿命（八日の半減期）によってだけ決まるわけではなく、環境中のヨウ素のふるまい（雨水の汚染の変化のようす）や上水の浄化装置によるヨウ素の除去され方などの要素によっても左右される。</sentence>
+<sentence>しかし、図をみても分るように、チェルノブイリ事故後二、三ヵ月もするとヨウ素１３１がほとんどなくなってしまうのは、ヨウ素の八日という半減期のせいである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ヨウ素はチェルノブイリの事故で非常に大量に放出された放射能で、事故直後にはいわばニュースの主役だったが、右のように数ヵ月もすると死に絶えてしまった。</sentence>
+<sentence>それに代って寿命のもっと長い放射能、とくに大量に放出され、半減期も三〇年と長いセシウムが食品汚染の主役を占めることになったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表１‐２　放射能の体内の半減期</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐２（ａ）ヨウ素の減衰</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐２（ｂ）飲料水中のヨウ素１３１の変化</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（オーストリアのハルシュタットでの測定値）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〈放射能の量の単位〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　放射能の量を表わすには、ベクレルという単位を用いる。</sentence>
+<sentence>これは一秒間に一回原子が変化する（こわれる）ことに相当する放射能量を意味する。</sentence>
+<sentence>以前にはキュリーという単位がよく使われたので、現在でもキュリーで表わされる場合も多い。</sentence>
+<sentence>キュリーとは、もともとラジウム一グラムの放射能量を表わす単位として提案されたのだが、現在では、一秒間に三七〇億個の原子が変化するだけの放射能量として再定義されている。</sentence>
+<sentence>すなわち一キュリー＝三七〇億ベクレルである。</sentence>
+<sentence>キュリーは、環境や食品の汚染を取扱うときには大きすぎる単位で、小さい量を表わすには、マイクロキュリー＝一〇〇万分の一キュリー、ピコキュリー＝一兆分の一キュリーを用いる。</sentence>
+<sentence>一ベクレル＝二七ピコキュリーと覚えておくと便利である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３‐放射線の人体への影響</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">急性障害と晩発性障害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　誰の記憶の中にも強く焼きついたチェルノブイリの原発事故のニュースの中でも、ひときわ印象が強かったのは、事故炉のすぐわきともいえるところで消火作業に参加して、命を失ったり重傷を負ったりした消防士たちのことではないだろうか。</sentence>
+<sentence>彼らの決死の働きによって火災がくい止められなかったら、事故はいっそう悲惨な展開をたどっていたであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その尊い犠牲者たちの多くは、強い放射線を被曝したのが原因で、数日後から十日以内ぐらいのうちに命を落としている。</sentence>
+<sentence>さらに多くの人たちは、一命はとりとめたが、重度のやけど、脱毛、発疹などに悩まさ<sampling type="end" />れた。</sentence>
+</paragraph>
+</article>
+</sample>

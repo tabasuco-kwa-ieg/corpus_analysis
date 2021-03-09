@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh5_00007" version="1.0" type="fixedLength">
+<article articleID="LBh5_00007_F001">
+<paragraph>
+<sentence>　寒天やゼラチンに加えると固まりやすく、透明<sampling type="start" />度が増す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　酵母の働きを助ける</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　果実酒などを作る時に果汁に砂糖を加えると酵母菌が活発に働き、発酵しやくすくなる。</sentence>
+<sentence>また、酵母菌の出す炭酸ガスの量も増えるので食品がよく膨らむ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">使用上の注意点</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　微妙な匙加減が要求される塩や酢に比べると砂糖は舌の感じ方が鈍く、扱いやすい。</sentence>
+<sentence>ただし多量に使う蜜煮などの場合には地と素材の浸透圧の差で素材が固くなることがあるので、何回かに分けて加えるようにする。</sentence>
+<sentence>たとえばクリに甘みを含ませるには、薄い砂糖液から徐々に濃度を上げて煮る。</sentence>
+<sentence>また、他の調味料で味付けした後は素材にしみ込みにくくなるので、原則として最初に加える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（図１）　砂糖の種類</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（表１）　精製糖生産量</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">資料：精糖工業会</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（表２）　砂糖の成分</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">資料：精糖工業会</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　酒・みりん</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">酒・みりんの種類・製法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　酒類は食品の味、香り、色、触感の向上に効果があり、調味料として重要な役割を果たしている。</sentence>
+<sentence>酒には酵母菌を使って穀物・果実を発酵させる醸造酒、発酵液を蒸溜してアルコール度を高める蒸溜酒、蒸溜酒・アルコールに糖類や果汁を加えて作る混成酒があるが、日本料理では醸造酒の清酒と混成酒のみりんの２種類が頻繁に使われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　清酒</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　清酒は、精白米のでんぷんを麴菌によって糖化し、その糖を酵母菌によってアルコール発酵させて作る。</sentence>
+<sentence>まず米麴（蒸し米に麴菌を植えたもの）、蒸し米、水を混ぜた中で酵母菌を培養し、酒母を作る。</sentence>
+<sentence>２、３回に分けて蒸し米と米麴を加え、半月から一月して糖化・発酵させる。</sentence>
+<sentence>でき上がったもろみを圧搾し、火を入れて殺菌する<noteMarker text="＊" />。</sentence>
+<sentence>糖化とアルコール発酵を同時に行なうこの工程は清酒特有のもので、ここから高濃度のアルコールと、独特の芳香、米の糖分・アミノ酸が形成する旨みとコクが生み出される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊火入れしない生酒や火入れを抑える生詰め、生貯蔵酒もある。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　このように米だけで作った濃厚な酒を純米酒と言うが、実際に市場に出るものの多くはアルコールを添加したもので、アルコール添加酒、三倍増醸酒、本醸造の３つに分けられる。</sentence>
+<sentence>アルコール添加酒は戦時の原料不足に対応し、清酒を安く大量に生産するために生まれたもので、清酒の風味を保つために白米１ｔにつき、アルコールは２８０ℓまでと決められている。</sentence>
+<sentence>三倍増醸酒はさらに多量のアルコールと糖、酸、調味料を加えたもので、同量の米から純米酒の３倍の量ができる。</sentence>
+<sentence>これらに対し本醸造では、生産性ではなく濃厚なエキス分を薄めて口当たりを軽くし、保存中の品質の低下を防ぐところにアルコール添加の意図がある。</sentence>
+<sentence>添加量は白米１ｔあたり最大で１２０ℓまでで、清酒の風味を壊さずにさわやかな飲み口の酒を作ることがで<sampling type="end" />きる。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj8_00008" version="1.0" type="fixedLength">
+<article articleID="LBj8_00008_F001">
+<list>
+<listItem>
+<sentence>ⅳ）　したがって，前置詞格の人称代名詞は，ｅｌ，ｅｌｌａ…など，主格と同一の形が当てら<sampling type="start" />れることになった．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ⅴ）　中世語ではｄｉｏｓｅｌｏとｄｉｏｇｅｌｏとの２つの形があり，違った指示内容を表わしていた．</sentence>
+<sentence>前者‐ｓｅｌｏは<quote>「自分（たち）自身にそれを」</quote>を意味する〈与格＋対格〉の連鎖で，ｓｅは再帰代名詞の間接目的格だった．</sentence>
+<sentence>しかし，後者‐ｇｅｌｏは<quote>「彼（女）・彼（女）ら・…にそれを」</quote>を意味する〈与格＋対格〉の連鎖で，ｇｅはｌｅかｌｅｓの変異形だった．</sentence>
+<sentence>この２つの形は１５世紀まで区別して使われていたが，‐ｇｅｌｏが‐ｓｅｌｏに同化した結果，近代語の‐ｓｅｌｏに統一されることになった．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">４）　動詞：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　中世スペイン語では近代スペイン語に近い動詞の形態上の特徴が早くから現われ，体系面での調整・整理の力が有効に作用したことが分かる．</sentence>
+<sentence>ただし，この領域でもスペイン語独特の音韻変化が動詞の活用にもその影響を見せ，近代語に至る前段階としての特徴をも示している．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　上述のようにラテン語の動詞体系はスペイン語では多くの面で簡略化された．</sentence>
+<sentence>例えば不定詞では，ラテン語にあった４種のタイプが３種に縮小されたが，中世語では既にこの３種の不定詞がほぼ近代語と同じ形で固定化している．</sentence>
+<sentence>以下に具体的な活用形を挙げる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ａ．　直説法現在（１）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　この活用表で，ラテン語からスペイン語への通常の音韻変化の法則を適用して，スペイン語の規則変化動詞の活用形の成立を説明できる．</sentence>
+<sentence>例えば３人称単数形の‐ｔは語末にあるのでスペイン語では脱落し，２人称複数形では，ラテン語の活用形に共通して見られる‐ｔｉｓの‐ｔ‐は母音間にあるのでスペイン語では有声化した結果‐ｄ‐が現われ，全体ではａｍａｄｅｓ，ｔｅｍｅｄｅｓ，ｐａｒｔｉｄｅｓという形が生まれた．</sentence>
+<sentence>３人称複数では，語末の重子音はスペイン語では維持されず，語音化され‐ｎとなった，などである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ａｍａｄｅｓ，ｔｅｍｅｄｅｓ，ｐａｒｔｉｄｅｓの‐ｄｅｓの‐ｄ‐は１４世紀後半から脱落を見せ始め，１５世紀にはａｍａｅｓ，ｔｅｍｅｅｓ，ｐａｒｔｉｅｓのような短縮形が現われる．</sentence>
+<sentence>この母音の分立を避けるため，二重母音化によってａｍａｉｓ，ｔｅｍｅｉｓが生まれ，同一母音の縮合化によってｐａｒｔｉｓが生まれた．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ｂ．　直説法現在（２）：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　近代スペイン語には語幹母音変化動詞と称される不規則動詞があるが，これも早くから近代・現代語の活用を見せている．</sentence>
+<sentence>その成立の経過を一部の動詞を例にして見てみる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence>ⅰ）　ｔｅｎｔａｒｅでは，語幹母音のｅは短母音で，これが俗ラテン語で開母音となる．</sentence>
+<sentence>同様に，ｖｏｌｖｅｒｅでは語幹母音のｏも短母音で，これが俗ラテン語では開母音となる．</sentence>
+<sentence>上の活用表でこの二母音に強勢がかかる場合，すなわち単数すべてと複数３人称<sampling type="end" />の場合には，俗ラテン語からスペイン語への移行の過程で生じた音韻変化の法則に従い，ｅはｉｅに，ｏはｕｅに変化した．</sentence>
+</listItem>
+</list>
+</article>
+</sample>

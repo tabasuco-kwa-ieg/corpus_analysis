@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt6_00036" version="1.0" type="fixedLength">
+<article articleID="LBt6_00036_F001">
+<paragraph>
+<sentence>症状が重い場合はすぐに<sampling type="start" />獣医師に連絡をとり、診察を受けてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【症状】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　犬には<ruby rubyText="かん">汗</ruby><ruby rubyText="せん">腺</ruby>が足の裏にしかないので、体温が上昇すると口をあけてハアハアと呼吸をします。</sentence>
+<sentence>熱さに弱く、夏の熱中症はめずらしくはありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【予防と治療】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　とくに避けたいのは、車内の温度が上昇する春先から夏に犬を車内に置き去りにすることです。</sentence>
+<sentence>仮に窓を開けておいても、熱中症を起こす可能性があるので、車内に１匹だけで放置するのはやめてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　暑い時間帯の散歩や外出は避け、移動する場合は、かならず水を十分にもって、水分の補給をします。</sentence>
+<sentence>とくに被毛が長い犬や、大型犬、肥満の犬は、ほかの犬よりも暑さに弱いので注意します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">熱中症の応急処置</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◎呼吸が止まっている</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">人工呼吸で危機を脱する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【応急処置・対処法】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　交通事故やアクシデントで呼吸が止まった場合、獣医師が診るまでの間、人工呼吸を行うことで、危機を脱することがあります。</sentence>
+<sentence>次の方法を順次試してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　犬が倒れたら心音を確かめます。</sentence>
+<sentence>もし心音が聞こえるのに呼吸をしていないようなら、すぐに獣医師に連絡をし、その間人工呼吸を試みてみましょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　犬を横向きにし、口の中を調べます。</sentence>
+<sentence>舌をひっぱり気道を確保します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　犬を<ruby rubyText="あお">仰</ruby>向けにして、頭を固定します。</sentence>
+<sentence>犬の口をふさぎ、犬の鼻から息を強く吹いて入れます。</sentence>
+<sentence>犬の胸がふくらむのを確認します。</sentence>
+<sentence>１分間に１５回を目安に行い、自発的な呼吸を促します。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【症状】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　呼吸が止まります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【予防と治療】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このような事故はまれなことですが、人間と同じで、初期の対応がその後の回復に影響しますので、なにもしないでいるよりも人工呼吸を行ったほうがよいでしょう。</sentence>
+<sentence>ただし、息を吹き返したとしても、その後、獣医師の診察を受けてください。</sentence>
+<sentence>無呼吸が改善されないばかりか、心臓が止まってしまう危険があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◎<ruby rubyText="はつ">発</ruby><ruby rubyText="ねつ">熱</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">感染症や熱中症を疑う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【応急処置・対処法】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　健康な犬の体温は平均３８．５度と人間より２度前後高いものです。</sentence>
+<sentence>体温が４０度以上になるとぐったりと元気がなくなり、食欲が減退します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　熱中症など原因がわかっているときは、熱を下げる応急処置をします（８８ページ参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【症状】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　発熱時は、以下のような症状が出ます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・元気がない</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・呼吸が早い</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・舌の色がいつもより赤くなっている</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・尿の量が減って色が濃くみえる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・涼しい場所で休んでいる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　次のような場合は注意をしなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■高体温</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人間は体温が上がると、発汗して自然に体温を下げようとします。</sentence>
+<sentence>しかし、犬は汗腺がほとんどないので、いったん上がった体温は、呼吸によって下げることしかできず、急に下げることができません。</sentence>
+<sentence>体温が上がりっぱなしだと危険な状態になります。</sentence>
+<sentence>犬はアスフ<sampling type="end" />ァルトなどの地面からの放射熱の影響を人間より受けやすいので、暑い日は熱中症が起こりやすくなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

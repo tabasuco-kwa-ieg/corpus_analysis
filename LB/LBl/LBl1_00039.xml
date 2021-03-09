@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl1_00039" version="1.0" type="fixedLength">
+<article articleID="LBl1_00039_F001">
+<paragraph>
+<sentence>それくらい両者の関係は厳密で、よほど構造的に伝達物質と類似していない限り、伝達<sampling type="start" />物質以外の化合物がその受容体に結合することはない。</sentence>
+<sentence>この厳密さによって情報の混線を防いでいるわけである。</sentence>
+<sentence>受容体にはしたがって、伝達物質の種類と同数の異なるタイプが存在すると考えられる。</sentence>
+<sentence>実際には一つの伝達物質に対しても複数の種類の受容体が知られているので、現実はさらに、複雑なものになっている。</sentence>
+<sentence>また受容体と一言でいっても、タンパク質としての特性からみると、まったく異質なグループからなるヘテロな集団なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">発電所にもなるシナプス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さらに受容体の中には、チャネルとしての性質を兼ね備えた、<quote>「受容体チャネル」</quote>と呼ばれるものがある（図３‐３）。</sentence>
+<sentence>ふだん、受容体チャネルは閉じているが、伝達物質が結合するとタンパク質の形がひずみ、開門する。</sentence>
+<sentence>すると開いた通路を介してイオンの出入りが起こり、膜内外の電位差の変化へとつながるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それ自身がチャネルとしての性質を持たない受容体は、独立に存在しているチャネルに向かって化学物質のシグナルを発信する。</sentence>
+<sentence>神経伝達物質は細胞から細胞への外向きシグナルで、これはいわば<quote>「ファーストメッセンジャー」</quote>にあたる。</sentence>
+<sentence>これに対して受容体が放つ物質は、受容体を持った細胞の中で働く内向きシグナルだ。</sentence>
+<sentence>これは<quote>「セカンドメッセンジャー」</quote>と考えられる。</sentence>
+<sentence>セカンドメッセンジャーの作用にさらされると、チャネルには、その種類によって、開きやすくなったり開きにくくなったりする変化が起こる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　シグナルを出す側（<quote>「かみて」</quote>）、たとえば感覚ニューロンの軸索の終点は、シナプス前末端とかシナプス前膜、シナプス終末などと呼ばれ、他方の受け取る側（<quote>「しもて」</quote>）、たとえば運動ニューロンの細胞体の膜は、シナプス後膜と呼ばれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　シナプス前末端（<quote>「かみて」</quote>）から出された化学物質がシナプス後膜の受容体に結合すると、シナプス後細胞（<quote>「しもて」</quote>）の膜内外の電位差が変化する。</sentence>
+<sentence>つまりシナプスの<quote>「しもて」</quote>側は、<quote>「かみて」</quote>とは逆に、モノ＝化学伝達物質から電気への切り替えをする、発電所のような存在だ。</sentence>
+<sentence>こうして<quote>「しもて」</quote>につくりだされた電位変化を指して<quote>「シナプス後電位（変化）」</quote>と呼ぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　シナプス後細胞に生じたシナプス後電位が十分に大きいものであれば、今度は電位差を感じる性質を持つナトリウムチャネルが、その変化を敏感にキャッチして、軸索にインパルスを発生させるであろう。</sentence>
+<sentence>インパルスは、細胞膜をよぎる内外の電位差が決まったレベルまでプラス方向に動いたとき、突然発生する。</sentence>
+<sentence>つまり、インパルスの発生には閾値が存在している。</sentence>
+<sentence>一方、シナプス後電位の大きさは、チャネルが開状態となった受容体がいくつあるかに依存して連続的に変化す<sampling type="end" />る。</sentence>
+</paragraph>
+</article>
+</sample>

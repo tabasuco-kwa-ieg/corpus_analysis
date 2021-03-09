@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00139" version="1.0" type="fixedLength">
+<article articleID="LBo3_00139_F001">
+<figureBlock>
+<caption>
+<sentence>（１）は財務省保有の外国為替に，（２）は銀行以外の民間保有の外国為替に，（３）は外国人保有の国内通貨（国内通貨は<quote>「基軸」</quote>通貨ではない）に，そして（４）は財勘定への銀行組織の純貢献分にそれぞ<sampling type="start" />れかかわる。</sentence>
+<sentence>分析では，政府の負の保蔵もまたゼロであると仮定する。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　記入項目を事前的または計画された大きさと定義するならば，縦および横の合計がゼロとなることが均衡条件であるが，それらを事後的または実現された大きさと定義するならば，合計がゼロとなることは恒等式であるということを注意しよう。</sentence>
+<sentence>また，家計と企業，商業銀行と中央銀行等々をとくに区別して，横欄を各個別支出単位にまで分割することもできれば，財，貨幣および証券をそれぞれ区分して，縦欄の数をふやすこともできることに注意しよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">伸縮為替相場のもとでの政策</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　伸縮為替相場のもとでは，中央銀行は為替相場を固定するために介入することはしない。</sentence>
+<sentence>もっとも，このことは外国為替の自律的な売買をしないということではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">金融政策</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　伸縮為替相場制度下での国内証券の公開市場買いの効果を考えよう。</sentence>
+<sentence>この結果として，銀行準備の増加，貨幣および信用の乗数的拡張，そして利子率に対する下方圧力が生じる。</sentence>
+<sentence>しかし利子率は，資本が流出すれば，下落しないですむ。</sentence>
+<sentence>その代わりそのときには，国際収支の赤字と為替相場の下落が生じる。</sentence>
+<sentence>さらに為替相場の下落は，（普通は）貿易収支を改善し，乗数過程によって所得と雇用を刺激する。</sentence>
+<sentence>所得が十分に上昇して，国内社会が銀行組織で創出した貨幣の増大したストックを保有するようになるときに，新しい均衡が確立する。</sentence>
+<sentence>利子率は不変であるから，このことは所得が貨幣供給の増加に比例して上昇しなければならないということを意味する。</sentence>
+<sentence>ここで比例因子は所得と貨幣との所与の比率（所得速度）である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　新しい均衡では，民間貯蓄と租税は所得の増加の結果として増加しているはずである。</sentence>
+<sentence>そしてこのことは，民間純貸付と政府債務の回収とが行なわれることを意味する。</sentence>
+<sentence>そうすると資本市場での均衡のためには，民間純貸付と債務回収との合計と資本輸出額とが均等することが必要である，そして資本輸出が行なわれるということは，国際収支均衡の条件から，貿易収支が黒字になることを意味する。</sentence>
+<sentence>それゆえ金融政策は所得と雇用水準の上に強い効果をもっているが，それは金融政策が利子率を変えるからではなくて，資本流出をひき起こし，為替相場を下落させ，そして輸出超過をもたらすからである<noteMarker text="５）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>５）　ケイブスは本質的には同じ結果に到達している〔６〕。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　さて，外国為替市場での中央銀行の操作（外国為替による<quote>「公開市場操作」</quote>）は金融政策の交代的形態と考えることができることを示そう。</sentence>
+<sentence>中央銀行が国内通貨で対外準備（金または外国通貨）を購入すると想定しよう。</sentence>
+<sentence>これは銀行準備を増加さ<sampling type="end" />せ，貨幣供給の乗数的拡張をひき起こす。</sentence>
+</paragraph>
+</article>
+</sample>

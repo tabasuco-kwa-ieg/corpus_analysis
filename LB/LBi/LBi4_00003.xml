@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00003" version="1.0" type="fixedLength">
+<article articleID="LBi4_00003_F001">
+<paragraph>
+<sentence>これこそ<sampling type="start" />まさに彼が捜していた病状だった。</sentence>
+<sentence>彼はその男の血を少量分けてくれるように担当医に頼んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自分の粗末な実験室に戻ると、ガロッドはその血を小さなビーカーに注いで、凝血させた。</sentence>
+<sentence>黒ずんで赤い血餅が縮んでビーカーの内壁から離れていくと、その後に透き通った黄色い血清が残った。</sentence>
+<sentence>それをガロッドは注意深く集めた。</sentence>
+<sentence>そして、秤の上の小さな容器に一〇〇〇グレインズ、およそ六〇ミリリットルほど量って入れた。</sentence>
+<sentence>メートル法はまだイギリスの臨床研究の世界に浸透していなかったから、ガロッドは自分の標本や化学薬品をスクループルやグレインズ、ミニム、ドラム（訳注貝いずれも微量の液量や重量の単位）で量っていた。</sentence>
+<sentence>彼はこうした中世の錬金術の名残に十分に満足していた。</sentence>
+<sentence>彼は血清を湯煎鍋でゆっくり乾かし、残った黄色い沈殿物を砕いて粉にした。</sentence>
+<sentence>この粉に純粋のアルコールを加えると、濁った懸濁液になったが、沈殿物の大部分はアルコールに溶けなかった。</sentence>
+<sentence>彼はその懸濁液をごく短い時間沸騰させてから、澄むまで静かに置いた。</sentence>
+<sentence>今度は、上澄みのアルコールが黄色くなって、沈殿したものは、白かった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その白いものが完全に沈殿したとき、ガロッドは黄色くなったアルコールを捨てた。</sentence>
+<sentence>白い沈殿物は、アルコールが蒸発すると、容器の底に硬い固まりとなって残った。</sentence>
+<sentence>彼はそれに沸騰した蒸留水を加えた。</sentence>
+<sentence>白い固まりは、アルコールには溶けなかったのに、熱湯にはたちまち溶けた。</sentence>
+<sentence>彼は、この溶液の数滴を時計皿の上でゆっくり温めながら、注意深く濃縮し、それを皿ごと広口びんに入ったアンモニアといっしょにベルジャー（鐘状ガラス器）の中に置いた。</sentence>
+<sentence>彼が高まる興奮を感じながら見つめていると、時計皿の中の透き通った溶液は次第に美しい紫色に変わった。</sentence>
+<sentence>発色したということは、もとの溶液にあったなんらかの酸とアンモニアが反応してアンモニウム塩を作ったという印だった。</sentence>
+<sentence>色が紫であるということは、特定の酸のアンモニウム塩が作られたことを示していた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その発見を確かめるために、ガロッドは残りの溶液も濃縮して、それに二〜三ミニム（<sentence>言い換えればほんの二、三滴。</sentence>
+<sentence type="quasi">訳注＝ミニムは液量の最小単位で一オンスの四八〇分の一</sentence>
+）の塩酸を加えて、二、三時間放置した。</sentence>
+<sentence>そして戻ってきてみると、小さな皿は紫外線の光にキラキラ輝く小さな菱形の結晶でいっぱいになっていた。</sentence>
+<sentence>ガロッドは、正常な人の血清からはこういう結晶は得られないことを知っていた。</sentence>
+<sentence>この結晶は<quote>「尿酸」</quote>と呼ばれる老廃物であった。</sentence>
+<sentence>この簡単な分析方法で、彼は痛風の人の血液から尿酸を検出することにはじめて成功した。</sentence>
+<sentence>五〇年以上前<sampling type="end" />の一七九三年、内科医マレー・フォーブズも、この酸を見つけようとしたが、血清中の尿酸を十分に純化できなかったため、失敗した。</sentence>
+</paragraph>
+</article>
+</sample>

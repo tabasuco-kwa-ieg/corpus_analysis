@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00011" version="1.0" type="fixedLength">
+<article articleID="LBg4_00011_F001">
+<paragraph>
+<sentence>単糖が結合して二糖や多糖がつくられ，分子量は１００から１００万以上におよん<sampling type="start" />でいる．</sentence>
+<sentence>多糖は加水分解されて単糖になる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">単糖</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　単糖は，カルボニル基（＞Ｃ＝Ｏ）が炭素鎖の末端に結合したアルドースと，それ以外の位置に結合したケトースに分けられる．</sentence>
+<sentence>また，炭素原子数によって，トリオース（３個），テトロース（４個），ペントース（５個），ヘキソース（６個），ヘプトース（７個）などとよばれる．</sentence>
+<sentence>それぞれ三炭糖，四炭糖，五炭糖，…などともいう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　糖質には，同じ分子式で同じ反応基をもっていながら，立体構造が異なる異性体が存在する．</sentence>
+<sentence>その代表的なものが鏡像関係にある光学的対掌体で，Ｄ型とＬ型がある．</sentence>
+<sentence>グルコースでは，６位の炭素（Ｃ<superScript>６</superScript>）に結合するＯＨが，図７‐１上段のように右側にあればＤ型，左側にあればＬ型である．</sentence>
+<sentence>生体内の糖質は，ほとんどがＤ型である（アミノ酸はほとんどがＬ型）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほか六炭糖のグルコースなどでみられるように，鎖状構造だったものが，Ｃ<superScript>１</superScript>のアルデヒド基（−ＣＨＯ）とＣ<superScript>５</superScript>の水酸基（−ＯＨ）のあいだで分子内反応して環状構造をつくることがあるが，このとき，Ｃ<superScript>１</superScript>に結合するＨとＯＨの位置によってα，β２組の異性体ができる（図７‐１）．</sentence>
+<sentence>こうした環状構造は６員環ではピラノース，５員環ではフラノースとよばれる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　生体内で重要な単糖は，アルドースとしては五炭糖のリボース（核酸やＡＴＰの成分），六炭糖のグルコース，ガラクトース，マンノース，ケトースとしてはリブロース（五炭糖），フルクトース（六炭糖）である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７‐１　グルコースの構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">二糖</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　単糖２分子が結合して二糖ができる．</sentence>
+<sentence>スクロース（ショ糖），ラクトース（乳糖），マルトース（麦芽糖）がその例である．</sentence>
+<sentence>マルトースはα‐グルコースのＣ<superScript>１</superScript>のＯＨがもう１つのα‐グルコースのＣ<superScript>４</superScript>のＯＨと脱水結合したものである（図７‐２（ａ））．</sentence>
+<sentence>この結合はα（１→４）と表わされ，グリコシド結合とよばれる結合の一種である．</sentence>
+<sentence>スクロースは，グルコースα（１→２）βフルクトースである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">多糖（貯蔵多糖）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　グリコゲン（動物）やデンプン（植物）のように生体内で糖質の貯蔵物質となっているものは，グルコースが多数結合したものである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　デンプンは，グルコースがα（１→４）結合で長い鎖状に結合したアミロースと，α（１→４）結合した短い鎖がα（１→６）結合で枝分かれしたアミロペクチンからなる（図７‐２（ｂ））．</sentence>
+<sentence>動物の唾液や膵液に含まれる酸素アミラーゼは，アミロースのα（１→４）結合を分解してマルトースやグルコースを生ずる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　グリコゲンは，アミロペクチンと同様に枝分かれ構造からできている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図７‐２　二糖と多糖．</sentence>
+<sentence type="quasi">（ａ）α‐マルトース，（ｂ）デンプン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">多糖（構造多糖）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生物体の構造の一部となっている多糖では，植物の細胞壁を構成するセルロースが代表的なものである（→９‐７節）．</sentence>
+<sentence>セルロースはグルコースからなる多糖で<sampling type="end" />あるが，デンプンと違ってβ（１→４）結合によって重合している．</sentence>
+</paragraph>
+</article>
+</sample>

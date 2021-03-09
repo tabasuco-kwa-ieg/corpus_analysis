@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf8_00005" version="1.0" type="fixedLength">
+<article articleID="LBf8_00005_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">（ｉ）<sampling type="start" />ｅ→ｉｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｊ）ｅ→ｉｐ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>４）普通話の‐ｉｅは，広東語では‐ｅ，‐ａｉ，‐ｉｔ，‐ｉｐになる。</sentence>
+<sentence>この場合，広東語の‐ｅは日本漢字音では‐ａになり，‐ａｉは‐ａｉに，‐ｉｔは‐ｅｔｕに，‐ｉｐは‐ｏｕになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｉｅ→ｅ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｉｅ→ａｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ｉｅ→ｉｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）ｉｅ→ｉｐ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>５）普通話の‐ｕｅは，広東語では‐ｕｔ，‐ｏｋ，‐ｏｋになる。</sentence>
+<sentence>この場合，広東語の‐ｕｔは日本漢字音では‐ｅｔｕに，‐ｏｋ、‐ｏｋは‐ａｋｕと対応する。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｕｅ→ｕｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｕｅ→ｏｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ｕｅ→ｏｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>６）普通話の‐ｉは，広東語では‐ｉ，‐ａｉ，‐ｅｉ，‐ａｐ，‐ａｔ，‐ｉｋになる。</sentence>
+<sentence>この場合，広東語の‐ｉ、‐ｅｉは日本漢字音でも‐ｉになり，‐ａｉは‐ｅｉに，‐ａｐは‐ｕｕに，‐ａｔは‐ｉｔｕに，‐ｉｋは‐ｏｋｕまたは‐ｅｋｉなどになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｉ→ｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｉ→ａｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ｉ→ｅｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）ｉ→ａｐ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｅ）ｉ→ａｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｆ）ｉ→ｉｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>７）普通話のｅｒは，広東語では‐ｉになる。</sentence>
+<sentence>この場合，広東語の‐ｉは日本漢字音でも‐ｉになる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>８）普通話の‐ｕは，広東語では‐ｕ，‐ｏｕ，‐ｕｋ，‐ａｔ，‐ｏｔになる。</sentence>
+<sentence>この場合，広東語の‐ｕは日本漢字音では‐ｏまたは‐ｕになることが多く，‐ｏｕは‐ｏまたは‐ｕに，‐ｕｋは‐ｏｋｕまたは‐ｉｋｕになり，‐ａｔは‐ｉｔｕまたは‐ｕｔｕになり，‐ｏｔは‐ｕｔｕまたは‐ｉｔｕになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｕ→ｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｕ→ｏｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ｕ→ｕｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）ｕ→ａｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｅ）ｕ→ｏｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>９）普通話の‐ｕは，広東語では‐ｕ，‐ｏｕ，‐ｕ，‐ｕｋ，‐ｏｔになる。</sentence>
+<sentence>この場合，広東語の‐ｕは日本漢字音では‐ｕまたは‐ｏに，‐ｏｕは‐ｕまたは‐ｏに，‐ｕは‐ｏまたは‐ｕ、‐ｕｕに，‐ｕｋは‐ｏｋｕまたは‐ｕｋｕに，‐ｏｔは‐ｕｔｕまたは‐ｏｔｕになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｕ→ｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｕ→ｏｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ｕ→ｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）ｕ→ｕｋ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｅ）ｕ→ｏｔ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１０）普通話の‐ａｉ（ｕａｉも含む）は，広東語では‐ａｉ，‐ｏｉになる。</sentence>
+<sentence>この場合，広東語の‐ａｉ，‐ｏｉは日本漢字音では‐ａｉになる。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ａｉ→ａｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ａｉ→ｏｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１１）普通話の‐ｅｉは，広東語では‐ｅｉ，‐ｕｉになる。</sentence>
+<sentence>この場合，広東語の‐ｅｉは日本漢字音では‐ｉに，‐ｕｉは‐ａｉになる。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｅｉ→ｅｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｅｉ→ｕｉ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１２）普通話の‐ｕｉは，広東語では‐ｏｕになる。</sentence>
+<sentence>この場合，広東語の‐ｏｕは日本漢字音では‐ｕｉ，‐ａｉ，‐ｅｉなどになる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>１３）普通話の‐ａｏは，広東語では‐ａｕ，‐ｏｕ，‐ｉｕになる。</sentence>
+<sentence>この場合，広東語の‐ａｕ，‐ｏｕ，‐ｉｕは日本漢字音ではいずれも‐ｏｕになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ａｏ→ａｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ａｏ→ｏｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）ａｏ→ｉｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１４）普通話の‐ｉａｏは，広東語では‐ｉｕ，‐ａｕになる。</sentence>
+<sentence>この場合，広東語の‐ｉｕ，‐ａｕは日本漢字音ではいずれも‐ｏｕになる。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｉａｏ→ｉｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｉａｏ→ａｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１５）普通話の‐ｏｕ，‐ｉｕ（ｉｏｕも含む）は，広東語では‐ａｕになる。</sentence>
+<sentence>この場合，広東語の‐ａｕは日本漢字音では‐ｏｕまたは‐ｕｕになることが多い。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）ｏｕ→ａｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）ｉｕ→ａｕ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>１６）普通話の‐ａｎは，広東語では‐ａｎ，‐ｏｎ，‐ｕｎ，‐ｉｎ，‐ａｍ，‐ｉｍ，‐ａｍになる。</sentence>
+<sentence>この場合，広東語の‐ａｎ，‐ｏｎ，‐ｕｎは日本漢字音では‐ａｎにな<sampling type="end" />り，‐ｉｎ，‐ｉｍは‐ｅｎに，‐ａｍ，‐ａｍは‐ａｎになることが多い。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

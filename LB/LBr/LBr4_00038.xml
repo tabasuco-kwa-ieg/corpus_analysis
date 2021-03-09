@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00038" version="1.0" type="fixedLength">
+<article articleID="LBr4_00038_F001">
+<paragraph>
+<sentence>これらの診療記録以外の情報は患者の個人情報では<sampling type="start" />なく、共有や開示の対象にならない場合があり、さらに、それを患者個人にみせることで不要な誤解を招くおそれがある。</sentence>
+<sentence>しかし、紙の記録媒体は一部だけ分離することは難しく、例えば墨塗りなどで隠蔽した場合、何を隠蔽したかわからなくなるために、不信感を生じさせかねない。</sentence>
+<sentence>したがってこれらの雑情報も含めて開示する場合、その意味や存在理由を逐一説明する必要がある。</sentence>
+<sentence>またカルテは常に読みやすい整然とした記述がされているとはかぎらない。</sentence>
+<sentence>多くの臨床現場は業務にそれほどの余裕がなく、また従来、患者に開示するという意識が高くなかったこともあり、略語が多用され、またしばしば悪筆である。</sentence>
+<sentence>略語や悪筆でなくても、専門用語は患者にとっては理解することは容易ではない。</sentence>
+<sentence>したがって実効ある開示を行うためには口頭での説明が不可欠であり、これが医療従事者にとって大きな負担になりうる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらにカルテの内容によっては開示することが患者の不利益になりうる場合もある。</sentence>
+<sentence>がんなどの深刻な疾患でも、現在では、多くの場合、患者本人に告知が行われている。</sentence>
+<sentence>しかし現在でも精神的に受け入れることが困難にみえるために告知していない例もあり、また病名は告知していても病状についてはやや楽観的に伝える場合もある。</sentence>
+<sentence>さらに精神神経疾患の場合、明らかに告知が病状を悪化させる場合もないとはいえない。</sentence>
+<sentence>とはいうもののこのような状況は例外的であり、むしろ告知の方法の未熟さや十分な時間をかけた説明や記述がないことによる場合もあり、開示を抑制する要素としての意味は小さい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また本人以外が開示を求める場合への対応も問題である。</sentence>
+<sentence>プライバシーが個人の権利であると考えれば、本人または合理的な本人の代理人以外に開示する必要はないが、場合によってはかなり微妙な問題になる。</sentence>
+<sentence>患者がなくなった場合の遺族からの開示請求がその１つである。</sentence>
+<sentence>本人が死亡している場合、合理的な代理人がだれであるかは判断が難しい。</sentence>
+<sentence>欧米をはじめ多くのプライバシー保護の法令・規則では死者のプライバシーに関しては言及されていない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、未成年などの判断力が未熟または欠落している場合の代理人にも問題となる場合がある。</sentence>
+<sentence>法定後見人が存在する場合は問題がないが、例えば親権者の場合、本人の判断力や本人と親との関係を十分考慮しなければならない。</sentence>
+<sentence>親による児童虐待が疑われる場合がその例である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上のような問題はあるものの、わが国ではカルテ開示は近年着実に進められており、前述の日本医師会をはじめ、数多くの団体や医療機関が開示指針を作成・公表し<sampling type="end" />ており、２００２年に発表された日本医師会のガイドライン<quote>「診療情報の提供に関する指針〔第２版〕」</quote>では遺族にもカルテを開示することを原則として定めている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

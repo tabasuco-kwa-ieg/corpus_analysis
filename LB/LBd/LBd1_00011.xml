@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd1_00011" version="1.0" type="fixedLength">
+<article articleID="LBd1_00011_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">２７　単語を憶えること―言語学<sampling type="start" />習</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　心理学における人の記憶の研究は，１９５０年代までは言語学習が中心であった。</sentence>
+<sentence>言語学習とは，記憶研究に用いる言語材料の研究および無意味綴に代表される言語を用いた記憶の研究であり，ドイツのエビングハウスの研究にその源を発する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>❖時間の経過に伴ってどれだけ忘れるか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エビングハウスは記憶の実験を始めるに当り，実験に使用する材料を統制した。</sentence>
+<sentence>すなわち，あらかじめ知っている単語を実験材料として用いれば，学習者（エビングハウス自身）の記銘結果が歪むと考えたからである。</sentence>
+<sentence>こうして，エビングハウスは子音と母音からなる連想の引きおこしがたい無意味綴を考案して実験を行った。</sentence>
+<sentence>これらの実験は，１８８５年に上梓された彼の著書（宇津木訳『記憶について』）のなかで詳細に記述されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図はその実験の結果であり，一般に，忘却曲線とよばれている。</sentence>
+<sentence>エビングハウスは１系列１３個からなる無意味綴を完全に憶え，その後ある一定の時間の経過に伴ってどれくらい思い出せるかを測定した。</sentence>
+<sentence>保持のテスト法は，節約法として知られている方法である。</sentence>
+<sentence>すなわち，一定時間の経過後，再学習したときにどの程度の速さで完全に記銘できるかを，最初に完全に記銘したときに要した回数や時間を基準にして測定するものである。</sentence>
+<sentence>それゆえ，エビングハウスの忘却曲線は，本来は節約率を示すものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　エビングハウスは，図から，学習直後から１日の間で急速に無意味綴を忘却することを見出した。</sentence>
+<sentence>２０分後には５８％を保持しているに過ぎず，１時間後に４４％，そして３１日後には２１％の保持率を得た。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図　忘却曲線</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>❖記憶のどんなことが分ったか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１８８５年の出版から１００年を経た１９８５年には，世界の各地でエビングハウスの今日的意義に関するシンポジウムが催された。</sentence>
+<sentence>それらの会議において議論されたエビングハウスの成果をまとめてみると，次の３点に要約できるであろう。</sentence>
+<sentence>１つは，記憶の科学的研究法の確立であろう。</sentence>
+<sentence>実験材料を精選して使用し，厳密な条件のもとで実験を実施し，そして科学的な測定法（節約法）を使用した。</sentence>
+<sentence>エビングハウスの研究は，その後アメリカの行動主義心理学の考え方と融合し，言語学習の基礎を築いた。</sentence>
+<sentence>第２は，学習材料の吟味である。</sentence>
+<sentence>私たちが用いる単語は，いろいろな要素で構成されている。</sentence>
+<sentence>たとえば，どれだけ他の単語を連想するか，あるいはどれだけ他の意味を持っているか等である。</sentence>
+<sentence>エビングハウスは連想の程度を統制することで無意味綴を作成した。</sentence>
+<sentence>最後に，時間経過に伴う記憶の忘却現象の推移を明らかにした。</sentence>
+<sentence>このようにエビングハウスの研究成果を吟味すると<sampling type="end" />き，彼の研究成果は記憶のメカニズムの解明よりも，むしろ記憶研究のパイオニア的な性格が浮彫にされる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

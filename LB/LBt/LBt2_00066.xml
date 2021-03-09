@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt2_00066" version="1.0" type="fixedLength">
+<article articleID="LBt2_00066_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />第三章　江戸の生活</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">十　時刻　じこく</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">江戸の一日</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence type="quasi">江戸時代の時刻は、</sentence>
+<br type="automatic_original" />
+<sentence>季節による昼夜の比率から毎々割り出される不定時法。</sentence>
+<br type="automatic_original" />
+<sentence>ですから、春夏秋冬一刻の長さが伸び縮みします。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">今なら混乱してしまいそうですが、</sentence>
+<br type="automatic_original" />
+<sentence>自然のリズムで暮らす江戸の人々には、こちらのほうが便利でした。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">季節でずれる<quote>「時と刻」</quote>、自然体の時間感覚</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　江戸の暦は<ruby rubyText="たい">太</ruby><ruby rubyText="いん">陰</ruby><ruby rubyText="れき">暦</ruby>、月の満ち欠けで日数を定め、昼夜の長さで時刻を決めます。</sentence>
+<sentence>時間を表す言葉に<quote>「<ruby rubyText="とき">時</ruby>」</quote>と<quote>「<ruby rubyText="こく">刻</ruby>」</quote>がありますが、<quote>「時」</quote>は時間の長さを示すのに用い、<quote>「両国までは<ruby rubyText="いっ">一</ruby><ruby rubyText="とき">時</ruby>くらいかかるだろう」</quote><quote>「<ruby rubyText="に">二</ruby><ruby rubyText="とき">時</ruby><ruby rubyText="はん">半</ruby>くらい<ruby rubyText="た">経</ruby>てば来るだろう」</quote>と使います。</sentence>
+<sentence>一時は約二時間。</sentence>
+<sentence>その一時は季節によって変化します。</sentence>
+<sentence>なぜなら、不定時法とは、一日二十四時間を太陽が出ている間と、月が出ている間の、二つに分けて昼夜それぞれを六等分し、一時を決めますから、太陽が出ている時間の長短によって昼夜の一時の長さも変わります。</sentence>
+<sentence>例えば、太陽が出ている間の一時を季節で比べると、夏至の頃の昼の一時は約二・六時間、冬至の頃の昼の一時は約一・八時間となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「刻」</quote>は時刻を示すのに用い、今の二十四時間を十二で割って、真夜中<ruby rubyText="れい">零</ruby><ruby rubyText="じ">時</ruby>から一時ごとに、<ruby rubyText="ね">子</ruby>・<ruby rubyText="うし">丑</ruby>・<ruby rubyText="とら">寅</ruby>・<ruby rubyText="う">卯</ruby>・<ruby rubyText="たつ">辰</ruby>・<ruby rubyText="み">巳</ruby>・<ruby rubyText="うま">午</ruby>・<ruby rubyText="ひつじ">未</ruby>・<ruby rubyText="さる">申</ruby>・<ruby rubyText="とり">酉</ruby>・<ruby rubyText="いぬ">戌</ruby>・<ruby rubyText="い">亥</ruby>といった<ruby rubyText="じゅう">十</ruby><ruby rubyText="に">二</ruby><ruby rubyText="し">支</ruby>に当てはめたものです。</sentence>
+<sentence>子の刻、巳の刻と使います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ほかの刻の言い方として、昼夜ごとに六種の数字をワンセットにして一巡して使います。</sentence>
+<sentence>真夜中を<ruby rubyText="ここの">九</ruby>つといい、一時ごとに<ruby rubyText="や">八</ruby>つ、<ruby rubyText="なな">七</ruby>つ、<ruby rubyText="む">六</ruby>つ、<ruby rubyText="いつ">五</ruby>つ、<ruby rubyText="よ">四</ruby>つ、真昼（正午）はまた九つとなり、八つ、七つと続けます。</sentence>
+<sentence>今のだいたい八時なら、朝でも夜でも五つ、だいたい二時なら八つとなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="えと">干支</ruby>のほうは、子の刻なら一時まるまる<quote>「子」</quote>ですが、<quote>「九つ」</quote>といえば一時の真ん中の時刻を指します。</sentence>
+<sentence>また、九つから順に数字が減るのではなく、九を単位として増やしていく数え方なのです。</sentence>
+<sentence>つまり、九の倍数の十の位を省いた数、それぞれ十八、二十七、三十六、四十五、五十四の一の位だけを呼ぶのです。</sentence>
+<sentence>これは古来中国で、奇数を陽数とし、なかでも最大の<quote>「九」</quote>を重んじたことに発します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　十二支に当てはめたものにしろ、九つから始まる刻の数え方にしろ、ベースは不定時法ですから、今のように年中一時間は六十分で一分は六十秒という一律不変の時間感覚はありません。</sentence>
+<sentence>一見不便なようでも、時計を持たない江戸の暮らしには、このほうが便利なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、<quote>「午後六時に会う」</quote>とすれば、夏と冬とでは外の明るさがまるで異なります。</sentence>
+<sentence>時計なしでは時間の見当がつけにくいわけですが、江戸で<quote>「暮れ六つに会う」</quote>ときは、季節がいつであろうと日没の少し後に着くように行けばよいのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般の家や店も、日没閉門（閉店）が基本で、日の出、日の入りに合わせた生<sampling type="end" />活リズムだからこそ、太陽そのものを基準とする不定時法が使いやすかったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

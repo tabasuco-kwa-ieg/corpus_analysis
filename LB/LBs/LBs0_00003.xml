@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs0_00003" version="1.0" type="fixedLength">
+<article articleID="LBs0_00003_F001">
+<paragraph>
+<sentence>したがって、自分でわざわざ自動登録の設定をするような機会は、通常はほとん<sampling type="start" />どありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それよりも多いのは、勝手に自動起動になっているソフトの設定を解除する、という作業です。</sentence>
+<sentence>ここでは、そのための方法を解説しておきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、こうした自動起動の機能はコンピュータウイルスも使っているので、この後解説するような方法で自動起動になっているソフトの一覧をチェックしてみれば、そこにウイルスのプログラムが見つかる場合もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［スタート］メニューをチェック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　［スタート］メニューの［すべてのプログラム（Ｐ）］（Ｗｉｎｄｏｗｓ　９８／９８ＳＥ／Ｍｅ／２０００は［プログラム（Ｐ）］）を出してみると、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">スタートアップ</sentence>
+<br type="automatic_original" />
+<sentence>というメニュー項目があります。</sentence>
+<sentence>このなかに登録されているソフトは、Ｗｉｎｄｏｗｓ起動時に、自動的に起動するようになっています。</sentence>
+<sentence>もし、自動起動させたいソフトがあれば、ここにメニュー項目をコピーして入れればいいわけです。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　逆にいうと、ここにあるメニュー項目を削除すれば、削除したソフトは自動的に起動しなくなります。</sentence>
+<sentence>［スタートアップ］項目から削除しても、たいていはそのソフト本来のメニュー項目がほかの位置に残っているので、手動で起動して使うのに支障はないはずです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７‐１１</sentence>
+<br type="automatic_original" />
+<sentence>［スタート］メニューの［すべてのプログラム（Ｐ）］（Ｗｉｎｄｏｗｓ９８／９８ＳＥ／Ｍｅ／２０００は［プログラム（Ｐ）］）にある［スタートアップ］項目をチェックする。</sentence>
+<sentence>ここに登録されているソフトが自動起動する。</sentence>
+<sentence>不要なら、右クリックのポップアップメニューから［削除（Ｄ）］を選択して削除すればいい。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">レジストリ起動もチェック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　レジストリの自動起動項目に登録されているものに関しては、２９ページで紹介したレジストリエディタを使っても、内容のチェックや編集ができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかしレジストリは、万が一誤った設定をしてしまうと、Ｗｉｎｄｏｗｓが起動できなくなる危険があります。</sentence>
+<sentence>そこで、レジストリエディタを使うのではなく、<quote>「システム構成ユーティリティ」</quote>という設定ソフトを使うのが安全で一般的な方法です。</sentence>
+<sentence>このソフトは［スタート］メニューにありませんが、Ｗｉｎｄｏｗｓには標準添付されているので、簡単に呼び出して使うことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「システム構成ユーティリティ」</quote>で表示される自動起動ソフトの一覧には、レジストリで自動起動設定されたものだけでなく、［スタート］メニューの［スタートアップ］に登録されたものも表示されます。</sentence>
+<sentence>要するに、システム構成ユーティリティを使えば、自動起動になっている全ソフトを一覧できるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお<quote>「ｍｓｃｏｎｆｉｇ」</quote>は、自動起動に設定されている各ソフトについて、自動起動の設定を一時的に無効にするかどうかの設定を行ない<sampling type="end" />ます。</sentence>
+</paragraph>
+</article>
+</sample>

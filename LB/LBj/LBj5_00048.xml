@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00048" version="1.0" type="fixedLength">
+<article articleID="LBj5_00048_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">リザーバ・タンク<sampling type="start" />のブレーキ液の量</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ハンドルについているリザーバータンクの液量が規定範囲内にあるか目視で点検する</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>リヤブレーキも油圧式なら、同様にリザーバータンク内のレベルを点検する。</sentence>
+<sentence type="quasi">車体はまっすぐにすること</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">マスタ・シリンダ、ホイール・シリンダ及びディスク・キャリパの機能、摩耗、損傷</sentence>
+<br type="automatic_original" />
+<sentence>写真の部分がディスクキャリパー。</sentence>
+<sentence type="quasi">レバーを握り、パッドをのぞきこんで動いているか確認する</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ドラムとライニングのすき間</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">前輪を浮かせて手で回し、重く引きずった感じがないかを見る</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ディスクとパッドとのすき間</sentence>
+<br type="automatic_original" />
+<sentence>写真で指差している部分だが、見てもよくわからない。</sentence>
+<sentence type="quasi">車輪を浮かせて手で回し引きずりがなければＯＫ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ディスクの摩耗、損傷</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ディスクも少しずつ摩耗するので、厚さの限度値をマニュアルで調べて、それ以上あることを確認する</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<sentence>オートバイと路面をつないでいるタイヤを始めとして、ホイール、ショック、スイングアームなどの点検だ！！</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">９　足回り点検</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">ポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　足回りのチェックは、前後のホイールとタイヤ、リヤのスイングアーム、スイングアームのリンク部、それにショックアブソーバー（ダンパー）である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">★ホイール</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">４０　タイヤの空気圧</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４１　タイヤの亀裂、損傷</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４２　タイヤの溝の深さ、異常な摩耗</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４３　ホイールのボルト、ナットの緩み</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４４　フロント・ホイール・ベアリングのがた</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４５　リヤ・ホイール・ベアリングのがた</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">★サスペンション・アーム</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">４６　連結部のがた、アームの損傷</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">★ショック・アブソーバ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">４７　損傷、オイルの漏れ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　４０の<quote>「タイヤの空気圧」</quote>は、タイヤゲージを使って、空気圧を測定。</sentence>
+<sentence>走行直後は熱で内圧が上がっているのでダメ。</sentence>
+<sentence>指定空気圧は取扱説明書であらかじめ調べておく。</sentence>
+<sentence>４１の<quote>「タイヤの亀裂、損傷」</quote>は、目で確認すればよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　４２の<quote>「タイヤの溝の深さ、異常な摩耗」</quote>。</sentence>
+<sentence>タイヤの接地面に設けられているウエアインジケーター（スリップサイン）でチェックする。</sentence>
+<sentence>偏摩耗などの異常な摩耗がないかも調べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　４３の<quote>「ホイールのボルト、ナットの緩み」</quote>については、ようするにホイールを止めているアクスルナットとアクスルホルダーの締め付けボルト、ナットをメガネレンチで当たればよい。</sentence>
+<sentence>緩み止めに割りピンが使われているオートバイは、割りピンがなくなっていないか、破損していないかも見る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　４４の<quote>「フロント・ホイール・ベアリングのがた」</quote>はフロントを浮かせた状態で、タイヤの両端に手をかけ左右に揺さぶり、がたがないかみる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　４５の<quote>「リヤ・ホイール・ベアリングのがた」</quote>もスタンドをかけ、リアを浮かせた状態でタイヤの両端に手をかけ動かしてチェックする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　４６の<quote>「サスペンションアームの連結部のがた、アームの損傷」</quote>。</sentence>
+<sentence>サスペンションア<sampling type="end" />ームというのはスイングアームである。</sentence>
+</paragraph>
+</article>
+</sample>

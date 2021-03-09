@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc5_00017" version="1.0" type="fixedLength">
+<article articleID="LBc5_00017_F001">
+<paragraph>
+<sentence>　トレーサーガスの濃度が室内で一様であると仮定すれば，その濃度は<sampling type="start" />次式で表される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　ここに，Ｃ：室内のトレーサー濃度　Ｃ０：外気のトレーサー濃度Ｃ１：ｔ＝０におけるトレーサー濃度　Ｑ：換気量　Ｖ：室の容積　Ｍ：室内のトレーサー発生量</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　いまトレーサーをいったん放出後，その発生量がない（Ｍ＝０）とすれば，（３．２３）式の第３項が０となり，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　これよりＱを求めると，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　したがって，トレーサーガスを一定量室内に放出した後の濃度減衰量を知れば，換気量が求められる。</sentence>
+<sentence>実際には扇風機などで十分室内の空気を撹拌しながら，適当な時間間隔で数回濃度を測り，図３‐２１のような片対数グラフ上にプロットし，直線近似させる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（３．２５）式でＣ１‐Ｇ０／Ｃ‐Ｃ０＝１０となる時間をＴとすれば，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence type="quasi">　または，換気回数ｎ（＝Ｑ／Ｖ）＝２．３０３／Ｔ　（３．２７）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これより，グラフ上で簡便に換気量（または回数）を求められる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トレーサーガスとしてはＣＯ２が最も多く用いられ，その濃度の測定にはガス検知管という簡易な測定器具が利用される（図３‐２２）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐２１　換気回数の算出</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐２２　ガス検知管と吸引ポンプ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２）　流速測定による方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　室内にあいまいな隙間などがなく，室内に出入する空気の流れの条件が，すべて流速測定に適している場合は，風速計によって求めた気流の平均流速と流れに直角な断面積との積で換気量を求めることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　気密なビルで換気が機械のみによって行われている場合や，クリーンルームなど換気量が多く，しかも各開口の空気の流入，流出状態が安定している場合などに有効である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">参考文献</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">図表出典（〔　〕内は本章図表番号を示す）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+</article>
+<article articleID="LBc5_00017_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">４　光</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４‐１　建築物と照明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　我々人間の目が感じる光の強さは，月明かりから直射日光までと大変に幅が広い。</sentence>
+<sentence>月明かりや直射日光はいうまでもなく自然光である。</sentence>
+<sentence>これに対して，古くはたいまつ，行燈，そして１８７９年にエジソンによって発明された白熱電球，１９３８年に発明された蛍光灯は人工光である。</sentence>
+<sentence>エジソンの白熱電球発明以来，種々の人工光が絶え間なく開発され，特に蛍光灯の発明によって建築物の照明といえば，人工光によるものを指すようになった。</sentence>
+<sentence>しかし，電気エネルギーを利用した人工光による照明の歴史は，これまでのわずか５０年間であり，それ以前は，建築物の照明といえば昼間には自然光を用い，夜間にはたいまつ，行燈を用いていた。</sentence>
+<sentence>自然光による建築物の照明を昼光照明または自然照明と呼び，人工光によるそれを人工照明と呼ぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　昼光照明で大切な建築の部位はいうまでもなく窓である。</sentence>
+<sentence>窓は建物内部にいる人間が，日の出から日の入りまでの太陽の運行による明暗の変化から時間の変化を感じ取り，また天候の変化を知るのに必要である。</sentence>
+<sentence>窓は，また，外の美し<sampling type="end" />い景色を眺めるのに必要とされることもある。</sentence>
+</paragraph>
+</article>
+</sample>

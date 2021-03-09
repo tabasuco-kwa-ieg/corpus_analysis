@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00042" version="1.0" type="fixedLength">
+<article articleID="LBr5_00042_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">個人的なレッスン<sampling type="start" />です</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ．共働きの場合、子供はどちらの扶養家族にしたらいいのでしょうか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　税金面＋扶養手当のトータルで得失を考えて決定しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　子供が生まれると、１人につき３８万円を扶養控除として所得から差し引くことができます。</sentence>
+<sentence>所得が高いほど税率が高いので、税金面だけで考えるなら<quote>「年収の多い方の扶養とする」</quote>方が節税できます。</sentence>
+<sentence>ただし忘れてはならないのが会社によっては支給される<quote>「扶養手当制度」</quote>。</sentence>
+<sentence>扶養手当は子供１人につき毎月５０００〜１万円ほど支給する会社が多いようですが、制度がない場合もあります。</sentence>
+<sentence>最終的には<quote>「税金面＋扶養手当」</quote>のトータルで得失を考えて、夫婦どちらの扶養とするか考えるといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>Ｑ．夫は単身赴任で別居となりました。</sentence>
+<sentence>パートで働いていますが、引き続き夫の被扶養者でいられるでしょうか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　別居になっても妻は被扶養者のままでいられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　妻がパートしている場合、年間収入が１０３万円以下なら配偶者控除を受けることができます。</sentence>
+<sentence>また年間収入が１３０万円未満なら、健康保険や国民年金について夫の被扶養者となることができます。</sentence>
+<sentence>妻の収入がこの基準より低ければ、転勤・就学・入院などのために一時的に別居となっても、引き続き被扶養者のままでいられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>Ｑ．もうすぐ子供が生まれますが、共働きで収入が多いと児童手当はもらえない？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　基準となる所得は夫婦合算ではありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　児童手当は、小学校入学前の子供を扶養していて、収入が一定額未満の方に支給されます。</sentence>
+<sentence>共稼ぎ夫婦の場合、父または母のうち子供の扶養者となっている方の親の収入が、所得制限の範囲内ならもらえます。</sentence>
+<sentence>所得の制限額は、加入している年金の種類や、扶養家族の人数により違います。</sentence>
+<sentence>また毎年５月に見直しも行われているので、所得制限の詳細は市町村役場の窓口に問い合わせしてご確認を。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　支給額は第１子と第２子は５０００円で、第３子以降が１万円です。</sentence>
+<sentence>申請の翌月分から小学校入学前の３月までもらえます。</sentence>
+<sentence>原則的には受け付け月以前の手当をさかのぼって支給されることはないので、申請手続きが遅れないように注意しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>Ｑ．妻が入院して治療費がたくさんかかってしまいましたが…。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（高額療養費・医療費の確定申告について）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一定額を超えた医療費は払い戻しを受けられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　た<correction originalText="" type="omission">と</correction>えば一般的なサラリーマン（月収５６万円未満で７０歳未満の場合）やその妻が入院し、１カ月の医療費が１００万円かかると、窓口で支払う自己負担額は３割の３０万円となります（注１）。</sentence>
+<sentence>この場合、高額療養費の支給手続きすれば後日１８万円ほどが払い戻されます（注２）。</sentence>
+<sentence>ただし入院食事代の自己<sampling type="end" />負担額や差額ベッド代、特別料金などは支給の対象となりません。</sentence>
+</paragraph>
+</article>
+</sample>

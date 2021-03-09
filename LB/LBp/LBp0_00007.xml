@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp0_00007" version="1.0" type="fixedLength">
+<article articleID="LBp0_00007_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">▲ますます広がるインター<sampling type="start" />ネット</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パソコンだけでなく、携帯電話や家庭用ゲーム機からもＷｅｂページや電子メールが利用できるようになり、インターネットを利用する人は飛躍的に増えてきました。</sentence>
+<sentence>それにともなって、インターネット上のサービスも着実に増えています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　インターネット　エクスプローラはウィンドウズと一体化しており、インターネットへ接続して行う操作を通常のパソコンと同じような感じで操作できます。</sentence>
+<sentence>ウィンドウズの操作ができれば、特に意識することなくインターネットの操作ができる、ということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">新曲をインターネットで試聴し、気に入ったら購入することも可能</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">▲インターネットをはじめよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パソコンをインターネット以外の目的で購入した方は、ぜひこの機会にインターネットにも挑戦してみてください。</sentence>
+<sentence>プロバイダの登録や、ホームページを見る方法、電子メールの利用の仕方など、インターネットの使い方については本書のＰＡＲＴ３で紹介しています。</sentence>
+<sentence>これを読めば、難しそうに見えるインターネットの設定も簡単にできるようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電子メールを仕事の連絡に使う会社も増えてきました。</sentence>
+<sentence>今や、インターネットが使えなければ仕事にならない、という時代になりつつあります。</sentence>
+<sentence>学校の授業でもインターネットを積極的に取り入れています。</sentence>
+<sentence>それほどインターネットは、必要不可欠なものだと考えられているということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　またインターネットの新しい技術が次々と開発されています。</sentence>
+<sentence>音楽や動画の配信などもますます盛んになりそうです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今後、インターネットを使えることが<quote>「当たり前」</quote>と考えられるようになることでしょう。</sentence>
+<sentence>そんな時代の流れから取り残されないためにも、インターネットをもっと身近なモノにしておくといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本書が、将来パソコンを有効に活用するようになるであろうあなたの、<quote>「最初の一歩」</quote>として役立つことを期待しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＡＲＴ１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">パソコン事始めの<quote>「わからない」</quote>２４項目</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　ウィンドウズはファイルとフォルダから成り立っている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ウィンドウズは<quote>「ファイル」</quote>と<quote>「フォルダ」</quote>でパソコンの中身を管理しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ファイルとは、例えばワープロソフトで作った書類や、アプリケーションソフトなど、パソコンの中に入っているデータそのもののことです。</sentence>
+<sentence>ダブルクリックすると、基本的にアプリケーションが起動し、そのデータが表示されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　パソコンの中には、ウィンドウズ自体のデータや、いろいろなアプリケーションソフトのデータなど、たくさんのデータが入っています。</sentence>
+<sentence>これらたくさんのデータを、わかりやすく管理するための入れ物がフォルダです。</sentence>
+<sentence>ダブル<sampling type="end" />クリックすると、フォルダの中身がウィンドウで表示されます。</sentence>
+</paragraph>
+</article>
+</sample>

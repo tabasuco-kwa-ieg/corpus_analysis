@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi7_00049" version="1.0" type="fixedLength">
+<article articleID="LBi7_00049_F001">
+<paragraph>
+<sentence>アクション・チャート上の各カードの内容をそ<sampling type="start" />のまま別のＡＰカードに転記し、そのカードを、時間軸を目盛った台紙上の<quote>「作業名」</quote>の欄に並べる。</sentence>
+<sentence>次に、時間軸にあわせて各作業ごとに線を引くことで、簡単にガント・チャート展開ができあがる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［２］特性要因図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　問題の原因をとらえ方策に結びつけていくための技法として、ＱＣ活動で用いられる<quote>「７つ道具」</quote>が便利である。</sentence>
+<sentence>その中でも、特に活用度の高い<quote>「特性要因図」</quote>について解説してみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　特性要因図は、１９５２年に東京大学教授（当時）の石川馨が考案したものである。</sentence>
+<sentence>以来、日本、アメリカ、ヨーロッパなどで盛んに活用され、外国ではもっぱら<quote>「イシカワ・ダイアグラム」</quote>または<quote>「原因と結果を表す図」</quote>と呼ばれている。</sentence>
+<sentence>問題（特性）とその原因（要因）となっているものを、大小の矢線の組合せで系統立てて整理したもので、その形が魚の骨格に似ているところから、通称<quote>「さかなの骨（フィッシュボーン）」</quote>ともいう（特性要因図の例として、本書４７ページの［図５］を参照されたい）。</sentence>
+<sentence>この図は問題に関係のあるさまざまな原因が構造的に示され、またそれらが大小の矢線を用いることによって一種の緊迫感を伝えてくれる。</sentence>
+<sentence>問題を分析してその解決策を考えるうえで、たいへん有効な図解である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）特性要因図のつくり方<enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　特性要因図の作成は、対象とする特性について関係ある者全員が集まって自由な立場で要因を出しあい、全員でまとめあげていく形で進められる。</sentence>
+<sentence>いきなり模造紙に書いていく方法もあるが、ジャンボ・カード方式を併用すると要領よくまとめられる。</sentence>
+<sentence>また、以下はマイナス要因（問題点）を例に解説を進めていくが、プラス要因についてもまったく同じ考え方で作成することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>〈ステップ１〉　模造紙数枚とマーカー（黒・赤・青）を用意する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>〈ステップ２〉　模造紙を壁に張り出し、上側に特性（問題）を大きく書く。</sentence>
+<sentence>特性は抽象的でなく、できるだけ具体的な表現で。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（例）<quote>「伊豆保養所問題」</quote>→<quote>「伊豆保養所の２月の利用率が低いのはなぜか」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>〈ステップ３〉　特性に対する要因（原因）と思われるものをブレーン・ストーミングの要領であげていき、書記はそれを模造紙に記録していく。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　この〈ステップ３〉で特に注意する点は、あくまで特性をもたらす<quote>「要因」</quote>をあげるということである。</sentence>
+<sentence>人間の習性として、問題を見つけるとすぐにそれへの対応策が頭に浮かぶ。</sentence>
+<sentence>メンバーの発言も原因の追及ではなく、<quote>「〜すべきである」</quote>といった手段のほうになりがちである。</sentence>
+<sentence>司会者はこの点に留意し発言をリードする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>〈ステップ４〉　一通り出そろったと思われるところで発言を打ち切り、模造紙を要因ごとに切り離す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>〈ステップ５〉　切り離した要因カードを床にばらまく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>〈ステップ６〉　要因の中で同じグルー<sampling type="end" />プに属すると思われるものを集める。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

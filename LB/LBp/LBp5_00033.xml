@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00033" version="1.0" type="fixedLength">
+<article articleID="LBp5_00033_F001">
+<paragraph>
+<sentence>　決まった時間までは<sampling type="start" />定額料金で、それを超えた時間分の料金を上乗せして支払う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　インターネットの利用時間が長くなりそうなら、完全な定額料金か、使った分だけを支払う従量制と定額を併用したものがお得です。</sentence>
+<sentence>また、たまに電子メールをするだけなら、時間×料金の従量制を選ぶといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">インターネットにかかるお金</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インターネットをするのにかかるお金には、プロバイダに支払う利用料金とＮＴＴなどの電話会社に支払う通信料があります。</sentence>
+<sentence>通信料は通常の電話の通話料金と同じです。</sentence>
+<sentence>プロバイダのアクセスポイント（次項参照）がある地域への通話料金が３分１０円なら、同じように３分１０円がかかります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　気を付けてほしいのは、たとえプロバイダへの支払いを月々いくらという定額料金にしたとしても、電話料金が固定料金になっていなければ、電話会社へ支払う通信料は使った分だけかかるということです。</sentence>
+<sentence>プロバイダとの契約が定額料金だからといって使い放題に使っていると、月末にびっくりするような請求書が電話会社から送られてくることになるので注意しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">参考</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＮＴＴでは現在、インターネットでの利用に限り、電話料金が定額になるフレッツ・ＩＳＤＮというサービスをはじめています。</sentence>
+<sentence>全国を対象としたサービスですが、一部地域ではサービスを利用できないところもあります。</sentence>
+<sentence>自分が住んでいる地域がサービスエリア内かどうか分からない場合には、ＮＴＴに問い合わせてみてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">市内にアクセスポイントはあるか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アクセスポイントというのは、プロバイダに接続するときの最寄りの電話番号のことです。</sentence>
+<sentence>アクセスポイントが市内にあるかどうかはプロバイダを選ぶときの重要なポイントです。</sentence>
+<sentence>なぜなら、プロバイダに月々支払う利用料金のほかに、自宅からアクセスポイントまでの電話料金を電話会社などに支払わなければいけないからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アクセスポイントが遠ければ、それだけ電話料金が余計にかかることになります。</sentence>
+<sentence>市内にアクセスポイントがないのなら、せめて隣接する区域にアクセスポイントがあるプロバイダを選ぶようにします。</sentence>
+<sentence>また、電話会社などで行っている利用時間帯を限定した通話割引サービスなどとの併用も考えてみるといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">通信速度は快適か</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文書や画像などの情報を電子メールで送るときの速さは、主にプロバイダが使っている回線の太さとモデムの性能によって決まります。</sentence>
+<sentence>最近では５６Ｋ（ゴジュウロクケー）と呼ばれるモデムが一般的です。</sentence>
+<sentence>単位はｂｐｓ（ビーピーエス）になります。</sentence>
+<sentence>これは、１秒間に文書や画像などの情報をどれだけ送ること<sampling type="end" />ができるかという通信速度の目安を表しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

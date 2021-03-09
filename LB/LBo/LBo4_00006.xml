@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00006" version="1.0" type="fixedLength">
+<article articleID="LBo4_00006_F001">
+<paragraph>
+<sentence>質量が小さいから微惑星の衝突で蓄えられた熱エネルギーも少な<sampling type="start" />く、大気の温室効果が少なく、太陽からの距離も大きいので、月と同じように冷却が進んでいる。</sentence>
+<sentence>火星の核は冷えて全部固体になっているので核の対流運動は終焉しており、その対流運動によって生ずる地球のような強い磁場は観測されない。</sentence>
+<sentence>しかし火星の古い地殻は強く磁化しており、地球の海洋底の拡大によって生ずるような縞状の磁化分布が観測されている。</sentence>
+<sentence>このことは火星でも、その歴史の初期には地球のように強い磁場があり、プレートテクトニクスのような対流運動があったことを示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　火星の重力分布は、火星を回る人工衛星を追尾する信号のドップラーシフトを微分することにより得られた。</sentence>
+<sentence>これまで三個の人工衛星による測定が行われている。</sentence>
+<sentence>一九七一年のマリナー九号、七六年から七九年のヴァイキング一号と二号である。</sentence>
+<sentence>それらのデータは合わせて解析され、重力異常図（ＧＭＭ‐１）としてまとめられている。</sentence>
+<sentence>その分布の特徴は、重力異常の振幅が大きいこと、および一般的に地形と重力異常の相関がいいことである（図３‐１４）。</sentence>
+<sentence>これは地球のようにアイソスタシーがよく成り立っていないことを示している。</sentence>
+<sentence>しかしなかには地形との相関が少ない重力異常もある。</sentence>
+<sentence>そのような重力異常のうちの二つは、火山の溶岩の広がりを示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１４　火星の地形と重力分布</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">濃い陰影は＋５０ｍｇａｌ以上，薄い陰影は−５０ｍｇａｌ以下．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〔月の重力場〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　月は地球にとっては分不相応に大きな衛星であり、その起源には謎が多い。</sentence>
+<sentence>よく知られているように、月は自転と公転の周期が一致しており、いつも同じ面が地球に向いている。</sentence>
+<sentence>これは、月の核の位置が中心から二キロメートルほど地球に近い方にあるためであるといわれている。</sentence>
+<sentence>月の地形は、木星探査用のガリレオが一九九〇年末に詳しいマップをつくっているし、その後九四年には探査機クレメンタインによるさらに詳しい地形と重力の観測が行われた。</sentence>
+<sentence>地球に向いている表側には、比較的平担な<quote>「海」</quote>と呼ばれる部分と無数のクレーターで覆われた<quote>「高地」</quote>と呼ばれる部分があるが、裏側には<quote>「海」</quote>の部分がないことが知られている。</sentence>
+<sentence>月の重力場は月を周回する人工衛星の追尾データをもとにして分解能約八〇キロメートルのＧＬＧＭ２モデルとしてまとめられており、さらに九八年二月にはルナープロスペクターが打ち上げられ、月の表側の詳細な重力場のマッピングを行った。</sentence>
+<sentence>しかしこれまでの方法では、人工衛星が見えなくなってしまう月の裏側の重力場を観測することはできない。</sentence>
+<sentence>そこで日本の国立天文台では、双子の人工衛星を用いて、月の裏側の重力場を<sampling type="end" />直接観測することを計画している。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi6_00006" version="1.0" type="fixedLength">
+<article articleID="LBi6_00006_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">第七章　ボーイ<sampling type="start" />ングＢ‐７４７、一万メートルの落下</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">台北からロスへ―<ruby rubyText="オートパイロット">自動操縦</ruby>で</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一九八五年二月一九日、中華航空〇〇六便、ボーイング７４７ＳＰ‐０９（Ｎ４５２２Ｖ）は乗客二五一名、乗員二三名を乗せ、台湾台北を飛び立った。</sentence>
+<sentence>行く先はカリフォルニア州ロサンゼルスである。</sentence>
+<sentence>〇〇六便は定期便として台北を一六時二二分に離陸した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以下時間経過をわかりやすくするため、<ruby rubyText="パシフィック・スタンダード・タイム">太平洋標準時</ruby>を用いる。</sentence>
+<sentence>出発は太平洋標準時の〇時二二分である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　飛行はサンフランシスコの北西、約三〇〇マイル（一マイル＝約一・六キロメートル）の、報告<ruby rubyText="ポイント">地点</ruby>レドウのわずか西までは順調であった。</sentence>
+<sentence>飛行高度は四万一〇〇〇フィートで、レドウ通過は一〇時一三分と予測された。</sentence>
+<sentence>〇〇六便は雲上にあり、雲の高さ（頂上）は三万七〇〇〇フィートと報告されていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この機は<ruby rubyText="オートパイロット">自動操縦</ruby>で飛行していた。</sentence>
+<sentence>自動操縦はパフォーマンス・マネジメント・システム（ＰＳＭ）と<ruby rubyText="カップル">連動</ruby>して使用されていた。</sentence>
+<sentence>このときには、機体のピッチ（縦）姿勢はパフォーマンス・マネジメント・システムから自動的に指令される。</sentence>
+<sentence>これによって機体は高度四万一〇〇〇フィート（一フィート＝約〇・三一メートル）を維持していた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方このときのロール（横）姿勢は慣性航法装置のコンピューターから自動的に指令される。</sentence>
+<sentence>この<ruby rubyText="オートパイロット">自動操縦</ruby>ではロールの操縦には<ruby rubyText="エルロン">補助翼</ruby>とスポイラーだけを使用する。</sentence>
+<sentence><ruby rubyText="ラダー">方向舵</ruby>は使用されない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　パフォーマンス・マネジメント・システムを作動させると、オートスロットル・システム（推力自動調節装置）はＰＭＳコンピューターに管理される。</sentence>
+<sentence>これによってスロットル設定が自動的になされる。</sentence>
+<sentence>かくして〇〇六便は指示計器速度をマッハ〇・八五（音速の八五パーセント）、二五四ノット（一ノット＝約一・九キロメートル）に維持して飛行していた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお以下速度は、すべて指示計器速度である。</sentence>
+<sentence>これは計器に実際に現れている速度である。</sentence>
+<sentence>真の速度は空気密度のちがいなどで、一般にこれより大きい（九七ページ）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　〇〇六便がポイント・レドウに近づいたとき、軽い晴天乱気流に遭遇した。</sentence>
+<sentence>速度はマッハ〇・八四（二五一ノット）から〇・八八（二六四ノット）の間を上下した。</sentence>
+<sentence>パフォーマンス・マネジメント・システムは巡航マッハ数〇・八五を維持すべく、スロットルを前後に移動させていた。</sentence>
+<sentence>時刻は一〇時をまわったところであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７・１　ボーイング７４７ＳＰ‐０９、事故機と同型機</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一〇〇ノット前後のジェット・ストリーム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ナショナル・ウェザー・サービス発表の地表天気図によれば、一〇時〇〇分、ブリティッシュ・コロンビアからアルバータにかけて低圧部が、また北太平洋上、北緯四〇度、西経一四〇度の点を中心に強い高圧部があった。</sentence>
+<sentence>気圧<sampling type="end" />の谷は低圧部から北西太平洋沿岸にのび、寒冷前線はバンクーバーから沿岸に沿って南へ、さらに南部オレゴンで西へ曲がって太平洋上にのびていた。</sentence>
+</paragraph>
+</article>
+</sample>

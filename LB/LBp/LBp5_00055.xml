@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00055" version="1.0" type="fixedLength">
+<article articleID="LBp5_00055_F001">
+<paragraph>
+<sentence>しかし，−２６３〜＋４００℃の極低温から超高温<sampling type="start" />まで安定であり，高温のひろい温度領域で機械的特性および電気的特性がすぐれており，さらに難燃性であるなどＦＰＣ用の絶縁材としてバランスよい特性を有している．</sentence>
+<sentence>ポリイミドフィルムはデュポン社の<quote>「カプトン」</quote>で代表されるが，すでに表４．１３．２に示すように，国内数社がそれぞれ低熱膨張性などの特徴を有する国産ポリイミドを開発し，ＦＰＣに適用している<noteMarker text="１７）" />．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方，ポリエステルフィルムはテレフタル酸とエチレングリコールの縮重合物を結晶化させたポリエチレンテレフタレートのフィルムである．</sentence>
+<sentence>ポリイミドとの違いは，耐熱性が劣るが安価であることである．</sentence>
+<sentence>耐熱性は劣るが，機械的特性，電気的特性，耐湿性がすぐれているためＦＰＣの分野にひろく使用されている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．１３．７　フレキシブルプリント配線板用ポリイミドとポリエステル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４．１３．２　ポリイミド樹脂のフィルムの化学構造とメーカ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４．１３．５　プリント基板のこれから</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　以下に示す材料はここ数年で開発あるいは発表されたものであり，その特性はさらに改良が進んでいるため，特性の一覧表は掲載を避ける．</sentence>
+<sentence>詳細情報は参考文献を参照されたい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ａ）エポキシ系耐熱材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　エレクトロニクス分野の多岐にわたる需要に応えるため多種多様のエポキシ樹脂が開発され，ガラス転移温度で１８０℃を示す材料が実用の段階にある<noteMarker text="１８）" />．</sentence>
+<sentence>とくに，多官能型のエポキシ樹脂やナフタレン系の化学構造を有するエポキシ樹脂の硬化物は高い耐熱性を示すことから耐熱性積層材料として適用されている<noteMarker text="１９，２０）" />．</sentence>
+<sentence>一方，エポキシ樹脂を耐熱性エンプラで変性し，耐熱性や機械特性を向上させる試みも多い．</sentence>
+<sentence>熱可塑性樹脂との均一混合化，たとえばポリフェニレンエーテルとのポリマアロイによる強靭化と耐熱性向上も多く報告されており，積層材料への応用が進んでいる<noteMarker text="２１〜２３）" />．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）エポキシ系低誘電率材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前述のＭＳ樹脂では，分子構造からその特性を予測し，分子設計にフィードバックする方法によりポリイミドの耐熱性を維持したままで低誘電率化が図られた．</sentence>
+<sentence>この手法がコストメリットの大きいエポキシ樹脂の低誘電率化に展開されている．</sentence>
+<sentence>エポキシ樹脂へのアルキル基の導入あるいは脂環式変性フェノール樹脂，シアネートエステル樹脂などとの反応を利用し，樹脂構造中の極性基を極力減らすことで誘電率，誘電損失を低く抑えた材料が各社各様の方法で開発され実用の段階にある．</sentence>
+<sentence>いずれも，Ｅ‐ガラスクロスと組み合わせた積層材料として誘電率で３．８〜４．１を実現している<noteMarker text="２４〜２８）" />．</sentence>
+<sentence>エポキシ樹脂や硬化剤を提供する各素材メーカがエレクトロニクス分野のニーズに<sampling type="end" />応え，低誘電率骨格をベースにした素材を整えてきたことも寄与が大きい<noteMarker text="２９，３０）" />．</sentence>
+</paragraph>
+</article>
+</sample>

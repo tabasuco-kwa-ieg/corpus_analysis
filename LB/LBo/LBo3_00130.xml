@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00130" version="1.0" type="fixedLength">
+<article articleID="LBo3_00130_F001">
+<noteBody>
+<sentence>６）　しかし，特別利害関係人の議決権行使により決議の内容が著しく不公正なものとなった場合や，多数決濫用にあたるとされる場合には総会決議取消しの訴えの対象となり，取消判決がなされると，株主総会の特別決議を欠く新株発行として，法令違反による取締役の責任（２６６Ⅰ<enclosedCharacter description="○">５</enclosedCharacter>・２６６ノ３），新株発行差止め（２８０ノ１０），新株引受人の責任（２８０ノ１１）などが問<sampling type="start" />題となる（原則として新株発行無効原因にならないことについて，７‐３‐３‐５‐２‐２参照）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ここで，<quote>「株主以外ノ者」</quote>とは，株主ではない者のみならず，株主であっても，株主の資格以外の立場で新株を引き受けるときの株主を含む。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，<quote>「特ニ有利ナル発行価額」</quote>とは，通常新株を発行する場合に発布価額とすべき価額つまり公正な発行価額と比較して，とくに低い価額を意味する。</sentence>
+<sentence>ここで，<quote>「公正な発行価額」</quote>とは，<quote>「新株の発行が会社の資金調達のために行われ，したがって新株の全部について引受および払込がなされることを要する反面，新株の発行によって旧株主の有する株式の価額が低落し，旧株主が不利益をこうむることを極力防止することを要する点に鑑みるときは，新株の発行により企図される資金調達の目的が達せられる限度で旧株主にとり最も有利な価額である」</quote>（東京高判昭和４６・１・２８高民集２４巻１号１）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　具体的には，市場価額のある株式の新株発行における公正価額は，発行価額決定時の株式の市場価額を基礎に，その株式価額の騰落習性，売買出来高の実績，会社資産および収益状態，配当状況，発行済株式数，新たに発行される株式数，株式市場の動向等を斟酌して決定される（６９事件）。</sentence>
+<sentence>他方，市場価格のない株式の新株発行における公正価額は，会社の資産および収益状態，配当状況を基礎に業種または資本構成等の類似する会社の株式で市場価格のあるものの市場価格を斟酌して決定される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして，一応実務上の慣行からみて時価を数％下回る程度であれば，<quote>「特ニ有利ナル発行価額」</quote>ではないと推定される。</sentence>
+<sentence>この実務上の慣行は，取締役会で発行価額を決定してから引受人が新株券を入手するまでの間に株価が下落する可能性を考えると，妥当なものと解されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７‐３‐３‐３　新株発行の差止め（２８０ノ１０）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　２８０条ノ１０は，取締役の不公正な新株発行により株主自身が受ける不利益を事前に防止する規定である。</sentence>
+<sentence>２７２条は会社自身の利益の保護を目的とするが，本条は株主の個人的な利益保護を図っている。</sentence>
+<sentence>株主に具体的な不利益が生じないにもかかわらず会社が不利益を受けるときは，株主は２７２条に定める差止請求をなしうるが，２８０条ノ１０の請求をなすことはできない。</sentence>
+<sentence>この新株発行の差止権は，株主の個人的な利益を保護する規定である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７‐３‐３‐３‐１　要件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　法令・定款違反または不公正な方法によること</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　法令・定款に違反する新株発行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　取締役の一般的義務（２５４Ⅲ，民６４４，商２５４ノ３）違反を含まない。</sentence>
+<sentence>たとえば，取締役会の決議（２８０ノ２Ⅰ）を欠く発行，額面株式の額面未満の発行（２０２Ⅱ），第三者<sampling type="end" />に対する有利発行において株主総会の特別決議（２８０ノ２Ⅱ）を経ない発行，発行価額その他発行条件の不均衡な発行（２８０ノ３），株主に新株引受権を与えて行う発行で失権予告付催告を欠く発行（２８０ノ５Ⅰ），必要な現物出資の検査役による調査を欠く発行（２８０ノ８），定款で発行を予定している株式の数（１６６Ⅰ<enclosedCharacter description="○">３</enclosedCharacter>）または種類（２２２Ⅱ）を無視する発行，法令または定款で定められた株主の新株引受権を無視する発行（２８０ノ５ノ２・２８０ノ４）などの具体的な法令・定款違反をいう。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg8_00002" version="1.0" type="fixedLength">
+<article articleID="LBg8_00002_F001">
+<paragraph>
+<sentence>　<sampling type="start" />本書は，韓国教育部で公布されたものに解説を加えたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本書は，ハングルを学習する人にとって，必携の座右の書であると思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　尚，本書の編著に当たり次の点に留意した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>１．本書は，表記法，標準語，標準発音法の三分野となっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．難解の語句が多いが，やさしく解説し，日本語訳は，語基を主にしている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．項目別の解説は，文法用語の説明は勿論，例を挙げて理解力を高めている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４．難解なところは解説文と例文により解得されたい。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５．索引は四分野に分け，引きやすくし，総括的な項目だけを主に選んでいる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　この本を出すに当たって，校正を見て下さった若松　実先生，それから，本書の出版について終始尽力して下さった佐藤武司編集長及び金丸俊美さんに，改めて御礼を申し上げる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">１９９２年１月１２日</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">編著者</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBg8_00002_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅰ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">改定ハングル表記法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">改定ハングル表記法と標準語対照表</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◇表記法◇</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◇新標準語◇</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">凡例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１．この‘ハングル表記法’は，改定された規定に従って，表記したものである。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．この‘ハングル表記法’は，本文六章と‘付録’から成っている。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">第一章　総則</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第二章　字母</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第三章　音声に関するもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第四章　形態に関するもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第五章　分かち書き</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第六章　其の他のもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">〔付録〕文章符号</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>３．各章は節に分け，各節はまた項に分け，各々原則に従って，例示語等を提示した。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４．文法体系と用語は　学校文法用語　（教育部制定）に従った。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５．意味の混同しやすいものに限って，漢字を併記した。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>６．但しと〔付記〕は，次のような場合に書いた。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>但し：規定の本文に該当しない，例外事項を提示する場合。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>〔付記〕：規定の本文に含んで説明するのが難しい事項を補充する場合。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">第一章　総則</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>第１項　韓国語表記法は，標準語を音の通り書くが，語法に従って表記することを原則とする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>第２項　文章の各単語は，分かち書きを原則とする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>第３項　外来語は，‘外来語表記法’に従って表記する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１．表記法：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　綴字法，正書法とも言う。</sentence>
+<sentence>韓国政府教育部で定めた表記方法である。</sentence>
+<sentence>１９３０年朝鮮語学会で綴字法統一案が制定発布され，１９３６年標準語制定集が発表された。</sentence>
+<sentence>その後１９４０年，１９４６年，１９５８年にそれぞれ一部改定または修正されてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その後１９７０年国語審議会で全面改定されることになり数回の会合，公聴会，世論調査等を経て，１９８８年１月１４日公示第８８〜１号で公布されたのである。</sentence>
+<sentence>１８年の歳月をかけ調査研究の結果として抜本改定され，表記法が従前より単純化されると同時に現実化された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．標準語：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本で言う共通語であるがその意味は多少相異している。</sentence>
+<sentence>共通語は大衆を背景とした自然発達的な言語であるのに反し，標準語は，国家を背景とし政府で制定公布統一した言語で<sampling type="end" />ある。</sentence>
+</paragraph>
+</article>
+</sample>

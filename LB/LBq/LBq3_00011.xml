@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00011" version="1.0" type="fixedLength">
+<article articleID="LBq3_00011_F001">
+<paragraph>
+<sentence>現在の登記簿上の所有者が誰であるかはもちろん、いつ、どのような原因（売買、贈与、相続等）で取得されたかなど、所有権の<sampling type="start" />移り変わりがわかります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、債権者からの差押え、競売の申立て、買戻特約などの事項、さらには売買予約や代物弁済契約を原因とする所有権移転の仮登記に関する登記もこの甲区になされます。</sentence>
+<sentence>仮登記がされると、後日、本登記がなされる予測のもとに、記載事項の左側に余白が設けられ、特殊な記載のされかたになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　不動産の所有者が実際には変わったにもかかわらず、登記がなされないままになっている場合があります。</sentence>
+<sentence>したがって、登記簿上、記載されている所有者が必ずしも真の所有者ではない場合が少なくありませんから、注意する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">地番</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　地番とは、区分された土地の一筆ごとに定められた番号で、<quote>「所在」</quote>と共にその土地の位置を示し特定するものとして、土地の登記簿の表題部に記載されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地番は、登記所が地番区域を定めて、その地番区域ごとに起番して、土地の位置がわかりやすいように整然と定めなければならないこととされています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし現実には、整然とはいえないような区域も少なくありません。</sentence>
+<sentence>特に分筆（一筆の土地を分割して二筆以上の土地とすること）や合筆（数筆の土地を合わせて一筆にすること）が頻繁になされている区域はなおさらです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、分筆前には五番であった土地が、三筆に分筆されれば、原則として、五番壱、五番弐、五番参というように枝番が付くようになります。</sentence>
+<sentence>また、参番と四番と五番の三筆を合筆した場合、合筆後一筆になった土地は、若い番号である参番が地番となります。</sentence>
+<sentence>また、四番壱から四番壱〇までの枝番のついた土地全部を合筆したときは四番とされます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、地番は住居表示を表わす番号とは異なりますので注意を要するところですが、現在、都会地では、多くの地区で、すでに住居表示が実施され、登記所において自分の住んでいる土地、建物の地番や家屋番号がわからず困っているケースが見受けられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">乙区</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　乙区はその不動産の所有権以外の権利に関する事項が表示されたページです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　所有権以外の権利とは、抵当権や地上権、賃借権などです。</sentence>
+<sentence>たとえばどこの銀行でいくら借金をして抵当権が設定され、それが、いつ、どのような理由によって消滅し抹消されたか、などが記載されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　乙区は、甲区と同じように、順位番号欄があって、登記がなされた順序に番号が付され、事項欄にその内容が記載されます。</sentence>
+<sentence>その不動産に対して所有権以外の権利が一度もなされていなければ、乙区の登記簿それ自体がありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">地目</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　地目とは、土地の利用状況によってきめられた土地の名称で、土地の登記簿の表題都の記載事項とされています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地目は、その土地の主<sampling type="end" />な用途によって、二一種に区分して定めることとされています。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr0_00014" version="1.0" type="fixedLength">
+<article articleID="LBr0_00014_F001">
+<list>
+<listItem>
+<sentence>Ｍａｃ　ＯＳ　Ｘ１０．１の場合は<quote>「ユーザ」</quote><sampling type="start" />になります。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>新しいユーザを作成するには、まずこのアイコンを選択する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence>３　<quote>「新規ユーザ」</quote>ボタンを押す。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>このボタンを押す。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence>４　<quote>「名前」</quote>欄に氏名を、ユーザ名に半角の英数字でユーザ名を指定する。</sentence>
+<br type="automatic_original" />
+<sentence>氏名はご自分の氏名で結構ですが、ユーザ名はＷｉｎｄｏｗｓからのログインに利用しますので覚えやすい名前にしてください。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ユーザ名だけがＷｉｎｄｏｗｓからのログインに利用される。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence>５　パスワードを２カ所に入力し［保存］ボタンを押す。</sentence>
+<br type="automatic_original" />
+<sentence>Ｍａｃ　ＯＳ　Ｘ１０．１の場合は、［パスワード］タブを選択します。</sentence>
+<sentence>２回目は、確認です。</sentence>
+<sentence>また、パスワードのヒントも入力しておいた方がよいでしょう。</sentence>
+<sentence>このとき、<quote>「ユーザがこのコンピュータを管理することを許可する」</quote>のチェックをしないようにしてください。</sentence>
+<sentence>ここにチェックを入れると、そのユーザも管理者になってしまいます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ここの２カ所にパスワードを入力する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence>６　［自動ログインを切にする］ボタンを押す。</sentence>
+<br type="automatic_original" />
+<sentence>自動ログインを切りにすると、Ｍａｃｉｎｔｏｓｈの起動時やログアウト時にユーザ名とパスワードを聞いてくるようになります。</sentence>
+<sentence>ここで、新しく作成したユーザのユーザ名とパスワードを指定すれば、新しいユーザでログインすることができます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>自動ログインをしない設定。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで新しいユーザの氏名が表示されます。</sentence>
+<sentence>ここで、ログアウトして新しいユーザでログインしてみましょう。</sentence>
+<sentence>ログアウトすると新しいユーザ名が表示されますので選択してください。</sentence>
+<sentence>つぎに、パスワードを入力しリターンキーを押します。</sentence>
+<sentence>これで、新しいユーザとしてログインできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>新しいディスクトップが表示される。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　Ｍａｃｉｎｔｏｓｈ　ＨＤのＵｓｅｒｓフォルダ内を表示してみましょう。</sentence>
+<sentence>新しいユーザ名のフォルダが家の絵柄のアイコンとして表示されるはずです。</sentence>
+<sentence>ここが、ＦＴＰやＨＴＴＰでアクセスされるユーザのフォルダとなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>新しいユーザのホームフォルダが表示される。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　管理者としてログインしたいときは、<quote>「アップルメニュー」</quote>からログアウトを選択して、管理者のユーザ名を選択してログインしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４‐９</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＭａｃｉｎｔｏｓｈからＷｉｎｄｏｗｓにアクセスするには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>設定が終わったら早速アクセスしてみましょう。</sentence>
+<sentence>ここでは、ＭａｃｉｎｔｏｓｈからＷｉｎｄｏｗｓにＦＴＰを使ってアクセスする方法を述べます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｉｎｔｅｒｎｅｔ　ｅｘｐｌｏｒｅｒでＷｉｎｄｏｗｓのＦＴＰサーバにアクセスする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まずは、Ｍａｃ　ＯＳ　９やＭａｃ　ＯＳ　Ｘに付属しているＩｎｔｅｒｎｅｔ　ｅｘｐｌｏｒｅｒでアクセスしてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>１　Ｗｉｎｄｏｗｓ側で［スタート］ボタン→<quote>「すべてのプログラム」</quote>→<quote>「ア<sampling type="end" />クセサリ」</quote>→<quote>「コマンドプロンプト」</quote>を選択する。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

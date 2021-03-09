@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00018" version="1.0" type="fixedLength">
+<article articleID="LBg5_00018_F001">
+<paragraph>
+<sentence>　ところで、本当は<quote>「目が向いている方向に見える映像」</quote>をテレ<sampling type="start" />ビ上に映し出したいのに、<quote>「頭の向き」</quote>をトラッキングしていることにお気づきだろうか。</sentence>
+<sentence>厳密にはちょっと異なるこれら二つの動作も、画面に映る視野を狭くすることで、何とかつじつまを合わせている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　われわれが水中眼鏡をかけているときには、真正面はよく見えるが、側面はガラス面でないために、眼球を動かしてもよく見えない。</sentence>
+<sentence>いきおい、見たいものが常に正面にくるように、眼球ではなく、頭を動かすことになる。</sentence>
+<sentence>ちょうど、これと同じ理屈で、頭の動きを検出することで、目の向く方向に代用しているわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これでお解りだろうが、アイフォンの視野は決して広くない。</sentence>
+<sentence>こんなところにも、アイフォンの未完成な部分があるわけである。</sentence>
+<sentence>アイフォンの画面は液晶を利用しており、ちょうど小型のカラー液晶テレビをまじかで見ているようなものである（<sentence>水平六四〇×垂直四八〇画素、すなわち約三一万画素。</sentence>
+<sentence type="quasi">画素とは画像を構成する点で、画素数が大きいほどきめの細かい画像が得られる</sentence>
+）。</sentence>
+<sentence>この点は今後さらに改善されていくだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">聴く立体感</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、視覚的な情報が立体感をもってくると、音にも立体感や臨場感が必要になる。</sentence>
+<sentence>もちろん、聴覚の分野では古くからステレオの試みが行なわれており、読者の日常生活にもステレオ装置は深く入り込んでいるであろう。</sentence>
+<sentence>これほどまでに一般的になったステレオの世界に、まだ仮想現実に関係した新たな事柄があるのかという気もするが、実はいろいろな試みが行なわれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「そのまま」</quote>の音を再生する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ひとつは<quote>「バイノーラル録音」</quote>と呼ばれる録音方式を使ったものである。</sentence>
+<sentence>人間の耳が音を聞くときには、両耳で聞くことによってどちらから音が聞こえてくるかを知る。</sentence>
+<sentence>これは目の場合とよく似ており、左右の耳から入ってくる音の強さと位相差、つまり二つの音の波の山や谷のずれから音の音源の方向を知るわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　従来のステレオが左右二つのスピーカの前で聞くのに対して、バイノーラル録音はヘッドフォンで聞くことを前提としている。</sentence>
+<sentence>なぜ、わざわざヘッドフォンのような面倒なものをかけて聞くかというと、実は録音方式と密接に関係しているからである。</sentence>
+<sentence>バイノーラル録音とは、人間の頭部の形をした人形の、両耳の鼓膜に相当する部分にマイクを直接取り付けて録音するものだ。</sentence>
+<sentence>あたかも自分が録音した現場にいて聞いているのと同じ状態で音が録音されるのが特徴である。</sentence>
+<sentence>このようにして録音されたものをヘッドフォンで再生すれば、従来のステレオよりも臨場感あふれる音が得られるわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　模型プロペラ飛行機を飛ばして録音したものは、ヘッドフォ<sampling type="end" />ンで聞くと自分の頭の周りを飛行機が飛んでいるように感じるだけではなく、飛行機が頭上にきても、後ろにきてもそう感じる（図４‐３）。</sentence>
+</paragraph>
+</article>
+</sample>

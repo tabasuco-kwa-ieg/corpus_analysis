@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00001" version="1.0" type="fixedLength">
+<article articleID="LBo4_00001_F001">
+<paragraph>
+<sentence>光源から赤外線を射<sampling type="start" />出し，ある気塊中を透過・吸収した後の赤外線量を検知器により測定することで，その気塊に含まれる水蒸気量を測定する．</sentence>
+<sentence>水蒸気による吸収波長特性は以下の式で表される．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　ここでＡ<subScript>λ</subScript>は波長λでの吸収率，Ｉ<subScript>λ</subScript>／Ｉ<subScript>λ０</subScript>は赤外線の透過率，Ｉ<subScript>λ０</subScript>は波長λでの放射強度，Ｉ<subScript>λ</subScript>は大気中を通過した後の放射強度，α<subScript>λ</subScript>は波長λでの吸収係数，ｗは赤外線が通過する長さ（光路長）の気塊に含まれる水蒸気量である．</sentence>
+<sentence>図１．３．３に，赤外線吸収方式湿度センサーの構造を示す．</sentence>
+<sentence>光源と検知器との距離が長くなるように反射鏡を置き，光路長を長くすることにより安定した水蒸気量を検出する．</sentence>
+<sentence>水蒸気による吸収のみを検出するために，水蒸気による吸収の度合が大きい赤外線と，小さい赤外線を組み合わせて両者の透過率を測定し，水蒸気量を逆算する．</sentence>
+<sentence>ただし，下記に述べるオープンパスセルのセンサーには，この形式をとっていないものもある．</sentence>
+<sentence>これらのセンサーは，水蒸気量の時系列変動を高時間分解能で検知する能力に長ける一方，比湿や相対湿度等の絶対的な値を決定することは難しく，そのため，参照用にセラミック湿度センサーや高分子膜湿度センサー等の低時間分解能のセンサーを併用している場合が多い．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　赤外線吸収方式湿度センサーには構造状，大きく分けて２種類の機器がある．</sentence>
+<sentence>一つは光源と検知器，あるいは反射鏡との間に空間を持たせてその場の（自然の状態での）気塊中の透過率を測定するものであり，もう一方は小さなセル内に気塊を送り込み，セル内に多重反射鏡を取り付けて，小型ながらも長い光路長により安定した透過率の検出を行うものである．</sentence>
+<sentence>前者はその形状からオープンパスセル（ｏｐｅｎ　ｐａｔｈ　ｃｅｌｌ），後者はクローズドパスセル（ｃｌｏｓｅｄ　ｐａｔｈ　ｃｅｌｌ）と呼ばれる．</sentence>
+<sentence>ちなみに図１．３．３に示した例は，クローズドパスセルのものである．</sentence>
+<sentence>両者とも，２０Ｈｚ程度までの高時間分解能での計測が可能であるため，３次元超音波風向風速計と組み合わせることにより，渦相関法を用いて潜熱フラックス（ｌａｔｅｎｔ　ｈｅａｔ　ｆｌｕｘ）の決定に使用される．</sentence>
+<sentence>光源や検知器等の光学系部位が結露に非常に弱いため，測定精度はオープンパスセルよりもクローズドパスセルのほうが良い．</sentence>
+<sentence>しかしながら，クローズドパスセルの多重反射セル内にいったん液状水が侵入すると，その機器は使用できなくなることがあり，野外での，特に降雨中での観測に際しては，十分な注意が必要である．</sentence>
+<sentence>表１．３．６に，赤外線吸収方式湿度センサーの製造メーカーを挙げる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．３．３　赤外線吸収方式Ｈ<subScript>２</subScript>Ｏ／ＣＯ<subScript>２</subScript>センサーの<sampling type="end" />構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

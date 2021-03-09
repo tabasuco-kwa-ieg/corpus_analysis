@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt9_00052" version="1.0" type="fixedLength">
+<article articleID="LBt9_00052_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「日仏親善協会の会長を、逮捕しなければならないのは、まことに残<sampling type="start" />念ですよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、いった。</sentence>
+<br type="automatic_original" />
+<info arg="sample_type" value="beginning" />
+<titleBlock>
+<title>
+<sentence type="quasi">パリ発殺人列車　十津川警部の逆転</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第一章　フランスからの招待状</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　七月末に、一通の招待状が、警視庁に届けられた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フランス語と英語で印刷された招待状には、次のように書かれていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　〈現在の主要国における犯罪の特徴は、大都市型の犯罪の増加と、凶悪化であります。そこで、来る十月十五日より三日間、グルノーブルに、世界主要都市の市警察の代表者に集まっていただき、その現状と対応策を話し合い、合わせて、<ruby rubyText="しん">親</ruby><ruby rubyText="ぼく">睦</ruby>を図りたいと考えました。東京警視庁からも、可能ならば二名の第一線の警察官に来ていただき、この企画に参加していただきたいと思います。ご返事をお待ちしております。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　尊敬をこめて。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">七月二十四日</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">パリ警視庁</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ジャン・ポール・ファルー〉</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　招待状には、大会の説明書がついていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それによると、招待状は、イギリス、アメリカ、ドイツ、カナダ、ソビエト、イタリアなどの大都市の警察に出されたとあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　グルノーブルの三日間の宿泊費と、パリ―東京間の往復の航空運賃は、パリ警視庁が負担する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、パリからグルノーブル間には特別列車を走らせるので、その車内で親睦を図ってもらいたい。</sentence>
+<sentence>シャンパン、サンドイッチなどは、無料で提供される。</sentence>
+<sentence>ただし、ＴＧＶを利用される方は、自由である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　夫人同伴も差し支えないが、夫人の旅費、宿泊費は、本人が負担していただきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　参加者の紹介パンフレットを作りたいので、なるべく早く、二名の名前と略歴、それに写真を送ってもらいたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そうしたことが、書いてあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　総監は、すぐ二名を選んで、行かせることにした。</sentence>
+<sentence>最近の犯罪は、国境を越えることが多い。</sentence>
+<sentence>殺人犯が、簡単に、東南アジアはもとより、アメリカ、ヨーロッパに逃亡してしまう。</sentence>
+<sentence>それを考えると、こうした機会に第一線の刑事を参加させ、各国の刑事たちと顔合わせをしておいたほうがいいと、判断したのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人選を頼まれた<ruby rubyText="み">三</ruby><ruby rubyText="かみ">上</ruby>刑事部長は、<ruby rubyText="ほん">本</ruby><ruby rubyText="だ">多</ruby>捜査一課長と相談し、捜査一課の<ruby rubyText="と">十</ruby><ruby rubyText="つ">津</ruby><ruby rubyText="がわ">川</ruby>と<ruby rubyText="かめ">亀</ruby><ruby rubyText="い">井</ruby>の二人の刑事を選んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　二人は、三上に対して礼をいうと同時に、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「できれば、一人は、将来を考えて、若い刑事を行かせてくれませんか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>とも、いった。</sentence>
+<sentence type="quasi">亀井はさらに、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「私は、語学が苦手ですから、フランスへ行っても、向こうの人とうまく意見を交換できる自信がありません。</sentence>
+<sentence type="quasi">それなら、フランス語のできる若い刑事を、派遣してください」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「カメさん。</sentence>
+<sentence>通訳をつけてくれるそうだよ。</sentence>
+<sentence type="quasi">だから、大丈夫さ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence type="quasi">と、本多一課長は笑ってから、部長に向かって、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「どうでしょう？</sentence>
+<sentence type="quasi">　十津川君と亀井君のコンビは、自信を持って世界の刑事たちに会わせられますが、若い刑事に、こんなチャンスを経験させてやりたいとも思います」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「それはわかるが、二名しか招待されない<sampling type="end" />んだよ」</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

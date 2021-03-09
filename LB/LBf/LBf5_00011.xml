@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf5_00011" version="1.0" type="fixedLength">
+<article articleID="LBf5_00011_F001">
+<noteBody>
+<sentence>このＸ線のことを蛍光Ｘ線と呼<sampling type="start" />ぶ。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>Ｘ線顕微鏡＝光の代わりに電子線を使うのが電子顕微鏡だが，これはＸ線を使う顕微鏡。</sentence>
+<sentence>Ｘ線用のレンズがまだ開発されていないため，Ｘ線顕微鏡もまだ存在しない。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　実は高エネ研には、かねてからトリスタンと電子線源を共用する放射光実験施設があり、ここでさまざまの放射光利用研究が行われている。</sentence>
+<sentence>ここのリングからは、下図に見るように、六〇本の放射光ビームが取り出され、二〇〇〇人の研究者がさまざまの装置を置いて年間五〇〇件もの実験をしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いま世界中で放射光の利用研究が行われだしているが、高エネ研の放射光施設は、その規模と研究の質の高さにおいて、世界をリードしている。</sentence>
+<sentence>超伝導磁石（ウィグラー）で電子軌道を急激に曲げて放射光の強度を何倍にもあげるとか、アンジュレーター<noteMarker text="＊" />と呼ばれる装置を投入することで、単一の波長の極めて強い放射光だけを思うがままに取り出すとか、世界に誇る技術が山ほどある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>アンジュレーター＝電子貯蔵リングの電子の進行方向に沿って、周期的に反転する磁場をかけると特定の波長の放射光だけ強く発生させることができる。</sentence>
+<sentence>このための装置のこと。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ここのリングはわずか二五億電子ボルトのもので、もう能力の限界まで使われている。</sentence>
+<sentence>しかし、トリスタンがもういらなくなる段階になったら、これを全面的に放射光施設として使ってはどうかという考えがある。</sentence>
+<sentence>加速器としてはもう世界一ではなくなったが、放射光施設として見たら、規模からいっても能力からいっても、これほどのものはどこにもない。</sentence>
+<sentence>いま世界各国で建設が進められている大型の放射光施設のどれと比較しても、その一〇〇〇倍もの能力をもつことになる。</sentence>
+<sentence>それによって、すでに世界のトップレベルにある日本の放射光利用研究を、さらに圧倒的なものにすることができるというのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そうなると、加速器としてはノーベル賞を取りそこなったトリスタンも、放射光施設としてノーベル賞級の研究を次々に生み出すことになるかもしれない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>〔上〕放射光実験施設の内部。</sentence>
+<sentence>実験装置の入った大きな箱がいくつも並ぶ。</sentence>
+<sentence>〔右中〕電子発生装置。</sentence>
+<sentence>電子銃とも呼ばれる。</sentence>
+<sentence>陰極に高圧をかけて，そこから放射される電子を穴のあいた陽極から取り出す。</sentence>
+<sentence>ここがすべての実験の始まりである。</sentence>
+<sentence>〔左中〕放射光実験施設の電子蓄積リング。</sentence>
+<sentence>アンジュレーターやウィグラーなど，強い放射光を出す装置が並ぶ。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBf5_00011_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">あとがき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本書は、<quote>「立花隆が歩く―研究最前線」</quote>と題して、『科学朝日』に、一九八九年一月から九〇年六月にかけて連載したものを、若干の加筆訂正のうえ、一書にまとめたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は青年時代は文学青年だった<sampling type="end" />が、少年時代は科学少年だった。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr0_00019" version="1.0" type="fixedLength">
+<article articleID="LBr0_00019_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">１</enclosedCharacter>　複写元のサブフォーム（ここでは<quote>「顧客別の<sampling type="start" />集計のサブフォーム」</quote>）を右クリックしてショートカットメニューを表示する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　［名前を付けて保存］をクリックする</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．１６</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">◆［名前を付けて保存］ダイアログボックスが開く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ア　仮のフォーム名が表示される</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．１７　<enclosedCharacter description="●">３</enclosedCharacter>　目的の名前を入力（ここでは<quote>「顧客別の年間集計（ＳＵＢ）」</quote>）して［ＯＫ］をクリックする</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．１８　イ　作成した新しいフォームが追加表示される</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．１５</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．１６</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．１７</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．１８</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●レコードソースの変更</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　複写元に使用したサブフォーム<quote>「顧客別の集計のサブフォーム」</quote>のレコードソース（［名前を付けて保存］の元のフォームに設定されていたレコードソース）は、<quote>「顧客別の集計」</quote>クエリですから、<quote>「顧客別の年間集計（ＳＵＢ）」</quote>サブフォームにも同じ設定が引き継がれています。</sentence>
+<sentence>これを年間集計用として作成した<quote>「顧客別の年間集計」</quote>クエリに変更します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">❖操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">図２．４．１９　<enclosedCharacter description="●">１</enclosedCharacter>　<quote>「顧客別の年間集計（ＳＵＢ）」</quote>サブフォームをデザインビューで開く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２０</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　フォームのプロパティウィンドウを開く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">３</enclosedCharacter>　プロパティ［レコードソース］を［顧客別の年間集計］に変更する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">４</enclosedCharacter>　［×］ボタンをクリックして閉じる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．１９</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．２０</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　これで、<quote>「顧客別の年間集計（ＳＵＢ）」</quote>サブフォームの作成は完了です。</sentence>
+<sentence>フォームの［×］ボタンをクリックしてデータベースウィンドウに戻ります（保存確認があるので［はい］をクリックして保存する）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●サブフォームのソースオブジェクト</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　親フォーム上に挿入したサブフォーム領域のソースオブジェクトを［名前を付けて保存］で作成した<quote>「顧客別の年間集計（ＳＵＢ）」</quote>サブフォームに変更します。</sentence>
+<sentence>レコードソースに設定できるフォーム数がたくさん表示されるので、まちがえないように選択します。</sentence>
+<sentence>操作過程の画面をよく参照して操作しましょう。</sentence>
+<sentence>とくに、サブフォームのプロパティウィンドウの開き方に注意しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">❖操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">図２．４．２１　<enclosedCharacter description="●">１</enclosedCharacter>　<quote>「顧客別の年間集計」</quote>フォームをデザインビューで開く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２２</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">◆<quote>「顧客別の年間集計」</quote>フォームがデザインビューで開く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　サブフォームの左上角の□にマウスポインタを合わせて右クリックする</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２３</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ア　ショートカットメニューが表示される</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">３</enclosedCharacter>　［プロパティ］をクリックする</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２４</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">イ　サブフォームのプロパティウィンドが開く（プロパティウィンドウのタイトルに注意）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ウ　現在の設定状態（ソースオブジェクト<quote>「顧客別の集計０２月（ＳＵＢ）」</quote>）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２５</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">４</enclosedCharacter>　プロパティ［ソースオブジェクト］欄の［▼］をクリックして一覧を表示する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">５</enclosedCharacter>　<quote>「顧客別の年間集計（ＳＵＢ）」</quote>を選択する</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">図２．４．２６</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">エ　ソースオブジェクトが変更される</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">６</enclosedCharacter>　［×］ボタンをクリックしてウィンドウを閉じる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．２１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．４．２<sampling type="end" />２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

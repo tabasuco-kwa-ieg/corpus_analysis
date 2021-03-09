@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb8_00002" version="1.0" type="fixedLength">
+<article articleID="LBb8_00002_F001">
+<paragraph>
+<sentence>なお，厳密にいえば，述部の内容が主語にとって自制<sampling type="start" />可能であるかどうかは，述部の主要語だけではなく，述部全体が表わす状態に対して問われるものである。</sentence>
+<sentence>次の（６）は非文だが，（７）は文法的であることがこれを示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　ところで，否定命令文は通例，曖昧な文である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<sentence>たとえば，（８）には，前提の相違に基づく（９）と（１０）の言い換えに示されるような２つの読み（ｒｅａｄｉｎｇ）がある。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>すなわち，（８）には<quote>「愚かな行為はするな」</quote>と<quote>「愚かな行為はやめろ」</quote>の２つの意味があるのである。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　なお，興味深いことに，（１１）は（８）と同様の曖昧性を含むのに対して，（１２）は（９）の型の解釈のみが許されるという事実がある。</sentence>
+<sentence>これは否定辞ｎｏｔの位置と作用域という概念を用いて説明できるであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　最後に，形容詞・名詞は，本来，状態の意味を表わすので，（１３）のような擬似命令文（ｐｓｅｕｄｏ‐ｉｍｐｅｒａｔｉｖｅ）には自由に生じることができるが，真の命令文には生じることはできない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　しかし，それにもかかわらず，多数の形容詞や名詞が命令文やその他の自制可能性とかかわりをもつ構造に生じることができるのは，これらの構造に生じると形容詞や名詞は精神的あるいは身体的動作の意味を表わすようになるからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">【類例】</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence type="quasi">【文献】</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence type="quasi">【参照】</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">⇒１７６，１８７．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１７８．　＊Ｋｎｏｗ　ｔｈｅ　ａｎｓｗｅｒ．</sentence>
+<br type="automatic_original" />
+</title>
+<list>
+<listItem>
+<sentence>【和訳】　その答えを知っていなさい。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【ポイント】状態述語と非状態述語と自制可能性。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</titleBlock>
+<paragraph>
+<sentence>　標記の文は明らかに非文法的な文である。</sentence>
+<sentence>このことは，標記の文とまったく同じ形をした（１）の文が文法的であるのと好対照をなす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　Ｌａｋｏｆｆ，Ｇ（１９６６ａ，１９７０ａ）は動詞，形容詞（以下，これら２つをまとめて単に述語と呼ぶ）を状態を表わすものと，非状態を表わすものとに２分し，さらに，非状態的述語は命令形をとることができるが，状態的述語は命令形をとることができないと主張した。</sentence>
+<sentence>具体的には，（１）のｓｌｉｃｅは非状態的述語であり命令形をとることができるのに対して，標記の文のｋｎｏｗは状態的述語であるので命令形をとることができないのである。</sentence>
+<sentence>次の（２）‐（５）は，Ｌａｋｏｆｆの主張が正しいことを示す別の例である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<sentence>（２）のｅａｔ（３）のｃａｒｅｆｕｌはそれぞれ非状態的述語であるので命令形をとることが可能である。</sentence>
+<sentence>一方，（４）のｈｅａｒ，（５）のｒｉｃｈは状態的述語であるので不可能となっている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　状態的，非状態的という２分法は命令文に限らず，他の構文の文法性の決定に大きくかかわってくる。</sentence>
+<sentence>次の［Ⅰ］―［Ⅶ］においてこのことをみることにする。</sentence>
+<sentence>（ａ）の文の述語は非状態的であり，（ｂ）は状態的である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［Ⅰ］進行形に関して</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　（６）‐（７）に示してあるように，非状態的述語は進行形をとることができるが，状態状態的述語は進行形をと<sampling type="end" />ることができない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

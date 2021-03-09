@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo0_00003" version="1.0" type="fixedLength">
+<article articleID="LBo0_00003_F001">
+<paragraph>
+<sentence>　もちろん、マイクロソフトがこういった作業時間を低減するために、ＳＭＳインストーラや<sampling type="start" />ＺＡＫなどを提供しているのは十分承知している。</sentence>
+<sentence>しかし、これらのツールはクライアントとサーバが高速なＬＡＮ上にあることが前提である。</sentence>
+<sentence>その間に低速なＷＡＮが存在する場合は、とても恐ろしくて使えない（そのＷＡＮを占有できるのであればやれないこともないが）。</sentence>
+<sentence>結局、低速なＷＡＮを間にはさんでいる場合には、そのクライアントの前まで出向くしかないのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">メンテナンスは連休に行う必要がある</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">交通機関や宿泊施設の確保に注意せよ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　筆者が担当しているところのように、サーバやクライアントが遠隔地に少数ずつ散らばっている場合、そのメンテナンスはどうしても連休に行うように計画をする。</sentence>
+<sentence>平日に実行したいのはやまやまなのだが、そうすると、その間はユーザーがマシンを利用できなくなってしまう。</sentence>
+<sentence>特に、台数が少ない拠点の場合には代わりのマシンが調達できない。</sentence>
+<sentence>最近はメールなどをこまめにチェックしながら仕事をする人が増えているので、代替マシンでも持ち込まないかぎり、平日のメンテナンスは困難になりつつある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、連休中にメンテナンスを行うことになるのだが、注意してほしいことがある。</sentence>
+<sentence type="quasi">例えば、月曜日が祝日にあたる場合、システム管理者以外の普通の人は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>「金曜日に休みを取れば４連休。</sentence>
+<sentence>むふふふ、どこに遊びに行こうか？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>となる。</sentence>
+<sentence>当然、遠距離交通機関は満席になり、ホテルは旅行会社が先に押さえてしまっている。</sentence>
+<sentence>部屋は空いていたとしても、ホテル側は電話で予約してくる個人客など見向きもしないようだ。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　つい最近では、９月１５日が敬老の日で月曜日だった。</sentence>
+<sentence>１２日から休みを取ればめでたく４連休である。</sentence>
+<sentence>こうなると老人を敬うことなどどうでもよいらしく、日本国中、さながら“秋のゴールデンウィーク”と化したが、このとき筆者はひどい目にあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この連休に<quote>「大阪〜東京〜仙台〜札幌」</quote>日本縦断“旅ガラス”状態の緊急保守が決まった。</sentence>
+<sentence>９月８日のことである。</sentence>
+<sentence>１１日に大阪を出発して東京でメンテナンス。</sentence>
+<sentence>１２日の朝は東京から仙台へ新幹線にお世話になる予定を組んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、<quote>「仙台〜札幌（千歳）」</quote>の飛行機が取れないのである。</sentence>
+<sentence>ＪＡＬ、ＡＮＡ、ＪＡＳ各社の便はすべて満席だ。</sentence>
+<sentence>キャンセル待ちしていては、予定の土曜日に札幌での作業ができるかどうかわからない。</sentence>
+<sentence>おまけに仙台市内のホテルも満室で確保できそうにない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかたなくＪＲの時刻表をにらんでいると、１本の夜行寝台が目に入った。</sentence>
+<sentence>寝台特急<quote>「北斗星」</quote>である。</sentence>
+<sentence>東京から仙台を通って札幌までひた走る、鉄道ファン垂涎の列車だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人気列車なのでダメもとで予約を確認してみると、なんとＢ寝台が１席だけ空いている<sampling type="end" />。</sentence>
+</paragraph>
+</article>
+</sample>

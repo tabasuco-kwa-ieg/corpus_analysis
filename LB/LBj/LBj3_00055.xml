@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj3_00055" version="1.0" type="fixedLength">
+<article articleID="LBj3_00055_F001">
+<paragraph>
+<sentence>　アプリケーションについて注意を要する<sampling type="start" />のは、実行処理メニューの中のいわゆるデフォールト・オプションです。</sentence>
+<sentence>ここでいうデフォールトとは、提示された選択肢の中から何も選ばなかったとき、または、提示されていない選択肢を選んだときに起こる処理のことをいいます（例えば、１から８までのオプションがある場合、９のキーを押したらどうなるか、ということです）。</sentence>
+<sentence>このようにオプションの追加設定が可能な状態では、知識のある者が自分自身で実行処理メニューをつくることができます。</sentence>
+<sentence>ユーザーには表示されたメニュー以外のメニューを使えないようにすべきです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　厳しくする必要のあるもう一つの領域は、アプリケーションのテストです。</sentence>
+<sentence>ソフトウェアを新たに導入するとき、主要な機能のみではなく、あまり起こらないような条件の組合せについても、第三者がテストするようにしなければなりません。</sentence>
+<sentence>プログラマーを監督せず、また、彼らが従うべき基準も与えず、自ら開発したプログラムのテストの内容をプログラマー自身が決めるような状態では、管理に弱点があるといわざるを得ません。</sentence>
+<sentence>プログラマーは誠実でも、プログラムの中に異常なものが潜んでいるということもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プログラムが、本番稼働してから二、三年後に欠陥が判明することがありますが、これはなぜでしょうか。</sentence>
+<sentence>それはおそらく、その処理に誤りを発生させるような特定の状況の組合せが、そのときにはじめて発生したからでしょう。</sentence>
+<sentence>もう一つ考えられる原因は、その欠陥がシステム修正が行われたために発生する場合です。</sentence>
+<sentence>そのため、システム修正後の再テストが非常に重要になるのです。</sentence>
+<sentence>修正部分についてテストするだけでなく、新しいコードが他の部分に影響を及ぼしていないかを確かめるため、他のすべての機能も再度テストすべきです。</sentence>
+<sentence>一般にこのようなことが実行されているでしょうか。</sentence>
+<sentence>おそらく必要なレベルまでは行われていないと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">機密漏洩とスパイ行為</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　大半の会社はコンピュータに関する懸案事項のリストの一番目にはシステムダウンへの対策をあげていますが、コンピュータ・セキュリティに関するリスクについての議論になると、決まって機密漏洩が大いに注目を集めます。</sentence>
+<sentence>これはなぜでしょう。</sentence>
+<sentence>これについては一九八〇年代において大きな話題となったプライバシーの問題に遡って考える必要があると思います。</sentence>
+<sentence>これに加えて、アメリカ人（日本人も同じだと思います）がハイテク・スパイ小説に対して飽くことのない興味を寄せていることに関係があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　筆者は機密漏洩による被害や機密漏洩の発生可能性を過小評価するつもりはありま<sampling type="end" />せん。</sentence>
+</paragraph>
+</article>
+</sample>

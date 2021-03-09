@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBsn_00002" version="1.0" type="fixedLength">
+<article articleID="LBsn_00002_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />色あせたカラー写真風に加工する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>４　<quote>「レイヤー」</quote>パレットの描画モードを<quote>「ハードライト」</quote>に変更する。</sentence>
+<sentence>少しセピアに色あせたカラー写真風に変わる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　【フィルタ→ノイズ→ノイズを加える】を選ぶ（<enclosedCharacter description="○">１</enclosedCharacter>）。</sentence>
+<sentence><quote>「ノイズを加える」</quote>ダイアログで<quote>「プレビュー」</quote>にチェックを入れ（<enclosedCharacter description="○">２</enclosedCharacter>）、<quote>「分布方法」</quote>を<quote>「ガウス分布」</quote>に設定し（<enclosedCharacter description="○">３</enclosedCharacter>）、<quote>「グレースケールノイズ」</quote>をチェックする（<enclosedCharacter description="○">４</enclosedCharacter>）。</sentence>
+<sentence>プレビューを確認しながら<quote>「量」</quote>のスライダをドラッグして、画像が荒れない程度のノイズを加え（<enclosedCharacter description="○">５</enclosedCharacter>）、<quote>「ＯＫ」</quote>をクリックする（<enclosedCharacter description="○">６</enclosedCharacter>）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">写真の破れを表現する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>６　【レイヤー→新規→レイヤー】で新たに<quote>「レイヤー１」</quote>を追加して重ねる（<enclosedCharacter description="○">１</enclosedCharacter>）。</sentence>
+<sentence>［描画色］を白に設定し（<enclosedCharacter description="○">２</enclosedCharacter>）、［ブラシツール］を選択する（<enclosedCharacter description="○">３</enclosedCharacter>）。</sentence>
+<sentence>オプションバーで粗いタッチの小さめのブラシを選び（<enclosedCharacter description="○">４</enclosedCharacter>、<enclosedCharacter description="○">５</enclosedCharacter>）、<quote>「不透明度」</quote>を多少小さく設定する（<enclosedCharacter description="○">６</enclosedCharacter>）。</sentence>
+<sentence>画像上の破れを表現したい位置をドラッグして白く塗り重ねる（<enclosedCharacter description="○">７</enclosedCharacter>）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>７　<quote>「レイヤースタイル」</quote>パレットを開き（<enclosedCharacter description="○">１</enclosedCharacter>）、<quote>「シャドウ（内側）」</quote>（<enclosedCharacter description="○">２</enclosedCharacter>）の<quote>「低」</quote>をクリックする（<enclosedCharacter description="○">３</enclosedCharacter>）。</sentence>
+<sentence>白い破れが立体的に変わる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>８　<quote>「光彩（外側）」</quote>（<enclosedCharacter description="○">１</enclosedCharacter>）の<quote>「シンプル」</quote>をクリックする（<enclosedCharacter description="○">２</enclosedCharacter>）。</sentence>
+<sentence>破れの外側が白く縁取られる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>９　<quote>「レイヤー１」</quote>の右にある<image description="レイヤースタイル" no="6" />ボタンをダブルクリックして（<enclosedCharacter description="○">１</enclosedCharacter>）、ダイアログで<quote>「プレビュー」</quote>にチェックを入れ（<enclosedCharacter description="○">２</enclosedCharacter>）、<quote>「照明角度」</quote>（<enclosedCharacter description="○">３</enclosedCharacter>）、<quote>「シャドウ距離」</quote>（<enclosedCharacter description="○">４</enclosedCharacter>）、<quote>「光彩（外側）サイズ」</quote>を（<enclosedCharacter description="○">５</enclosedCharacter>）、プレビューで確認しながら設定し、<quote>「ＯＫ」</quote>をクリックして完成（<enclosedCharacter description="○">６</enclosedCharacter>）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">５　昼間のディスプレイを夜景の電飾に　＊</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　昼間や背景の明るい場所で撮影した被写体を、夜に輝く電飾になったような画像に加工します。</sentence>
+<sentence>フィルタ機能を用いて仕上げていきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ポイント解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「明るさの最大値」</quote>と<quote>「ぼかし（ガウス）」</quote>の設定で、ネオン電飾の質感を出します。</sentence>
+<sentence>その際、元画像の詳細を大きく失わない程度に調整するのがポイントです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［用意するもの］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　明るめの背景に被写体の輪郭がはっきりしている室内画像</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「夜景」</quote>エフェクトを適用する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　加工する画像を開き（<enclosedCharacter description="○">１</enclosedCharacter>）、<quote>「エフェクト」</quote>パレット（<enclosedCharacter description="○">２</enclosedCharacter>）にある<quote>「画像エフェクト」</quote>（<enclosedCharacter description="○">３</enclosedCharacter>）の<quote>「ネオン」</quote>をダブルクリックする（<enclosedCharacter description="○">４</enclosedCharacter>）。</sentence>
+<sentence>輪郭が白く縁取られ、明るいところと暗いところが反転したような画像に変化する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　自動的に作成された<quote>「背景のコピー」</quote>レイヤーが選択された状態で（<enclosedCharacter description="○">１</enclosedCharacter>）、【フィルタ→その他→明るさの最大値】を選択する（<enclosedCharacter description="○">２</enclosedCharacter>）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">白い輪郭を強調してぼかす</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>３　<quote>「明るさの最大値」</quote>ダイアログで、<quote>「プレビュー」</quote>にチェックを入れる（<enclosedCharacter description="○">１</enclosedCharacter>）。</sentence>
+<sentence>元の形を失わない程度に、<quote>「半径」</quote>のスライダをドラッグして白い輪郭を強調する（<enclosedCharacter description="○">２</enclosedCharacter>）。</sentence>
+<sentence><quote>「ＯＫ」</quote>をクリックする（<enclosedCharacter description="○">３</enclosedCharacter>）。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ヒント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「明るさの最大値」</quote>は画像のいちばん明るい部分の範囲を広げるもので、数値が大きいほど明るい（白い）部分が拡張する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>４　【フィルタ→ぼかし→ぼかし（ガウス）】を選択する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　<quote>「ぼかし（ガウス）」</quote>ダイアログで、<quote>「プレビュー」</quote>にチェックを入<sampling type="end" />れる（<enclosedCharacter description="○">１</enclosedCharacter>）。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

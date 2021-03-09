@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00004" version="1.0" type="fixedLength">
+<article articleID="LBn5_00004_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　槌田さんは、エントロピー<noteMarker text="＊" />という概念を使って廃棄物について語<sampling type="start" />られていますが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<noteBody>
+<sentence type="quasi">＊エントロピー</sentence>
+<br type="automatic_original" />
+<sentence>あらゆる種類のエネルギー（エントロピーの低いエネルギー）は次第に熱（エントロピーの高いエネルギー）に変換され、熱は最終的には散逸してしまって、人間が利用できないエネルギーになってしまう。</sentence>
+<sentence>つまり、エネルギーの量は保存され、一定である（エネルギー保存の法則）ものの、仕事に利用できるエネルギーは減少する一方である。</sentence>
+<sentence>これが、エントロピー増大の法則、あるいは熱力学の第二法則と呼ばれる法則である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　槌田氏は、エントロピーとは物やエネルギーの拡散の程度を示す指標とし、生産とは低エントロピー資源（水・石油・石炭など）を用いて原料からエントロピーを抜き取り、低エントロピー物質である製品と高エントロピー物質である廃棄物・廃熱を生み出す行為とする。</sentence>
+<sentence>たとえば、鉄鉱石と石炭から鉄をつくる場合、鉄鉱石中の酸素は石炭と化合して二酸化炭素と熱となるが、槌田氏はこれを鉄鉱石に含まれていたエントロピーが石炭に吸収されて廃棄物や廃熱となり、その結果エントロピーの低い鉄とエントロピーの高い廃棄物・廃熱が生じる、と説明する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">■熊本</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　槌田さんは<quote>「廃棄物は高エントロピー物質」</quote><quote>「製品は低エントロピー物質」</quote>といわれていますが、私はエントロピーと廃棄物は関係がないと思っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　エントロピーとは自然科学の概念ですから、高エントロピー物質は、社会条件にかかわらず、ものに即して、つまり、物の物理的・化学的・生物的性質に基づいて、高エントロピー物質であるはずです。</sentence>
+<sentence>ところが、廃棄物、たとえば古紙は、そのときどきの社会条件、すなわち再生資源の需給状況や価格によって、資源になったり廃棄物になったりする。</sentence>
+<sentence>もしも古紙が高エントロピー物質であるならば、社会条件によってエントロピーが高くなったり低くなったりすることはあり得ないはずです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、それこそゼロ・エミッションのように、それまで廃棄物とされていたものが企業連携や技術革新によって資源になる例もいくらでもあるわけで、廃棄物を高エントロピー物質とすることは、そのこととも矛盾する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらには、槌田さんによれば低エントロピー物質であるはずの製品にしても、所有者が不要と思うだけで、ただちに一般廃棄物、つまり槌田さんのいう<quote>「高エントロピー物質」</quote>になってしまう。</sentence>
+<sentence>所有者の意図だけで、エントロピーが突然高くなるなどということが起こり得るはずがありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ということは、やはりエントロピーと廃棄物とはなんの関係もない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自然科学のエントロピー概念になぞらえて廃棄物を比喩的にエントロピーとして論じることは別にかまいませんが、あくまで<sampling type="end" />比喩であることを明言して読者にも理解してもらったうえで、論を展開すべきだと思います。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

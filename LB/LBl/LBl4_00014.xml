@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00014" version="1.0" type="fixedLength">
+<article articleID="LBl4_00014_F001">
+<paragraph>
+<sentence>トビは飛ぶことのうま<sampling type="start" />い唯一の肉食鳥のように思えます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような紙に書いて申しわけありません。</sentence>
+<sentence>ここには他に紙がないのでどうかお許し下さい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">敬具</sentence>
+<br type="automatic_original" />
+<authorsData>
+<sentence type="quasi">コンラート・ローレンツ</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">一九三四年三月二一日、ウィーン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">深く尊敬する先生へ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　カモに関するお手紙ありがとうございました。</sentence>
+<sentence>これで、先生のところのドイツ産のマガモの純血性に対して私が抱いていた疑いの正当性が証明されます。</sentence>
+<sentence>もちろん、例の動物園で見られるような、個々のケースがより集まって純血性が失われていくという意味ではありません。</sentence>
+<sentence>カモの繁殖地（北海）―かの動物園に納入している業者もまた、そこから自分の交配種を手に入れるわけですが―で、純血でないものがつぎつぎと生まれていると言っているのです。</sentence>
+<sentence>たとえば、一羽のオスのナキアヒルがブレーメン<noteMarker text="（１）" />からウルム<noteMarker text="（２）" />へ飛び、かたやベルギー産の観賞用アヒル<noteMarker text="（３）" />〔Ｚｉｅｒｅｎｔｅ〕がブダペスト<noteMarker text="（４）" />へ飛ぶとすれば、この北海を中心に円を描くことで、私の主張する種の多様性が充分に説明できるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（１）ブレーメン　ドイツ北西部の都市。</sentence>
+<sentence>ウェーザー川下流にあり、ドイツ有数の貿易港である。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（２）ウルム　ドイツ南部の都市。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（３）鑑賞用アヒル　頭に冠毛などを発達させるように改良されたアヒルと思われる。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（４）ブダペスト　ハンガリーの首都。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　私が、このような可能性を予想する大分以前に、すでにこの多様性について主張していたという点に注目して下さい。</sentence>
+<sentence>私が初めてベルリンを訪ねた折、マガモのうちの何羽かは純血種ではないはずだと指摘したことを思いおこして下さい。</sentence>
+<sentence>彼らが、広大な猟区で生まれたことは確実です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は先生がコピーしてくれた手紙によって初めて、くちばしの長さという一つの特徴に気づきました。</sentence>
+<sentence>私のところのハンガリー産の純血種のくちばしは、エッセン産で純白の親鳥や、その鳥から今年生まれた雛（残念ながら二羽とも野生色）に比べて三分の一程度長いのです。</sentence>
+<sentence>そこで知りたいことが一つあります。</sentence>
+<sentence>どうしてくちばしの長さは短期間で獲得できる家畜化の形質のなかでも、遺伝的に優性な形質なのでしょうか。</sentence>
+<sentence>ナキアヒルのオスとエッセン産のカモのあいだに生まれた雑種を、ナキアヒル（暗すぎない本当の野生色、引っこんだ腹、より強い飛行意欲を持つ）から区別できるのは、これらの鳥について本当によく知っている人だけです。</sentence>
+<sentence>体の大きさの点では、前者が後者に劣ることはまずありえません。</sentence>
+<sentence>さらに、他の条件が同じならば、エッセン産のつがいから生まれた純血種の子供よりおとなしく落ちついています。</sentence>
+<sentence>またこれらは、同時に生まれて一緒に育てられたハンガリー産の卵から孵化した純血種より<sampling type="end" />もおとなしいのです。</sentence>
+</paragraph>
+</article>
+</sample>

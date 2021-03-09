@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa2_00007" version="1.0" type="fixedLength">
+<article articleID="LBa2_00007_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">光明皇后発願五月<sampling type="start" />十一日経奥書</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">五　天平の廟堂</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">―大仏造営をめぐって―</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　天平七年は、全国的の凶作で疫病の流行によって若死するものが多かったことは前にのべたが、こえて同九年は、未だかつてない恐るべき年であった。</sentence>
+<sentence>この年の春、九州に起った<ruby rubyText="も">裳</ruby><ruby rubyText="かさ">瘡</ruby>（天然痘）は夏をへて秋にわたって頗る猛威を振い、諸国の百姓はもとより、殿上の公卿まで相ついで死亡するという有様で、『続日本紀』の編者は<quote>「近代以来未だこれあらざるなり」</quote>全く<ruby rubyText="み">未</ruby><ruby rubyText="ぞ">曽</ruby><ruby rubyText="う">有</ruby>のことであると評している。</sentence>
+<sentence>そして貴族の筆頭である藤原氏にとっても一大凶年であって、政権を左右していた武智麻呂ら兄弟四卿は、この疫病によって相継いで死にたえたのであった。</sentence>
+<sentence>この年五位以上の上級官人で死亡した人を挙げると次のようである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">四月　参議民部卿正三位藤原<ruby rubyText="ふさ">房</ruby><ruby rubyText="さき">前</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">六月　従四位下<ruby rubyText="おお">大</ruby><ruby rubyText="やけ">宅</ruby>大国</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">大宰大弐従四位下小野<ruby rubyText="おゆ">老</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">正四位下<ruby rubyText="おさ">長</ruby><ruby rubyText="だ">田</ruby>王</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">中納言正三位<ruby rubyText="た">多</ruby><ruby rubyText="じ">治</ruby><ruby rubyText="ひの">比</ruby><ruby rubyText="あがた">県</ruby><ruby rubyText="もり">守</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">七月　従四位下大野王</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">参議兵部卿従三位藤原麻呂</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">従四位下百済王<ruby rubyText="ろう">郎</ruby><ruby rubyText="ぐ">虞</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">右大臣正二位藤原武智麻呂</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">八月　中宮大夫兼右兵衛<ruby rubyText="かみ">率</ruby>正四位下橘<ruby rubyText="さ">佐</ruby><ruby rubyText="い">為</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">参議式部卿兼大宰帥正三位藤原<ruby rubyText="うまかい">宇合</ruby></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">三品<ruby rubyText="もひとり">水主</ruby>内親王</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　以上知られるだけでも十二人で、参議以上五人を数える（うち藤原氏四人）。</sentence>
+<sentence>右大臣・中納言と参議六人のうち三人を失い、大伴<ruby rubyText="みち">道</ruby><ruby rubyText="たり">足</ruby>・鈴鹿王・葛城王（橘諸兄）の三人の参議を残すのみとなってしまった。</sentence>
+<sentence>勿論死に至らぬまでも病床に<ruby rubyText="ふ">臥</ruby>すものもあったであろうし、六位以下はこの調子だと無数であったろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">天平九年という年</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence type="quasi">藤原四卿の死</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　この年正月二十七日遣新羅使が帰国したが、使のうち大使阿倍継麻呂は帰途対馬で病死し、副使大伴<ruby rubyText="み">三</ruby><ruby rubyText="なか">中</ruby>は<quote>「病に染りて入京するをえず」</quote>とあるから疫病は、彼らによってもたらされたのではないだろうか。</sentence>
+<sentence>四月十九日九州諸国に<ruby rubyText="まん">蔓</ruby><ruby rubyText="えん">延</ruby>し百姓が多く死亡したので部内の諸社に祈禱をささげ、五月には六百人の僧侶を宮中に請じて誦経せしめるなど、文字通り神仏の加護を祈ったが、その効験なく、天皇は<quote>「朕不徳を以て実にこの災を致せり」</quote>と詔して<ruby rubyText="しん">賑</ruby><ruby rubyText="ごう">給</ruby>令を出したり、大赦令を発したりしたが、医薬の未発達の当時、疫病の猛威は全く容赦するところがなかった。</sentence>
+<sentence>六月に至って諸司の官人たちで疫を患うものが多いため執務しえず、ついに政治をとることをやめた。</sentence>
+<sentence>八月には天皇はまた長文の詔を発して<quote>「春より以来、災気にわかに起りて、天下の百姓死亡するもの実に多く、百官人等闕卒少なからず、誠に朕が不徳により、此の<ruby rubyText="さい">災</ruby><ruby rubyText="おう">殃</ruby>を致せり、天を仰いで<ruby rubyText="ざん">漸</ruby><ruby rubyText="こう">惶</ruby>す（はじおそれる）」</quote>とのべた。</sentence>
+<sentence>秋に至ってややおさまったようである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">渡来の疫病</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　太政官の上層部は当然のことながら大移動が行われた。</sentence>
+<sentence>新しいメンバーを八年の構成と比べ<sampling type="end" />てみると次のようである。</sentence>
+</paragraph>
+</article>
+</sample>

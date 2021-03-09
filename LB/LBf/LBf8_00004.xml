@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf8_00004" version="1.0" type="fixedLength">
+<article articleID="LBf8_00004_F001">
+<paragraph>
+<sentence type="quasi">　どのような基準で並べているのか示したい時は、例えば次のような表現が<sampling type="start" />使える―</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">また、順番が重要性とは関係ないときは―</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence>順序は重要性を示していない。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">９．付け加える</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">これに加えて</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<rejectedBlock type="foreign" />
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">１．これ［これら］に加えて…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２．これ［これら］に加えて…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．…ということも付け加えておくべきである。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４．〜に対して、例えば、〜を追加してもよかろう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５．〜にとって［〜において］重要なことがもう一つある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>６．無視できない〜がもう一つある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">７．〜について述べたことに付け加えるべき最も重要なことは…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>８．…ということを付け加える必要はほとんどない。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">◆解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前に述べた事に、後からさらに補足・付加するとき、追加表現を使う。</sentence>
+<sentence>軽く参考までに付加する場合と、かなり重要な事実を導入する場合（ときとして、前文より比重が強くなる場合）がある。</sentence>
+<sentence>次のような表現も使える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">ｓｉｍｉｌａｒｌｙ　／　ｌｉｋｅｗｉｓｅ　／　ｅｑｕａｌｌｙ　／　ｉｎ　ｔｈｅ　ｓａｍｅ　ｗａｙ　同様に</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ　ａｎｄ　Ｂ　ａｌｉｋｅ　ＡもＢも同様に</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂｏｔｈ　Ａ　ａｎｄ　Ｂ　ＡＢともに</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ａｌｓｏ　／　ｔｏｏ　〜もまた</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｂｅｓｉｄｅｓ　／　ｍｏｒｅｏｖｅｒ　／　ｆｕｒｔｈｅｒｍｏｒｅ　そのうえ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｎｏｔ　ｏｎｌｙ　Ａ　ｂｕｔ　ａｌｓｏ　Ｂ　ＡだけではなくＢもまた</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ　ａｓ　ｗｅｌｌ　ａｓ　Ｂ　Ｂと同様にＡは</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">１０．例をあげる</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">例えば〜　そのよい例は〜</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<rejectedBlock type="foreign" />
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>１．例えば、〜を引こう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．例えば、…である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．この例は〜と〜と〜である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４．〜は顕著な（よい、典型的な、等）例である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５．〜は一例を提供してくれる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．簡単な例を引くと</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">７．〜のような</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>８．これは、…という面白い事例である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>９．これは〜をみごとに例証している。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１０．次のものは、一つの例として役立つ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１１．例えばここに、…から取ってきた一節［数行］がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１２．…ということを示すのに、三つの例を挙げれば十分であろう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１３．次のものは、任意に取り出してきた二、三の例である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１４．他の例は…である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１５．ここにもう一つ例がある。</sentence>
+<sentence type="quasi">すなわち…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１６．〜に他の例がみられる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１７．〜は、同じ点を説明するもう一つの例である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１８．例は他にもいくつかある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１９．〜のもう一つの例として、〜からの次の抜粋［引用］を考えてみよう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２０．前の例ほど凝った［典型的な］ものではないが、もう一つの例は…である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２１．類例が心に浮かぶ。</sentence>
+<sentence type="quasi">すなわち…</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２２．類例は多数ある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２３．例はたくさんある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２４．…する場合がたくさんある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２５．このことを証拠だてる例をたくさん引用することができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２６．〜を説明する［示す］ための例を引こう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">◆注</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">２．用例―</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence>高級紙は教育のある読者層に訴えることを狙いとしている。</sentence>
+<sentence>たとえば『タイムズ』は、経済、社会、文化に関する高水準のまじめなニュース記事を載せている。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence>ヨーロッパの多くの画家たちは、日本の美術に興味を持った。</sentence>
+<sentence>例えば、ヴィンセント・ヴァン・ゴッホ。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence>５．この文の主語には、無生物がはいることが多い。</sentence>
+<sentence type="quasi">例―</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence>日本人は、技術革新にすぐれている。</sentence>
+<sentence>自<sampling type="end" />動車産業はその１例を提供している。</sentence>
+</citation>
+</quotation>
+</listItem>
+</list>
+</article>
+</sample>

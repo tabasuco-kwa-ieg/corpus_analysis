@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00034" version="1.0" type="fixedLength">
+<article articleID="LBp5_00034_F001">
+<paragraph>
+<sentence>　エク<sampling type="start" />スプローラバーは、<quote>「検索」</quote><quote>「お気に入り」</quote><quote>「履歴」</quote>ボタンを押したときに表示されるウィンドウ左のエリアである。</sentence>
+<sentence>この他、追加している翻訳ツールなどが利用することもある。</sentence>
+<sentence>どちらかと言えば、常時表示しているというよりも、その都度表示させ、必要なくなったら閉じる、という使い方になるだろう。</sentence>
+<sentence>そのため、最上段にクローズ用の［×］ボタンが表示されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユーザーが大幅にカスタマイズできるのは、ウィンドウ上部のツールバーである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ツールバーには、<quote>「標準のボタン」</quote><quote>「アドレスバー」</quote><quote>「リンク（バー）」</quote><quote>「ラジオ（バー）」</quote>の４つの要素がある。</sentence>
+<sentence>この４つは、個々に表示のオン／オフが可能だ。</sentence>
+<sentence>また、バーの先頭にあるライン状の部分をドラッグすれば、２つの機能を１つのラインにまとめることもできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　さらに、<quote>「標準のボタン」</quote>部分に関しては、それぞれのアイコンを表示するかどうか、説明のテキストをどうするか、アイコンのサイズを大／小から選択することができる。</sentence>
+<sentence><quote>「ボタン名を表示する」</quote>を選ぶと、アイコンのサイズは変わらないが、文字を表示するためにバーの幅が広くなるので見やすくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　アドレスバーの右端についている［移動］ボタンは、<quote>「ツール」</quote>メニューの<quote>「インターネットオプション」</quote>を選択し、<quote>「詳細設定」</quote>タブの<quote>「ブラウズ」</quote>の項目で表示をオフにできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当然なくては不便なアイコンもあるが、必要なモノだけに絞ればかなりシンプルにできるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">表示の工夫</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　見るだけと思っていたホームページも、意外にも表示を変えることができる。</sentence>
+<sentence>ふだん、見にくいと感じていたリストなどがあったら、調整してみるといいだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●文字サイズやフォントを変える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ページ内に表示される文字のサイズも５段階に調整できる。</sentence>
+<sentence><quote>「表示」</quote>メニューの<quote>「文字のサイズ」</quote>で、<quote>「最大」</quote><quote>「大」</quote><quote>「中」</quote><quote>「小」</quote><quote>「最小」</quote>から選択する。</sentence>
+<sentence>標準は<quote>「中」</quote>になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">最大</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">最小</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">大</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">中</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">小</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　ページ制作者が表示フォントの指定をしていない場合は、表示側でフォントの指定もできる。</sentence>
+<sentence><quote>「ツール」</quote>メニューの<quote>「インターネットオプション」</quote>を選択し、<quote>「全般」</quote>タブの［フォント］ボタンを押す。</sentence>
+<sentence>リストから使いたいフォントを選んで［ＯＫ］ボタンを押す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　上記の方法だと、フォント指定のあるサイトではフォントの変更ができない。</sentence>
+<sentence>少々強引だが、すべてこちらの都合でフォントを変更したい場合には、同じ<quote>「全般」</quote>タブの［ユーザー補助］ボタンを押す。</sentence>
+<sentence><quote>「書式指定」</quote>の欄で、<quote>「Ｗｅｂページで指定されたフォントスタイルを使用しない」</quote>および、<quote>「Ｗｅｂページで指定されたフォントサイズを使用しない」</quote>にチェックを入れて、［ＯＫ］ボタンを押す。</sentence>
+<sentence>これで、ページ作成時にＨＴＭＬで指定したフォントは無効になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フォントやサイズを変えると、当然のことながら文字ブロ<sampling type="end" />ックの領域が変わるため、サイトのデザインは変わる。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn4_00058" version="1.0" type="fixedLength">
+<article articleID="LBn4_00058_F001">
+<paragraph>
+<sentence>　世界中に目を向ければ、ノミは中世のヨーロッパの人口の三分の一も減少させたペス<sampling type="start" />トの流行の引き金となっているし、ハマダラ蚊が媒介するマラリアはいまだに世界中で何億という人を苦しめている。</sentence>
+<sentence>このように昆虫が媒介する感染症は日本でもヨーロッパでも多くの死者を出してきたが、いまなお多くの発展途上国や熱帯地方では昆虫の媒介する感染症が多発し、多くの国の人に脅威を与えている。</sentence>
+<sentence>近年日本人も旅行や海外勤務でこのような地域へ行く機会が増え、深刻な問題も見受けられるようになってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表に主な昆虫が媒介する感染症を示す。</sentence>
+<sentence>日本脳炎はいまでこそ日本では忘れられようとしているが、東南アジアではいまなお猛威をふるっているし、それに加えデング出血熱、黄熱（以上第五章第三節参照）、マラリア等の蚊が媒介する病気はいまなお流行地域を拡大している。</sentence>
+<sentence>またダニの媒介する病気も日本ではつつが虫病が一九八〇年代以降急増したが、一方一九七七年に米国コネチカット州のライム地区で見つかったライム病はまたたくまに世界的規模で拡大し、北半球だけでも年間数万人の患者が発生している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi">表４‐１　ヒトに病気をもたらす昆虫の持っている病原微生物</sentence>
+<br type="automatic_original" />
+<sentence>注　太字は日本でも感染する可能性のあるもの。</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence>１．蚊：日本脳炎（コガタアカイエカ，アカイエカ），フィラリア（トウゴウヤブカ，アカイエカ），マラリア（ハマダラカ），デング熱（ネッタイシマカ，ヒトスジシマカ），黄熱（ネッタイシマカ）。</sentence>
+<sentence type="quasi">以上すべてウイルスによる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２．ダニ：つつが虫病（アカムシ・リケッチア），回帰熱（散発情，スピロヘーター），野兎病（細菌），クリミア・コンゴ出血熱（ウイルス），日本紅斑熱（マダニ，リケッチア），ライム病（マダニ，スピロヘーター）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３．ノミ：ペスト（細菌），発疹熱（リケッチア）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４．シラミ：発疹チフス（リケッチア），回帰熱（流行性，スピロヘーター）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５．ハエ：各種食中毒や赤痢，腸・パラチフス，ポリオなどの経口感染症，睡眠病（チェチェバエ，トパノゾーマ（原虫））</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．ゴキブリ：各種食中毒や赤痢，腸・パラチフス，ポリオなどの経口感染症</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">マラリア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マラリアはアノフェレス属の蚊であるハマダラ蚊が媒介するマラリア原虫が赤血球や肝臓に感染して起る発熱性疾患であるが、現在四種類のマラリヤ原虫（熱帯熱、三日熱、四日熱、卵型）の存在が明らかにされている。</sentence>
+<sentence>その中でも熱帯熱マラリアは急激な発熱・悪寒後、五日過ぎころより意識障害や腎不全、さらには全身性血管内凝固症候群を起し、治療を開始しても亡くなる場合が少なくない（全体の約八％）のに対し、他の種類は死亡は稀れである。</sentence>
+<sentence>しかしたとえ治っても三日熱マラリアで一四％、熱帯熱マラリアで八％もの再発が起るためいずれにしても予防が重要である。</sentence>
+<sentence>そのため感染地域（ほとんどの熱帯地方）では媒<sampling type="end" />介蚊にさされないように十分に注意するほか、長期滞在の場合には適切な予防内服薬を処方してもらい、汚染地を離れてからも四週間は内服を続けなくてはならない。</sentence>
+</paragraph>
+</article>
+</sample>

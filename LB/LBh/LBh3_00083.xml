@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh3_00083" version="1.0" type="fixedLength">
+<article articleID="LBh3_00083_F001">
+<paragraph>
+<sentence>そして、債権者が危険を負担し、反対給付をなした後に条件が成就したときは、債務者に対しいわゆる目的消滅の不当利得を理由として給付したものの返還を請求することができるとともに、債権者が毀損した物を受領していたときには、これを債務者に返還しなければならない（<sentence>我妻・上一〇八頁。</sentence>
+<sentence type="quasi">反対、三宅・一〇四頁は、<quote>「解除条件付売買により引渡がなされたが条件の成否は未定であるという状態は、停止条件付売買で条件の成否未定の状態に類似するから、解除条件付売買における―原売買の効力消滅による―双方の返還義務の間に、停止条件付再売買における履行義務相互間の危険負担の関係（五三五条一項・二項、五三六条）と同様の関連を認めるのが相当である」</quote><sampling type="start" />とする</sentence>
+）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第六節　契約の解除</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第一款　解除の意義</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>一　解除は、契約を廃棄する制度であるから、ローマ法のように契約に厳格な拘束力を与えていた法制においては認められず、売買について一定期間内に代金の支払がない場合に契約を解除する附加的約款、すなわちいわゆる失権約款（ｌｅｘ　ｃｏｍｍｉｓｓｏｒｉａ）が認められたにすぎなかった。</sentence>
+<sentence>フランス民法はこの考え方を拡げて、当事者の一方の不履行の場合に、双務契約においては常にかかる解除約款の黙示的な存在を認めることによって、一般的に解除の制度を確立した（一一八四条）。</sentence>
+<sentence>しかし、フランス民法ではまだ解除条件の範疇を出ないものであるが、ドイツ民法はこれを独立の法範疇として認め、解除は裁判外の一方的意思表示によってなされうることとなった（三四九条）。</sentence>
+<sentence>スイス債務法（一〇七条以下）、わが民法（五四〇条以下）においても同様である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>二　解除とは、一方的意思表示によって契約が当初から締結されなかったと同様な法律効果を生ぜしめることである。</sentence>
+<sentence>この点については学説が分かれている。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　直接効果説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　解除によって契約は初めから存在しなかったのと同様な効果を生じ、契約に基づく債権関係はすべて遡及的に（ｅｘ　ｔｕｎｃ）消滅する。</sentence>
+<sentence>したがって、未だ履行されない債権は当然に消滅し、すでに履行された債務は目的の消滅によって法律上の原因を失うに至るから、不当利得による返還の問題を生ずる。</sentence>
+<sentence>ただし、返還義務の範囲は現存利益にとどまらず、原状回復であるべきである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　間接効果説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　解除は債権関係そのものを消滅せしめるのではなく、ただその作用を阻止するにすぎない。</sentence>
+<sentence>したがって、未だ履行されていない債務については、履行を拒みうる抗弁権を生ぜしめ、すでに履行されたものについては、新たな返還請求権を生ぜしめるとする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　折衷説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　解除は一般に将来に向かって（ｅｘ　ｎｕｎｃ）効力を生ずる。</sentence>
+<sentence>すなわち、未だ履行されていない債務は当然に消滅するが、すでに履行されたものについては、新たな返還請求権が生ずると解する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが民法の解釈としては、五四五条一項が解除の結果当事者間に原状回復義務を生ずる旨を規定していることから、直接効果説が有力である（大判大正七・一二・二三民録二三九六頁、大判大正八・九・一五民録一六三三頁）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ドイツでも、これまで直接効果説が支配的であったが、最近の学説によれば、解除は双方の契約上の給付義務の消滅と給付の返還による原状回復義務をしかも引換的に生ぜしめる（ドイツ民法三四六条以下）。</sentence>
+<sentence>それは、すべての給付義務の終了と、いかなる給付もなされなかったならば存在したであろう<sampling type="end" />状態の回復を目的とする。</sentence>
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

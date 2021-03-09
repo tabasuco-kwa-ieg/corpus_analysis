@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm0_00001" version="1.0" type="fixedLength">
+<article articleID="LBm0_00001_F001">
+<paragraph>
+<sentence>私の涙は、催涙ガ<sampling type="start" />スと一緒になったのであまり気づかれなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　葬式は三〇日に飯田のお寺で行われた。</sentence>
+<sentence>私はアメリカ合州国取材がせまっていたので、あくる五月一日には帰らなければならなかった。</sentence>
+<sentence>午後三時六分伊那大島発の列車で新宿に向かう。</sentence>
+<sentence>七久保村を通過する列車から、快晴の南駒ヶ岳が見えた。</sentence>
+<sentence>傾き始めた午後の太陽のため、<ruby rubyText="すり">摺</ruby><ruby rubyText="ばち">鉢</ruby><ruby rubyText="くぼ">窪</ruby>には三分の一くらい影がのびている。</sentence>
+<sentence>カール（圏谷）は八割以上がまだ雪だ。</sentence>
+<sentence>五人坊主が顔を出している。</sentence>
+<sentence>あの、四人で苦労して登った尾根もよく見える。</sentence>
+<sentence>曽我君が死んでから、山のたたずまいも変わってしまった。</sentence>
+<sentence><ruby rubyText="たの">愉</ruby>しい山も、はっきりと過去形の、愉しかりし山になった。</sentence>
+<sentence>私の青春もまた、はっきりと過去のものになった。</sentence>
+<sentence>曽我君は、私にとっては青春の象徴のような友人だったのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">一九六九年　秋</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　曽我君が死んで七カ月後の一一月三〇日、こんどは私の父が死んだ。</sentence>
+<sentence>脳幹部出血による全く突然の死だった。</sentence>
+<sentence>元気な身体で、危険な兆候は　ほとんど感じられなかったために、なにか<quote>「神隠し」</quote>に類するもののように思われた。</sentence>
+<sentence>もっとも俗にいう<quote>「虫の知らせ」</quote>に類するものは、後に考えると種々想起される。</sentence>
+<sentence>毎年国外に出ていながら、この年のアメリカ合州国での黒人問題取材では異常なまでに郷愁を覚えた。</sentence>
+<sentence>予定を変更して仕事を中断し、いったん帰国した理由のかなり大きな部分をこのことが占めていた点は否定できない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　帰国するとまもなく帰省し、父の死の五日前までの数日間を父とともに過ごした。</sentence>
+<sentence>医療上のことなど、後にして思えば悔やまれることも多い。</sentence>
+<sentence>私が外国にいては死んだあとも当てに出来ぬと言って、父は自分の墓地はもちろん肖像画も用意し、寺も自分の好きな方へ変更し、土葬よりも火葬がよいことを希望し、死後発見された遺書の下書きには、脳溢血による即死までも予言していたのには<ruby rubyText="ぼう">呆</ruby><ruby rubyText="ぜん">然</ruby>とさせられた。</sentence>
+<sentence>死の意思の如きものが感ぜられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その<quote>「遺書の下書き」</quote>は、死のほぼ一カ月以内に書かれたものだが、同時に二一年前に書かれた古い詩も、一緒の引き出しから見つかった。</sentence>
+<sentence>それは塩見岳に私が初めて登ったときの気持ちをうたったものだが、父は私にそれを一度も見せたことはなかった。</sentence>
+<sentence>文学的環境とは無縁に育った一庶民としての父には、いうまでもなく鑑賞に堪える“作品”を創る力は及びもないが、少なくともなんとか創ろうとしたそのときの心情は、稚拙なこの<quote>「詩の下書き」</quote>からもよく理解できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">〈塩見登山・親の想ひ〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<verse>
+<sentence type="verse">今年の夏の休みこそ<verseLine />山に体をきたへんと<verseLine />選びし山は塩見岳<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">子等はいさんで志す<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">南アの空突く雄峯に<verseLine />明日の希望の夢を見て<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">着るものはきもの食料と<verseLine />子等はいさんで仕度する<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">明<sampling type="end" />日の天気も気になりて<verseLine />ラジオの予報ものがさじと<verseLine />スイッチ入れてききながら<verseLine />親もいさんでお手つだひ<verseLine /></sentence>
+</verse>
+</citation>
+</quotation>
+</article>
+</sample>

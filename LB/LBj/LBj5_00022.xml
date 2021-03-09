@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00022" version="1.0" type="fixedLength">
+<article articleID="LBj5_00022_F001">
+<paragraph>
+<sentence>ＰＡＮ系，ピッチ系ファイバのよ<sampling type="start" />うに良い黒鉛化性をもたない無定形な構造で，ナノ・オーダーの孔が均質（ガラス状）に多量に分布しているためと考えられる．</sentence>
+<sentence>ガラスのように完全に近い気体不透過性をもち，見かけ上は無孔であるのに見かけ密度が低いのはこのためである．</sentence>
+<sentence>この多量の微細孔が活性化反応によって活性能力を発現することになる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに，ＰＡＮ系ＡＣＦのトルエンの吸・脱着速度と脱着量をこのカイノールや粒状従来品と比較すると，図７４，７５のようになる．</sentence>
+<sentence>図７４のファインガードとは東邦レーヨン（株）製の商品名（ＰＡＮ系）である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これら図７４，７５を比較すると始めの１０分ではＰＡＮ系の方がカイノールよりトルエンの吸着速度が大きいが，その後は後者がはるかに大きくなること，２５℃での脱着速度も後者が大きいことなど，顕著な差が見られる．</sentence>
+<sentence>粒状の従来活性炭との著しい吸・脱着速度の差もよくわかる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７２　各種ＡＣＦの比表面積と引張強度</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表２３　各種ＡＣＦの特性比較</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７３　カイノールのヨード吸着性能</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７４　ＰＡＮ系ＡＣＦの吸・脱着特性</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７５　カイノールＡＣＦの吸・脱着特性</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">７．３　活性カーボンファイバの用途</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図７６は，ＡＣＦの製品形態と用途分野との関係をマトリックスにしたものである．</sentence>
+<sentence>用途は気相，液相，触媒，その他の各分野に大別され，広範囲である．</sentence>
+<sentence>水や空気の清浄化は時代の強い要求であり，製品形態が多いことがわかる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この中で，浄水器の一つの実施例として大規模な上水用浄化装置（ピッチ系ＡＣＦ使用）がある．</sentence>
+<sentence>この種の市水と呼ばれる大量の水の処理には，長いあいだ活性能はあまりよくないが安価な石炭を活性化したものが使われてきた．</sentence>
+<sentence>これに，高価なカーボンファイバ系の活性炭が使われるようになったのは，限られた活性炭保持容量で，高能率で経済的に浄化が実現したことを示唆している．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，図７６中にある電気・電子機材というのは理解しにくいから，一例をあげて説明する．</sentence>
+<sentence>電気・電子機材としてのユニークな使用法の一例として，ＡＣＦを内蔵したボタン電池型・電気二重層コンデンサ（図７７）が，バッテリを必要としない永久時計（図８）の電極として使用されている．</sentence>
+<sentence>これには，カイノール系ＡＣＦの大きい活性比表面積が電荷を蓄積する能力が高いため，高能率のコンデンサとして活用され，同じ概念に基づく他のより広い用途であるＩＣ，ＬＳＩ，超ＬＳＩなどの小型メモリバックアップ用永久電源，ＶＴＲ，カメラ，柱時計などの微小電流分野から，さらに大電流放電の可能なパワー用コンデンサまで開発されつつある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように，当初は構造用材料として出発したカーボンファイバ<sampling type="end" />を活性化することによって，機能性材料としてのポテンシャルが大きく高まっている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

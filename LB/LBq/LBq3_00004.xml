@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00004" version="1.0" type="fixedLength">
+<article articleID="LBq3_00004_F001">
+<figureBlock>
+<figure>
+<list>
+<listItem>
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">・<quote>「雇用保険被保険者６０歳到達時賃金日額登録届（<sampling type="start" />兼）高年齢雇用継続給付受給資格確認票」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">〈添付書類〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">・事業所台帳、労働者名簿、賃金台帳、出勤簿など記載内容を証明するもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・運転免許証又は住民票など年齢を確認できるもの</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　賃金額が８５％未満に低下した時２ヶ月ごとにまとめて</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">・<quote>「高年齢雇用継続給付支給申請書」</quote></sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">〈添付書類〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">・事業所台帳、労働者名簿、賃金台帳、出勤簿など記載内容を証明するもの</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">資料３　６０歳台前半の在職老齢年金</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　６０歳以上６５歳未満で、厚生年金の被保険者になっている期間に支給されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">〈受給要件〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次のいずれにも該当する労働者です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）　厚生年金の被保険者であること。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（２）　厚生年金に１年以上加入しており、老齢基礎年金の受給資格期間（原則２５年，短縮特例あり）を満たしていること。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（３）　６０歳以上６５歳未満であること。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">「６０歳台前半の在職老齢年金」</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　この計算方法は、報酬比例部分のみの特別支給の老齢厚生年金をベースとしたものについても同様です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">〈受給できる額〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>標準報酬月額（賃金）によって支給額が変動します。</sentence>
+<br type="automatic_original" />
+<sentence>＊特別支給の老齢厚生年金月額２０万円で、標準報酬２２万円であれば月額８万円さらに、原則、厚生年金に２４０月（２０年）以上加入し、特別支給の老齢厚生年金の定額部分が支給され、生計を維持されている６５歳未満の配偶者等がいる場合<quote>「加給年金」</quote>が全額支給されます。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">＊配偶者１人の場合</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<titleBlock>
+<title>
+<sentence type="quasi">〈手続きは…？〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<caption>
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">どこへ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">社会保険事務所</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">何を（書類）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">「老齢年金の裁定請求書」</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">〈添付書類〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">・年金手帳、印鑑、戸籍謄本、住民票、非課税証明等</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><quote>「健康保険・厚生年金保険被保険者資格喪失届」</quote><quote>「取得届」</quote></sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">〈添付書類〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">・定年退職であることを確認できる書類（就業規則、退職金の領収書の写し、事業主の証明等）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">資料４　旧６０歳以降賃金シミュレーション</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【事例条件】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<titleBlock>
+<title>
+<sentence type="quasi">【調整前】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">誕生日が昭和１３年４月１日以前（６０歳到達日平成１０年３月３１日以前）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【調整後―法改正前】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">誕生日が昭和１６年４月１日以前（６０歳到達日平成１３年３月３１日以前）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　女性は、まだ新たに６０歳になる方も該当します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">資料５　厚生年金保険被保険者の適用について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　従業員を雇用する適用事業所は、従業員を社会保険に加入させなければなりません。</sentence>
+<sentence>また適用事業所は強制適用と任意適用に区分されます。</sentence>
+<sentence>区分は以下の通りです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">健康保険・厚生年金保険</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　原則として適用事業で働く従業員は被保険者となります。</sentence>
+<sentence>ただし、下記に該当する従業員は適用が除外されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">ア．船員保険の被保険者</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">イ．２ヵ月以内の期間を定めて使用される者</sentence>
+<br type="automatic_original" />
+<sentence>ただし、所定の期間を超えて引き続き使用されるようになったときは、そのときから被保険者となります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ウ．日々雇い入れられる者</sentence>
+<br type="automatic_original" />
+<sentence>ただし、１ヵ月を超えて引き続き使用されるようになったと<sampling type="end" />きは、そのときから被保険者となります。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

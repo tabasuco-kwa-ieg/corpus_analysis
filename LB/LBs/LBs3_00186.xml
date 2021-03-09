@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00186" version="1.0" type="fixedLength">
+<article articleID="LBs3_00186_F001">
+<paragraph>
+<sentence>　<sampling type="start" />この場合は，次の事項を書面で教示しなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・当該処分につき不服申立てをすることができる旨</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・不服申立てをすべき行政庁</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・不服申立てをすることができる期間</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　利害関係人から教示を求められた場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　この場合は，次の事項を教示しなければなりません。</sentence>
+<sentence>なお，利害関係人から書面による教示を求められたときは，それに従わなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・当該処分が不服申立てをすることができる処分であるかどうか</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・当該処分が不服申立てをすることができるものである場合には</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">不服申立てをすべき行政庁</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">不服申立てをすることができる期間</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">３　教示しなかった場合の救済（行審５８条）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　行政庁が法定の教示をしなかったときは，当該処分について不服がある者は，とりあえず処分庁に不服申立書を提出することができます。</sentence>
+<sentence>この場合，当該処分が異議申立てのできる処分であれば，そのまま適法な異議申立てとして取り扱われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当該処分が審査請求をすることができる処分であるとき（異議申立てをすることもできる処分であるときを除きます）は，処分庁は，すみやかに，当該不服申立書の正本を審査庁に送付しなければなりません。</sentence>
+<sentence>そうしますと，はじめから権限ある行政庁に審査請求がなされたものとみなされます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４　教示を誤った場合の救済</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　誤って不服申立てができる旨を教示した場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　不服申立てができない処分について行政庁が誤って不服申立てができる旨を教示した場合，これに対する却下裁決等があったことを知った日または却下裁決等の日からそれぞれ取消訴訟の出訴期間を起算します（行訴１４条４項）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　審査庁を誤って教示した場合等</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　審査請求をすることができる処分（異議申立てをすることもできる処分を除きます）につき，審査庁を誤って教示した場合や誤って異議申立てができる旨教示した場合は，不服申立書を受領した行政庁は，その正本を本来の審査庁に送付すべく手続し，その旨を請求人に通知します。</sentence>
+<sentence>本来の審査庁に送付されますと，はじめから適法な審査請求があったものとみなされます（行審１８条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　異議申立てをすることができる処分につき，誤って審査請求をすることができる旨を教示した場合（審査請求をすることもできる処分につき，誤った審査庁を教示した場合を含みます）も，同様です（行審４６条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　期間を誤って教示した場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　誤って法定の期間より長い期間を不服申立期間として教示した場合は，その期間内に不服申立てがなされれば，法定の期間内に不服申立てがなされたものとみなされます（行審１９条・４８条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　異議申立てができる旨を教示しなかっ<sampling type="end" />た場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

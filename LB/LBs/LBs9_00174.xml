@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs9_00174" version="1.0" type="fixedLength">
+<article articleID="LBs9_00174_F001">
+<paragraph>
+<sentence>後に大学へ入ったら、同じよう<sampling type="start" />に<quote>「のらくろ」</quote>で旧仮名を知った、という女の子がいた。</sentence>
+<sentence>まあ、では旧仮名で正確に書けるか、といえば、怪しいのだけれど。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　後は、何といっても、軍隊の階級を<ruby rubyText="そらん">諳</ruby>じたことである。</sentence>
+<sentence>戦前の少年なら誰でも知っていたことだろうが、兵隊の階級は下から二等兵、一等兵、上等兵、間に兵長を挟んで、下士官は伍長、軍曹、曹長、将校になると下から、少尉、中尉、大尉、少佐、中佐、大佐、少将、<ruby rubyText="ちゅう">中</ruby><ruby rubyText="じょう">将</ruby>、大将である。</sentence>
+<sentence><ruby rubyText="げん">元</ruby><ruby rubyText="すい">帥</ruby>というのがあるが、これは称号であって階級ではないらしい。</sentence>
+<sentence>のらくろ自身は、結局大尉まで出世してから除隊して、大陸開拓に携わることになる。</sentence>
+<sentence>戦後しばらくたって、田河がその続きを書き、これも刊行されたが、やはり昔のものほど面白くはなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　のらくろは、曹長の時、士官学校に入って少尉に任官するのだが、おかげで私は長いこと、軍人というのはこのように出世するものだと思っていた。</sentence>
+<sentence>兵隊が将校に出世することなどまずない、と知るのはずっと後のことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　階級章は、普通は<ruby rubyText="けん">肩</ruby><ruby rubyText="しょう">章</ruby>として肩に付けるものだが、のらくろの世界は犬たちだから、胸からぶら下げていた。</sentence>
+<sentence>一つから三つの星と金筋の数で階級を表している。</sentence>
+<sentence>兵隊は筋なし、下士官なら筋一本、尉官は三本、佐官は四本、将官は全面に金、というのが私が<quote>「のらくろ」</quote>で知ったデザインだ。</sentence>
+<sentence>後になって、今でも、自衛官はもちろん、警官や消防士にもこの種の階級による肩章があってほぼ同じ方式であることを知った。</sentence>
+<sentence>宮部みゆきの『蒲生邸事件』の単行本を読んでいたら、星二つの肩章をつけた兵隊が出てきて、<quote>「二等兵だ」</quote>と言うのだが、星二つなら一等兵である。</sentence>
+<sentence>ははあ、宮部みゆきは<quote>「のらくろ」</quote>を読まなかったな、と思ったのである（文庫版では直ったのだろう）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こういうものが好きなのは、私が根っからヒエラルキーの好きな人間だからではないかと思う。</sentence>
+<sentence>その点に関しては<quote>「マッチョ」</quote>と言われても仕方がない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　けれど、私くらいの世代だと、男の子の中には<quote>「軍隊マニア」</quote>みたいなのもいたし、こういう軍隊の階級のことなんか、けっこう詳しい奴がいたものである。</sentence>
+<sentence>ところが、最近の大学生を教えていて、英文に<quote>「<ruby rubyText="サージェント">軍曹</ruby>」</quote>などと出てくると、どういう階級か学生に訊いてみるのだが、まず分からない。</sentence>
+<sentence>しかるに、日本語では<quote>「尉」</quote><quote>「佐」</quote><quote>「将」</quote>に大中小がつくので分かりやすいのだが、英語のそれは、何とも厄介で、未だにちゃんと覚えられずにいる。</sentence>
+<sentence type="quasi">陸軍と海軍では違うし、アメリカと英国でも違うのだが、アメリカ陸軍で言うと、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">大将　ｇｅｎｅｒａｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">中将　ｌｉｅｕｔｅｎａｎｔ　ｇｅｎｅｒａｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">少将　ｍａｊｏｒ　ｇｅｎｅｒａｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence type="quasi">　でこの下に准将（ｂｒｉｇａｄｉｅｒ　ｇｅｎｅｒａｌ）がいて、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">大佐　ｃｏｌｏｎｅｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">中佐　ｌｉｅｕｔｅｎａｎｔ　ｃｏｌ<sampling type="end" />ｏｎｅｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00073" version="1.0" type="fixedLength">
+<article articleID="LBo5_00073_F001">
+<paragraph>
+<sentence>同時に、受け取った証明書からメッセージダイジェストを作成し<sampling type="start" />ます。</sentence>
+<sentence>これら２つのメッセージダイジェストが一致すれば、証明書は確かなもので、ＷＷＷサーバの身元が間違いないことが保証されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■ＳＳＬによるブラウザ〜ＷＷＷサーバ間の安全な通信</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■安全確認を促す画面（インターネット・エクスプローラ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">□ＣＡの公開鍵の入手方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで、ＣＡの電子署名の復号化にはＣＡの公開鍵が必要になります。</sentence>
+<sentence>ブラウザの利用者はこれをどのようにして手に入れればよいのでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実は、ＳＳＬを組み込んだインターネット・エクスプローラやネットスケープ・コミュニケータなどにはインストール時にいくつかのＣＡの証明書が組み込まれています。</sentence>
+<sentence>これらの証明書にはＣＡの公開鍵が含まれており、これを使用します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　どのような証明書が組み込まれているかはブラウザのメニューから調べることができます（インターネット・エクスプローラの場合は<quote>「ツール」</quote>メニューの<quote>「インターネットオプション」</quote>で表示できます）。</sentence>
+<sentence>ただし、ＷＷＷサーバから送られてきた証明書を発行したＣＡの証明書がブラウザに組み込まれていない場合は、送られてきた証明書の真偽を確認することができません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この場合、通常、送られてきた証明書は暗号化されていず内容を読むことはできるため、それから判断して信用するか、何とかそのＣＡの公開鍵（証明書）を入手するかします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■ＣＡによるＷＷＷサーバの身元保証</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■インターネットエクスプローラの<quote>「証明」</quote>画面</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">□暗号化方式の決定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　証明書によるＷＷＷサーバの確認以降、ブラウザ〜ＷＷＷサーバ間の通信でやり取りする情報はすべて暗号化されるため、盗聴を防ぐことができます。</sentence>
+<sentence>ＳＳＬの仕組みでは、複数の暗号化を使用できるようになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　共通鍵暗号化方式として、ＤＥＳ、トリプルＤＥＳ、ＩＤＥＡ、ＲＣ４などが、公開鍵暗号化方式としてはＲＳＡなどが使用できるようになっています。</sentence>
+<sentence>これは、ブラウザとＷＷＷサーバが共に使用可能な暗号化を選択できるようにするためです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ブラウザとＷＷＷサーバは、通信の最初にやり取りし、これらの暗号化の中から、お互いが使用可能なものを決定し、以降の通信ではそれを使用して情報を暗号化してやり取りします（ソフトウェアでのやり取りであり、ブラウザの利用者が自分の手で決定する必要はありません）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■暗号化方式の決定</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">□各々が共通鍵を生成</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＳＳＬによる通信では、ブラウザとＷＷＷサーバは、お互いの間で使用する共通鍵をそれぞれが生成します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ブラウザは、共通鍵の基になるデータをＷＷＷサーバの公開鍵（受け取った証明書に含まれている）で暗号化して、ＷＷＷサーバに送信します。</sentence>
+<sentence>ＷＷＷ<sampling type="end" />サーバは自身の個人鍵でそれを復号化して、共通鍵の元になるデータを取り出します。</sentence>
+</paragraph>
+</article>
+</sample>

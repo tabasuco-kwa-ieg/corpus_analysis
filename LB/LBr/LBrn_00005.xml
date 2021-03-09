@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00005" version="1.0" type="fixedLength">
+<article articleID="LBrn_00005_F001">
+<titleBlock>
+<title>
+<sentence>ＣＨＥＣＫ４　Ｃ<sampling type="start" />ＧＩは使えるか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＧＩがあるとお客さんがスムーズに買い物できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　お客さんが簡単に商品を購入できる<quote>「ショッピングカート」</quote>や<quote>「オーダーフォーム」</quote>はＣＧＩという特別な技術を使う必要があるため、ＣＧＩの利用を認めているプロバイダを選びたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">どんなＣＧＩが使えるかもチェックしておく</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＣＧＩは使えても、プロバイダが提供しているものしか使えないところ、独目のＣＧＩを自由に使えるところなど許可の内容はさまざま。</sentence>
+<sentence><quote>「ショッピングカート」</quote>や<quote>「オーダーフォーム」</quote>が使える、あるいは用意しているプロバイダを選びたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">将来的にはレンタルサーバの利用も視野に</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　レンタルサーバの利用は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>独自ドメインが利用できる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>ホームページの容量が大きい</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>メールアドレスが多く設定できる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>ＣＧＩに対しての自由度が高い</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>など、費用はかかるものの、ｉショップを運営するうえでのメリットが大きい。</sentence>
+<sentence>オープン当初からレンタルサーバを利用するなら、ＣＨＥＣＫ２以降は考慮しなくてもよい。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">４　お店を開くにあたっての許可や手続きをすませる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>小資本や副業感覚ではじめられるｉショップですが、商売であるかぎりは法律と無縁というわけにはいきません。</sentence>
+<sentence>とくに、あつかう商品によっては許可や届け出が必要なものもあります。</sentence>
+<sentence>知らずに法律違反をしていたということのないよう、最低限の法律の知識を身につけておきましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">個人事業主としてｉショップをはじめる場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">個人事業の開廃業等届出書→開業１カ月前には所轄の税務署に提出</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">事業開始等申告書→開業時に各都道府県税事務所に提出</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">所得税の青色申告承認申請書→申告しようとする年の３月１５日までに所轄の税務署に提出</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>※以上の届け出は、しなかったからといって罰則規定があるわけではない。</sentence>
+<sentence>ただし、税法上、白色申告よりもいろいろ優遇措置の多い青色申告をしようと思ったら、以上の届け出をしておく必要がある。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">参考サイト／タックスアンサー</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＵＲＬ　ｈｔｔｐ：／／ｗｗｗ．ｔａｘａｎｓｗｅｒ．ｎｔａ．ｇｏ．ｊｐ／</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">参考サイト／国税庁</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＵＲＬ　ｈｔｔｐ：／／ｗｗｗ．ｎｔａ．ｇｏ．ｊｐ／</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">大部分の商品は許可などは必要ないが、こんな商品には注意が必要</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence>※届け出…所定の窓口に届出書類を提出するだけで開業できる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>許可…所定の窓口に必要書類を提出し、一定の条件を満たしていると判断され許可がおりると開業できる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">そのほか知っておきたいｉショップにかかわる法律</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">景品表示法…販促目的にプレゼント企画を実施する場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">・プレゼントする景品類の最高金額は、購入価格の２０倍以下（購入価格が１０万円を超える場合は１０万円以下）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・景品総額は売上<sampling type="end" />予定総額の２％以内</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

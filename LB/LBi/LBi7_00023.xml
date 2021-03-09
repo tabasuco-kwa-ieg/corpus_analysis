@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi7_00023" version="1.0" type="fixedLength">
+<article articleID="LBi7_00023_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅰ　<sampling type="start" />小学唱歌の誕生</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">唱歌教育発足当時の先進的な学校における授業の光景．和服の子もいれば，洋服の子もいる．（大村芳樹『音楽之<ruby rubyText="し">枝</ruby><ruby rubyText="おり">折</ruby>（下）』１８８７年）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「ルソー的音楽」</quote>と<quote>「見わたせば」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　はじめに、まず、最初の小学校音楽教科書である『小学唱歌集』（全三巻、一八八二―八四年［明治一五―一七］）初編にのっている<quote>「見わたせば」</quote>をとりあげてみたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">一</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<verse>
+<sentence type="verse">見わたせば、あおやなぎ、<verseLine />花桜、こきまぜて、<verseLine />みやこには、みちもせに<verseLine />春の錦をぞ。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">さおひめの、おりなして、<verseLine />ふるあめに、そめにける。<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<titleBlock>
+<title>
+<sentence type="quasi">二</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<verse>
+<sentence type="verse">みわたせば、やまべには、<verseLine />おのえにも、ふもとにも、<verseLine />うすきこき、もみじ葉の<verseLine />あきの錦をぞ。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">たつたひめ、おりかけて、<verseLine />つゆ霜に、さらしける。<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　この歌のメロディは、実はどなたもご存じの<quote>「むすんでひらいて」</quote>と同じなので、<quote>「<sentence>エッ？</sentence>
+」</quote>と驚かれる方も多いにちがいない。</sentence>
+<sentence><quote>「まえがき」</quote>で触れたコンサートでもこの歌がうたわれると、会場には、たいてい、ちょっとしたざわめきが起こった。</sentence>
+<sentence>それは、両手の動作をともなう闊達と思っていたあの曲に、なんとも優雅な歌詞がついているので、つい隣の席の方々と<quote>「おかしいな」</quote>などと語り合われるからだろう。</sentence>
+<sentence><quote>「さおひめ」</quote>（佐保姫）は春をつかさどる女神、<quote>「たつたひめ」</quote>（竜田姫）は秋をつかさどる女神であり、この歌は春と秋の美しい景色をうたっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　原曲の作者はフランス革命を用意した啓蒙思想家であるジャン・ジャック・ルソー（一七一二―一七七八）といわれてきたが、海老沢敏は、この曲が諸国・諸民族によってどうあつかわれてきたかを徹底的に追究し、それを『むすんでひらいて考』（岩波書店、一九八六年）という、まことに興味ぶかい書物にまとめている。</sentence>
+<sentence>そのなかで、海老沢は、こう書いている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「見わたせば」</quote>、つまり、<quote>「むすんで」</quote>という冒頭のところは、ルソーのオペラ<quote>「村の占師」</quote>にある器楽曲では、<quote>「ミー・ファ・レ・ドー・ドー」</quote>であり、このままではきっとひろがらなかったろう。</sentence>
+<sentence>ところが、フランスのあるピアノ奏者がこれを<quote>「ミー・ミ・レ・ドー・ドー」</quote>というように一つだけ音を変えた。</sentence>
+<sentence>個性的・芸術的である前者に対し、後者は民衆的・民芸的であり、そのため、まず、イギリスで大流行し、世界各地にひろがり、日本人も喜んでこれを受けいれた、というのである。</sentence>
+<sentence>前者であれば、一九世紀末の日本人にはとてもなじめなかったろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こういう追究によって海老沢は、これを、ルソーの曲そのものではないが、ルソーの精神を内にふくんだ曲であるという意味で、<quote>「ルソー的音楽」</quote>であるとする。</sentence>
+<sentence>これは巧みな表現だと思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このルソー的音楽にあのように優雅な歌詞をつけたのは、音楽<ruby rubyText="とり">取</ruby><ruby rubyText="しらべ">調</ruby><ruby rubyText="かかり">掛</ruby>の面々が、なんとか新しい音楽教育を始めなければならないと考え、どうやって教材を選べばいいか暗中模索し、大変な努力を重ねたうえ<sampling type="end" />での成果だったと思える。</sentence>
+</paragraph>
+</article>
+</sample>

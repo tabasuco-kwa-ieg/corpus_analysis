@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00026" version="1.0" type="fixedLength">
+<article articleID="LBq4_00026_F001">
+<paragraph>
+<sentence>最後に，高温超伝導体のジョセフソン効果を利用した新しい提案として，プラズマを利用した光放射につい<sampling type="start" />て紹介したい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高温超伝導体の超伝導層に平行に磁場をかけると，ジョセフソン渦とよばれる前述のジョセフソン・ストリングのみからできた渦が生じる。</sentence>
+<sentence>この渦が通常の渦と異なる点は渦糸がいわゆるコア部分をもたないことである。</sentence>
+<sentence>このためピン止めを受けにくく，超伝導面に垂直な電流によって容易に超伝導面に沿って動かすことができる。</sentence>
+<sentence>もし超伝導体内の多くの渦をコヒーレントに動かすことができるなら，渦とプラズマの結合は，プラズマを励起させることができると考えられている。</sentence>
+<sentence>実際，簡単な理論的取り扱いやシミュレーションは，渦運動によるプラズマ励起はテラヘルツ帯の強力な光放射の可能性を指摘している<noteMarker text="３）" />。</sentence>
+<sentence>この帯域の強い光が得られたなら，光通信や電波分光学に大きな影響を与えることが予想されるので，注目されている。</sentence>
+<sentence>また最近，ジョセフソン渦を高速で駆動させることによる１０ＧＨｚ帯のマイクロ波放出が報告されており，渦の速度がジョセフソン接合中のプラズマ波の伝搬速度を超えたときに起こるチェレンコフ放射光<noteMarker text="＊５" />であると解釈されている<noteMarker text="１０）" />。</sentence>
+<sentence>しかしながら，観測されているマイクロ波強度は現在のところきわめて微弱であり，いかに強い電磁波を取り出すかは今後の課題である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊５　本来は，物質中を通過する荷電粒子がその物質中の光の速度を超えたときに起こる光放射のことをいう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ここで述べてきたように，高温超伝導体の結晶そのものが示すジョセフソン効果やプラズマ振動には，従来のジョセフソン多層膜の研究からは予想だにできなかった新しい現象が次々に観測されてきている。</sentence>
+<sentence>さらに高温超伝導体では，クーパー対の対称性や超伝導面間方向の電子の伝導機構が，従来の超伝導体や金属とは大きく異なることが解明されている。</sentence>
+<sentence>このような場合，ジョセフソン・プラズマ振動の強度や温度依存性も，従来の超伝導多層膜とは大きく異なることが予想される。</sentence>
+<sentence>これらは応用上重要なだけでなく，それ自身超伝導発生のメカニズムにも深くかかわっている問題であり，今後の発展に期待したい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">参考文献</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<authorsData>
+<sentence type="quasi">（パリティ１９９９年１月号Ｖｏｌ．１４　Ｎｏ．０１掲載）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBq4_00026_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">第１２章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">泥沼化する超伝導論争</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　高温超伝導の理論的解明は，物理の最重要課題の１つである。</sentence>
+<sentence>銅酸化物の層を含む一連の物質が１２５Ｋまでの温度で超伝導を示すことが見つかって以来，１０年以上にわたって，理論家たちはこの問題に挑んでは失敗し続けてきた。</sentence>
+<sentence>よくいわれるのは，この問題に携わる理論家の数だけ，高温超伝導の理論がある（つまり全員違うことをいっている）ということである。</sentence>
+<sentence>異なる理論<sampling type="end" />を唱える物理屋の間での論争はしょっちゅうだし，ときには議論は熱くなって，超伝導の臨界温度もあれくらい高くなったら，と実験屋がうらやむほどの温度になる。</sentence>
+</paragraph>
+</article>
+</sample>

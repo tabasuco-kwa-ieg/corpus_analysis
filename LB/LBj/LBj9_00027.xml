@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj9_00027" version="1.0" type="fixedLength">
+<article articleID="LBj9_00027_F001">
+<paragraph>
+<sentence>古くから新年のしめ飾りに、ダイダイ（みかん）を添えて、<quote>「代々譲る」</quote>と、めでたい縁起物としてい<sampling type="start" />る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">新葉が出そろってから旧葉がすべて落葉するユズリハ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ヨモギ（艾・蓬）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">枕草子　百七十八</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">源氏物語　<ruby rubyText="よもぎ">蓬</ruby><ruby rubyText="ふ">生</ruby>の巻</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">後拾遺和歌集（百人一首）　藤原実方</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ヨモギは、山野に最も普通な多年草。</sentence>
+<sentence>中国名は<quote>「艾」</quote>で<quote>「蓬」</quote>ではないが、古くから誤ってアカザ科の<quote>「蓬」</quote>の字が使われている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　早春、若葉を摘んでヨモギ餅をつくる。</sentence>
+<sentence>また、百人一首にもあるように、<ruby rubyText="きゅう">灸</ruby>に使う<quote>「<ruby rubyText="もぐさ">熟艾</ruby>」</quote>はヨモギの葉の裏の白毛を集めたものである。</sentence>
+<sentence>古くから伊吹山産のものは有名。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">身近な野草のヨモギはいろいろと用途が広い</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">リンドウ（竜膽）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">古今和歌集　巻十　とものり</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">枕草子　六十七</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">源氏物語　夕霧の巻</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　リンドウは、中国名<quote>「竜胆」</quote>を日本読みしたもので、やや乾いた山野に生える多年草。</sentence>
+<sentence>秋に咲く青紫色の鐘状の花は優雅で、庭園にも植栽される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　根は苦味健胃の漢方薬に用いられ、その苦味から<quote>「竜の胆」</quote>と名づけられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">リンドウの青紫色で鐘状の花は，優雅な気品が漂う</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ワカナ（若菜）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">古今和歌集　巻一（百人一首）　光孝天皇</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">枕草子　百三十一</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">源氏物語　若菜（上）の巻　源氏</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　古代、宮中では正月<ruby rubyText="はじめ">初</ruby>の<ruby rubyText="ね">子</ruby>の日に<ruby rubyText="ない">内</ruby><ruby rubyText="ぜん">膳</ruby><ruby rubyText="し">司</ruby>が古い中国の故事にならい、不老長生を願ってその年の<ruby rubyText="なな">七</ruby><ruby rubyText="くさ">種</ruby>の新菜を<ruby rubyText="あつもの">羮</ruby>として奉ったのが<quote>「七種御野菜事」</quote>のはじまり。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　後に、一般市民に伝わって正月七日の<ruby rubyText="なな">七</ruby><ruby rubyText="くさ">草</ruby><ruby rubyText="がゆ">粥</ruby>の行事へと広まっていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">セリをはじめ，いろいろな若草（七草）に不老長生を願って…</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ワカメ（若布・和布・稚和布）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">万葉集　巻十六　作者未詳</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">巻三　柿本人麻呂</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">巻十二　作者未詳</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　<quote>「玉藻」</quote>や<quote>「名告藻」</quote>は、各地の潮間帯より下の海中に群生するホンダワラのことで、不老長寿を願う正月の飾り物に使われた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ワカメやホンダワラが万葉集に歌われているのに、王朝時代の文芸作品には見当たらない。</sentence>
+<sentence>王朝人は京の洛中での生活ばかりで、海辺へは出かけなかったのだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲潮間帯の岩に着生するホンダワラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">早春の浜辺でのワカメ干し▲</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ワタ（綿）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">枕草子　百二十</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">源氏物語　橋姫の巻</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">竹取物語　六</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ワタは、東アジア原産の一年生草本。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本の古い文献に現れる<quote>「綿」</quote>には、アシの穂、コウゾの樹皮繊維などいろいろとあり、ワタを指す植物の渡来記録は、日本後記に<quote>「延暦一八年、<ruby rubyText="こん">崑</ruby><ruby rubyText="ろん">崙</ruby>人が草綿の種を伝えた」</quote>とある。</sentence>
+<sentence>王朝時代、木綿や綿布などは中国から輸入される貴重品であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">綿は種子の表面に長い毛（綿花）が成長したもの</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ワラビ（蕨）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">古今和歌集　巻十　わらび　真せい法し</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">枕草子　九十九</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">百五十三</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">源氏物語　<ruby rubyText="さ">早</ruby><ruby rubyText="わらび">蕨</ruby>の巻　中君</sentence>
+<br type="automatic_original" />
+</source>
+<rejectedBlock type="old" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ワラビは、山野に自生する多年生のシダ類。</sentence>
+<sentence>古くからの食用野草で、若芽を食べ、根茎からわらび粉を精製してわらび餅とし、わらび粉をとった残りでわらび縄をつくる。</sentence>
+<sentence>しかし、ワラビは生食するとビタミンＢ<subScript>１</subScript>の分解酵素が多いので注意が必要である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">古くから食べられる野草<sampling type="end" />として親しまれたワラビ</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

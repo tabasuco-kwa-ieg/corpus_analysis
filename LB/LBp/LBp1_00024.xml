@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp1_00024" version="1.0" type="fixedLength">
+<article articleID="LBp1_00024_F001">
+<paragraph>
+<sentence>ことばは慎ま<sampling type="start" />ねばならない。</sentence>
+<sentence type="quasi">（『詩経』大雅　抑）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="い">忌</ruby>めば<ruby rubyText="すなわ">則</ruby>ち<ruby rubyText="うら">怨</ruby>み多し。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　他人を忌みきらえば、必ず自分がきらったその人から逆に怨まれる。</sentence>
+<sentence type="quasi">（<ruby rubyText="けん">献</ruby>公のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="くに">国</ruby>に小なし。</sentence>
+<sentence><ruby rubyText="あなど">易</ruby>るべからざるなり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　いかに小さな国であっても、小さいとあなどってはいけない。</sentence>
+<sentence>これに反して、備えがなければ、いかにおおぜいの人があってもたのむことはできない。</sentence>
+<sentence type="quasi">（<ruby rubyText="ぞう">臧</ruby><ruby rubyText="ぶん">文</ruby><ruby rubyText="ちゅう">仲</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence><ruby rubyText="かい">懐</ruby>と<ruby rubyText="あん">安</ruby>とは<ruby rubyText="じつ">実</ruby>に名を<ruby rubyText="やぶ">敗</ruby>る。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　<quote>「懐」</quote>は<ruby rubyText="れん">恋</ruby><ruby rubyText="ちゃく">着</ruby>を覚えること。</sentence>
+<sentence><quote>「安」</quote>は一時の安逸をむさぼること。</sentence>
+<sentence>すなわち、この二つは人間の名誉を失わせるものである。</sentence>
+<sentence type="quasi">（<ruby rubyText="きょう">姜</ruby><ruby rubyText="し">氏</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="しん">晋</ruby>の文公が<ruby rubyText="る">流</ruby><ruby rubyText="ろう">浪</ruby>中、田舎にあってその地に安んじていたときに、妻の姜氏はこの語を<ruby rubyText="もっ">以</ruby>て夫を励ました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="てん">天</ruby>の<ruby rubyText="ひら">啓</ruby>く<ruby rubyText="ところ">所</ruby>は、人<ruby rubyText="およ">及</ruby>ばざるなり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　天の神が、この国を興してやろうと考えていれば、他人がこれをいかんともなし得るものではない。</sentence>
+<sentence type="quasi">（<ruby rubyText="しゅく">叔</ruby><ruby rubyText="しゆくせん">詹</ruby>が引用したことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「啓く」</quote>は、その国の運命をひらくこと。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="くん">君</ruby><ruby rubyText="めい">命</ruby>に二なきは、<ruby rubyText="いにしえ">古</ruby>の<ruby rubyText="せい">制</ruby>なり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　人君の命令に二言はない、ということは、むかしからの定めだ。</sentence>
+<sentence type="quasi">（<ruby rubyText="じ">寺</ruby><ruby rubyText="じん">人</ruby><ruby rubyText="ひ">披</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="とが">尤</ruby>めて<ruby rubyText="こ">之</ruby>れに<ruby rubyText="なら">效</ruby>うは、<ruby rubyText="つみ">罪</ruby><ruby rubyText="ま">又</ruby>た<ruby rubyText="はなは">甚</ruby>だし。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　人の罪をとがめていながら、その同じ罪をみずから犯すことは、罪悪の大なるものである。</sentence>
+<sentence type="quasi">（<ruby rubyText="かい">介</ruby><ruby rubyText="し">子</ruby><ruby rubyText="すい">推</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="けい">兄</ruby><ruby rubyText="てい">弟</ruby>、<ruby rubyText="まがき">牆</ruby>に<ruby rubyText="せめ">鬩</ruby>げども、<ruby rubyText="そと">外</ruby><ruby rubyText="そ">其</ruby>の<ruby rubyText="あなど">侮</ruby>りを<ruby rubyText="ふせ">禦</ruby>ぐ。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　兄弟は家の垣根の中でけんかをしていても、いざ外から侮りをしかけられると、互いに手を取り合ってこれを防ぐのが当然である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　外敵に対しては、内輪のけんかはやめて一つになるべきである。</sentence>
+<sentence type="quasi">（『詩経』小雅　<ruby rubyText="じょう">常</ruby><ruby rubyText="てい">棣</ruby>）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="ふく">服</ruby>の<ruby rubyText="ちゅう">衷</ruby>ならざるは、身の<ruby rubyText="わざわ">災</ruby>いなり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　身分に相当しない衣服を身につけることは身の災いとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　昔は身分に従って衣服の紋様などが違っていた。</sentence>
+<sentence>その衣服がその身分に相当しないことを<quote>「衷ならず」</quote>というのである。</sentence>
+<sentence type="quasi">（君子のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="しつ">室</ruby>は<ruby rubyText="けん">県</ruby><ruby rubyText="けい">罄</ruby>の<ruby rubyText="ごと">如</ruby>く、<ruby rubyText="の">野</ruby>には<ruby rubyText="せい">青</ruby><ruby rubyText="そう">草</ruby>なし。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　どこの家の内部も、<ruby rubyText="か">懸</ruby>けてある<ruby rubyText="けい">罄</ruby>のように<ruby rubyText="から">空</ruby>になっており、また、野原に行っても青い草がない。</sentence>
+<sentence type="quasi">（<ruby rubyText="せい">斉</ruby><ruby rubyText="こう">侯</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　国家の破れて、さびれている姿である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「県」</quote>は<ruby rubyText="か">懸</ruby>かる。</sentence>
+<sentence><quote>「<ruby rubyText="けい">罄</ruby>」</quote>は<quote>「<ruby rubyText="けい">磬</ruby>」</quote>に同じで楽器の名。</sentence>
+<sentence>罄が<ruby rubyText="つ">吊</ruby>るされると、真ん中がくぼんだ形となるので、中の空虚を表わす意味となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（罄）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（罄を打つ人）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="し">詩</ruby><ruby rubyText="しょ">書</ruby>は<ruby rubyText="ぎ">義</ruby>の<ruby rubyText="ふ">府</ruby>なり。</sentence>
+<sentence><ruby rubyText="れい">礼</ruby><ruby rubyText="がく">楽</ruby>は<ruby rubyText="とく">徳</ruby>の<ruby rubyText="のり">則</ruby>なり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　『詩経』や『書経』は道義の教えをおさめた<ruby rubyText="くら">蔵</ruby>のようなものである。</sentence>
+<sentence>これに対して礼楽は道徳の法則を教えるものである。</sentence>
+<sentence type="quasi">（<ruby rubyText="ちょう">趙</ruby><ruby rubyText="し">衰</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　むかしの教育は、書物としては主として『詩経』、『書経』を用い、行動のうえでは礼と楽とによった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="ゆう">有</ruby><ruby rubyText="とく">徳</ruby>には<ruby rubyText="てき">敵</ruby>すべからず。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　徳を守っている人に対して、敵対行動はなし得るものではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『論語』にいう<quote>「仁者に敵なし」</quote>と同義。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「軍志」</quote>は兵書。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="さん">山</ruby><ruby rubyText="か">河</ruby>を<ruby rubyText="ひょう">表</ruby><ruby rubyText="り">裏</ruby>にすれば、必ず<ruby rubyText="がい">害</ruby>なけん。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　山をうしろにし、川を前にした要塞ならば国は安泰だ。</sentence>
+<sentence type="quasi">（<ruby rubyText="し">子</ruby><ruby rubyText="はん">犯</ruby>のことば）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><ruby rubyText="となり">隣</ruby>の<ruby rubyText="あつ">厚</ruby>きは<ruby rubyText="きみ">君</ruby>の<ruby rubyText="うす">薄</ruby>きなり。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　隣国が厚く発達してくるこ<sampling type="end" />とは、こちらの国が薄くなって危うくなると見るべきだ。</sentence>
+</paragraph>
+</article>
+</sample>

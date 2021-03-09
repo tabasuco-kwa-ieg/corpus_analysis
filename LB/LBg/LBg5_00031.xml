@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00031" version="1.0" type="fixedLength">
+<article articleID="LBg5_00031_F001">
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">１</enclosedCharacter>　３個とも塩素（Ｃ１）だとクロロホ<sampling type="start" />ルム</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　３個とも臭素（Ｂｒ）だとブロモホルム</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">３</enclosedCharacter>　２個の塩素＋１個の臭素はブロモジクロロメタン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">４</enclosedCharacter>　１個の塩素＋２個の臭素はジブロモクロロメタン</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　以上，トリハロメタンとはクロロホルム・ジクロロブロモメタン・ジブロモクロロメタン，ブロモホルムの４つを合わせたものをいいます（図）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　我が国ではこの４つの内，水道水中にはクロロホルムが最も多く，トリハロメタン全体の６割以上を占めているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">水道水からのトリハロメタンなどの発ガン性物質の検出</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">最初の発表</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１９７４年（昭４９）１１月，アメリカの環境防衛基金所属のロバート・ハリス博士により<quote>「水道水の中に発ガン性物質が含まれている」</quote>とショッキングな発表が行われました。</sentence>
+<sentence>これは水道水の消毒殺菌に使用されている塩素が他の有機物と化学反応を起こし，発ガン性の物質の１つともいわれるクロロホルム（トリハロメタンの１つ）を生成するという恐るべきものでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">アメリカ環境保護庁（ＥＰＡ）の発ガン性物質とトリハロメタンの検出，証明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　１９７４年（昭４９）のハリス博士の発表直後に調査を開始し，ニューオーリンズ市の浄水中から発ガン物質の他，６６種の有機物質を検出し，公共機関として明白に<quote>「発ガン性物質」</quote>の存在を認めました。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　調査に引き続き１１３の公共水道を１２カ月にわたり，３回に分けて調査し発ガン性物質を含むところの７００種に達する有機化合物を発見しました（この報告は１９７８年（昭５３）２月の<quote>「トリハロメタンの水道水中の制限と，合成有機化合物の量の規定に関する法律」</quote>を生む呼び水となりました）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　ＥＰＡは以前に暫定的に決めた第一種飲料水規制を改正して<quote>「水道水中の総トリハロメタンの最大濃度レベルを１００ｐｐｂに規制する」</quote>ことを決定しています。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">我が国の水道水に含まれる発ガン性物の検出，証明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　昭和５０年（１９７５），武者宗一郎教授（当時大阪府立大学）らは，大阪市・堺市・奈良市の家庭，大阪府立大学構内の水道水から，発ガン性のあるクロロホルムと四塩化炭素を検出しています。</sentence>
+<sentence>その測定値は，クロロホルム：大阪市水道（２１．２ｐｐｂ），堺市水道（２５．１ｐｐｂ），府立大構内（１８．７ｐｐｂ）であり，これにクロロホルム量より少ないが，四塩化炭素についても検出しています。</sentence>
+<sentence>これらの成績を踏まえ同教授は同年１０月に厚生大臣に対して意見書を提出しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">トリハロメタン生成への影響因子<noteMarker text="１）" /></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　トリハロメタン生成に影響を与える因子は次のようなものです。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>塩素，<enclosedCharacter description="○">２</enclosedCharacter>アンモニア性窒素，<enclosedCharacter description="○">３</enclosedCharacter>フミン質などの色素，<enclosedCharacter description="○">４</enclosedCharacter>有機物（過マンガン酸カリウム消費量），<enclosedCharacter description="○">５</enclosedCharacter>ｐＨが高い，<enclosedCharacter description="○">６</enclosedCharacter>温度，<enclosedCharacter description="○">７</enclosedCharacter>時間。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">スポットライト<enclosedCharacter description="○">３<sampling type="end" />３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

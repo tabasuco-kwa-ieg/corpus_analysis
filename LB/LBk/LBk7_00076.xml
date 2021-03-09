@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk7_00076" version="1.0" type="fixedLength">
+<article articleID="LBk7_00076_F001">
+<paragraph>
+<sentence>基音の２倍の周波数の倍音を第２倍音、３倍のものを第３倍音、以下第４倍音、第５倍<sampling type="start" />音…といった呼び方をする。</sentence>
+<sentence>またそれぞれの倍音が波形で示された場合には、第２高調波、第３高調波…と呼ぶ。</sentence>
+<sentence>この倍音を基音から順番に並べると図１‐８のようになる。</sentence>
+<sentence>これを自然倍音列という。</sentence>
+<sentence>そして図中にも示したように各倍音の２倍の番号の倍音は、もとの倍音の１オクターブ上になる。</sentence>
+<sentence>この自然倍音列は、音程の協和、不協和やスケール、テンションなど音楽理論にも深く関係している。</sentence>
+<sentence>倍音構成は、通常スペクトルと呼ばれる棒グラフで表わされる。</sentence>
+<sentence>図１‐９は、代表的な波形であるノコギリ波（鋸歯状波、Ｓａｗ　Ｔｏｏｔｈ　Ｗａｖｅ）と矩形波（Ｓｑｕａｒｅ　Ｗａｖｅ）のスペクトルである。</sentence>
+<sentence>これを見ればわかるように、鋸歯状波がすべての整数倍音を含んでいるのに対して、矩形波は奇数倍音だけを含んでいる。</sentence>
+<sentence>実際に基本波に高調波を足していくことによって起こる波形の変化を示したのが、図１‐１０である。</sentence>
+<sentence>鋸歯状波は、バイオリンなどの弦楽器やトランペットなどの金管楽器の音色に適しており、矩形波は、クラリネットなどの木管楽器の音色に適している。</sentence>
+<sentence>シンセサイザーの代表的な波形としては、ほかに三角波（Ｔｒｉａｎｇｌｅ　Ｗａｖｅ）、パルス波（非対称矩形波、Ｐｕｌｓｅ　Ｗａｖｅ）などがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　打楽器などの非整数倍音の素材としてはノイズが使われる。</sentence>
+<sentence>これはすべての周波数を含んだ音の素材で、それ自体にはピッチはない。</sentence>
+<sentence>各周波数の含まれる割合によってホワイト・ノイズとピンク・ノイズに分けられる。</sentence>
+<sentence>ホワイト・ノイズは、ラジオの局間ノイズとしておなじみのもので、単にノイズと言った場合には、このホワイト・ノイズを指す。</sentence>
+<sentence>またリング・モジュレーションやクロス・モジュレーション、ＦＭなどの回路を使って非整数倍音を作ることもできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐７　正弦波（ＳｉｎｅＷａｖｅ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐８</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐９</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐１０</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">音の大きさ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　音の大きさは、空気の振動の揺れの大きさ（＝振幅）で表わされる。</sentence>
+<sentence>振幅とは音を波形で表わしたときの波の上下の大きさのことで、振幅が大きいほど音量は大きく、振幅が小さいほど音量は小さく感じられる（１８ページ図１‐１１）。</sentence>
+<sentence>音量を表わす単位としてはｄＢ（デシベル）が使われる。</sentence>
+<sentence>これは、音をどのくらい大きくしたり小さくしたりするかを対数で表わしたものだ。</sentence>
+<sentence>フル・オーケストラやハード・ロック系のバンドなどではｆｆの音圧がｐｐの１０万倍を越えることもある。</sentence>
+<sentence>それをそのまま数字にしたのでは、感覚的に非常に捉えにくくなってしまうなってしまう。</sentence>
+<sentence>そこでｄＢという対数を使ってわかりやすくしているわけだ。</sentence>
+<sentence>また人間の耳は、ある音が１０倍になったときと１０倍から１００倍になったときの変化を<sampling type="end" />同じように感じるという非常に対数的な性質を持っており、その意味からもｄＢは、人間の耳の感覚に近い表示方法だといえる。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00024" version="1.0" type="fixedLength">
+<article articleID="LBs5_00024_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">第３<sampling type="start" />章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">電源回路ベーシック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>電源回路のしくみを一から見直してみませんか。</sentence>
+<br type="automatic_original" />
+<sentence>整流出力電圧の計算法、リプル電圧の計算法など、実用的なネタをたくさん用意しました。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">■電源には３種類ある</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　真空管アンプの電源には大別して、Ａ電源、Ｂ電源、Ｃ電源の３種類があります。</sentence>
+<sentence>Ａ電源とは、ヒーター電源のことです。</sentence>
+<sentence>Ａ電源の電圧は１．２５Ｖから５０Ｖくらいまでありますが、大半の球が採用している６．３Ｖというのが１つの標準です。</sentence>
+<sentence>６．３Ｖという値は、車載用の<ruby rubyText="なまり">鉛</ruby>蓄電池が２．１Ｖ×６セル＝１２．６Ｖであることがルーツです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｂ電源は、プレートに供給される高圧電源のことで、真空管の増幅作用を支える主電源であり、回路図上は<quote>「Ｂ＋」</quote>などと表現します。</sentence>
+<sentence>Ｂ電源の電圧は１００〜５００Ｖくらいの範囲が一般的です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｃ電源とは、グリッド・バイアスなどのためのマイナス電源のことで、その電圧は−数Ｖから−数百Ｖまでさまざまですが、すべての真空管アンプが備えているわけではありません。</sentence>
+<sentence>回路図上は<quote>「Ｃ−」</quote>と表記します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■ＡＣ１００Ｖ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　真空管アンプはもっぱらＡＣ１００Ｖ<noteMarker text="＊" />の商用電源を使います。</sentence>
+<sentence>コンセントから引いたＡＣ１００Ｖラインが真空管アンプに引き込まれた先にあるのは、電源スイッチとヒューズです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊ＡＣ１００Ｖ：ＡＣはＡｌｔｅｒｎａｔｉｎｇ　Ｃｕｒｒｅｎｔの略で交流を意味し、ＤＣはＤｉｒｅｃｔ　Ｃｕｒｒｅｎｔの略で直流の意味。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　電源スイッチは別名開閉器と呼ばれ、その名のとおり安全確実にかなりの大きさの電流をＯＮ／ＯＦＦするための部品です。</sentence>
+<sentence>家電製品のほとんどはＡＣ１００Ｖラインの片側に電源スイッチが挿入されていますが（図３．１‐Ａ）、ラックなどに組み込んだままメンテナンスしなければならない業務用機器では両切りスイッチが使われています（図３．１‐Ｂ）。</sentence>
+<sentence>これは、万一に備えて電源ＯＦＦ時には機器をＡＣ１００Ｖラインから完全に切り離そうという考えがあるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電源スイッチＯＮ／ＯＦＦの際、特にＯＦＦの時にはスイッチの接点で（外からは見えませんが）火花が飛んでいます。</sentence>
+<sentence>この火花は、ノイズを発生させ、スイッチの接点を劣化させ、寿命を縮めます。</sentence>
+<sentence>そこで、この火花を抑制する部品であるスパーク・キラー<noteMarker text="＊" />を、スイッチ（あるいは電源トランスの１次巻き線）と並列に取り付けます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊スパーク・キラー：１２０Ω程度の抵抗器と０．１μＦ程度のコンデンサが一体となって樹脂モールドされている部品。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３．１：代表的なＡＣ１００Ｖ回路</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>回路例（Ａ）は、電源スイッチに並列にスパーク・キラーを抱かせた一般的なもの。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>回路例（Ｂ）は、両切りスイッチを使ったもので安全管理にシビアな業務用機器によく<sampling type="end" />見られる構成。</sentence>
+</listItem>
+</list>
+</caption>
+</figureBlock>
+</article>
+</sample>

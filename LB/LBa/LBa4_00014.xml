@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa4_00014" version="1.0" type="fixedLength">
+<article articleID="LBa4_00014_F001">
+<paragraph>
+<sentence>ユーイングは努力の結果、つい<sampling type="start" />に水平振子を発見した。</sentence>
+<sentence>取り付け点から水平に突き出て、左右に振れる振子は、取り付け角度を変えることにより、いくらでも周期をのばすことができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうして、不動点を解決したユーイングにとって、あとは、そうむずかしいことではなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　記録装置、時間装置、その他を加えると、立派な水平動地震計ができ上がった。</sentence>
+<sentence>世界で最初の連続記録式水平動地震計は、外人教師の手によったとはいえ、日本で初めて出来上がった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　上下動地震計も、同じ外人教師で物理学のグレーの協力を得て、重錘に対するスプリングの取り付け点の位置を考案して、解決することができた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ミルンの提案により、水平二成分、上下一成分の三成分型地震計がここに完成し、“ユーイング・グレー・ミルン地震計”として、日本の地震観測が開始された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在使用されている地震計は、電磁式になったり、目的に応じて各種の周期のものがつくられたり、色々と改良された点は多いが、振子を使用している点では基本的に同じである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ユーイング水平動地震計（『日本地震学会報告』第１冊，明治１７年より）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBa4_00014_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">初期微動</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「初メ人体ニ急激ナル震動ヲ感ジタルモ、激烈ト称スル程ニアラズ。</sentence>
+<sentence>数秒ヲ経テ水平動。</sentence>
+<sentence type="quasi">上下動トモ益々激烈トナリ、硝子窓著シク鳴リ響キ、震動愈々烈シキタメ、遂ニ室内ニ止マリ難キ形成トナレリ…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　なかなか名文である。</sentence>
+<sentence><quote>「室内ニ止マリ難キ形成トナレリ」</quote>は、とくに感服した。</sentence>
+<sentence>あわてて外に飛び出したなどと書くと、誠にハシタナイ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　関東大地震についての甲府気象台の記録で、公式記録に近いものである。</sentence>
+<sentence>昭和十四年当時の甲府測候所長、密田新太郎氏の発表論文より引用した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この文章のあとに、地震計の描針が記録紙からはずれたこと。</sentence>
+<sentence>高さ一メートル二〇センチの本箱が西に倒れ、壁が落ち、手洗鉢の水が北東に溢れたことなどが書き加えられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　甲府での初期微動は、この文章では数秒とよみとれ、また別の報告では、？</sentence>
+<sentence>を付して三秒とされているが、これは初期微動ではなさそうである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　東京では、初期微動一二・四秒と観測され、最初の五秒はゆるやかな振動ではじまり、次に急激な振動がつづき、二倍地震計以外は描針が記録紙からはずれてしまった。</sentence>
+<sentence>甲府での描針が数秒後にはずれたのと一致する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　震源は伊豆大島北方の相模湾内で、甲府の方がやや遠いから、観測されていれば、初期微動は一五秒から一六秒くらいではなかったかと推定される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　関東地方中部地方での大きな被害地震は、相模湾か遠州灘の地震である。</sentence>
+<sentence>内陸部ならどちらでも震源からの距離は一〇〇キロ以上あるから、関東大地震と同じような地震動が予想される。</sentence>
+<sentence>構成的に文章で書くと、次のようにな<sampling type="end" />る。</sentence>
+</paragraph>
+</article>
+</sample>

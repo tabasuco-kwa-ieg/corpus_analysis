@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00002" version="1.0" type="fixedLength">
+<article articleID="LBg4_00002_F001">
+<paragraph>
+<sentence>　天然着色料は，消費者の天然物指向と表示義務が免除されていたこと<sampling type="start" />から，品目，使用量とも増加してきた．</sentence>
+<sentence>使用実態調査では約１００品目であるが，多用されているものは２０数種と思われる．</sentence>
+<sentence>食用色素の市場は毎年約１０％の伸びを示しているといわれ，天然着色料の使用がこれを助長するものと予想される．</sentence>
+<sentence>バイオテクノロジーの応用が天然着色料の分野にも進出し，すでに米国ではアントシアニン，ベタレイン，シコニン，ベルベリン，アカネなどの組織培養による生産研究が行われている．</sentence>
+<sentence>わが国でもムラサキ，アカネ，ヨウシュヤマゴボウ，サフランなどの組織培養について研究が実施されている．</sentence>
+<sentence>従来とは異なった新しい製造方法で生産された天然着色料は，起源，製法が異なるので，使用に際しては新たに申請する必要がある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi">表　４‐１６　化学構造により大別した天然着色料</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">（１）　カロテノイド系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アナトー色素，エビ色素，オキアミ色素，オレンジ色素，カニ色素，クチナシ色素，コーン色素，サフラン色素，抽出カロテン，トマト色素，パプリカ色素，ファフィア色素，ヘマトコッカス藻色素，マリーゴールド色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）　アントシアニン系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">赤キャベツ色素，赤米色素，シソ色素，チェリー色素，ダークスイートチエリー色素，モレロチェリー色素，ハイビスカス色素，ブドウ色素，プラム色素，紫イモ色素，紫コーン色素，紫ヤマイモ色素，ウグイスカグラ色素，エルダーベリー色素，カウベリー色素，，グースベリー色素，クランベリー色素，サーモンベリー色素，スイムブルベリー色素，ストロベリー色素，デュベリー色素，ハクルベリー色素，ブルーベリー色素，ブラックベリー色素，ブラックカーラント色素，ボイセンベリー色素，ホワートルベリー色素，マルベリー色素，ラズベリー色素，レッドカーラント色素，ローガンベリー色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（３）　フラボノイド系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">カカオ色素，カキ色素，カロブ色素，カンゾウ色素，クーロー色素，コウリャン色素，シアナット色素，シタン色素，スオウ色素，タマネギ色紫，タマリンド色素，ピーナッツ色素，ペカンナッツ色素，ベニバナ赤色素，ベニバナ黄色素，ルチン抽出物</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（４）　キノン系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アカネ色素，アルカネット色素，コチニール色素，シコン色素，ラック色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（５）　クロロフィル系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">クロロフィル，クロロフィリン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（６）　カーボン系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">炭末色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（７）　ベタシアニジン系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ビートレッド</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（８）　ジケトン系</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ウコン色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（９）　その他</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">イカスミ色素，カラメル，魚鱗箔，クサギ色素，クチナシ青色素，クチナシ赤色素，スピルリナ青色素，チコリ色素，ノリ色素，ベニコウジキ色素，ベニコウジ色素</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（１０）　金属</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アルミニウム，金，銀</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表　４‐１７　ＪＥＣＦＡによる安全性評価</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">５　食品添加物の使用実例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　新しい形態の食品が次々と開発されているので，食品添加物の使用実態も必ずしも一定していない．</sentence>
+<sentence>また最近<sampling type="end" />では消費者の要望に応じて食品添加物，特に着色料，保存料などの使用を控えたりまたは使用しないという実例が増えつつある．</sentence>
+</paragraph>
+</article>
+</sample>

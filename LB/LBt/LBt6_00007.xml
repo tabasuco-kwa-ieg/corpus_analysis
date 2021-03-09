@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt6_00007" version="1.0" type="fixedLength">
+<article articleID="LBt6_00007_F001">
+<paragraph>
+<sentence>　この改造は、もともとサシ１８１形１００番台が、交直両用特急車への改造をある程度考えて製作されていたため、枕バリの構造と強度が改造しやすくなっていたほか、台車もこれまでの<quote>「こだま」</quote>型ＴＲ５８系列（動力台車はＤＴ２３系列から、４８１系タイプのＴＲ６９系列（動力台車はＤＴ３２系列）を採用（ただし、１８１系グループ独特のＴＲ６９Ｃ、動力台車はＤＴ３２Ｃという形式）といった対策がしてあった。<sampling type="start" />このため改造は全面的なものではなかったが、それでも、<enclosedCharacter description="○">１</enclosedCharacter>枕バリ調節により１２５ｍｍの床面（全高）上げを行い、４８９系の高さにあわせた、<enclosedCharacter description="○">２</enclosedCharacter>４８９系用の引き通しを新設、<enclosedCharacter description="○">３</enclosedCharacter>４位側（調理室部側廊下の妻端）にもサシ４８１・４８９にならって回送運転台を新設したため、この位置にあったエアタオルの撤去と手洗い器の移設、交流の架線から電源を受け入れるためのの脈動対策ＭＧなどが行われている。担当は長野工場であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほかの点では、サシ４８９形になっても、サシ１８１形時代とほぼ同じで、台車や内装、向き（サシ４８１・４８９オリジナルとは逆で１・２位側が客食堂）、水タンク（サシ４８１・４８９形の１０００リットル×４に対して、１５００リットル×２と７００リットル×１）の面などで異彩を放っていた。</sentence>
+<sentence>この２両は、さすがに末期は予備軍的な扱いを金沢区で受けていたが、いちおうはサシ４８９形の営業が破滅するときまで在籍していた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>サシ１８１‐１０３から転用されたサシ４８９‐１０２は、車内に白馬の山並みのレリーフが残るなど、特徴的だった。</sentence>
+<sentence type="quasi">◎写真／岡本一夫</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">サシ４８１形とサシ４８９形の形式間改造と３ＭＧ化の話</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　サシ４８１形とサシ４８９形の間には、サシ４８９形からサシ４８１形になった車両と、さらに再びサシ４８９形に戻った履歴をもつ車両がある。</sentence>
+<sentence>そもそもこうした車両が生まれた原因は、１９７３〜７４年の豪雪の経験をもとに始まった電車特急形式の耐寒改造・３ＭＧ化にあり、これにあわせてサシ４８１形にも耐寒・３ＭＧ化に配慮した改造が行われるものが生じたことにある。</sentence>
+<sentence>少し難しくなるがこれらの改造を順に解説しておこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＭＧというのは、おもに空調や照明などの旅客サービスに使う電源を安定供給するための電気機器で、在来線電車特急の場合は<quote>「こだま形」</quote>特急登場以降、ＭＧは前後の先頭車（ボンネット部分や先頭部の床下や床上）に１台ずつ搭載され、ここからサービス電源用の配線が編成に引き通されて各車両のサービス用電源を前後の先頭車がそれぞれ半分ずつまかなうという設計となっていた。</sentence>
+<sentence>なお、食堂車は電気を大量に使うので、食堂車だけは１両単独で専用の小型ＭＧを持ち、自車の空調、照明、電気コンロ、冷蔵庫などの電源をまかなっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、雪国でこのＭＧの故障が頻発するようになった。</sentence>
+<sentence>原因は雪だけとは限らず、老朽化などによるものもあったが、これがサービス上の大きな問題となった。</sentence>
+<sentence>ＭＧの故障は走行性能自体にはあまり影響がないが、もし両端とも故障すると照明も空調も効かなくなる。</sentence>
+<sentence>また、片側のみが故障した場合は、非常手段と<sampling type="end" />して乗務員が車内の配電盤を手動操作し、生きている片側からサービス電源を編成全体に引き通してくる回路構成をとること（ＭＧ半減）が可能だが、この場合にはＭＧ容量（負荷）の関係から空調が効かなくなったり、照明がいくらか消えるということが生じるのだ。</sentence>
+</paragraph>
+</article>
+</sample>

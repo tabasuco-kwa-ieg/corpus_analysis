@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00041" version="1.0" type="fixedLength">
+<article articleID="LBm5_00041_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">マー<sampling type="start" />シュのさっぱり和え</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８６</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">タイム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヘルシーチキンロール</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８６</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">タイムの鯛ごはん</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８７</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">タイム風味の粉ふきいも</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８７</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">コリアンダー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">コリアンダーの生春巻き</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８８</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キムチチャーハン</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８８</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">フェンネル</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">サーモンのフェンネル風味蒸し</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８８</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">料理製作／尾崎　文</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フェンネルのクラムチャウダー</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">レシピ▶Ｐ８９</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐ６６〜８０の料理の作り方</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>＊分量、味つけは好みで加減してください。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">バジル</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">盛りだくさんのハーブサラダ（Ｐ６６）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●材料</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>ハーブはよく洗ってしっかりと水気をきり、適当な大きさに手でちぎる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>マッシュルームはスライスし、レモン汁をふっておく。</sentence>
+<sentence>クルミは食べやすい大きさに割る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>１と２を皿に盛り合わせ、エディブルフラワーを彩りよく飾り、好みのドレッシングをかける。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">盛りだくさんのハーブサラダ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">バジルとトマトのティーサンド（Ｐ６７）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●材料</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>トマトとカマンベールチーズは薄くスライスする。</sentence>
+<sentence>バジルは洗ってよく水気をきる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>パンにバターとマスタードをぬり、１のバジルとトマト、カマンベールチーズをのせてはさむ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>食べやすい大きさに切り、皿に盛る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">バジルとトマトのティーサンド</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">カマンベールのはさみ揚げ（Ｐ６７）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●材料（２人分）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>カマンベールチーズを食べやすい大きさに切り、さらに横に切り目を入れてバジルをはさむ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>１に小麦粉を水で溶いたころもをつけ、オリーブ油で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">カマンベールのはさみ揚げ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">アンチョビ、トマト、バジルのパスタ（Ｐ６８）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●材料（２人分）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>アンチョビ、ニンニクはみじん切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>トマトは皮と種を取って、さいの目に切り、バジルはせん切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>フライパンにオリーブ油大さじ３をひいて１を入れ、弱火でよく炒めてワインを加える。</sentence>
+<sentence>強火にしてひと煮立ちさせ、再び火を弱めて半量になるまで煮詰め、冷ます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>３にオリーブ油大さじ２〜３、こしょうを加えて混ぜる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>湯に塩を加え、カッペリーニを少しやわらかめにゆでて冷水にとる。</sentence>
+<sentence>さっと洗って冷たくし、水気をよくきる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>５を４の半分の量で和えて器に盛り、残りの４に２を加えて混ぜ合わせたものをのせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<sentence>＊トマトのほかにピーマンやたまねぎのみじん切りを加えてもおいしい。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">アンチョビ、トマト、バジルのパスタ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ミント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">鶏肉と夏野菜のトマト煮　ミント風味（Ｐ６９）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●材料（２人分）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>ミントはみじん切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>鶏肉はひとくち大に切り、塩少々とこしょうをふる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>なすはへたを取ってひとくち大に切り、ピーマンもへた、種を取ってひとくち大に切る。</sentence>
+<sentence>たまねぎは１ｃｍ角に切り、トマトはざく切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>ベーコンは<sampling type="end" />粗みじんに切り、ニンニクはみじん切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</article>
+</sample>

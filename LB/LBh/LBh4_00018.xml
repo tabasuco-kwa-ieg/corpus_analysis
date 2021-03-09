@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00018" version="1.0" type="fixedLength">
+<article articleID="LBh4_00018_F001">
+<paragraph>
+<sentence>通常の光反応はしきい値をもたないため、色変化をレーザー光を用いて読み出そうとすれば、その度ごと<sampling type="start" />にわずかずつにしても光反応が進み、読み出しを繰り返すと自然にメモリーは消滅してしまうことになる。</sentence>
+<sentence>このことを防ぐ方策を考えない限り、実用化できないことになる。</sentence>
+<sentence>現在、しきい値をもつ光反応系の構築に向けて精力的に研究が進められている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それでは、どのような光メモリーがフォトクロミック材料によりつくられると期待されているのであろうか？</sentence>
+<sentence>　そのいくつかを紹介する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先にも述べたように多重度が、現行の光メモリーよりも一〇倍以上なければ意味がない。</sentence>
+<sentence>それを実現する一つの方法は、波長多重記録である。</sentence>
+<sentence>図５に示す方式が提案されている。</sentence>
+<sentence>それぞれに吸収位置の異なるフォトクロミック分子を含む薄層を多層に組み合わせ、真上からみると、そのスペクトルはそれらの重ね合わせとなる。</sentence>
+<sentence>それぞれの吸収極大位置に合わせたレーザー光を照射すると、各フォトクロミック分子が独立に反応し層の数だけ多重度が向上することになる。</sentence>
+<sentence>超薄膜を用いれば、たとえ数十層重ねても一μｍ以下であり焦点深度についても問題はない。</sentence>
+<sentence>困難なのは、少しずつ吸収極大位置が異なり、なおかつ鋭い吸収をもつフォトクロミック分子を合成することである。</sentence>
+<sentence>現在五多重が実現している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もう一つの可能性は、ホログラフィックメモリーを用いることである。</sentence>
+<sentence>レーザー光を二本交差させ、深さ方向に干渉縞を記録することにより容易に多重度向上が可能である。</sentence>
+<sentence>アナログ的にホログラフィック像を書き込むことも可能であろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フォトクロミック分子を含むプラスチックブロックを用いた三次元メモリー材料の提案もある。</sentence>
+<sentence>フォトクロミック分子としてスピロベンゾピラン分子（図１<enclosedCharacter description="○">２</enclosedCharacter>の分子）を用いてモデル実験が行われている（図６）。</sentence>
+<sentence>スピロベンゾピラン分子は紫外部にしか吸収をもたないためＹＡ<ruby rubyText="ヤグ">Ｇ</ruby>レーザーの二倍波五三二ｎｍ光を照射しても反応することはない。</sentence>
+<sentence>しかし、このレーザー光を二本用いてそれらを交差させると、その交差点においては同時に二つの光子が吸収され（二六四ｎｍ光を照射したことに相当する）、フォトクロミック反応が誘起され青色に着色することが見いだされた。</sentence>
+<sentence>二本のレーザー光を適切に走査することにより、プラスチックブロック内の任意の場所に光情報を書き込めることが示されている。</sentence>
+<sentence>読み出しは、やはり一〇六四ｎｍ光の二光子（五三二ｎｍ光に相当する）励起により着色体を発光させ、発光強度を測定することによりどの場所に記録されたかを検出することにより行っている。</sentence>
+<sentence>この方式を用いれば一ｃｍ<superScript>３</superScript>角のブロックに現在のコンパクトディスクの一〇〇倍以上の<sampling type="end" />情報がメモリーされることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

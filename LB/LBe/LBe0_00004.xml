@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe0_00004" version="1.0" type="fixedLength">
+<article articleID="LBe0_00004_F001">
+<list>
+<listItem>
+<sentence type="quasi">「今<sampling type="start" />は五月だ」</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">「五月は春だ」</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">「楓の葉は、春と夏には緑色、秋には赤色である」</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>などというのがその守備範囲ということになる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ところでこういった例は、少しばかり興ざめではなかろうか？</sentence>
+<sentence>　というのは、〈知〉とは、単なる知識の断片ではなく、それらを包括し、横断しながら世界に光を当てていく精神のダイナミズムのように思えるからである。</sentence>
+<sentence>〈知〉はイマジネーションの能力を持たなければならない。</sentence>
+<sentence>さらに〈知〉は、スポーツのような身体の所作にうめこまれている、明言化されない暗黙知の領域をもカバーしなければならない。</sentence>
+<sentence>それこそが、知の知たるゆえんではないだろうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　残念ながら、現在の人工知能技術は、この期待に応えるすべを知らない。</sentence>
+<sentence>それはいまだに、図像さえ自由自在には扱えないのである。</sentence>
+<sentence>英語や日本語などの〈自然言語〉を操作するだけでも四苦八苦なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　だがともかく、中身のしかけを覗いてみることにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人工知能における〈知〉とは、断片的な〈知識〉の集積体と、それらの知識を相互に関係づける〈推論〉のメカニズムからできあがっている。</sentence>
+<sentence>〈知識〉というのは、先にあげた<quote>「今は五月だ」</quote><quote>「五月は春だ」</quote><quote>「楓の葉は、春と秋には緑色、秋には赤色である」</quote>といったものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　ここで、ある五月晴れの日に、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「今、楓の葉は何色ですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>という質問をコンピュータにしたとする。</sentence>
+<sentence type="quasi">すると、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「緑色です」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>という答えがかえってくるだろう。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　まさにメデタシ、メデタシである。</sentence>
+<sentence>紅葉も悪くはないが、春から初夏にかけての若葉の緑もまたハッと息を呑むほどだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じ質問をしても、人工知能実用化以前の従来のコンピュータではこうはいかない。</sentence>
+<sentence>従来のコンピュータでは、まず<quote>「<sentence>今、楓の葉は何色ですか？</sentence>
+」</quote>という自然言語による問いかけを受けつけてくれない。</sentence>
+<sentence><quote>「楓」</quote>についての情報をデータ・ベースから検索するには、形式の決まったややこしい検索命令を入力しなければならない。</sentence>
+<sentence type="quasi">この難行苦行に耐えたところで、返ってくるのはせいぜい、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「双子葉植物鋼、離弁花亜鋼、無患子目。</sentence>
+<sentence>落葉喬木。</sentence>
+<sentence>葉は掌状。</sentence>
+<sentence type="quasi">落葉直前に紅葉する</sentence>
+」</quote>といった百科辞典風の出力のみだろう。</sentence>
+<sentence>質問者が小学生なら、この検索結果はほとんど役に立たない。</sentence>
+<sentence>いやむしろ、<quote>「赤色」</quote>という誤解を導いてしまうのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人工知能コンピュータでは、なぜ期待通りの答えが返ってくるのだろうか？</sentence>
+<sentence type="quasi">　それは、すでにのべた三つの〈知識〉をくみあわせ、〈推論〉によって、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">「今は、楓の葉は緑色である」</sentence>
+<br type="automatic_original" />
+<sentence>という答えをプロデュースできるからである。</sentence>
+<sentence>ここに、人工知能というコンピュータ技術のきわだった特長がある。</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<paragraph>
+<sentence>　およそ、世界にひしめく宣言的な知識の量は無尽蔵である。</sentence>
+<sentence>それらをすべてデータ・ベースに入れることは不可能である。</sentence>
+<sentence>たしかにメモリ素子の値<sampling type="end" />段は大いに下がった。</sentence>
+</paragraph>
+</article>
+</sample>

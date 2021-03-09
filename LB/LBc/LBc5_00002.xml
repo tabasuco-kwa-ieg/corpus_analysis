@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc5_00002" version="1.0" type="fixedLength">
+<article articleID="LBc5_00002_F001">
+<paragraph>
+<sentence>　<sampling type="start" />この著書の江戸前島に関する部分だけを要約して紹介すると、書き出しの部分の《よみがえる室町時代の人々》の章で、まず大正二年（一九一三）に江戸城三十六見附の一つだった鍛冶橋門の鍛冶橋（千代田区丸の内三丁目の都庁第二庁舎の北東の<ruby rubyText="かど">角</ruby>にあった）かけかえ工事の時に発見された、二三個の中世人の頭骨、うち三個は重症梅毒患者の頭骨を―これを著者は“鍛冶橋人”と呼ぶが、この鍛冶橋人と現代日本人の頭骨の寸法の比較からはじまる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして鍛冶橋辺一帯は江戸前島の一部であるとして、東京駅を中心にした現代地形図（原図は深田地質研究所作成）を掲げたうえで<noteMarker text="▼" />、江戸前島が記されている古文書をつぎのように並べて紹介している（ここでは各文書の年代と文書名および地名だけを引用して、各文書の内容は省略する）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>▼これより早く湊正雄・井尻正二著『日本列島』（岩波新書、昭和三十三年刊）にもこの地質図は掲載されている。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">○弘長元年（一二六一）<quote>「関興寺文書」</quote>中の平重長より五代右衛門尉あての書状にみえる<quote>「武蔵国豊島郡江戸郷之内前島村」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">○正和四年（一三一四）<quote>「円覚寺文書目録」</quote>にある<quote>「前島村」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">○建武四年（一三三七）<quote>「足利直義教書」</quote>にある<quote>「江戸郷内前島村」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">○永和三年（一三七七）<quote>「官宣旨」</quote>の中の<quote>「江戸郷内前島村」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">○応永二十六年（一四一九）<quote>「足利持氏教書」</quote>中の<quote>「江戸前島森木村」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<sentence type="quasi">などを挙げたうえで、</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<paragraph>
+<sentence>　この前島の名は、なぜか近世には消えてしまった。</sentence>
+<sentence>菊池山哉氏は、この地をもって東京駅付近に当てている（中略）、吉田東伍博士は『地名辞書』の中で（中略）江戸前島は今の茅場町か、通町、四日市辺か、八代州河岸辺か（中略）、やはり菊池と同意見であることがわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もし、この見解が正しいとすれば、鍛冶橋頭骨が発見された問題の場所は、中世の前島または前島の森木村であったにちがいない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<sentence>とのべている。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">円覚寺文書</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　右の五点の文書のうち最初の<quote>「関興寺文書」</quote>のほかは、『鎌倉市史』史料篇第二に収められた<quote>「円覚寺文書」</quote>にあるものばかりである。</sentence>
+<sentence>ここで簡単にこの史料集を説明すると、本寺である円覚寺と、その<ruby rubyText="たっ">塔</ruby><ruby rubyText="ちゅう">頭</ruby>（子院）である雲頂庵、臥竜庵、帰源院、蔵六庵などのもので、合計四八九通の文書が活字化されたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そしてこれらの文書群の年代は天養元年（一一四四）から慶安元年（一六四八）までの、約五百年間の期間にわたる（年代未詳文書は除いた）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この文書群の特徴は、円覚寺の宗教活動を中心としたものではなく、荘園や所領の領主としての状況がわかるものが大部分をしめる。</sentence>
+<sentence>つまりその時々の権力者が円覚寺に荘園や領地を寄進したり、<ruby rubyText="あん">安</ruby><ruby rubyText="ど">堵</ruby>（それまでの“所有権”を、新しい権力者が再確認すること）したことをしめす証拠書類が中心である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　円覚寺の宗教上の沿革<sampling type="end" />は、弘安五年（一二八二）に北条時宗が宋からの渡来僧である祖元を開山として建立した寺である（ただし<quote>「円覚寺文書」</quote>にはそれ以前の“原形”に関連する史料もふくまれている）。</sentence>
+</paragraph>
+</article>
+</sample>

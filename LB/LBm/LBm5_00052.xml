@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00052" version="1.0" type="fixedLength">
+<article articleID="LBm5_00052_F001">
+<paragraph>
+<sentence><quote><sentence>「バッキンガムシャーにいたときは、利用客はロンドンのホテルに泊まっていたし、ミュージシャンにしてもあそこまで通うのは一苦<sampling type="start" />労だった。</sentence>
+<sentence type="quasi">アビイ・ロードに場所が移ったのはありがたいと、みんなに言われたよ</sentence>
+」</quote>。</sentence>
+<sentence>新設された映画音楽部門の問題を処理するために、専任のテクニカル・エンジニアが配置されると、以来仕事はぐんとスムーズにはかどった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　映画音楽の録音は、レコードの録音とはだいぶ異なる。</sentence>
+<sentence>最大の技術的な違いは“シンクロナイゼーション＝映像と音声の同期”だ。</sentence>
+<sentence>映画の場合、映像が作品化されてからの作業はすべて、画面の絵と完全にタイミングを合わせなければならない。</sentence>
+<sentence>セリフや効果音、そしてアビイ・ロードがかかわるところでは音楽を、完成した映像とぴったり同期させるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最近まで、この重要なタイミング合わせを確実に行う唯一の手立ては、スプロケット・テープ<noteMarker text="＊＊" />を使うことだった。</sentence>
+<sentence>これは通常の録音テープにも似た、磁気コーティングした３５ｍｍフィルムで、映画業界では“マグ”と呼ばれる。</sentence>
+<sentence>何台もの３５ｍｍマシンにセッティングされたさまざまな要素が、マグあるいはフィルムに直接書きこまれた頭出しの印に合わせてセッティングされ、映写機をスタートさせると同時に一斉スタートするようになっていた。</sentence>
+<sentence>すべての機材が同一の三相電源によって制御されている限り（セルシンクと呼ばれるシステム）、全装置を完全に同期させることができる。</sentence>
+<sentence>映画制作の最終段階であるこの処理加工は“ダビング”といわれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊＊　スプロケット・テープ：フィルム型（上下に歯車が噛み合う穴＝パーフォレイションを持った）シネ・テープのこと。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　映画音楽に関しては、従来のマルチトラック・レコーダーを使う別の同期システムも考案された。</sentence>
+<sentence>テープの１トラックに交流電源から同期信号としてパルス（イギリスでは５０ヘルツ）を入れておくというやり方である。</sentence>
+<sentence>このパルスに適正なテクノロジーを補足すると、プレイバック時には映写機に、最終的なマスタリングでは３５ｍｍマグ・マシンに、音楽を同期させることが可能になった。</sentence>
+<sentence>そして最後にミキシングされたものが、ダビング段階で編集されるわけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　映画のスコアについて２つめの大きな違いは、音楽そのもの、もっと正確には音楽の作り手である。</sentence>
+<sentence><quote>「音楽的な手腕もさることながら、画面を見て、これから書く音楽が映画にどんな効果をもたらすべきかを理解する能力がないといけない」</quote>と、著名な映画音楽作曲家ジョージ・フェントンは言う。</sentence>
+<sentence><quote><sentence>「観客を感動させるポイントを知ることだ。</sentence>
+<sentence>音楽なしで映画を見たら、感動するとは限らない場面でもね。</sentence>
+<sentence type="quasi">逆に、あまり感動させてはいけない場面もある</sentence>
+」</quote>。</sentence>
+<sentence>スタインウェイのピアノ調律師ヴァル・ベヴァトンは、数年前にアビイ・ロードで、フェントンが言うような感<sampling type="end" />情の高まりを経験した。</sentence>
+</paragraph>
+</article>
+</sample>

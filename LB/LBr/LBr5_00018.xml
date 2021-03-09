@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00018" version="1.0" type="fixedLength">
+<article articleID="LBr5_00018_F001">
+<paragraph>
+<sentence>　いま仮に、はく離強さが<sampling type="start" />メートル幅あたりに換算してｙＮあったとしましょう。</sentence>
+<sentence>はく離強さはｙＮ／ｍとなります。</sentence>
+<sentence>分母と分子に長さの単位ｍをかけますとｙＮ×ｍ／ｃｍ<superScript>２</superScript>となります。</sentence>
+<sentence>力と距離を掛けたものはエネルギーで、Ｎ×ｍはＪですから、単位はｙＪ／ｍ<superScript>２</superScript>というエネルギー単位になります。</sentence>
+<sentence>つまり、１ｍ<superScript>２</superScript>をはく離するに必要なエネルギーということになるのです。</sentence>
+<sentence>はく離強さは、簡単にはく離エネルギーに換算できるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">要点ＢＯＸ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">●はく離強さのはく離エネルギーへの換算</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１　はく離エネルギーの説明</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２　Ｔ型はく離試験を行ったときの破壊荷重とはく離距離との関係</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４４　はく離エネルギーと接着仕事</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>真のはく離エネルギーの求め方？</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　はく離強さが、ｔａｎδの大きさに依存することから、はく離試験では、はく離端においてクラックが進行するために必要なエネルギー以外に、熱として逃げていくエネルギーも含めて測定していることになります。</sentence>
+<sentence>したがって、実際に測定して得られるはく離エネルギーは、接着剤の粘弾性による効果を大きく受けていることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際に測定されたはく離エネルギーから、粘弾性の効果を差し引いて、はく離端におけるクラック進行のために必要なエネルギーだけを求める方法を提案した研究者たちがいます。</sentence>
+<sentence>英国のアンドリュース一派です。</sentence>
+<sentence>彼らは、巧みな方法を考案し、実測されるはく離エネルギーから粘弾性による効果を差し引いたはく離エネルギー、言葉を変えて言えば真のはく離エネルギーを求め、被着材と接着剤の表面自由エネルギーから計算される接着仕事と比較しています。</sentence>
+<sentence>彼らの結果の一部を表に示しました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フッ素系樹脂のエッチングは、ナトリウム・ナフタレンという薬剤を用いており、処理時間を変えています。</sentence>
+<sentence>この処理は、フッ素系樹脂に接着性を与える表面処理法なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表の中身に移りましょう。</sentence>
+<sentence>まず実測のはく離エネルギーは、すべての場合に真のはく離エネルギーの約１００倍です。</sentence>
+<sentence>粘弾性効果により、はく離エネルギーが１００倍に増幅されているのです。</sentence>
+<sentence>ＦＥＰＡから、プラズマ処理ＦＥＰＡまでの４種の被着材では、接着仕事と真のはく離エネルギーとがほぼ同じ値です。</sentence>
+<sentence>接着仕事は接触角と表面張力から求めますから、分子間力を前提にして決めたものです。</sentence>
+<sentence>したがって、これらの場合は、界面での相互作用力が分子間力だけということになります。</sentence>
+<sentence>ＦＥＰＡにエッチングを施しますと真のはく離エネルギーが大きくなります。</sentence>
+<sentence>界面に化学結合が導入された結果と主張しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">要点ＢＯＸ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●はく離エネルギーは接着剤の粘弾性の影響を大きく受ける</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●真のは<sampling type="end" />く離エネルギーの求め方が提案されている</sentence>
+</listItem>
+</list>
+</article>
+</sample>

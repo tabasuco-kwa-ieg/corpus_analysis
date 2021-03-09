@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00006" version="1.0" type="fixedLength">
+<article articleID="LBo5_00006_F001">
+<paragraph>
+<sentence>　また、ＰＣカード型の無線ＬＡＮカードですから、基本的<sampling type="start" />にはＰＣカードスロットを持つノートパソコンが対象です。</sentence>
+<sentence>デスクトップパソコンで使う場合は、ＰＣカードスロット付きの機種を使うか、ＰＣカードスロットを増設する必要があります。</sentence>
+<sentence>ＳＳ無線方式を採用する<quote>「ＭＮ１２８　ＳＳ‐ＬＡＮ　Ｃａｒｄ　１０」</quote>は、１Ｍｂｐｓ、２Ｍｂｐｓ、１０Ｍｂｐｓの３通りの伝送速度に対応しており、伝送方式は１／２Ｍｂｐｓ時は<quote>「ＩＥＥＥ８０２．１」</quote>、つまりイーサネット互換ですが、１０Ｍｂｐｓ時にはイーサネット互換ではなく独自伝送規格となります。</sentence>
+<sentence>いずれにしても、付属のパソコン用のドライバを使えば簡単にＬＡＮカードとして認識します。</sentence>
+<sentence>有線ＬＡＮと混在するネットワークの構築も可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅴ・４　<quote>「ＭＮ１２８‐ＳＯＨＯ　Ｓｌｏｔｉｎ　ＡｉｒＰａｃｋ」</quote>（ＮＴＴ‐ＭＥ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅴ・５　<quote>「ＤＲ‐１ＷＬ」</quote>（アイコム）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅴ・６　<quote>「ＷＬＡＲ‐１２８」</quote>（メルコ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４　携帯電話への対応</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＮＴＴドコモのｉモードに代表されるようにＷｅｂアクセス機能を持ち、電子メールの送受信が可能な携帯電話が爆発的に普及しています。</sentence>
+<sentence>ＩＳＤＮルーターも、こうした携帯電話ユーザーに対応する機能が求められつつあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、前述したように現在ＩＳＤＮルーターのセールスポイントとなりつつあるのは、携帯電話へのメール転送機能です。</sentence>
+<sentence>ＩＳＤＮルーター本体の機能で定期的にＰＯＰ３サーバーへ電子メールを取りに行き、それを携帯電話に転送します。</sentence>
+<sentence>パソコンを起動している必要はありません。</sentence>
+<sentence>複数のＰＯＰ３サーバーを設定できるので、日常使っているパソコン用の電子メールアドレスを自由に設定して携帯電話に転送できます。</sentence>
+<sentence>電子メールを受信できる携帯電話やＰＨＳならメーカーや機種を問わず利用できるわけです。</sentence>
+<sentence>また、機種によってはサーバーへ取りに行く時間の間隔や、転送時間の間隔を自由に設定できるほか、特定のヘッダ情報（メールに自動添付される詳細な送受信情報）を持つ電子メールだけを転送するような設定も可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　携帯電話やＰＨＳを使ってモバイルパソコンを利用するユーザーの増加に伴い、リモートアクセス機能も必須となりつつあります　Ⅲ・４・２。</sentence>
+<sentence>そのほか、カード型ＰＨＳをデータ伝送路に利用できる機種もあるなど、携帯電話やＰＨＳとの連携機能は拡充する方向にあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">５　ネットワークゲームへの対応</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＩＳＤＮルーターを介してインターネットに接続した場合、<quote>「Ｄｉａｂｌｏ２」</quote>、<quote>「Ａｇｅ　ｏｆ　Ｋｉｎｇｄｏｍ」</quote>といった一部のネットワークゲームができないことがあります。</sentence>
+<sentence>これは、ネットワークゲームの端末となるパソコンにはグローバルＩＰアドレスが必要なケー<sampling type="end" />スがあるからです。</sentence>
+</paragraph>
+</article>
+</sample>

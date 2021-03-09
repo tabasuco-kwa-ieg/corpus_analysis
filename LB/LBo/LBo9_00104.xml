@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo9_00104" version="1.0" type="fixedLength">
+<article articleID="LBo9_00104_F001">
+<sentence>兵士たちはあわてて船を岸に近<sampling type="start" />づけた。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　関羽は、<ruby rubyText="かん">甘</ruby>・<ruby rubyText="び">糜</ruby>二夫人を船に乗せ、黄河を渡った。</sentence>
+<sentence>黄河を渡れば、もう袁紹の勢力圏である。</sentence>
+<sentence>関羽は結局、五つの関所で六人の将を斬ったことになる。</sentence>
+<sentence>後世の人が詩を作って、詠嘆している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="old" />
+<verse>
+<sentence type="verse">官印を掛け、金銀を封印して漢の丞相曹操のもとを辞し、<verseLine />兄劉備をたずねてはるかな道のりを帰ってゆく関羽。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">一日に千里を走る赤兎馬に騎り、<verseLine />青竜<ruby rubyText="えん">偃</ruby><ruby rubyText="げつ">月</ruby><ruby rubyText="とう">刀</ruby>を手に五つの関所を出た。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">その忠義は大空高く飛びあがり、<verseLine />その英雄ぶりはこれ以後、国中に響きわたった。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">たったひとりで行く先々に武将を斬りまくり、まさに向かうところ敵なし。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">そのさまは、文筆の中にいつまでも書きとどめられるであろう。<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">汝南へ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　関羽は馬上で嘆じながら、言った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「わたしはこの道中、人を殺そうと思ってきたわけではなかった。</sentence>
+<sentence>やむを得なかったのだ。</sentence>
+<sentence type="quasi">しかし、曹公がこれを知ったら、きっとわたしを恩義に<ruby rubyText="そむ">背</ruby>いた人間と思われるであろう」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そうして進むうち、北方から馬を飛ばしてひとりの者が駆けてきた。</sentence>
+<sentence type="quasi">そして、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「雲長どの、しばしお止まりください」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と大声で叫んだ。</sentence>
+<sentence>関羽が馬を止めて、よく見れば、<ruby rubyText="そん">孫</ruby><ruby rubyText="けん">乾</ruby>である。</sentence>
+<sentence type="quasi">関羽は、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「<ruby rubyText="じょ">汝</ruby><ruby rubyText="なん">南</ruby>で別れて以来、その後どうしていた」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と問うた。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　「<ruby rubyText="りゅう">劉</ruby><ruby rubyText="へき">辟</ruby>・<ruby rubyText="きょう">龔</ruby><ruby rubyText="と">都</ruby>は、将軍が軍を引き揚げられたあと、再び汝南を奪回いたしました。そしてわたくしを<ruby rubyText="か">河</ruby><ruby rubyText="ほく">北</ruby>に派遣し、<ruby rubyText="えん">袁</ruby><ruby rubyText="しょう">紹</ruby>と手を結び、玄徳どのと協力して曹操を破る計を実行しようといたしました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>ところが、まったく予想外のことに、河北の将士は、たがいに<ruby rubyText="しっ">嫉</ruby><ruby rubyText="と">妬</ruby>しあい、憎みあっていたのでございます。</sentence>
+<sentence>そのため、<ruby rubyText="でん">田</ruby><ruby rubyText="ぽう">豊</ruby>はいまだに獄中にあり、<ruby rubyText="そ">沮</ruby><ruby rubyText="じゅ">授</ruby>は<ruby rubyText="うと">疎</ruby>んじられて用いられず、<ruby rubyText="しん">審</ruby><ruby rubyText="ぱい">配</ruby>と<ruby rubyText="かく">郭</ruby><ruby rubyText="と">図</ruby>は権力争いに終始しております。</sentence>
+<sentence>袁紹は、と申しますと、疑り深くて、あれやこれやと考えがまとまらず、どうにもなりません。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi"><sentence>　そこでわたくしは<ruby rubyText="りゅう">劉</ruby><ruby rubyText="こう">皇</ruby><ruby rubyText="しゅく">叔</ruby>と相談いたしまして、まず袁紹のもとから身を脱するのが先決問題だということになりました。</sentence>
+<sentence>ただ今、皇叔は汝南へ、劉辟と合流するために向かっておられます。</sentence>
+<sentence>将軍どのがそれをご存じなくて、袁紹のところへ行かれましたなら、殺害されかねません。</sentence>
+<sentence>そこで、わざわざわたくしにお命じになって、道中で将軍どのを迎えさせたという次第です。</sentence>
+<sentence>幸い、ここでお目にかかれました。</sentence>
+<sentence type="quasi">将軍どの、すみやかに汝南へ行って皇叔とお会いなさいませ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　関羽は孫乾を二夫人に引きあわせた。</sentence>
+<sentence type="quasi">夫人たちが劉備の動静を問うと、孫乾は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「袁紹は、関将軍が<ruby rubyText="がん">顔</ruby><ruby rubyText="りょう">良</ruby>を斬った時と<ruby rubyText="ぶん">文</ruby><ruby rubyText="しゅう">醜</ruby>を斬った時の二回、皇叔を殺そうとしましたが、今、幸いにして身を脱せられ、汝南に行かれました。</sentence>
+<sentence type="quasi">奥方さまたちは、汝南で皇叔に会うことが可能でございます」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と答えた。</sentence>
+<sentence>二夫人は感激のあまり、顔をおおって泣き出した。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　関羽は孫乾の言葉に従い、袁紹<sampling type="end" />のもとには行かず、汝南へと方向を転じた。</sentence>
+</paragraph>
+</article>
+</sample>

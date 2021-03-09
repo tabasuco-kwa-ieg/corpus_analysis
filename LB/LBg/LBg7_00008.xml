@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg7_00008" version="1.0" type="fixedLength">
+<article articleID="LBg7_00008_F001">
+<paragraph>
+<sentence>特に決まっ<sampling type="start" />たリーダーがいなければ、−２（動物には当てはまりません）。</sentence>
+<sentence>その他、ＧＭの判断による修正（たとえば、一方が他方より用心深かったと思えるような場合）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先制した側は、通常通り移動や行動を行ないます。</sentence>
+<sentence>先制できなかった側のキャラクターは、それぞれ精神的に朦朧状態で、平静を取り戻すには、知力判定を毎ターン行なわねばなりません。</sentence>
+<sentence>ただし、不完全な不意討ちの場合、第２ターンには＋１、第３ターンには＋２…というように知力判定にプラス修正があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">盾での攻撃</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　盾は、文明レベルの低い武器に対する優れた防御になりますが、攻撃にも用いることができます。</sentence>
+<sentence>盾で攻撃する場合、〈盾〉技能が基準になります。</sentence>
+<sentence>自分の正面、あるいは左側のヘクスにいるキャラクターしか攻撃できません。</sentence>
+<sentence>敵は<quote>「よけ」</quote>や<quote>「止め」</quote>は通常通り行なえますが、<quote>「受け」</quote>には−２のペナルティーがあります。</sentence>
+<sentence>重さが１ｋｇ以下の武器では、盾の攻撃を<quote>「受け」</quote>ることはできません！</sentence>
+<sentence>　盾の攻撃は<quote>「突き」</quote>の<quote>「叩き」</quote>ダメージを与えます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　盾のなかにはスパイク（とげ）をつけたものもあり、ダメージに＋１します。</sentence>
+<sentence>スパイクは、１本で重さが２．５ｋｇ、価格が２０ドル増しになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">異なる高さでの戦闘</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　自分と敵の高さが違えば、その高さの差が戦闘に影響を及ぼします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>高さの差が３０ｃｍ以下：高さの差は無視します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が６０ｃｍ以内：命中部位のルールを用いていないかぎり、高さの差は無視します。</sentence>
+<sentence>命中部位のルールを用いていれば、高い側が敵の足を攻撃するときには−２、頭を攻撃するときには＋１の修正があります。</sentence>
+<sentence>低い側は、足を攻撃するなら＋２、頭を攻撃するなら−２の修正になります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が１ｍ以内：差が６０ｃｍ以内の場合と同じですが、低い側の防御判定は−１、高い側の防御判定は＋１の修正を受けます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が１．３ｍ以内：差が１ｍ以内の場合と同じですが、防御判定の修正はそれぞれ−２、＋２になります。</sentence>
+<sentence>また、高い側は、敵の足を攻撃できません。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が１．６ｍ以内：差が１ｍ以内の場合と同じですが、防御判定の修正はそれぞれ−３、＋３になります。</sentence>
+<sentence>低い側は、敵の頭を攻撃できません。</sentence>
+<sentence>高い側は、敵の足を攻撃できません。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が２ｍ以内：高い側は、敵の頭しか攻撃できません。</sentence>
+<sentence>低い側は、敵の足しか攻撃できません。</sentence>
+<sentence>防御判定の修正は−３、＋３です。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>高さの差が２ｍを超える：基本的に、戦うことはできません。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　距離は、常識を働かせ、お互い同意したうえで設定します。</sentence>
+<sentence>普通の階段は、１段で２０ｃｍです（３０ｃｍとしてもかまいません）。</sentence>
+<sentence>椅子の座部は６０ｃｍほどです。</sentence>
+<sentence>普通の食卓は１ｍ未満、店のカウンターなら１．３ｍというところでしょう。</sentence>
+<sentence>車のボンネットや荷馬車の荷台は１ｍ、車の屋根や<sampling type="end" />荷馬車の座席は１．３ｍぐらいです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

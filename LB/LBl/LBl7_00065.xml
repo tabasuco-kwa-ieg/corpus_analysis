@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl7_00065" version="1.0" type="fixedLength">
+<article articleID="LBl7_00065_F001">
+<paragraph>
+<sentence>　<sampling type="start" />映像をデジタル情報として扱うメリットは数多い。</sentence>
+<sentence type="quasi">代表的なものをいくつかあげると、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）　撮ったその場で映像が見られる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（２）　デジタル信号としてパソコンで容易に扱える。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（３）　コピーを繰り返しても映像が劣化しない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（４）　ランダムアクセスが可能なので、撮影した映像を素早く呼び出せる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>という４点があげられる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　現像が不要で、撮ったその場で映像が確認できるのは、従来の現像が必要なフィルムでは考えられなかったこと。</sentence>
+<sentence>ここが決定的な差になっている。</sentence>
+<sentence>また、従来の写真に特殊な効果をつけようとすると、高度なテクニックと暗室、それなりの設備が必要になるが、デジタル映像はパソコンで簡単に扱えるため、誰でも自由に創造性を発揮できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フィルムに記録する普通のカメラと半導体に記録するデジタルカメラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＣＣＤの概念図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＣＭＹＧの代わりにＲＧＢのマスクパターンを用いることもある</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">光の三原色、ＲＧＢ、ＣＭＹＧの関係</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■まったく新しい創造のツール</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　デジタルスチルカメラは、これまでできなかったことを可能にしてくれた創造のツールだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　撮影した映像を自由に加工できるという意味だけではない。</sentence>
+<sentence>映像の記録には繰り返し利用できる半導体メモリを使っているので、フィルム代や現像代がまったくいらないのだ。</sentence>
+<sentence>また、カメラの半導体メモリに記録された映像は、簡単な装置でパソコンに転送できるので、ハードディスクに保存しておくこともできる。</sentence>
+<sentence>難しくいえば、記録するメディアが異なっても情報を転送でき、その情報がまったく変質、劣化しないのはデジタルならではの特性なのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この特性と、メリットの最初にあげた、撮った映像をすぐその場で確認できることを組み合わせれば、映像がメモのように利用できる。</sentence>
+<sentence>ビジネスや日々の暮らしに新しい可能性が開け、知的生活を豊かにしてくれるといえるだろう。</sentence>
+<sentence>どうやって使うかも個人の自由に任されているが、この本では創造の翼を広げられるよう、できるだけ多くのヒントを盛り込んでいきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■特性に合わせて使い分けよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　デジタル映像のメリットをいくつかあげたが、デメリットも存在する。</sentence>
+<sentence>その筆頭に数えられるのが画質の問題だ。</sentence>
+<sentence>写真用フィルムでは、光に当たると化学変化を起こす塩化銀が使われている。</sentence>
+<sentence>このことから、従来のフィルムによる写真を銀塩写真と呼ぶこともある。</sentence>
+<sentence>普通に使われている３５ｍ／ｍフィルム１コマの粒子の数を、画素という単位で表すと、露出や現像が最高の条件で行われたときには、約１８００万画素に達するという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　画素という単位はＣＣＤで用いられるもので、受光素子の数を表すのに使われている。</sentence>
+<sentence>Ｐｉｃ<sampling type="end" />ｏｎａで使われているＣＣＤは約３５万画素。</sentence>
+</paragraph>
+</article>
+</sample>

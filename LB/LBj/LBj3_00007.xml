@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj3_00007" version="1.0" type="fixedLength">
+<article articleID="LBj3_00007_F001">
+<list>
+<listItem>
+<sentence>（備考２）　３拍以上でも，繰り返<sampling type="start" />して一つのまとまった意味をもつ語となる場合と連濁する場合は，続けて書き表す。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　オモイオモイ（思い思い）　ウツラウツラ（うつらうつら）　オソルオソル（恐る恐る）　グデングデン　シラズシラズ（知らず知らず）　ワカレワカレ（別れ別れ）　カエスガエス（返す返す）　トコロドコロ（所々）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">３　固有名詞内部の切れ続き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　固有名詞内部の切れ続きのよりどころは，原則として自立語内部の切れ続きの場合と同じである。</sentence>
+<sentence>ただし，固有名詞の内部及び固有名詞と普通名詞や接尾語との間では，自立可能な意味の成分と副次的な意味の成分に多少独特の性質があるので，その点を配慮する必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　人名</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ア　名字と名前</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人名の名字と名前の間は，区切って書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　ユカワ□ヒデキ（湯川秀樹）　カワバタ□ヤスナリ（川端康成）　シュー□オンライ（周恩来）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（備考）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　外国の人名のうち，２拍以下の名字や名前は，他と続けるか，つなぎ符類を挟んで続けて書き表してもよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　レオナルド□ダ□ビンチ（レオナルド□ダビンチ，レオナルド□ダ<rejectedSpan type="etc"></rejectedSpan>ビンチ）　トホ（杜甫）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">イ　人名と敬称など</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人名の後ろに敬称，尊称，官位及び接尾語や造語要素などが続く場合，それらが３拍以上であれば，その境目で区切る。</sentence>
+<sentence>また，２拍以下の副次的な意味の成分は，前に続けることを原則とするが，つなぎ符類を挟んで続けて書き表してもよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　トモナガ□シンイチロー□ハクシ（朝永振一郎博士）　フクザワ□ユキチ□センセイ（福沢諭吉先生）　シブサワ□ダンシャク（渋沢男爵）　アマテラス□オオミカミ（天照大神）　イザナギノ□ミコト（伊奘諾尊）　オオアマノ□オージ（大海人皇子）　ヌカタノ□オオキミ（額田王）　ヤマガタコー（山県侯）　ハムレットテキ（ハムレット的）　アクタガワショー（芥川賞）　オイチノカタ（お市の方）　オオトモノミコ（大友皇子）　サツマノカミ（薩摩守）　ベーチェットビョー（ベーチェット病）　オオタケ（オオタ<rejectedSpan type="etc"></rejectedSpan>ケ）（太田家）　ラッセルキョー（ラッセル<rejectedSpan type="etc"></rejectedSpan>キョー）（ラッセル卿）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（注意）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　２拍以下であっても自立可能な意味の成分であれば，前を区切って書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　テラダ□トラヒコ□チョ（寺田寅彦著）　タキ□レンタロー□キョク（滝廉太郎曲）　ウエダ□ビン□ヤク（上田敏訳）　マサオカ□シキ□キ（正岡子規記）　シェークスピア□サク（作）　リンカーン□ダン（談）　ガン□シンケイ□ショ（顔真卿書）　タケヒサ□ユメジ□エ（竹久夢二絵）　アイコ□オバ（愛子叔母）　ゲン□オジ（源伯父）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ウ　<quote>「さん」</quote>，<quote>「様」</quote>，<quote>「君」</quote>など</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「さん」</quote>，<quote>「様」</quote>，<quote>「君」</quote>，<quote>「殿」</quote>，<quote>「氏（し）」</quote>，<quote>「氏（うじ）」</quote>については，人名を浮き出させるために人名との間を区切って書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　イトー□ヒロブミ□サマ（伊藤博文様）　オオクマ□シゲノブ□ドノ（大隈重信殿）　イシカワ□クラジ□シ（石川倉次氏）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（注意１）　一族を表す氏名（うじめい）は，続けて書き表す。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　ソガシト□モノノベシ（蘇我氏と物部氏）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<titleBlock>
+<title>
+<sentence type="quasi">（注意２）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　愛称，親称，短縮形などの場合は，続けて書<sampling type="end" />き表す。</sentence>
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

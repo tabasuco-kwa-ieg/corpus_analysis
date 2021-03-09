@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk8_00001" version="1.0" type="fixedLength">
+<article articleID="LBk8_00001_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">お天<sampling type="start" />気</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">財布がカラッポのこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">たこ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">自分の実力を自慢すること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">金星</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>平幕力士が横綱を倒すこと。</sentence>
+<sentence type="quasi">または、いい女、美人のことを指す</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">銀星</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相撲で平幕力士が大関を倒すこと。</sentence>
+<sentence type="quasi">そこそこいい女のことも指す</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">米びつ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">部屋の大黒柱、かせぎ手</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">三番ゲイコ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">同じ地位または同等の実力の力士が勝負に関係なく何番も続けて稽古すること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">頭突きを嚙ます</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">相撲で強く叱ること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">石炭を焚く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相撲を大急ぎでやる。</sentence>
+<sentence type="quasi">せいて物事を片づける</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">調子を下ろす</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">上位の力士が下位の力士を甘くみて、雑な相撲をとること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">手が合う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相性がいい、気の合う相手のこと。</sentence>
+<sentence type="quasi">また、<quote>「あ・うん」</quote>の呼吸で、物事をすることができる間柄</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">星</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相撲の勝敗。</sentence>
+<sentence type="quasi">また女性・恋人のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">星が付く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>相撲で望みを叶えること。</sentence>
+<sentence type="quasi">目的を達成すること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">星を取る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">勝負に勝つこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">鍋蓋山</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">いつも負けている力士</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">鉄道・運送</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ線Ｂ線</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">上り、下りに相当する地下鉄路線の呼び方</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">生きている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">鉄道の電流が流れている状態をいう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">からみ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">乗客が少ない客車、または積荷の少ない貨物列車をいう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">下駄を脱ぐ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">走行中の車輛が脱線すること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">薩摩守〈さつまのかみ〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">無賃乗車のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">サボ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">列車などの車体に付ける<quote>「行先表示板」</quote>のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ジャリ電</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">修学旅行専用の特別列車のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">白黒パンダ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">トラックの運転手が使う隠語で<quote>「パトカー」</quote>のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">筋が起きる・寝る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><quote>「起きる」</quote>は列車の早着。</sentence>
+<sentence type="quasi"><quote>「寝る」</quote>は延着の意</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">筋屋〈すじや〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">列車のダイヤを組む人のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">田植え</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ダイヤを作成すること。</sentence>
+<sentence type="quasi">細かいワクの中に時刻や記号を植えこんでいく作業が田植えに似ているため</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ハザ・ロザ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>普通車をハザ、グリーン車をロザという。</sentence>
+<sentence type="quasi">昔の一等車が<quote>「イザ」</quote>と呼ばれたことによる</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ハダシ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">脱線のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">前ぼう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>列車の最前方の機関士や運転手をいう。</sentence>
+<sentence>逆に後ぼうは、後方にいる車掌のこと。</sentence>
+<sentence type="quasi"><quote>「ぼう」</quote>は帽子のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">マグロ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">列車にひかれた轢死体のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">モリスジ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">特別にダイヤを組む臨時列車のこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">横持ち〈よこもち〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">トラックから人力で家まで荷を運ぶ作業</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">タクシー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">いただき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">チップのこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">煙突</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">タクシーの料金メーターを倒さず、料金をごまかすこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">キッス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>車と車が軽く接触してしまう事故のこと。</sentence>
+<sentence type="quasi"><quote>「おかまをほる」</quote>（追突）ほどではない</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">蹴飛ばし</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">タクシーを止めようと手をあげている人を無視して通り過ぎること</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">工事中</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">タクシーの隠語で、警察の交通いっせい取り締まりのこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ごみ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">タクシー仲間では、近距離などの稼ぎにならない客のことをいう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">進行中</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">タクシーの隠語で、あやしい客、うさんくさい客</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">新婚さん</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>タクシーの短距離の客。</sentence>
+<sentence type="quasi">乗ってもすぐ降りるの意</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">地べたの客</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">目的地が遠くても、高速道路を利用したがらないタクシーの客</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">サラリーマン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ウカガイ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">出張届けや休日届けのこと</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">五時即</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">五時の終業<sampling type="end" />ベルと同時に速攻で帰ってしまうこと</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

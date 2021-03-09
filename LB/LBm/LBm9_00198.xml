@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm9_00198" version="1.0" type="fixedLength">
+<article articleID="LBm9_00198_F001">
+<paragraph>
+<sentence>　<sampling type="start" />昨日の午後から会社に出て、柳瀬の謎かけを解くべく考え続けている。</sentence>
+<sentence>解答は見つからず、苦悶する時間ばかりが過ぎていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　軽く舌打ちをし、ファストフードでも腹に詰め込んで来ようと部屋を出た。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　野村の事故以来、不規則な勤務が続いているせいか、休日出勤の正規手続きをしていない堀河に、警備員の視線は不審どころか同情的な色さえあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　目で会釈し、駅の方角に向かった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大通りを渡ろうとしたところで、靴底が滑り、転倒しそうになった。</sentence>
+<sentence>とっさに泳がせた手が、近くにいた人間の服をつかんでいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「おっと。</sentence>
+<sentence>大丈夫かい？</sentence>
+<sentence type="quasi">　旦那さん」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　服の主が堀河の腕を支えた。</sentence>
+<sentence>道路の測量をしていた技師だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この時期は予算の消化で、あちこちの道路が掘り返されている。</sentence>
+<sentence>アスファルトの代わりに敷かれたい縞鋼板が、靴底を滑らせたのだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「すみません」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「気にしなさんな。</sentence>
+<sentence>工事ばっかりやってる行政がいけねえ。</sentence>
+<sentence type="quasi">おかげで、こっちも日曜日まで仕事だ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　測量技師は、三脚に乗せた測量器を覗きながら言った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　苦笑をかみ殺し、改めて道路を渡ろうとした。</sentence>
+<sentence type="quasi">そして―</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「…！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　身体に電流が走ったような気がし、測量技師を振り返った。</sentence>
+<sentence>突然のインスピレーションだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「これか…！？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ん？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　技師がけげんそうな視線を向けてきた。</sentence>
+<sentence>そのときにはもう、身をひるがえしていた。</sentence>
+<sentence>空腹はどうでも良く、一刻も早くインスピレーションの検証をしたかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　出ていったばかりの堀河が、あわてた<ruby rubyText="ぎょう">形</ruby><ruby rubyText="そう">相</ruby>で引き返してきたのを目にし、警備員が呆気にとられた顔をした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＩＤカードでトライアル・ルームと防護カバーの鍵を借り出し、地下へ転げるように急いだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　試作ラインは、一般レビューに備えて搬出準備が始まっていた。</sentence>
+<sentence>日曜の今日は作業こそないが、すでに電源配線は外され、稼動不能状態になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だが、堀河が確認しようとしていることは、電源供給の必要はなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　防護カバーの内側に入り、ロボット搬送部のフォトセンサーを調べた。</sentence>
+<sentence>例の、製品形状を判別し、拡張バンクメモリに飛ぶ命令のトリガーになるセンサーだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フォトセンサーには自分で出した光の反射を感知するタイプと、発光部と受光部がセパレートになっているタイプとがあり、前者は流れてきた製品に反射した光を、後者は逆に光が遮られたことを、それぞれ電気信号に変えてコンピューターに送る。</sentence>
+<sentence>ＩＭ試作ラインで使われているのは前者のほうだった。</sentence>
+<sentence>つまり、当該種類の製品が流れてきたときだけ、いくつか並んでいるセンサーのうち、所定のものだけが光を感知する方式だった。</sentence>
+<sentence>言い換えれば、野村の事故は、光を感知しないはずのセンサーに光が飛び込んだことになる。</sentence>
+<sentence>もちろん、室内照明のような指向<sampling type="end" />性のない光では間違って感知することはない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

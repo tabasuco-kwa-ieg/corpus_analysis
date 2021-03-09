@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj3_00061" version="1.0" type="fixedLength">
+<article articleID="LBj3_00061_F001">
+<paragraph>
+<sentence>　数字とそれに続くア行，ラ行の仮名との間及び１語中のアルファ<sampling type="start" />ベットと仮名の間には，第１つなぎ符を用いる。</sentence>
+<sentence>また，動植物名や固有名詞などで長すぎて読みにくい場合や，文脈上誤解を生じる場合に必要に応じて第１つなぎ符を用いる。</sentence>
+<sentence>なお，外来語の複合語などで第１つなぎ符のほかに，必要に応じて第２つなぎ符を用いることができる。</sentence>
+<sentence>つなぎ符類の前後ろは，続けて書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　１００<rejectedSpan type="etc"></rejectedSpan>エンダマ（１００円玉）　<rejectedSpan type="etc"></rejectedSpan>セン（Ｘ線）　<rejectedSpan type="etc"></rejectedSpan>ターン（Ｕターン）　アオバ<rejectedSpan type="etc"></rejectedSpan>アリガタ<rejectedSpan type="etc"></rejectedSpan>ハネカクシ　オーストリア<rejectedSpan type="etc"></rejectedSpan>ハンガリー□テイコク（オーストリア□ハンガリー□テイコク，オーストリア<rejectedSpan type="etc"></rejectedSpan>ハンガリー□テイコク）　（オーストリア＝ハンガリー帝国）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（備考）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第１カギの中では，第１カギの閉じ符号と誤読されるおそれがあるので，第１つなぎ符を行末に置いて行移ししてはならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　波線</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　数量，時間，場所などの範囲を表す場合には，その範囲の両端を表す数や語句の間に波線を挟んで続けて書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　９<rejectedSpan type="etc"></rejectedSpan>１５ジ（９〜１５時）　オオサカ<rejectedSpan type="etc"></rejectedSpan>フクオカ（大阪〜福岡）　ルイ□ブライユ<rejectedSpan type="etc"></rejectedSpan>１８０９<rejectedSpan type="etc"></rejectedSpan>１８５２ネン<rejectedSpan type="etc"></rejectedSpan>（ルイ・ブライユ（１８０９〜１８５２年））</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　棒線，点線</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　語句や文の対照，感情の余韻，時間的隔たり，漠然とした省略などを表す場合には，棒線や点線を用いる。</sentence>
+<sentence>また，前の語句や文の補足説明の場合には，挿入される補足説明の前後ろを棒線で囲むことができる。</sentence>
+<sentence>棒線や点線の前後ろは，一マスあける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　□□ノレンニ□ウデオシ□<rejectedSpan type="etc"></rejectedSpan>□ヌカニ□クギ（のれんに腕押し―ぬかにくぎ）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>□□イツノマニカ□<rejectedSpan type="etc"></rejectedSpan>□ユーヤミガ□ワタシタチヲ□ツツミコンデ□イタ。</sentence>
+<sentence type="quasi">（いつのまにか―夕闇が私たちを包み込んでいた。）</sentence>
+<br type="automatic_original" />
+<sentence>□□<rejectedSpan type="etc"></rejectedSpan>ソレワ□ワカッタヨ。</sentence>
+<sentence>□□シカシ□<rejectedSpan type="etc"></rejectedSpan>。</sentence>
+<sentence type="quasi"><rejectedSpan type="etc"></rejectedSpan>（<quote>「<sentence>それは分かったよ。</sentence>
+<sentence>しかし…。</sentence>
+」</quote>）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><rejectedSpan type="etc"></rejectedSpan>□ノヨーナ□カワリモノ（…のような変わり者）</sentence>
+<br type="automatic_original" />
+<sentence><rejectedSpan type="etc"></rejectedSpan>アッ！</sentence>
+<sentence>□□シマッタ。</sentence>
+<sentence type="quasi">□□<rejectedSpan type="etc"></rejectedSpan>（<quote>「<sentence>あっ！</sentence>
+<sentence>しまった。</sentence>
+<sentence type="quasi">―</sentence>
+」</quote>）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>（備考１）　必要に応じて棒線や点線の長さを増すことはできるが，減らすことはできない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（備考２）　棒線や点線と囲みの符号の内側，及び後ろに句読符がくる場合は，続けて書き表す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（備考３）　語頭又は語中の省略に点線を用いる場合には，点線の後ろはマスあけをしなくてもよい。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　<rejectedSpan type="etc"></rejectedSpan>テキ□カンガエ（…的考え）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　矢印類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　語句や文の対照，時間の流れ，変化の方向などを表す場合には，矢印類を用いる。</sentence>
+<sentence>矢印類の前後ろは，一マスあける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　サッポロ□<rejectedSpan type="etc"></rejectedSpan>□トーキョー□<rejectedSpan type="etc"></rejectedSpan>□オオサカ□<rejectedSpan type="etc"></rejectedSpan>□フクオカ（札幌→東京→大阪→福岡）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（備考）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　レイアウトの都合など必要に応じて，<enclosedCharacter description="○">２</enclosedCharacter>・<enclosedCharacter description="○">５</enclosedCharacter>の点を増減してもよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（５）　空欄符号</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　試験問題などで隠された語句や文又は記号などを表す場合に，空欄符号を用いる。</sentence>
+<sentence>空欄符号の前後ろは，分かち書きの規則や他の表記符号の用法に従う。</sentence>
+<sentence>普通の文字で空欄の中やそばに，数字やアルファベット又は仮名などの記号が添えてある場合には，それらを空欄符号の前に続けて書き表す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（例）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　□□ツギノ□<rejectedSpan type="etc"></rejectedSpan>ニ□テキトーナ□ゴヲ□イレヨ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>□□（１）□エンシ<sampling type="end" />ューワ、□<rejectedSpan type="etc"></rejectedSpan>ノ□３．１４バイ。</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

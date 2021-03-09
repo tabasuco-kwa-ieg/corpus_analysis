@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00075" version="1.0" type="fixedLength">
+<article articleID="LBo3_00075_F001">
+<list>
+<listItem>
+<noteBody>
+<sentence>また、取締役会の承認を得た場合の、会社と取引した取締役<sampling type="start" />または会社と利益が相反する取締役の責任を定めたものと解する見解（北沢四二四頁）がある。</sentence>
+<sentence>これらの見解は、会社を代表した取締役は五号の過失責任を負うと解するのである。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（２）　利益相反取引は現代において必ずしも異常な行為ではなく、一般に無過失責任を課すのは非現実的として、無過失を立証した取締役は責任を免れる過失責任と解する見解も有力である（河本四〇八頁、龍田八九頁、近藤光男・新版注釈（６）二七二頁）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　取締役が法令または定款に違反する行為を行って会社に損害を与えた場合には、損害賠償責任を負う（<sentence>二六六条一項五号、過失責任である。</sentence>
+<sentence type="quasi">最判昭五一・三・二三金判五〇三号一四頁</sentence>
+）。</sentence>
+<sentence>この<quote>「法令」</quote>には、善管注意義務ないし忠実義務の規定（二五四条三項、民六四四条、商二五四条ノ三）も含む（最判昭四七・四・二五判時六七〇号四五頁、通説）。</sentence>
+<sentence>取締役の責任に関する一般的な規定である<noteMarker text="（３）" />。</sentence>
+<sentence>ここでいう取締役の違法な行為には、<enclosedCharacter description="○">１</enclosedCharacter>商法に違反する違法な行為がなされた場合、<enclosedCharacter description="○">２</enclosedCharacter>贈収賄のように刑法に違反する場合、<enclosedCharacter description="○">３</enclosedCharacter>証券取引法、独占禁止法等に違反する場合等がある。</sentence>
+<sentence>株主代表訴訟における最高裁判決では、商法に違反した違法な自己株式の取得で会社に損害を与えたとして、取締役の会社に対する損害賠償責任が肯定された（最判平五・九・九民集四七巻七号四八一四頁＝商事法務一三三二号四四頁）。</sentence>
+<sentence>また大手建設会社の前社長らに対して、その贈収賄相当額について、全額賠償責任が（株主の代表訴訟で）肯定された（東京地判平六・一二・二二判時一五一八号三頁）。</sentence>
+<sentence>証券会社の損失補塡事件では、独占禁止法に違反する行為であると認定されたが、それによって顧客が維持されたので会社に損害がないとの理由で、取締役の会社に対する損害賠償責任が否定された（東京地判平五・九・一六判時一四六九号二五頁［野村證券損失補塡事件］、東京高判平七・九・二六判時一五四九号一一頁）。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>（３）　アメリカ法においては、いわゆる経営判断の原則（ｂｕｓｉｎｅｓｓ　ｊｕｄｇｍｅｎｔ　ｒｕｌｅ）という法理がある。</sentence>
+<sentence>この法理は明らかな法令・定款違反や忠実義務違反がない場合に、当該経営判断に必要な情報収集が十分に行われ、それに基づく取締役会における協議・報告等の判断過程が十分尽くされていたと判断される場合には、裁判所は取締役が適法に経営判断を下したと推定して、経営判断に介入しないというものである（神崎克郎『取締役制度論』八三頁、近藤光男『会社経営者の過失』二七頁、同・新版注釈（６）二七五頁）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　連帯責任・責任の免除</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本条に定める取締役の責任に関しては、それが取締役会の決議に基づく行為である場合は、その決議に賛成した者もそ<sampling type="end" />の行為をなしたものとみなされる（二六六条二項・二九三条ノ五第七項）。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi8_00009" version="1.0" type="fixedLength">
+<article articleID="LBi8_00009_F001">
+<list>
+<listItem>
+<sentence><sampling type="start" /><enclosedCharacter description="○">３</enclosedCharacter>　ホンダのアコードの８７年型はいくらで下取りしてくれる？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　スターターの調子が悪いけど、同じ値段のまま新品と交換してくれる？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＬＥＡＳＩＮＧ　ＩＳ　ＡＮＯＴＨＥＲ　ＳＭＡＲＴ　ＷＡＹ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　３カ月の短期間だけどリースしてくれますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　１カ月のリース代はいくらですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　保険はあなたの所でかけられるの？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　スポーティなオープン・カーはありますか？</sentence>
+<sentence>　コルベットかムスタングみたいな…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（ここまで運ばせましょう）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">車も家具もリースで</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>短時間の滞在には、大手のレンタカーで月ぎめの契約も可能。</sentence>
+<sentence>リース専門の業者などにｓｈｏｐ　ａｒｏｕｎｄ！</sentence>
+<sentence>（当たってみる）こと。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">引越しの挨拶</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　こんど隣りに引越してきた鈴木です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>これが娘の和子です。</sentence>
+<sentence>ＵＣＬＡの１年生です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　あなたの真上の部屋です。</sentence>
+<sentence>よろしく。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence type="quasi"><sentence>（ようこそ、ボブだよ。</sentence>
+<sentence type="quasi">何か困ったら言って下さい）</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　じゃあ、どこのスーパーが一番安いかしら？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＹＯＵＲ　ＮＥＷ　ＡＣＱＵＡＩＮＴＡＮＣＥＳ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　この近所で２４時間営業のスーパーはどこですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>年中無休ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　かどの韓国人の雑貨屋はどう？</sentence>
+<sentence>　野菜など新鮮？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence type="quasi"><sentence>（イヤー、産地直送で新鮮ですよ。</sentence>
+<sentence type="quasi">それに安いし配達もしてくれるよ）</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＡＲＴ<enclosedCharacter description="●">７</enclosedCharacter>まとめ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">父</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　巨大国アメリカには、西からＰＡＣＩＦＩＣ　ＴＩＭＥ，ＭＯＵＮＴＡＩＮ　ＴＩＭＥなどと４つのＴＩＭＥ　ＺＯＮＥがあり、西と東で４時間、ハワイを入れると、さらに３時間、東西でなんと７時間の時差がある国だ。</sentence>
+<sentence>それに新しく移民して来た人たちも多いし、混沌とした巨大なエネルギーが渦巻いている国だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">娘</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　このくらい、いろいろと極端な国はないんじゃない。</sentence>
+<sentence>気候もそう、人種も千差万別。</sentence>
+<sentence>州と州も、勝手な独立国だなんて、生活してみないと分からない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">父</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　金持ちと貧乏人の差も、想像を絶するね。</sentence>
+<sentence>同じ罪を犯しても、ある州では無罪、ある州では死刑なんてことも起こるだろうね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">娘</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　離婚するために、男性にずっと有利な南部にわざわざ移住したりね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">父</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そのせいか、移住してもすぐに生活できるよう、便利に機能化されているのには感心。</sentence>
+<sentence>でも全て、ＤＯ　ＩＴ　ＹＯＵＲＳＥＬＦ自分で行い自分で責任をとる社会。</sentence>
+<sentence>日本人のように、お互いが寄り添い、政治からマスコミまで、すべて談合体質の国と、まったく異質だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">娘</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そんな哲学より、これがアメリカ滞在のＭＵＳＴＳ（必要なこと）です。</sentence>
+<sentence><quote>「食べて寝る所」</quote>が決ったら、電話、銀行口座、電気などの手配。</sentence>
+<sentence>もちろん、３カ月以上の滞在なら、ビザの手続きが必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">父</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　日本のように、住民登録も外国人登録もないから、居座り族もスゴイ数だけど、バレても知らないよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">娘</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　パパの言うように<quote>「自分で経験し自分で発見する」</quote>のが人生なんだろうね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">父</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そう。</sentence>
+<sentence>文明の最後で最大の<sampling type="end" />秘境は、人間の心、民族の心の中だよ。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

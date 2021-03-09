@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBtn_00006" version="1.0" type="fixedLength">
+<article articleID="LBtn_00006_F001">
+<paragraph>
+<sentence>　<quote>「マクロ機能」</quote>を使うと、繰り返し行なう一連の作業を自動化することができ<sampling type="start" />ます。</sentence>
+<sentence>頻繁に行なう作業は、<quote>「マクロ」</quote>として記録して自動化しておけば、作業効率もグンとアップします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>［１］　一連の操作をマクロに記録します。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　［ツール］メニューの［マクロ］から［新しいマクロの記録］を選びます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>［２］　表示される［マクロの記録］ダイアログの［マクロ名］に記録するマクロの名前を入力し、［ＯＫ］をクリックします。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　なお、［マクロの保存先］では、記録するマクロを使えるのが、このブックだけか、すべてのブックかを選べます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>［３］　マクロの記録がスタートするので、自動化したい作業を再現します。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　たとえばヘッダーにロゴを挿入する操作などを行ないます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>［４］　すべての操作が終わったら、［マクロ］ツール・バーの《記録の終了》ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［５］　記録したマクロを実行するには、マクロを実行したいブックを表示し、［ツール］メニューの［マクロ］から［マクロ］を選びます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［６］　表示される［マクロ］ダイアログで実行したいマクロを選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［７］　［実行］をクリックすると、記録した一連の操作が自動的に実行されます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">【マクロの削除】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>［マクロ］ダイアログの［マクロ名］から目的のマクロを選び［削除］をクリックします。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「マクロ」</quote>をツール・バーに登録したい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image description="初心者の顔" no="22" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　記録したマクロをメニューから呼び出すのは面倒です。</sentence>
+<sentence>マクロをツール・バーにボタンとして追加することはできますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image description="指導者の顔" no="23" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　［ユーザー設定ボタン］をツール・バーにドラッグします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　記録したマクロはボタンとしてツール・バーに追加できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　［ユーザー設定］ダイアログの〈コマンド〉タブで、［マクロ］の分類にある［ユーザー設定ボタン］をツール・バーにドラッグします。</sentence>
+<sentence>次に、このボタンに登録するマクロを設定します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>［１］　［ツール］メニューの［ユーザー設定］を選び、［ユーザー設定］ダイアログの〈コマンド〉タブをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［２］　［分類］から［マクロ］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［３］　［コマンド］から［ユーザー設定ボタン］を選び、ツール・バーにドラッグし、［閉じる］をクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［４］　追加した<image description="スマイルマーク" no="24" />ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>［５］　［マクロの登録］ダイアログが表示されるので、ボタンに登録するマクロ選んで、［ＯＫ］をクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ファイルの<quote>「バックアップ」</quote>を取りたい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image description="初心者の顔" no="25" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　停電などのトラブルでファイルが破損してしまったり、誤ってファイルを消去してしまった場合に備えて、ファイルのバックアップをとっておきたいと思います。</sentence>
+<sentence>どうすればよいのでしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image description="指導者の顔" no="26" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　［バックアップファイルを作成する］機能をオンにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　Ｅｘｃｅｌでは、ファイルを保存するたびに自動的にそのファイルの複製を作るように設定できます。</sentence>
+<sentence>この複製のことを<quote>「バックアップ・ファイル」</quote>といい、元のファイルの保存先と同じフォルダに作られます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>［１］　［ファイル］メニューの［名前を付けて保存<sampling type="end" />］を選び、表示される［名前を付けて保存］ダイアログの《ツール》ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

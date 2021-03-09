@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBln_00012" version="1.0" type="fixedLength">
+<article articleID="LBln_00012_F001">
+<sentence>海舟もそれは考<sampling type="start" />えていました。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「蘭学<ruby rubyText="きょう">教</ruby><ruby rubyText="じゅ">授</ruby>は<ruby rubyText="て">手</ruby><ruby rubyText="ま">間</ruby>がかかるよ。</sentence>
+<sentence type="quasi">だれかこころあたりでもあるのか…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「人間もできているし、ここの生徒ぐらいならだいじょうぶでしょう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「それは<ruby rubyText="けっ">結</ruby><ruby rubyText="こう">構</ruby>だ。</sentence>
+<sentence type="quasi">ところでどこにその人はいるのかね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「目の前に座っていますよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「なんだ、そうなのか。</sentence>
+<sentence type="quasi">さっそく頼む」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　こうして杉が海舟の代わりに生徒を教えることにきまりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これから、海舟の大砲<ruby rubyText="せい">製</ruby><ruby rubyText="ぞう">造</ruby>熱に力が入ります。</sentence>
+<sentence>海舟は少年の日に、江戸城でみたオランダ製の大砲を、いまも<ruby rubyText="まぶた">瞼</ruby>に浮かべることができます。</sentence>
+<sentence>少年の日の<ruby rubyText="かん">感</ruby><ruby rubyText="がい">慨</ruby>というものはたいせつなものです。</sentence>
+<sentence>砲台をつくってもそこへおく大砲がなくては実用になりません。</sentence>
+<sentence>こうして新進蘭学者の勝海舟のところへも大砲の注文がくるようになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="たい">大</ruby><ruby rubyText="ほう">砲</ruby>の<ruby rubyText="ちゅう">注</ruby><ruby rubyText="もん">文</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<ruby rubyText="かい">海</ruby><ruby rubyText="しゅう">舟</ruby>は蘭学書を基本に、<ruby rubyText="たい">大</ruby><ruby rubyText="ほう">砲</ruby>や鉄砲の製作ができるように、<ruby rubyText="にち">日</ruby><ruby rubyText="や">夜</ruby>、研究を続けました。</sentence>
+<sentence>そんなある日、ある<ruby rubyText="はん">藩</ruby>から大砲を三門<ruby rubyText="つく">造</ruby>ってほしい、という注文がきました。</sentence>
+<sentence>海舟は、まず、しっかりした図面を書きました。</sentence>
+<sentence>それを腕の達者ないもの師にわたしました。</sentence>
+<sentence type="quasi">そのいもの師がまもなくやってきて、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「これはほんの御礼ごころです」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>といってさしだしました。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　どうも五、六百両はあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「なんだいこれは…」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「申しおくれましてすみません。</sentence>
+<sentence type="quasi">これはまあお<ruby rubyText="みき">神酒</ruby><ruby rubyText="りょう">料</ruby>といったところでしょうか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「お神酒料というと神様にあげるものだ。</sentence>
+<sentence type="quasi">わたしはあいにく神様ではなく貧乏旗本の勝海舟だよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「<ruby rubyText="じつ">実</ruby>は、どの先生もお受取りになっているものなのでございます。</sentence>
+<sentence type="quasi">どうか…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「その実はというのが第一にきにくわねえ。</sentence>
+<sentence>よく“なんのなにがし、実はぬすっと<ruby rubyText="さん">山</ruby><ruby rubyText="ぞく">賊</ruby>”というのがあるじゃねえか。</sentence>
+<sentence>実はというあとに必ず<ruby rubyText="ない">内</ruby><ruby rubyText="しょう">証</ruby>のことが出てくる。</sentence>
+<sentence type="quasi">おれはそんなものは受け取らないよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　海舟は手もつけませんでした。</sentence>
+<sentence>そのころ、大砲を一門造るのに、六百両はかかりました。</sentence>
+<sentence>三門だと千八百両ということになりましょう。</sentence>
+<sentence>ところが、いもの師は、このとき六百両持ってきていました。</sentence>
+<sentence>かりに大砲ができたとき、千八百両が海舟のところへ礼金としてきたとします。</sentence>
+<sentence>このうちから、海舟は、いもの師へ一門についてかかったいもの代や手数料を五百両はらいます。</sentence>
+<sentence>三門なら千五百両でしょう。</sentence>
+<sentence>三百両が海舟の<ruby rubyText="じゅん">純</ruby><ruby rubyText="えき">益</ruby>ということになります。</sentence>
+<sentence>そのうえ、いもの師がもってきた六百両をもらってしまっては、九百両になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いもの師は千五百両から六百両引いた九百両が手に入るわけですが、<ruby rubyText="もう">儲</ruby>けにならなればいけませんから、手抜きをします。</sentence>
+<sentence>これが当時、この世界のやりかたでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「お前さんの腕はとてもすぐれていると聞いている。</sentence>
+<sentence>それはありがてえが、考え違いをしちゃあいけねえよ。</sentence>
+<sentence>大砲というのはね、今、世の中がさわがしくなってきているのは<sampling type="end" />知ってるね。</sentence>
+<sentence>異国の船がいつ江戸の海にあらわれるかしれねえ。</sentence>
+<sentence>そのとき、ことによったらぶっぱなさなけれやならねえ。</sentence>
+<sentence>悪い材料で造った大砲だったらどうなるえ。</sentence>
+<sentence>うまく相手にあたらねえことになる。</sentence>
+<sentence>それじゃ、いもの師としてもはずかしいことになるよ。</sentence>
+<sentence type="quasi">そうじゃないかえ」</sentence>
+</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

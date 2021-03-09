@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00022" version="1.0" type="fixedLength">
+<article articleID="LBk5_00022_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">●　<sampling type="start" />材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">●　作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　クランベリーをきれいに洗い、水気を取ったら氷、ガムシロップとともにミキサーに入れます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　１を大きめのグラスに入れ、冷蔵庫で冷やします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　２をグラスに入れてできあがり。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ホタテのクランベリーソース</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●　材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">●　作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　生ホタテは軽くボイルして、２片に横に切り、レモン汁をかけておきます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　クランベリーは荒くミキサーにかけて、塩・コショウを軽くふります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　皿に１を盛りつけ、まわりに２のソースをかけたら、ソースの上にパセリのミジン切りをかけてできあがりです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｇｒａｐｅ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ブドウ</sentence>
+<br type="automatic_original" />
+</title>
+<list>
+<listItem>
+<sentence type="quasi">●　ブドウ科ブドウ属</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　原産国／西南アジア、アメリカ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</titleBlock>
+<paragraph>
+<sentence>　世界で最も多く生産されている果物がブドウで、その８割はワイン用として栽培されています。</sentence>
+<sentence>しかし食べる方もそれぞれの品種別で味を楽しむことができますし、いろいろな食べ方ができるのも魅力のひとつです。</sentence>
+<sentence>最もアルコールと合う果物ですから、香りを生かしてワイン漬けにしたり、ドライフルーツに活用するのもよい方法です。</sentence>
+<sentence>ドライフルーツにすれば生のときより甘みが増し、しかも貯蔵性に富んでいるので、四季を問わず、使いたいときに使いたいだけ利用できるのでとても重宝します。</sentence>
+<sentence>料理やお菓子作りにも欠かせないものとして、その存在価値を高めています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また最近では比較的簡単に栽培できることから、家庭栽培も注目をあびています。</sentence>
+<sentence>鉢植えでも翌年から、棚作りでも２〜３年で収穫が望めます。</sentence>
+<sentence>作って、見て、食べて、飲んで、料理に挑戦して…味覚の秋を充分に楽しませてくれる果物ではないでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">●　巨峰</sentence>
+<br type="automatic_original" />
+<sentence>紫黒色の大粒で大きさは１０〜１５ｇもあります。</sentence>
+<sentence>果汁が多く、甘みも強いため、食べごこちは最高です。</sentence>
+<sentence>また果皮と果肉が離れやすいので、食べやすさも人気の秘訣でしょう。</sentence>
+<sentence>８月下旬から９月上旬が食べごろです。</sentence>
+<sentence>ギフトにも見栄えがします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　マスカット・ベイリーＡ</sentence>
+<br type="automatic_original" />
+<sentence>赤ワインの原料としても用いられている生食兼用のブドウです。</sentence>
+<sentence>ほのかなマスカットの香りが感じられ、甘みも強く、なかなか美味。</sentence>
+<sentence>９月中・下旬が食べごろで、最近では種なし品種の改良も進められています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　ピオーネ</sentence>
+<br type="automatic_original" />
+<sentence>果粒が約１５ｇと大粒なピオーネは、巨峰に似ていますが、果肉がひきしまり、甘みも多めです。</sentence>
+<sentence>成熟期も９月上旬ごろとやや遅めです。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">大粒なピオーネ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">●　ネオ・マスカット</sentence>
+<br type="automatic_original" />
+<sentence>日持ち性・輸送性とも優れているのが特徴のネオ・マスカットは、露地栽培できるヨーロッパブドウの一種です。</sentence>
+<sentence>黄白色で楕円形をし、大きさは巨峰の半分ほど。</sentence>
+<sentence>甘みは強いほうですが、酸みは少なくマスカットと同じ香りがします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　カルメリア</sentence>
+<br type="automatic_original" />
+<sentence>一般にブドウは黒ブドウと白ブドウに区別され、またその色は、ブ<sampling type="end" />ドウの皮の色で決まります。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00014" version="1.0" type="fixedLength">
+<article articleID="LBk3_00014_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />第四章　株価指数先物とその影響</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">一、先物の経済的機能</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一九九〇年以降、株価が下落するたびに、株価指数先物を利用した裁定取引が犯人呼ばわりされた。</sentence>
+<sentence>たしかに裁定取引は株価下落の過程でたいてい売りに回っていたので、そう疑われても不思議ではあるまい。</sentence>
+<sentence>だが、それは市場の変動に対する受動的な取引であり、下落のイニシアティブを取ったとは考えられない。</sentence>
+<sentence>別の誰かが最初に売りを始動させたはずで、それこそを暴落の犯人と呼ぶべきだ。</sentence>
+<sentence>この点を明らかにするために以下では、少し回り道になるが、まず先物取引とは何か、また裁定取引はどういうものか、などの説明から始めよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">先物取引とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　先物取引とは、<enclosedCharacter description="○">１</enclosedCharacter>一定の商品を、<enclosedCharacter description="○">２</enclosedCharacter>将来の定められた日に、<enclosedCharacter description="○">３</enclosedCharacter>現時点で決められた価格で、受け渡しする取引のことをいう。</sentence>
+<sentence>たとえば<enclosedCharacter description="○">１</enclosedCharacter>大豆一トンを、<enclosedCharacter description="○">２</enclosedCharacter>来年の三月に、<enclosedCharacter description="○">３</enclosedCharacter>二万五〇〇〇円で、買う（または売る）など。</sentence>
+<sentence>三月が到来したら実際にこの取引は実行される。</sentence>
+<sentence>すなわち大豆一トンが二万五〇〇〇円で受け渡しされる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　株価指数先物取引とは、この例の大豆に代えて日経平均やＴＯＰＩＸなどの株価指数を取引の対象とする先物取引をいう。</sentence>
+<sentence>ただし、日経平均を受け渡しするとなると、たぶん指数を構成する二二五銘柄を一定の株数だけ組み込んだポートフォリオを使うのだろうが、それは非常に煩雑だしコストもかかるので、実際には受け渡しはしないで、買いまたは売りの価格とＳＱと呼ばれる特別な指数値との差を、現金で決済することになっている。</sentence>
+<sentence>ＳＱとはスペシャル・クォテーションの略だが、先物が取引される最終日の翌日に各銘柄の寄付きの価格から算出される。</sentence>
+<sentence>たとえば日経平均先物を一万六〇〇〇円で買っていた人がいたとして、このＳＱが最終的に一万七〇〇〇円になったとしよう。</sentence>
+<sentence>するとこの人は、差額の一〇〇〇円を儲けとしてもらうことになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、先物取引では必ずしもこのようにＳＱまで待つ必要はない。</sentence>
+<sentence>もし先物価格が買ったあと一万六八〇〇円に上昇したとしたら、その時点で売り戻せばよい。</sentence>
+<sentence>そうすればやはり、売り買いの差額だけの決済となって、差し引き八〇〇円の儲けが得られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もっとも、こんな具合にいつもうまく行くとは限らない。</sentence>
+<sentence>もし先物を買ったあと価格が下がったら損が発生する。</sentence>
+<sentence>たとえばＳＱが一万五五〇〇円になったとしたら、買った価格より低い価格で決済することになるから、その差の五〇〇円だけ支払わなければならない。</sentence>
+<sentence>先物取引では当然こうした損失の可能性が付きものなのだが、なかにはそんなことを考えないで売買して、結果的に逆目にあって支払い<sampling type="end" />不能に陥る人が出ないとは言えない。</sentence>
+</paragraph>
+</article>
+</sample>

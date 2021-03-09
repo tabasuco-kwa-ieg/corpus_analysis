@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb3_00036" version="1.0" type="fixedLength">
+<article articleID="LBb3_00036_F001">
+<paragraph>
+<sentence>　この授<sampling type="start" />業書の一部に上の<quote>「問題１」</quote>がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私が見たある授業では、子どものはじめの予想分布は次のようになった。</sentence>
+<sentence>（正答はイ）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">ア＝３１　イ＝４　ウ＝２</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　<quote>「前のときの半分くらいのびる」</quote>という予想をする者が、圧倒的な多数派である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　討論をきいていると、子どもがそれぞれの予想をたてる時の背後にある論理がわかる。</sentence>
+<sentence>それらは、おおよそ次の四つに分れる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　左側のおもりを取りはずすと、左右のバランスがくずれ、右側のおもりに、より大きな力が加わる、とする説。</sentence>
+<sentence>この考えからはウの予想が導かれる。</sentence>
+<sentence>これを<quote>「バランス説」</quote>と名づけよう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　二つのおもりが一つになった。</sentence>
+<sentence>だから、バネに加わる力は半分に減る。</sentence>
+<sentence>したがってバネは前の時の半分くらいのびる（予想はア）。</sentence>
+<sentence>これを<quote>「比例説」</quote>と名づけよう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　左側のおもりを取りはずして、ひもを結びつけたあたりに着目する。</sentence>
+<sentence>右側のおもりにひっぱられると左側のひもを結びつけたあたりも同じ大きさの力でひっぱり返す。</sentence>
+<sentence>結局おもりを両はじにつけた時と同じくらいバネはのびる（予想はイ）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<quote>「力の原理」</quote>を使って考える。</sentence>
+<sentence>バネが静止するということは、バネに加わる左右の向きの力が、方向が反対で大きさが同じだということである。</sentence>
+<sentence>したがって、左のおもりを取りはずしても、力の関係では前となんら事態はかわらない（予想はイ）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　それぞれの説の間で火をふくような論争が展開される。</sentence>
+<sentence>教師は論争に介入しない。</sentence>
+<sentence>どちらの意見が正しいようだというほのめかしも一切しない。</sentence>
+<sentence>論点整理もほとんど行わない。</sentence>
+<sentence>司会役、というより進行係に徹する。</sentence>
+<sentence>仮説実験授業の授業運営の一つの特徴である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、この授業書のネライは、最終的には<enclosedCharacter description="○">４</enclosedCharacter>の論理を子どもが使いこなせるようになることである。</sentence>
+<sentence><quote>「力の原理」</quote>の正しさを確信し、いろいろな場合に<quote>「力の原理」</quote>をあてはめて、問題についての正しい予測ができるようになること、それが<quote>「力の原理」</quote>を子どもが習得したことの基準である。</sentence>
+<sentence>ヒントは、子どもをそのような思考に導く役目をする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際、ヒントを提示し、論争を闘わせたあとの予想分布は次のように変化した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　ア＝５　イ＝２９　ウ＝３</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実験の結果は、もちろんイの予想を支持する。</sentence>
+<sentence>はじめからイの予想をたてていた少数派、およびヒントと討論の結果イの予想に変更した多数派は歓声をあげて喜ぶ。</sentence>
+<sentence>授業はたいへんな盛り上りである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">３　ばねやものに加わる力</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〔問題１〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　ばねにひもをつなぎ，図のような道具をつかって，その両はじに重さ<rejectedSpan type="etc"></rejectedSpan>のおもりをつりさげました．すると<rejectedSpan type="etc"></rejectedSpan>ｃｍあったばねが<rejectedSpan type="etc"></rejectedSpan>ｃｍのびて<rejectedSpan type="etc"></rejectedSpan>ｃｍになりました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　つぎに，一方のおもりをはずして，下の図のように，ひもを結びつけることにします．ばねはどのくらいのびるのでしょう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">予想</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">ア．前の<sampling type="end" />ときの半分くらいのびる．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+</article>
+</sample>

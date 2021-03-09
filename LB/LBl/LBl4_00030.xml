@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00030" version="1.0" type="fixedLength">
+<article articleID="LBl4_00030_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>坊さんくさいお医者さんが言うんだったら多少は説得力あるんだろうけど、僕が癌になったら、…僕はただ純粋<sampling type="start" />に、病名と将来予測される症状だけを告げてもらいたいと思いますね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi"><sentence>　それが告知をするという意味なんでしょうけれど、…こんなこと面と向かって先生に言うのは失礼だということは承知しています。</sentence>
+<sentence type="quasi">でもそれが、いまの僕の正直な気持ちです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">紹介状</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　公次さんが外来にやってきたときは、かかっていた病院からの紹介状をもっていた。</sentence>
+<sentence>紹介状を開封してみると、重症の気管支<ruby rubyText="ぜん">喘</ruby><ruby rubyText="そく">息</ruby>という病名が記されていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その病院で治療を受ける前に、公次さんは自宅近くの医院で喘息の治療を受けていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　紹介状をみる限り、主立ったクスリはほとんど使用されていた。</sentence>
+<sentence>症状が重いときのために出されていたステロイドの錠剤には、ほとんどまいにち手が付けられていた。</sentence>
+<sentence>それはつまり、それだけ呼吸が苦しかったことを意味していた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「このクスリを使わないと、どうしてもダメですか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　問いに対する公次さんの答えは、次のようなものだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「実は、飲んでも飲まなくても症状はさして変わらないのです。</sentence>
+<sentence type="quasi">それより吸入剤のほうが効くし、即効性がありましたから、<ruby rubyText="もっぱ">専</ruby>ら吸入剤を使っていました」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「吸入剤のキャップは何色でしたか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　紹介状には、ふたつの種類の吸入剤が列記されていた。</sentence>
+<sentence>交感神経を刺激することによって発作を緩和する気管支拡張剤と、炎症を抑えて気道を安定化させる吸入ステロイド剤である。</sentence>
+<sentence>前者のキャップは水色で、後者のキャップは赤い色をしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「これです」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　公次さんはポケットから水色のキャップが付いているスプレーを出した。</sentence>
+<sentence>気管支拡張剤だった。</sentence>
+<sentence>言い換えれば、交感神経刺激剤である。</sentence>
+<sentence><ruby rubyText="とん">頓</ruby><ruby rubyText="よう">用</ruby>扱い（症状がある時のみ用いる）の吸入剤だけで喘息の治療を行うという方法は、ガイドラインが設けられて以来、現在では例外になりつつある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、投与された気管支拡張作用をもつ〈錠剤〉のほとんどは、医師の指示どおりに内服していた形跡がなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　初診の時も肩で息をし、せわしい呼吸をするたびに小鼻がひくひくと動いていた。</sentence>
+<sentence>顔はむくんでいるというよりもうっ血気味で、聴診器をあてるまでもなく、ゼーゼーという音が耳に届く。</sentence>
+<sentence>即刻入院ということになったが、あいにくベッドが<ruby rubyText="ふさ">塞</ruby>がっていた。</sentence>
+<sentence>それで、手術予定の患者が明日入るという理由で空いていた耳鼻<ruby rubyText="いん">咽</ruby><ruby rubyText="こう">喉</ruby>科のベッドを、何とか一日だけ確保してもらった。</sentence>
+<sentence>耳鼻咽喉科と<ruby rubyText="こう">口</ruby><ruby rubyText="くう">腔</ruby>外科の患者を収容している十一階病棟の婦長からは、明日の午後一時がタイムリミットですから、と念を押された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　公次さんが入院した日の深夜、重症に挙げられていなかった老人が突然に息を引きとった。</sentence>
+<sentence>それで結果的に内科のベッドがひとつ空いたことになり、公次さんは翌日の午前中<sampling type="end" />に内科病棟へ転科することが決まった。</sentence>
+</paragraph>
+</article>
+</sample>

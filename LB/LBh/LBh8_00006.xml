@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh8_00006" version="1.0" type="fixedLength">
+<article articleID="LBh8_00006_F001">
+<paragraph>
+<sentence>　航空機は、たとえ予約してあっても、乗り継ぎ地に１泊以上滞在する場合は、出発の７２時間前までに次の目的地までの予約<sampling type="start" />を航空会社に確認しなければなりません。</sentence>
+<sentence>これをリコンファームといい、航空会社に直接出向くか電話をして、名前、搭乗日、便名を伝えて座席予約を再確認します。</sentence>
+<sentence>出発時刻や搭乗受付時刻なども聞いておくとよいでしょう。</sentence>
+<sentence>逆に航空会社からは、こちらの連絡先を聞かれます。</sentence>
+<sentence>宿泊ホテルと電話番号を答えましょう。</sentence>
+<sentence>リコンファームをしないと、予約が自動的に取り消されることがあるので要注意。</sentence>
+<sentence>その場合の応答についても例示してありますので参考にして下さい。</sentence>
+<sentence>最近ではリコンファームを廃止している航空会社もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">チェックイン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　空港でいうチェックインとは、<quote>「搭乗手続き」</quote>のことです。</sentence>
+<sentence>空港に着いたら利用する航空会社のカウンターへ行って、航空券と出国する場合はパスポートを提示します。</sentence>
+<sentence>係員が確認したら、座席の希望（禁煙席、喫煙席、窓側、通路側など）を伝え、機内預けの手荷物を預けて搭乗券と手荷物引換証を受け取ります。</sentence>
+<sentence>引換証は預ける荷物１個につき必ず１枚もらいます。</sentence>
+<sentence>搭乗券には座席番号、ゲート番号、搭乗時刻、禁煙席かどうかが表示されますので受け取ったとき確認します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">搭乗案内</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　チェックインして搭乗券と預けた手荷物引換証を受け取ったら、出発案内のボードを見て、搭乗ゲートに向かいます。</sentence>
+<sentence>搭乗ゲートの番号は搭乗券に書いてあります。</sentence>
+<sentence>ゲートの場所がわからなかったら搭乗券を見せて係の人に聞きましょう。</sentence>
+<sentence>出国の場合は、入国時と同様パスポートの審査があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　搭乗まで時間があれば、免税店で買物もできます。</sentence>
+<sentence>なお、他国に移動する場合は（日本への帰国の場合も）、コインは外国では両替できないので空港内で使い切ります。</sentence>
+<sentence>搭乗時刻が近づいたら搭乗案内ボードとアナウンスに注意しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワードバンク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">観光する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　素晴らしいものを見たい、貴重な体験をしたい…。</sentence>
+<sentence>旅する人はまず誰もがそう思うことでしょう。</sentence>
+<sentence>でも、未知の土地ではなかなかそれも思うようにいかないものです。</sentence>
+<sentence>事前に現地の情報を集めておくことも大切ですが、最大の“武器”となるのは、あなたの積極性です。</sentence>
+<sentence>好奇心のおもむくままに、どんどん人に尋ねたりすれば、旅の収穫は何倍にもふくらむはずです。</sentence>
+<sentence>もちろん、どんなときにも“マナー”だけは忘れずに…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<contents>
+<list>
+<listItem>
+<sentence type="quasi">観光案内所で</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">［ワードバンク］</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">観光ツアーを利用する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">［各国の観光ポイント］</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">道を尋ねる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">観光スポットで</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">写真を撮る</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">［ワードバンク］</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">劇場に行く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ナイトクラブに行く</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ディスコで</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">カジノで</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">［カジノの知識］</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">スポーツを観戦する／スポーツをする</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">［ワードバンク］</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</contents>
+<titleBlock>
+<title>
+<sentence type="quasi">観光案内所で</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　観光の第一歩は観光案内所から始まります。</sentence>
+<sentence>ｉの標示が出ている案内所は、空港や主要駅のほか、人が集まる広<sampling type="end" />場など街の中心部にあります。</sentence>
+</paragraph>
+</article>
+</sample>

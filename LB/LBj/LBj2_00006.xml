@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj2_00006" version="1.0" type="fixedLength">
+<article articleID="LBj2_00006_F001">
+<paragraph>
+<sentence>『日本残酷物語』でなげかけられた、<quote>「残酷」</quote>・<quote>「物語」</quote>（そし<sampling type="start" />て<quote>「日本」</quote>も）が、刊行から三五年をへて問いかけられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（なりた　りゅういち／日本近代史）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBj2_00006_F002">
+<info arg="sample_type" value="beginning" />
+<titleBlock>
+<title>
+<sentence type="quasi">近代の暗黒　序</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本近代社会の急激な、しかも跛行的な発展は、都市と田舎との関係にはっきり示される。</sentence>
+<sentence>おなじ都市といっても、たとえば東京の知識層と隅田川の東にひろがる一帯とでは、ほとんどつながりがない。</sentence>
+<sentence>知識層に代弁される文化を東京文化とよぶならば、<ruby rubyText="ぼく">濹</ruby><ruby rubyText="とう">東</ruby>の地帯は東京に無縁である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　都会と田舎の対立、また都市階層の分裂といっても、それはもっぱら都市の知識層や消費層の意識と生活にかかわりあることで、むしろ都市の下層と田舎とは、たがいに滲透しあう一枚の紙ほどのへだたりをもつ存在であった。</sentence>
+<sentence>労働の給源地である田舎から都市へ吸収されるおびただしい人たちが、むざんな消耗にさらされ破壊されたあげく、ふたたび都市から田舎へと排泄されるか、もしくは残滓として都市の最下層に沈殿するか、このもっともありふれた二つのコースをとおって、都市の下層と田舎のあいだに親密な交流の回路が開かれていた。</sentence>
+<sentence>こうするほかない人たちの運命が、一見なめらかにみえる都市の深部を、意外なほどにはげしい波となって、たえず外から内へ内から外へ動かしてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　明治の末から大正にかけてのころは、全国でおよそ毎年二十万の娘たちが村から都市の工場に出ていった。</sentence>
+<sentence>そしてそのうち十二万人ぐらいが村を出たっきり帰ってこなかった。</sentence>
+<sentence>帰った娘たちのうち一万数千人は重い病気にかかっており、その四分の一は肺結核であった。</sentence>
+<sentence>一年間にすくなくとも三千人が肺結核のために帰郷したと官庁統計でさえはっきりいっている。</sentence>
+<sentence>おそらくこの数倍にあたいする女たちが病に冒されていたであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　若い娘たちがつぎつぎに離郷してゆくので村には青春がないと嘆かれたが、村の若者たちのはるか彼方では、その青春さえ工場のなかですりつぶされていた。</sentence>
+<sentence>そのあげく生ける屍となった娘たちが<quote>「結核という文明」</quote>をランプすらない山奥の村までもちかえっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いっぽう、十年間に百二十万人も村から奪いさられたままの娘たちのその後の運命を暗示する数字をしばらく見よう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　昭和九年（一九三四）といえば東北地方が大凶作に見舞われたころであるが、秋田県からおもに東京、神奈川方面の紡績工場に千八百四十七人の女が出稼ぎにいっており、おなじ県のなかでも仙北郡と平鹿郡の出身者が多い。</sentence>
+<sentence>この二つの郡ともその当時小作争議がもっともはげしかったところで、それだけに農民の窮乏のひどかった地方である。</sentence>
+<sentence>昭和十一年末に秋田県警察部がしらべたところによると、同年中に離郷した女た<sampling type="end" />ちの数は二千八百二十四人で、職業別にいうと、芸妓九十八、娼妓二百四十六、酌婦七十八、女給八十、女中子守二百三十八、女工千五百六十三、その他となっている。</sentence>
+</paragraph>
+</article>
+</sample>

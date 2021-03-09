@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00002" version="1.0" type="fixedLength">
+<article articleID="LBrn_00002_F001">
+<noteBody>
+<paragraph>
+<sentence type="quasi">それにしてもこの名前、某事務用品の通信販売会社を連想してし<sampling type="start" />まう</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<paragraph>
+<sentence>　ところが、日本語や中国語ではそうはいかない。</sentence>
+<sentence>二百五十六文字では<quote>「ぜーんぜん足りない」</quote>のだ。</sentence>
+<sentence>そこで、漢字やかななど半角英数記号以外の文字は、２バイト分のデータとして扱うことにした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　２バイトあれば、六万五千五百三十六種類のデータが扱える<noteMarker text="※９" />。</sentence>
+<sentence>六千文字程度の漢字なら<quote>「<sentence>どーんとこい！</sentence>
+」</quote>ってことになるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※９</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">六万五千五百三十六種類</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　１バイトで二百五十六文字だったら、２バイトでは五百十二文字しか扱えない…ような気がするが、そんなことはない。</sentence>
+<sentence>コンピュータのデータは、足し算ではなくかけ算の世界。</sentence>
+<sentence type="quasi">２バイトは<quote>「２５６の二乗＝６５５３６」</quote>という大容量になるのだ</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">半角文字と全角文字</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　コンピュータでは、よく<quote>「半角文字／全角文字」</quote>という言葉を使う。</sentence>
+<sentence>一般に、半角の英数記号など１バイトのデータで表現できる文字を<quote>「半角文字」</quote>、漢字やかなのように２バイトのデータが必要な文字を<quote>「全角文字」</quote>と呼んでいるのだ<noteMarker text="※１０" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※１０</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">半角文字／全角文字</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　厳密に言えば、半角／全角というのは見た目の違いであって、１バイト／２バイトというデータサイズの違いとは異なる。</sentence>
+<sentence>現在のようなグラフィックスを使ったＯＳが登場する以前、ワープロでは文字のサイズを半角・全角・倍角・四倍角という呼び方で分別していた。</sentence>
+<sentence type="quasi">１バイトを半角、２バイトを全角と呼ぶのは、その当時の名残だと言える</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<paragraph>
+<sentence>　シフトＪＩＳなど日本の文字コード体系は、半角の英数字と記号をＡＳＣＩＩコード体系に準じ、それに半角のカタカナ、全角のひらがな、カタカナ、漢字、英字、数字、記号などを加えたものとなっている。</sentence>
+<sentence>半角の英数字と記号以外の外国語の文字、例えば<quote>「ДЖ」</quote>などのロシア文字や<quote>「βλ」</quote>などのギリシャ文字も２バイト文字である。</sentence>
+<sentence>その他、アラビア数字やアルファベットにも２バイト文字がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　つまり、ＡＢＣや１２３、？</sentence>
+<sentence>％＆などＡＳＣＩＩコード体系で規定されている文字には、１バイトで表現される半角文字と２バイト使っている全角文字の両方が存在することになるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">文字コードを見る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここで、コンピュータが文字をどのように扱っているか、ちょいと覗いてみよう。</sentence>
+<sentence>文字だけで構成されたファイルを<quote>「テキストファイル」</quote><noteMarker text="※１１" />と呼び、メモ帳などのエディタを使えば<quote>「人間の読める文字」</quote>が表示される。</sentence>
+<sentence>しかし、その中身も実際には文字コードの列挙―つまり数値の集まりなのだ。</sentence>
+<sentence>エディタがその数値を文字コードとして捉え、コードに対応する文字を表示しているにすぎない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※１１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">テキストファイル</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　テキストファイルに対して、プログラムなどのようにＣＰＵの読める二進数で記録されたファイルをバイナリファイルと呼ぶ。</sentence>
+<sentence type="quasi">ワープロや表計算の文書ファイルも様々な制<sampling type="end" />御データが二進数で記録されているため、バイナリファイルとなる</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+</article>
+</sample>

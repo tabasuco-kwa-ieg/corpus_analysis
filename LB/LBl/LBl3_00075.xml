@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00075" version="1.0" type="fixedLength">
+<article articleID="LBl3_00075_F001">
+<paragraph>
+<sentence>　なお、中国はデータがとれず実質金利の推移はわからないが、七九年からの開放改革政策導入後も金利は厳しく規制されていること、度重なる経済過熱でしばしばインフレ率は二桁になっていることからすると、八〇年代〜九〇年代前半の年平均の実質金利は、おそらくマイナス<sampling type="start" />となっているものと推測される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上要するに、東アジア諸国では、七〇年代〜九〇年代前半の期間中、多くの国で金利規制の緩和・撤廃がなされたこと、金利規制が残っていても、おおむねインフレ率は低めに抑えられていたことから、金融抑圧が深刻なものとはならず、経済成長を抑制することはなかったといえよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（日本の経験<quote>「人為的低金利政策」</quote>の評価）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで、日本の高度成長期においては、政府の金利規制による<quote>「人為的低金利政策」</quote>が、企業の資金調達コストを引き下げることによって、当時の積極的な設備投資を支え、年平均一〇％程度の高成長の実現に寄与したとの見方が一般的である。</sentence>
+<sentence>このような見方は、これまでの議論と矛盾することになるが、この点についてはどのように考えるべきであろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実は、そもそも日本の高度成長期の金利水準が本当に<quote>「低金利」</quote>であったかどうかについて、疑問があるのである。</sentence>
+<sentence>堀内（一九八四）の実証的な分析によれば、高度成長期における企業への貸付金利の水準は、欧米主要国の金利水準と比べても、また日本の高度成長期後の金利水準と比べても、名目でも実質でも低かったとは必ずしもいえない<noteMarker text="（２）" />（図表３‐４と参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<rejectedBlock type="foreign" />
+</noteBody>
+<paragraph>
+<sentence>　加えて、図表３‐４の日本の（名目）貸出金利は、契約上の金利であるが、高度成長期に広く行われていた<quote>「歩積み両建て」</quote>の慣行によって、実効ベースの貸出金利は契約上の金利よりも高かったという点に注意する必要がある。</sentence>
+<sentence><quote>「歩積み両建て」</quote>とは、銀行が借入企業に対して、借入額の一部を預金（拘束預金とよばれる）として預けるよう求めるものである。</sentence>
+<sentence>預金金利は（契約上の）貸出金利よりも低いため、銀行は拘束預金をとることによって、実効ベースの貸出金利を引き上げることができた。</sentence>
+<sentence>たとえば、ある企業が一億円を金利七％で借り、そのうち一〇〇〇万円を金利二％の拘束預金でとられた場合、実際に利用できる資金九〇〇〇万円に対して、支払金利から受取りの預金金利を引いた実効ベースの金利を計算すると七・六％となる。</sentence>
+<sentence>当時の大蔵省調べによれば、拘束預金の借入額に占めるシェアは、一九六四〜六六年の平均で、都市銀行では九・四％、地方銀行では一七・二％にのぼっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上の分析からは、当時の金利規制が金利水準を低める効果を全くもたなかった（つまりｂｉｎｄｉｎｇでなかった）とはいえないが、規制がなければ成立していたであろう（均衡）金利水準と、実際の金利水準の差は、小さかったと考えられる<noteMarker text="（３）" />。</sentence>
+<sentence>金利規制と高インフレがあいまった金融抑圧は成長を低めるという長期的な関係があることにかんがみれば、<quote>「人為的低金利政策」</quote>が日本の高度成長に貢献したというよりも、当時の<sampling type="end" />金利規制が強引に（名目の）金利水準を低めるようなものではなかったこと、そしてインフレが抑制されていたことが、高度成長を可能にしたといえよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

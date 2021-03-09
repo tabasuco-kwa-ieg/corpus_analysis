@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00037" version="1.0" type="fixedLength">
+<article articleID="LBo4_00037_F001">
+<paragraph>
+<sentence>　二七億年前に大繁殖しはじめた藍色細菌が放出する酸素が、海水中<sampling type="start" />の酸素濃度を著しく増大させたのはたしかなようだ。</sentence>
+<sentence>この酸素は、既に海水にとけていた大量の鉄イオンと反応し、酸化鉄（錆）をつくり、海底に沈殿し、長い年月をかけて縞状の赤鉄鉱床となった。</sentence>
+<sentence>このように海底で形成された鉄鉱床はやがて地上に隆起した。</sentence>
+<sentence>オーストラリアの西部には、こうしてできた世界最大の露天掘りの鉱山がある。</sentence>
+<sentence>ここではタイヤの直径が五メーターを越えるトラックが走り回っている。</sentence>
+<sentence>掘り出された鉄鉱石のお得意先は日本で、われわれの生活に欠かせない自動車、橋梁、ビルの骨組などに使われる大量の鉄は、この鉱石から精練されたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　藍色細菌がたくさんの鉄製品の原料である縞状赤鉄鉱石をつくったこと、われわれが炭水化物を燃焼させ命の糧にしている酸素をつくったこと、やがて真核生物のなかに入り込んで色素体（葉緑体）に変換したこと（後述）などを考えると、藍色細菌の誕生こそが、地球上における生物世界の発展を約束したといっても過言ではない。</sentence>
+<sentence>これは生物が地球環境を変えた最初の例である。</sentence>
+<sentence>次の例はヒトが二酸化炭素を<ruby rubyText="か">過</ruby><ruby rubyText="じょう">剰</ruby>に放出することにより、地球上の二酸化炭素濃度が急増していることだ。</sentence>
+<sentence>これによって地球の温暖化は促進されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">猛毒の酸素を利用―好気性のプロテオ細菌への進化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　藍色細菌は、それまでに海洋に溜まった二酸化炭素を素材に、爆発的に成長、分裂・増殖した。</sentence>
+<sentence>彼らがつくり出す酸素は海水中を飽和し、大気中へとひろがり、地球を今日のような酸素に覆われた環境へと一変させてしまった。</sentence>
+<sentence>酸素は、一方では猛毒の活性酸素となり、これまで生息していた多くの嫌気性の細菌を大量絶滅へと追いやったが、やがてわずかに逃れた嫌気性の紅色光合成細菌のなかから、光合成の暗反応を逆転させてクエン酸回路に、糖の合成系を解糖系に反転させて、酸素を利用できるようになった好気性細菌が誕生してきた。</sentence>
+<sentence>画期的な出来事だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　好気性細菌は、どのようにして、それまで生物にとって毒素であった酸素の存在に適応することができたのであろうか。</sentence>
+<sentence>好気呼吸によってグルコースが分解される反応は、解糖系にクエン酸回路、水素伝達系を加えた三つの過程からなっている。</sentence>
+<sentence>解糖反応は、嫌気呼吸の場合と同じ経路をへて行なわれ、ここで生成されたピルビン酸はクエン酸回路に入り、クエン酸になる。</sentence>
+<sentence>クエン酸は、いくつかの酵素のはたらきによって、だんだんと簡単な物質に変化し、水素を奪う脱水素反応のほか、水が加わる反応をへて、二酸化炭素と水素に完全に分解される。</sentence>
+<sentence>この反応過程では、遊離するエネルギーを利用してグルコース一分子当たり<sampling type="end" />ＡＴＰ二分子が合成される。</sentence>
+</paragraph>
+</article>
+</sample>

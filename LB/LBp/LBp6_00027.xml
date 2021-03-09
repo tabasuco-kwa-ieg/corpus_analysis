@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp6_00027" version="1.0" type="fixedLength">
+<article articleID="LBp6_00027_F001">
+<paragraph>
+<sentence>　また、日本の鉄道の特徴を端的に表すと、<quote>「技術は世界一」</quote>、また鉄道側に起因す<sampling type="start" />るものではありませんが<quote>「異常なほど苛酷な通勤需要」</quote>、そして食堂車がほとんどないなど<quote>「列車旅の魅力を自ら放棄しつつある」</quote>といったところでしょうか。</sentence>
+<sentence>とくに<quote>「列車旅の魅力」</quote>に関しては、日本の場合は航空路、バスともに発達している国ですから、もっと鉄道ならではの魅力を活かした努力をしてもらいたいと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　海外の列車に乗ると、車窓に飽きることが多々あります。</sentence>
+<sentence>これは、何時間走っても同じような草原が続くばかりといった<quote>「車窓が単調で大味」</quote>という国が少なくないためです。</sentence>
+<sentence>その点、日本は狭い国土に山あり川ありと車窓が変化に富んでいます。</sentence>
+<sentence>やりかたによってはもっともっと鉄道の人気は出るのではないでしょうか。</sentence>
+<sentence>最近では<quote>「車窓を楽しむためのイベント的な列車」</quote>も増えていますが、できれば普段の列車でさり気なく<quote>「魅力ある列車の旅」</quote>を演出してもらいたいものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いっぽう日本を一歩出ると、客車列車あり、食堂車あり、値段の安いパスありと、列車の旅はまだまだ捨てたものではありません。</sentence>
+<sentence><quote>「新幹線」</quote>より運転区間の短い韓国の<quote>「セマウル」</quote>でも全列車に食堂車を連結していますし、１〜２時間の遅れは当たり前のアメリカ<quote>「アムトラック」</quote>でも、客室全体を２階に配置したりラウンジを設けるなど、列車旅の演出は心得ているようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本は<quote>「鉄道愛好者」</quote>が多い国ですが、その対象の多くは国内に向けられているようです。</sentence>
+<sentence>ときには海外に目を向け、外から日本の鉄道を眺めてみると、新たなる発見があるかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBp6_00027_F002">
+<info arg="sample_type" value="beginning" />
+<titleBlock>
+<title>
+<sentence type="quasi">世界の鉄道博覧会<enclosedCharacter description="○">１</enclosedCharacter>動力集中式の特急列車</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence type="quasi">機関車＋客車＋機関車編成で、機関車と客車が同じデザインに統一されているのが特徴</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">ユーロスター・イタリアＥＴＲ５００（イタリア）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>高速新線<quote>「ディレティシマ」</quote>の拡大で、それまでの振り子電車から動力集中式になったイタリアの看板特急。</sentence>
+<sentence type="quasi">両端の電気機関車が１１両の客車を挟み込んで、主にミラノーローマ間で運行、ナポリにも足を伸ばす</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＩＣＥ１（ドイツ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><quote>「ＩＣＥ」</quote>はインターシティ・エクスプレスの略。</sentence>
+<sentence>両端の電気機関車が１２両の客車を挟み込んで時速２８０キロ運転をする。</sentence>
+<sentence type="quasi">主にドイツを縦断するルート、首都ベルリンとを結ぶルートほか、スイスのチューリヒへも運行する</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＴＧＶ（フランス）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ヨーロッパの高速列車の代表格。</sentence>
+<sentence>電車ではなく両端の機関車が８両の客車を挟んでいる（大西洋線では１０両）。</sentence>
+<sentence type="quasi">パリ南東線に始まった<quote>「ＴＧＶ」</quote>も、現在は大西洋、そして北部へも運行、周辺各国へも乗り入れる</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＡＶＥ（スペイン）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>在来線は広軌だが、将来フランスの鉄道との直通を視野に入れて標準軌で建設されたマドリード―セビリア間の高速列車。</sentence>
+<sentence>フランスの技術で<sampling type="end" />製造されているので<quote>「ＴＧＶ」</quote>スタイル。</sentence>
+</article>
+</sample>

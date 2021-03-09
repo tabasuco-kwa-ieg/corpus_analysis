@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp4_00041" version="1.0" type="fixedLength">
+<article articleID="LBp4_00041_F001">
+<paragraph>
+<sentence>　田中教授の実験によると、ネズミを縛りつけて身動きをとれなくしたり、ネズミに軽い電気ショ<sampling type="start" />ックを与えたりすると、脳の広い範囲でノルアドレナリンの放出が始まる。</sentence>
+<sentence>大ざっぱに言えば、神経伝達物質が使われれば使われるほど、その部位の神経細胞が使われているので、拘束や電気ショックのような<quote>「物理的ストレス」</quote>がかかると、脳全体が働いていることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、仲間のネズミが物理的ストレスでもがいたり鳴いたりしている姿を、隣で見ているだけのネズミは、言ってみれば<quote>「心理的ストレス」</quote>にさらされているわけだが、脳内で何か変化は起きているのだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　やはり起きている。</sentence>
+<sentence>だが、物理的ストレスとは大きな違いがある。</sentence>
+<sentence>心理的ストレスの場合、ノルアドレナリンが脳全体ではなく、視床下部、<ruby rubyText="へん">扁</ruby><ruby rubyText="とう">桃</ruby>核（人間では扁桃体）、<ruby rubyText="せい">青</ruby><ruby rubyText="はん">斑</ruby>核の三か所（図<enclosedCharacter description="○">２</enclosedCharacter>）で、大量に放出されているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　三つの部位の共通項は、喜怒哀楽の情に深く関わっている点だ。</sentence>
+<sentence>これらの感情が生まれるときにはおもに扁桃核が働き、それを表現するときにはおもに視床下部が働く。</sentence>
+<sentence>したがって、心理的なストレスがかかると、感情のうちおそらく恐怖や不安が引き起こされるのではないかとみられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここまで読まれて、疑問を持たれた読者もおられるかもしれない。</sentence>
+<sentence>ネズミでのストレスの実験を、非常に発達した大脳皮質を有する人間にそのまま当てはめるのはナンセンスではないか、と。</sentence>
+<sentence>たしかに、そのままそっくり当てはめることはできない。</sentence>
+<sentence>だが、ここで取り上げられている視床下部、扁桃核、青斑核は、いずれも脳の奥まったところにあり、脳の系統発生的な成り立ちから見ると、最も古い爬虫類脳をちょうど鉢巻きのように取り巻いている（図<enclosedCharacter description="○">３</enclosedCharacter>）。</sentence>
+<sentence>爬虫類脳と同じく古い脳だから、ネズミでの実験が人間にもかなり当てはまると考えられているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　試みにこの三つの部位の大きさを調べてみて、私は<ruby rubyText="あっ">呆</ruby><ruby rubyText="け">気</ruby>にとられた。</sentence>
+<sentence>人間の脳でさえ、三つ合わせても指先でつまめるほどの大きさしかない。</sentence>
+<sentence>こんな小さなところが、私たちの喜怒哀楽の情をコントロールし、その結果、私たちの人生を左右してしまうことさえあるとは…（もっとも、それを巨大化した大脳で支配しようとするのが人間なのだが）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　物理的ストレスと心理的ストレスとでは、もうひとつ大きな違いがある。</sentence>
+<sentence>ネズミに電気ショックを繰り返すと、脳内のノルアドレナリンは当初ほど出てこなくなるのに、心理的ストレスでは反復によりノルアドレナリンの値が右上がりに上昇するのだ。</sentence>
+<sentence>どうやら物理的ストレスには慣れても、心理的ストレスには慣れるどころか、繰り返されることでストレスがエスカレートしていくらしい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">１</enclosedCharacter>　神経伝達物質とうつ病との関わりの模式図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">２</enclosedCharacter>　脳の模式図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">３</enclosedCharacter><sampling type="end" />　爬虫類脳を鉢巻きのように取り巻く</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

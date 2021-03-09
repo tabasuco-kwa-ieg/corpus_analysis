@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00125" version="1.0" type="fixedLength">
+<article articleID="LBt3_00125_F001">
+<paragraph>
+<sentence>　このような民法の規定だけでは２（１０１頁<sampling type="start" />以下）で述べた問題に十分対処できないため、これまで数多くの特別な法律によってさらに規制がおこなわれてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ａ）　民事規制</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このうち、契約の無効や取消しなど、私法上の効果をともなう規制を定めるものとして、たとえば次のようなものがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ア）　利息制限法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まず、ケース４のように、不当な高利契約をおしつけられる者を保護する目的で、利息制限法が定められている。</sentence>
+<sentence>それによると、１００万円以上を貸す場合には、年利１５％を上限とし、それを超える利息の定めはそのかぎりで無効となるとされている（利息１Ⅰ）。</sentence>
+<sentence>先ほどの公序良俗とくらべると、主観的な事情にかかわりなく、一定の利率を超える部分を一律に無効とするところに特徴がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（イ）　特定商取引法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次に、訪問販売や、ケース６のように電話で勧誘がおこなわれる場合などについては、特定商取引法が定められている。</sentence>
+<sentence>それによると、電話で勧誘を受け、所定の商品を購入しまたは断定の役務の提供を受ける旨の契約を締結した場合は、所定の書面を受領してから８日以内ならクーリング・オフ―申込みの撤回または契約の解除―が認められる（特商２４）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）　行政規制</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これらの民事規制のほかに、従来むしろ重視されてきたのは、行政規制である。</sentence>
+<sentence>これは、事業者に対してさまざまな行為規範を定め、行政機関がその遵守を監督し、違反がある場合には刑罰を科したり行政上の不利益を課したりすることを主たる内容とする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ア）　特定商取引法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば、先ほどの特定商取引法でも、この意味での行政規制がむしろ中心を占めている（特商３〜８・１１〜２３・３４〜３９・４２〜４７・５１の２〜５７・６０〜７５）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（イ）　業法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そのほか、特定の事業について開業規制や業務規制等の行政規制をおこなうものとして、多数の業法が定められている。</sentence>
+<sentence>たとえば、銀行法や保険業法、電気通信事業法、貨物自動車運送事業法、旅行業法等、枚挙にいとまがない。</sentence>
+<sentence>そこでは、規制の一環として、事業者が作成する約款について認可制等がとられる場合があり、それを通じて不当条項に対する事前のコントロールがおこなわれてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　消費者契約法の制定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前述したように、私的自治・契約自由を無制限に認めると問題が出てくるのは、とくに当事者間に情報・交渉力の不均衡がある場合である。</sentence>
+<sentence>こうした不均衡は、ケース４のように、事業者どうしの間でもみられるが、事業者と消費者の間では構造的にみられる。</sentence>
+<sentence>そのため、こうした事業者と消費者の間でおこなわれる消費者契約について、契約の締結過程と契約内容に関する民事規制を定めた法律として、２０００年に消費者契約法が制定された。</sentence>
+<sentence>これにより、たとえばケース５では<sampling type="end" />、瑕疵担保責任を排除する条項は無効とされ（消契８Ⅰ<enclosedCharacter description="○">５</enclosedCharacter>）、ケース６・７では、不実告知を受けたり、不利益な事実の告知を受けなかったＸは、契約を取り消すことができるようになった（消契４Ⅰ・Ⅱ）。</sentence>
+</paragraph>
+</article>
+</sample>

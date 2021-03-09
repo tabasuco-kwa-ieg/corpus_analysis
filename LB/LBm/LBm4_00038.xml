@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm4_00038" version="1.0" type="fixedLength">
+<article articleID="LBm4_00038_F001">
+<paragraph>
+<sentence>観測の合<sampling type="start" />間に、ちょっと天の川の流れや大型の星雲・星団を眺めたいときにとても重宝します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">双眼鏡を自分の目に合わせる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　双眼鏡の一番の特徴は、何といっても<quote>「両目で見ることができる」</quote>ということです。</sentence>
+<sentence>望遠鏡と違って両目で観察できるので、目にかかる負担が少なくなります。</sentence>
+<sentence>よく調整された双眼鏡を使った観察は長時間続けても目が疲れず、快適に星空散歩を楽しむことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　快適な天体観察を楽しむには、双眼鏡を自分の目に合わせて調整しなければいけません。</sentence>
+<sentence>人によって、左右の目の視力の違いや目幅<noteMarker text="注１" />などはまちまちです。</sentence>
+<sentence>双眼鏡は、こうした目幅や左右の視力の違い（視度<noteMarker text="注２" />）を調整できるようになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>注１）目幅（めはば）…人間の左右の目の間の距離で、日本人の大人の平均は６〜７ｃｍ程度。</sentence>
+<sentence>双眼鏡や実体顕微鏡など、両目を使う光学機器は目幅を調整することができるようになっている。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>注２）視度（しど）…人間の左右の目の視力は、メガネを必要としない正常な視力の人であっても、わずかに差があり、この視力の差の程度を<quote>「視度」</quote>という。</sentence>
+<sentence>双眼鏡などは、この視度を補正できるようになっている。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　目幅は双眼鏡の左右の鏡体を動かして調整します。</sentence>
+<sentence>片方ずつの目でのぞいて、どちらの視野も円形に見えれば目幅が合っています。</sentence>
+<sentence>視度調整は、左右いずれかの<ruby rubyText="せつ">接</ruby><ruby rubyText="がん">眼</ruby><ruby rubyText="ぶ">部</ruby>についています。</sentence>
+<sentence>まず視度目盛りの付いていない側で目標をのぞき、ピントを合わせます。</sentence>
+<sentence>次に反対側の目でのぞいて、ピントが合うように視度調整環を回します。</sentence>
+<sentence>なお、ピントを左右独立に合わせる方式の双眼鏡もあり、これには視度調節装置はついていません。</sentence>
+<sentence>こういった調整をせずに双眼鏡を使うと、すぐに目が疲れてしまいます。</sentence>
+<sentence>しっかり調整をして、視野の中にあふれる星たちの姿を楽しみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>右側の接眼部を回し、左右のピントが合うようにする。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">三脚に固定して観察する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　きわめて安い双眼鏡を除けば、たいていのメーカーの小型双眼鏡はカメラ三脚に固定することができます。</sentence>
+<sentence>固定の仕方はメーカーによってまちまちで、そのまま取り付けられるものもありますが、専用のアダプターが必要な場合もあります。</sentence>
+<sentence>販売店などで必ず確認し、三脚アダプターなどはぜひ用意しておきましょう。</sentence>
+<sentence>スポーツ観戦用などのコンパクトな双眼鏡は、三脚に固定できないものがありますから要注意です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　双眼鏡を手で持って気軽に眺める星空も十分に美しいものですが、どうしても手ぶれの影響を受けてしまいます。</sentence>
+<sentence>天体をじっくりと観察したいとき、カメラ三脚に固定すると天体の驚くほど細かいようすも見えてきます。</sentence>
+<sentence>その双眼鏡で見えるもっとも暗い星（<ruby rubyText="きょく">極</ruby><ruby rubyText="げん">限</ruby><ruby rubyText="とう">等</ruby><ruby rubyText="きゅう">級</ruby>）も<sampling type="end" />、手持ちと固定した場合では１〜２等級も違ってきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

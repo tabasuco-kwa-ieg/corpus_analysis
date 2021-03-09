@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00010" version="1.0" type="fixedLength">
+<article articleID="LBg4_00010_F001">
+<paragraph>
+<sentence>そ<sampling type="start" />こで、がんが発生した部位には、新設の血管がどんどん作られ、栄養の補給にあたる。</sentence>
+<sentence>どうもがん細胞は、自分の食料を得るために血管を作る物質も作り出すらしい。</sentence>
+<sentence>がんは、驚くほど知恵者なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、どんどん成長していくと、この補給も間に合わなくなる。</sentence>
+<sentence>すると、コブの固まりの中から、ポロリとがん細胞が落ちる。</sentence>
+<sentence>そのまま死んでいくものも多いが、なかにはしぶとい奴もいる。</sentence>
+<sentence>こういうがん細胞がリンパ管や血管の中に入り込み、流れ者として新たな住処を求めていく。</sentence>
+<sentence>最近の研究では、もともと流れ者になりやすいがん細胞が生まれるとも言われている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ふつう、細胞はきちんと自分の居場所が決まっている。</sentence>
+<sentence>胃の細胞は胃に特有な細胞だし、腸の細胞は腸の組織を構成している。</sentence>
+<sentence>ところが、がん細胞はここでもはずれ者で、どの臓器にでも住み着き、そこで再び成長を始めるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「リンパ節転移」</quote>と<quote>「血行性転移」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば、胃がんの場合はリンパ管に入り込み、周辺のリンパ節に流れ着くことが多い。</sentence>
+<sentence>リンパ節は、ちょうど米粒くらいのもので、黴菌の進入を食い止める関所のような役割をしている。</sentence>
+<sentence>腕などにケガをすると、脇の下にグリグリができることがあるが、あれもリンパ節のひとつなのである。</sentence>
+<sentence>リンパ管を流れるがん細胞も、最初はこのリンパ節にひっかかることが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これが、<quote>「リンパ節転移」</quote>である。</sentence>
+<sentence>しかも、がんが大きくなるほど、遠くのリンパ節に転移を起こす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もっとも、今の医学はがんのこういう挙動も熟知している。</sentence>
+<sentence>そこで、胃がんの手術をする場合は、周囲のリンパ節も一緒に取ってしまうことになっている。</sentence>
+<sentence>長年の研究の結果、胃がんの場合、どの部分のリンパ節に転移を起こしやすいか、胃がんマップといったものができているのである。</sentence>
+<sentence>この地図のおかげで、がんの取り残しはきわめて少なくなった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、リンパ節転移よりも、実はもっと恐ろしい転移がある。</sentence>
+<sentence>それが、血行性の転移である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　血管は、太い血管からしだいに細い血管へと姿を変えていく。</sentence>
+<sentence>この中を流れていたがん細胞は、あるところまで行くと細い血管に詰まってしまう。</sentence>
+<sentence>余談だが、赤血球も細い血管に入ると、身を折るようにしてすり抜けているのである。</sentence>
+<sentence>こういう場所でがん細胞が詰まると、そこで再びがん細胞が増え始める、つまり新たなコブを作り出すのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　胃がんの場合ならば、血管の中に入ったがん細胞は、まず門脈という太い血管に入る。</sentence>
+<sentence>門脈の終着駅は肝臓だ。</sentence>
+<sentence>そこで、肝臓に新居を構え、コブを作る。</sentence>
+<sentence>これが、胃がんの肝転移である。</sentence>
+<sentence>しかし、なかには肝臓を通り抜けてそのまま心臓まで達し、そこから新たに肺へ行く血管に入り、肺に転移を起こす<sampling type="end" />ものもある。</sentence>
+</paragraph>
+</article>
+</sample>

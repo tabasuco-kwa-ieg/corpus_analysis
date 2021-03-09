@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn1_00021" version="1.0" type="fixedLength">
+<article articleID="LBn1_00021_F001">
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">（<quote>「マタイによる福音書」</quote>二五・<sampling type="start" />四一）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　火による責苦は地獄にとって本質的なものだと考えられていた<noteMarker text="（２）" />。</sentence>
+<sentence>しかし仏典におけるような詳しい叙述は見当たらない。</sentence>
+<sentence>初めのうちは、キリストから離れた者が地獄の運命を受けることになっていたが<noteMarker text="（３）" />、のちにパウロによって拡大され道徳的に悪いことをした者は、すべてそうなると説かれている<noteMarker text="（４）" />。</sentence>
+<sentence>この点では、仏教の場合はむしろ逆である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（２）　<quote>「マタイによる福音書」</quote>五・二二、二五・四一、<quote>「マルコによる福音書」</quote>九・四六―四九など。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（３）　<quote>「マタイによる福音書」</quote>一八・八―九、<quote>「マルコによる福音書」</quote>九・四三―四九。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（４）　<quote>「コリント人への第一の手紙」</quote>五・九以下、<quote>「エペソ人への手紙」</quote>五・五、<quote>「ガラテヤ人への手紙」</quote>五・二一、<quote>「テサロニケ人への第二の手紙」</quote>一・八および九、<quote>「ローマ人への手紙」</quote>二・九。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　仏教においてもはじめのうちは地獄をただ数え立てるだけであったらしい。</sentence>
+<sentence>古い経典では一八の地獄をただ数え立てて説明するだけであった<noteMarker text="（５）" />。</sentence>
+<sentence>しかしすでに最初期の仏教において、<ruby rubyText="む">無</ruby><ruby rubyText="げん">間</ruby>地獄（ａｖｉｃｉ　アヴィーチ、阿鼻地獄）の観念が現われていた。</sentence>
+<sentence>そこでは苦痛が絶え間なくつづくので<quote>「無間」</quote>といわれるのである。</sentence>
+<sentence>またアッブダ地獄、ニラッブダ地獄、アババ地獄、アハハ地獄、アタタ地獄、黄蓮地獄、白睡蓮地獄、青蓮地獄、白蓮地獄、紅蓮地獄が数え立てられ、順次に前者を二〇あわせたものが後者にひとしいと説かれていることもある<noteMarker text="（６）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（５）　『十八泥犁経』大正蔵、一七巻、五二八―五三〇。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（６）　『スッタニパータ』（三・一〇）『コーカーリヤ経』。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　経典において教義がやや体系化すると、八大地獄として、想、黒縄、堆圧、叫喚、大叫喚、焼炙、大焼炙、無間という名の八つの地獄を説き、一六の小地獄として、黒沙、沸屎、五百釘、飢、渇、一銅釜、多銅釜、石磨、膿血、量火、灰河、鉄丸、釿斧、犲狼、剣樹、寒氷という名の地獄を数え、八大地獄の一つ一つに一六の小地獄があるという<noteMarker text="（７）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（７）　『長阿含経』第一九巻、地獄品（大正蔵、一巻、一二一下）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　さらに、伝統的保守的仏教の教義学によると、われわれ人間の生存しているところ（ジャンブー洲）の地下に、二万ヨージャナ下ったところに無間地獄がある。</sentence>
+<sentence>そのほかに、極熱、炎熱、大叫、号叫、衆合、黒縄、等活という地獄があり、合わせて八大地獄として説かれる（後の七つの地獄は無間地獄の上にあるという説と、傍にあるという説とがある）。</sentence>
+<sentence>この八大地獄のいちいちの四面に四つずつ小地獄がある。</sentence>
+<sentence>その四つとは、一に<missingCharacter attribute="HanIdeograph" unicode="U+717B" daikanwa="M19269" description="火＋唐">〓</missingCharacter>煨（膝を没するとただれてしまう）、二に屍糞、三に鋒刃（この中に、刀刃路と剣葉林と鉄刺林とがある）、四に烈河（熱鹹水がみちていて、そこの大きな釜には灰汁がもられていて、身体がただれてしまう）である。</sentence>
+<sentence>八大地獄におのおの一六の小地獄があるから、大小あわせると一三六の地獄があることになる。</sentence>
+<sentence>またそのほかに、八大地<sampling type="end" />獄の傍らに八寒地獄があり、衆生が厳寒に苦しめられるという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

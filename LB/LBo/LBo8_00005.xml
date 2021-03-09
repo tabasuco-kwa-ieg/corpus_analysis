@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo8_00005" version="1.0" type="fixedLength">
+<article articleID="LBo8_00005_F001">
+<paragraph>
+<sentence><quote>「起きている間じゅう」</quote>は圧縮が任意で，<quote>「起きている」</quote>と<quote>「間」</quote>にまたがってアクセントの谷が生じてもよいが（おきているあいだじゅう），谷が生じず全体にアクセント核なし（おき<sampling type="start" />ているあいだじゅう）でもよい。</sentence>
+<sentence><quote>「間」</quote>もさほど具体的意味に富むわけではないだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「こわい映画見たさ」</quote>も話者によっては圧縮できる（こわいえいがみたさ・こわいえいがみたさ）。</sentence>
+<sentence>この語の場合，語基の最終の意味要素［映画］は具体性を十分備えているが，前の意味要素［こわい］と合体して１チャンク［こわい映画］（つまりホラー映画という既存の映画ジャンル）らしくなるという事情のために，話者によっては圧縮が生じ得る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　圧縮される要素は通常，［こわい］［もの］のように，もともと２つである。</sentence>
+<sentence>もともと３つ以上ならアクセントの谷ができ，『分節ミスマッチ』が成立するのがふつうである。</sentence>
+<sentence>たとえば<quote>「はやくもうし込んだ人勝ち」</quote><quote>「はやくできた奴順」</quote>では，<quote>「はやく」</quote>にアクセントの谷ができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「背の高い者順」</quote>（せのたかいものじゅん・せのたかいものじゅん）は<quote>「背の」</quote>にアクセントの谷が必ずしも生じず，生じない場合は３つの意味要素［背の］［高い］［者］が１チャンクに圧縮されていることになるが，これは，まず［高い］［者］が義務的に１チャンクに圧縮された上で（ここで圧縮が終われば<quote>「せのたかいものじゅん」</quote>になる），［背の］［高い者］が，［背の高い］が意味的に既存の１要素らしいために（たとえば英語の“ｔａｌｌ”を思い起こされたい），圧縮され得る（その場合<quote>「せのたかいものじゅん」</quote>になる）結果と考えることができる。</sentence>
+<sentence><quote>「お父さんの背の高い者順」</quote>（おとうさんのせのたかいものじゅん）では<quote>「お父さんの」</quote>と他の要素が意味的にまとまらないので，<quote>「お父さんの」</quote>と<quote>「背の」</quote>にまたがって谷ができる（詳細は定延（１９９７）を参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　以上，派生語における『分節ミスマッチ』を，２チャンク仮説を使って説明した。</sentence>
+<sentence>この説明に対する一見『反例』と見えるものも，くわしく見ると反例ではないことがわかった。</sentence>
+<sentence>というのは，それらの『反例』となるデータ領域の輪郭は，２チャンク仮説を使ってはじめて説明できるものだからである。</sentence>
+<sentence>たとえば，<quote>「背の高い者順」</quote>は『反例』になり得る（<quote>「せのたかいものじゅん」</quote>と発音する場合がある）が，<quote>「大好きな芸能人見たさ」</quote>は『反例』になり得ない（<quote>「＊　だいすきなげいのうじんみたさ」</quote>とは発音しない）。</sentence>
+<sentence type="quasi">つまり，『反例』は無秩序に生じるのではなく，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　２つの意味要素（たとえば［こわい］［もの］）のうち１つ（［もの］）の意味が具体性を欠いている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　２つの意味要素（たとえば［こわい］［映画］）が合体して既存の１要素（［ホラー映画］）らしくなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>という，もともと要素の圧縮を生じさせるに足るもっともな事情がある場合だけに生じる。</sentence>
+<sentence>どういう派生語がなぜ『反例』になり得るか，どういう派生語がなぜ『反例』になり得ないかは，２チャンク仮説を採用した上で圧縮という概念を使ってはじめて上のように説明できる。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">５．６．　もう１種<sampling type="end" />の派生語</sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

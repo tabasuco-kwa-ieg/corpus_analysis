@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00010" version="1.0" type="fixedLength">
+<article articleID="LBq0_00010_F001">
+<paragraph>
+<sentence>そこでは<quote>「匿名での引用があまりに多く、書かれた側が反論で<sampling type="start" />きない点で妥当でない」</quote><quote>「唯一実名で登場した医師も『（発言を）勝手に追加された』と証言するなど、記事は正確性を欠く」</quote>と厳しく指摘している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">病人や障害者への悪意に満ちた記事</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">エイズ患者への蔑視報道</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　新潮社の雑誌といえば、エイズ患者のプライバシーを無視し、いたずらに差別意識を煽る報道を繰り返してきたことでも知られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　その報道姿勢をめぐって法廷でも争われたのが、一九八七年（昭和六十二年）一月、日本初の女性エイズ患者が死亡したことに関する『フォーカス』（同年一月三十日号）の記事である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同記事では、女性について<quote>「定時制高校を中退、ややあって水商売の道に入る」</quote>等と、男性との交友関係を中心に、彼女の過去の経歴を十年以上もさかのぼって、虚実織り交ぜて書き立てた。</sentence>
+<sentence>しかも葬儀で遺影を盗み撮りし、無断で顔写真を掲載した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　女性の両親は<quote>「親子双方の名誉やプライバシー、肖像権が侵害された」</quote>として、新潮社等を相手取って提訴。</sentence>
+<sentence>母親は、裁判を起こしたのは<quote>「反論できない死者に対して、徹底的に責め立てることが許されるはずがない」</quote>からだと語った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　八九年（平成元年）十二月、大阪地裁は<quote>「写真と記事は、女性の名誉やプライバシーを侵害するもの」</quote><quote>「故人に対する両親の敬愛追慕の念を著しく侵害した」</quote>として、新潮社に二百二十万円の支払いを命じた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　判決は<quote>「（顔写真付きで報道することが）必要であったとは到底考えられず」</quote><quote>「（報道は）エイズ問題を興味本意（＝ママ）にとらえる風潮を生み出す一方、エイズに対する無用の不安をいたずらに煽り」</quote><quote>「取材行為として通常許されるべき範囲を著しく逸脱したことはいうまでもな（い）」</quote>と厳しく断罪。</sentence>
+<sentence><quote>「女性が売春していた」</quote>云々とする記述に関しても、<quote>「真実であると信ずるにつき相当の理由があったものとも認めることはできない」</quote>とした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この裁判は、翌年十一月、大阪高裁で<quote>「新潮社側が両親に謝罪し、計二百六十万円の和解金を支払う」</quote>ことで、ようやく和解が成立した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　このほか、『週刊新潮』も、一貫してエイズに対する差別的な報道を繰り返している。</sentence>
+<sentence>代表的な例を二つ挙げておこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter><quote>「出産を敢行したエイズ主婦」</quote></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">八七年三月二十六日号</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　―<quote>「エイズ患者の女性が出産した」</quote>という記事である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　冒頭から<quote>「<sentence>彼女はなぜ出産に踏み切ったのだろうか。</sentence>
+<sentence type="quasi">感染者（キャリア）から生れる赤ちゃんの五〇％は、エイズに感染しているという</sentence>
+」</quote>と書き出す。</sentence>
+<sentence>“<sentence>エイズ患者なのに、なぜ子どもを産むのか。</sentence>
+<sentence type="quasi">中絶するべきではないか</sentence>
+”といわんばかりの差別感情である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、記事の結びでは、またぞろ<quote>「ある医療関係者」</quote>なる出所不明の人物の口を借りて、こう語らせている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi">　「果して彼女は赤ん坊を産むべきであったのか、考えさせられ<sampling type="end" />ました（中略）エイズ患者が今後増え続けるとすれば、社会防衛的な考え方が優先してくるでしょう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

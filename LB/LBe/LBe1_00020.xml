@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe1_00020" version="1.0" type="fixedLength">
+<article articleID="LBe1_00020_F001">
+<paragraph>
+<sentence>ここ<sampling type="start" />で丹砂の溶液、曾青の溶液それぞれ一の割合、それに雄黄の溶液を二の割合で取上げて、釜の中に入れ、とろ火にかけて沸騰させる。</sentence>
+<sentence>たびたび攪拌してなじませ、再び炭火にかけて沸騰させる。</sentence>
+<sentence>さきの白銀をこの中に入れる。</sentence>
+<sentence>分量は自由。</sentence>
+<sentence>六、七回ほど沸騰したら地上に注ぐ。</sentence>
+<sentence>凝固すると、見事な色の紫磨金になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">雄黄の溶液を合成する法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　雄黄を製煉して<ruby rubyText="な">生</ruby>ま竹の筒の中に入れる。</sentence>
+<sentence>雄黄一斤ごとに消石二両を加え、上下とも覆って、漆骨丸で封をする。</sentence>
+<sentence>純粋の大<ruby rubyText="さく">醋</ruby><noteMarker text="（八）" />の中に入れ、三尺の深さまで埋める。</sentence>
+<sentence>二十日たつと、化して液体になっている。</sentence>
+<sentence>曾青の溶液、礬石の溶液を作る方法も同じ。</sentence>
+<sentence>ただしそれぞれ別の筒の中で処理すること。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（八）　純粋の大醋　原文<quote>「<missingCharacter attribute="HanIdeograph" unicode="U+9195" daikanwa="M39947" description="">〓</missingCharacter>大醋」</quote>。</sentence>
+<sentence>原注に、テキストにより<missingCharacter attribute="HanIdeograph" unicode="U+9195" daikanwa="M39947" description="">〓</missingCharacter>苦酒に作る、と。</sentence>
+<sentence>苦酒は酢の異名。</sentence>
+<sentence>大醋も同義であろう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">小児（<sentence>鉛のことか。</sentence>
+<sentence type="quasi">『石薬爾雅』に虎男の異名あり</sentence>
+）を用いて黄金を作る法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　大きな鉄の筒を作る。</sentence>
+<sentence>出来上りの内径は一尺二寸、高さ一尺二寸。</sentence>
+<sentence>小さな鉄の筒を作る。</sentence>
+<sentence>出来上りの内径六寸。</sentence>
+<sentence>ピカピカに磨く。</sentence>
+<sentence>赤石脂一斤・硝石一斤・雲母一斤・<ruby rubyText="たい">代</ruby><ruby rubyText="しゃ">赭</ruby>一斤・流黄半斤・空青四両・凝水石一斤。</sentence>
+<sentence>これをすべて合わせて搗き、目の<ruby rubyText="こま">細</ruby>かい<ruby rubyText="ふるい">篩</ruby>にかけ、酢で<ruby rubyText="あ">和</ruby>えて、これを小さい筒の中に塗る。</sentence>
+<sentence>その厚さは二分。</sentence>
+<sentence><ruby rubyText="こう">汞</ruby>一斤、丹砂半斤、<ruby rubyText="りょう">良</ruby><ruby rubyText="ひ">非</ruby>半斤―良非を取る法は、鉛十斤を鉄の釜の中に入れ、炉の上に置き、蓋をせずに加熱する。</sentence>
+<sentence>鉛が溶けたら汞三両を入れ、早く浮き出たものから鉄の匙ですくい取る。</sentence>
+<sentence>これを名づけて良非という―これを攪拌してなじませる。</sentence>
+<sentence>汞が見えなくなるのが潮時である。</sentence>
+<sentence>小さい筒の中に入れ、雲母でその上を覆い、鉄の蓋で押える。</sentence>
+<sentence>大きな筒を取って炉の上に置く。</sentence>
+<sentence>溶けた鉛を大きい筒の中に注ぎこむ。</sentence>
+<sentence>小さい筒をその中に沈める。</sentence>
+<sentence>表面から半寸下になる。</sentence>
+<sentence>鉛が溶け切った時を合図にして、猛火で炊く。</sentence>
+<sentence>三日三晩で出来上る。</sentence>
+<sentence>名づけて紫粉という。</sentence>
+<sentence>鉛十斤を取り、鉄器の中で溶かす。</sentence>
+<sentence>二十日前後加熱したあと、銅器の中に移す。</sentence>
+<sentence>鉛が溶け切るのを待って、紫粉を一寸角の匙で七杯ぶん入れ、攪拌すると、すぐ黄金になる。</sentence>
+<sentence>白銀を作ろうと思えば、汞を取って鉄器中に置き、紫粉三匙ぶん<noteMarker text="（九）" />を投入し、火にかけてなじませ、水をその中に注ぎこむと、すぐ銀になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（九）　三匙ぶん　原文<quote>「三寸已上」</quote>。</sentence>
+<sentence>校語は、寸已上は方寸匕の誤りであろうと言う。</sentence>
+<sentence>改めて訳した。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">務成子の法<noteMarker text="（一〇）" />（『漢書』芸文志五行の部に『務成子災異応』十四巻が見える）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<noteBody>
+<sentence>（一〇）　務成子の法　原文では前の文章と続けてあるが、校語により、行を改め標題とする。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　鉄の筒を作る。</sentence>
+<sentence>長さ九寸、内径五寸。</sentence>
+<sentence>雄黄と<ruby rubyText="いん">蚓</ruby><ruby rubyText="ろう">螻</ruby>土（みみずの吐いた土）を等量搗いて混ぜ合わせ泥状にして筒の内側に塗る。</sentence>
+<sentence>その結果、内径三寸、器の口は四寸となる。</sentence>
+<sentence>丹砂の溶液二合を加え、馬<sampling type="end" />糞の火の上に伏せて、極力乾燥させる。</sentence>
+</paragraph>
+</article>
+</sample>

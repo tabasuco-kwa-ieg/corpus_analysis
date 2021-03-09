@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj8_00011" version="1.0" type="fixedLength">
+<article articleID="LBj8_00011_F001">
+<paragraph>
+<sentence>因みに本書の語彙には、普通の辞書類には見えない特異語も多く、また、『文選』読みの<sampling type="start" />例も多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　『文選』読みの例には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence>等の例も『文選』読みと関係づけて見ることが可能と考えられるが、このような用例の極めて多く存する本書は、漢語の語義と相応する和語との関係を把握するうえには極めて有用なものであることを示す。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　注記の中には、次に示す如き、熟語例を示すもの、同字頭の熟語を統括して略記するものもあり、語彙研究に便利であろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、右例の<quote>「古」</quote><quote>「伊註」</quote><quote>「古註」</quote>の如き形式で出典を示す注記をする場合も多く、古典解釈及び漢字の古訓を知る点に利用されてよい。</sentence>
+<sentence>因みに、出典注記は国書・漢籍に及ぶが、国書の類として、『万葉集』・『伊勢物語』・『源氏物語』・『古今集』・『大鏡』・『平家物語』・『日本書紀』等が、漢籍の類として、『文選』・『毛詩』・『老子』・『論語』・『孝経』・『白氏文集』・『史記』・『長恨歌傳』・『琵琶行』・『遊仙窟』等が見られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、例えば次に示すような例が、当代の発音通りであるかどうかの検討は必要であろうが、当代の音を知るうえでの参考になるものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">『温故知新書』（白帝社版、による）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<authorsData>
+<sentence type="quasi">（西崎）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBj8_00011_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">二十七　<ruby rubyText="こ">古</ruby><ruby rubyText="ほん">本</ruby><ruby rubyText="せつ">節</ruby><ruby rubyText="よう">用</ruby><ruby rubyText="しゅう">集</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　『古本節用集』というのは、個有の名称ではなく、古写本の『節用集』類と慶長（〜一六一五年）頃までの刊本の諸本の総称である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『節用集』は、室町時代中期に『下学集』をもとに、他の材料をも合わせ編集した国語辞書である。</sentence>
+<sentence>『古本節用集』の諸本は多いが、本文巻頭のイ部天地門の初めにくる語が、上に示す例のように、<ruby rubyText="イン">印</ruby><ruby rubyText="ド">度</ruby>・<ruby rubyText="イ">伊</ruby><ruby rubyText="セ">勢</ruby>・<ruby rubyText="イヌヰ">乾</ruby>のどの語がくるかによって、<quote>「印度」</quote>本、<quote>「伊勢」</quote>本、<quote>「乾」</quote>本の三種類に類別される（注・<quote>「乾」</quote>本は<quote>「天地門」</quote>の名を廃す）。</sentence>
+<sentence><quote>「伊勢」</quote>本と<quote>「印度」</quote>本には書写伝本が存するが、<quote>「乾」</quote>本は慶長二年刊の<ruby rubyText="えき">易</ruby><ruby rubyText="りん">林</ruby>本を初めとする。</sentence>
+<sentence>この三類の関係については、<quote>「伊勢」</quote>本系が原本に位置し、その一類から<quote>「印度」</quote>本系が出、さらに<quote>「印度」</quote>本系の一類から、<quote>「乾」</quote>本系が出たと推定されている。</sentence>
+<sentence>ただし、<quote>「伊勢」</quote>本系・<quote>「印度」</quote>本系の両方の影響を受けたと思われるものも存するという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　原本の『節用集』は、語の第一音節によって、イロハ四四部（<quote>「ヰ」</quote><quote>「オ」</quote><quote>「ヱ」</quote>は、各々<quote>「イ」</quote><quote>「ヲ」</quote><quote>「エ」</quote>に合わせる）に分かち、さらに、天地（<quote>「乾坤」</quote>とするものもある）・時節・人倫・官名・畜類・草木・財宝・食物・支体・衣服・数量・（病名）・言語（<quote>「言辞」</quote><quote>「言語進退」</quote>と称するものもある）のように、十二部門（あるいは十三部門）に意義分類する。</sentence>
+<sentence>さらに、京師九陌名・十干十二支名乗字・分毫字様・点画小異字・日本国尽などの項目を加えるものもある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『節用集』の諸本・伝本は極めて多いが、橋本進吉（１６）・山田忠雄（５１）・川瀬一馬（５５）等の研究を参考に、諸本を示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（Ａ）　伊勢本系</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（ａ）天正二十年本類</sentence>
+<br type="automatic_original" />
+<sentence>『正宗本』『大谷本』『明応五年本』など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）伊京集類</sentence>
+<br type="automatic_original" />
+<sentence>『伊京集』『三省堂本』など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）天正十八年本類</sentence>
+<br type="automatic_original" />
+<sentence>『天正十八年本』（『堺本』）など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）饅頭屋本類</sentence>
+<br type="automatic_original" />
+<sentence>『饅頭屋本』など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｅ）温故堂本類</sentence>
+<br type="automatic_original" />
+<sentence>『温故堂本』（焼失）『空念寺本』など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｆ）増補本類</sentence>
+<br type="automatic_original" />
+<sentence>『辞林枝葉』『広本』（『文明本』）など。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｇ）増刊本類</sentence>
+<br type="automatic_original" />
+<sentence>『増刊<sampling type="end" />下学集』など。</sentence>
+</listItem>
+</list>
+</listItem>
+</list>
+</article>
+</sample>

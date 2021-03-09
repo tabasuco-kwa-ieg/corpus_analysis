@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl0_00019" version="1.0" type="fixedLength">
+<article articleID="LBl0_00019_F001">
+<list>
+<listItem>
+<noteBody>
+<sentence>＊改ページとは、ページを改<sampling type="start" />める（変える）ことだが、<ruby rubyText="かい">改</ruby><ruby rubyText="ちょう">丁</ruby>とした場合は、丁（二ページ分一枚の紙）を改めることだから、必ず奇数ページ（本書のような右開きの本では左ページ）から新たに組み始めることになる（奇数ページ起こし、という）。</sentence>
+<sentence>したがって改丁すると、場合によっては対向ページが<ruby rubyText="しろ">白</ruby>（何も印刷されていない白紙のページ）になることもある。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲字切りの例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">組み方原則</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文章を組み、写真や図版をレイアウトする場合、こうしたほうが体裁がよい、という原則のようなものがあります。</sentence>
+<sentence>それらをいくつか挙げてみます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>一、縦組みの本で、奇数（左）ページの終わりに見出しがきた場合は、次のページに見出しをもっていき、奇数ページ末はあけておく。</sentence>
+<sentence>偶数（右）ページの終わりに見出しがきた場合は、そのままでもよい。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　横組みの本の場合は、見出しが、奇数（右）ページ、偶数（左）ページにかかわらず、ページ末にきたら、次のページへ送り、そのあとはあけておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし、調整が面倒な場合もあるので、見出しをページ末に置いている本もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>一、ページの冒頭に一字と句点が残り、あとは白紙だったり、次に見出しがくるような場合は、それらは前ページへ追い込んだほうがよい。</sentence>
+<sentence>前ページの最終行の句読点の下のアキなどを詰めて入れる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>一、日本語の文章の中にローマ字（アルファベット）・アラビア数字・数式などが横組みで入る場合は、それらと仮名や漢字との間はベタ組みにしないで、日本語の文字の<ruby rubyText="し">四</ruby><ruby rubyText="ぶん">分</ruby>（→２６）くらいあけたほうが読みやすい。</sentence>
+<sentence>欧文の単語が二行に割れる場合は、シラブル［ｓｙｌｌａｂｌｅ］（音節）の切れめで切り、行末にハイフン［ｈｙｐｈｅｎ］をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>一、写真（図版）と本文とのアキは、本文文字の<ruby rubyText="ぜん">全</ruby><ruby rubyText="かく">角</ruby>から全角半くらい取るようにする（キャプション〈→７２〉と本文とのアキも同様に）。</sentence>
+<sentence>写真（図版）とキャプションとのアキは、キャプションに使用する文字の全角を標準とし、つめても<ruby rubyText="に">二</ruby><ruby rubyText="ぶん">分</ruby>くらいまでとする。</sentence>
+<sentence>キャプションの文字の大きさは、本文が１３級なら、１１級か１０級くらいにする。</sentence>
+<sentence>なお、キャプションは、割付用紙を使う場合は割付用紙に、使わない場合は、文字原稿の写真や図版を挿入する箇所に記入する（余白がない場合は別の紙に書いて貼り付ける）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ノンブルのつけ方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本や雑誌にノンブル<noteMarker text="＊" />をつけることを、<ruby rubyText="ちょう">丁</ruby><ruby rubyText="づ">付</ruby>け、といいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊［ｎｏｍｂｒｅ］（フランス語）。</sentence>
+<sentence>英語のナンバー［ｎｕｍｂｅｒ］に当たる。</sentence>
+<sentence>ページの順序を示す数字。</sentence>
+<sentence>ページ番号。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　本には、通しノンブル（<ruby rubyText="まえ">前</ruby><ruby rubyText="づけ">付</ruby>〈→７３〉・本文・<ruby rubyText="あと">後</ruby><ruby rubyText="づけ">付</ruby>〈→７４〉を通して一連のページ番号をつけること）にしたものと、前付に別のノンブル（ローマ数字が多い）をつけたものがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="とびら">扉</ruby>（→７５）が<ruby rubyText="とも">共</ruby><ruby rubyText="がみ">紙</ruby>（本文用紙と同じ紙）で通しノンブルをつける場合は、一般に扉の表側を<sampling type="end" />第１ページとします。</sentence>
+</paragraph>
+</article>
+</sample>

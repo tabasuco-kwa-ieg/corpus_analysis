@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00002" version="1.0" type="fixedLength">
+<article articleID="LBt5_00002_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">人気<sampling type="start" />の煮物</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>これだけは知っておきたい定番メニュー、最近ちょっと気になる新しい煮物、ずっとあこがれていたあの味を厳選した９品です。</sentence>
+<sentence>みんなが食べたい、作りたい煮物が勢ぞろいです。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">肉じゃが</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">１人分　３３２ｋｃａｌ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>牛肉のおいしさをたっぷり吸い込んだ野菜が格別。</sentence>
+<sentence>ざくざくと大ぶりに切って、食感を楽しめるようにひと工夫しました。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<list>
+<listItem>
+<sentence type="quasi">【下ごしらえする】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>１　玉ねぎは芯をつけたまま８等分のくし形に切る。</sentence>
+<sentence>じゃがいもは皮をむいて、大きめの一口大に切り、面取りをして５分ほど水に放す。</sentence>
+<sentence>にんじんは皮をむいて大きめの乱切りにし、下ゆでしてざるに上げる。</sentence>
+<sentence>しらたきは水から下ゆでして食べやすい長さに切る。</sentence>
+<sentence>きぬさやは筋を取って、塩少量（分量外）を加えた湯でさっとゆで、水にとって水気をきる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>鍋にごま油を熱し、強火で牛肉を色が変わるまでさっと炒める。</sentence>
+<sentence>玉ねぎ、じゃがいも、にんじんを加えて炒め合わせる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">【１５分〜２０分煮る】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>野菜の表面がつやつやして全体に油が回ったらＡを加える。</sentence>
+<sentence>煮立ったらあくをていねいにすくい取る。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">４</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>弱めの中火にして落としぶたをし、じゃがいもが柔らかくなるまで１０分ほど煮る。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">５</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>しょうゆを加えて調味する。</sentence>
+<sentence>鍋全体を揺すって煮汁を全体に回す。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">６</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>しらたきを加える。</sentence>
+<sentence>しらたきは肉を堅くするので、少し離れたところにまとめて入れる。</sentence>
+<sentence>ふたたび落としぶたをして７〜８分ほど煮、器に盛りつける。</sentence>
+<sentence>きぬさやを添え、七味唐辛子をふる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+</listItem>
+</list>
+<authorsData>
+<sentence type="quasi">（夏梅）</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">肉じゃがの日の献立</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａｄｖｉｃｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>肉も野菜もたっぷりの肉じゃがと炊き込みご飯でボリュームがあるので、副菜は少なめでかまいません。</sentence>
+<sentence>塩味の副菜、汁物を合わせて味のバリエーションを。</sentence>
+<sentence>このほか焼きなすや、汁物の実にみょうがなども合うでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ｍｅｎｕ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">肉じゃが</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">しじみ汁</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">白菜の浅漬け</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ツナとまいたけの炊き込みご飯</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ツナとまいたけの炊き込みご飯</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>ツナのこくでボリュームアップ、きのこなら何でも合います。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">【材料（４人分）】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">米２合　Ａ［しょうゆ大さじ１　塩小さじ１／３］　まいたけ１００ｇ　ごぼう３０ｇ　ツナ缶小１缶（６０ｇ）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　米はといでざるに上げ、３０分ほどおく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　まいたけはほぐしておく。</sentence>
+<sentence>ごぼうはささがきにして２〜３分水にさらし、ざるに上げて水気をきる。</sentence>
+<sentence>ツナ缶はざるにあげて汁気をきる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　炊飯器に米と分量の水、Ａを入れてかき混ぜ、表面を平らにならす。</sentence>
+<sentence>２を広げて入れ、ふつうに炊く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">１人分３１９ｋｃａｌ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">白菜の浅漬け</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>肉じゃがを作り始めてから漬けても間に合います。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">【材料（４人分）】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">白菜１／８個（約３００ｇ）　きゅうり１本　柚の皮（せん切り）大さじ１　塩小さじ１／２</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　白菜は縦に半分に切って、食べやすい大きさの<sampling type="end" />そぎ切りにする。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

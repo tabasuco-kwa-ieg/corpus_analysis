@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00030" version="1.0" type="fixedLength">
+<article articleID="LBg4_00030_F001">
+<paragraph>
+<sentence>この他にもパラコート剤，有機砒素剤，臭化メチル剤，りん化亜鉛剤，硫<sampling type="start" />酸タリウム剤，クマソン剤など多くの種類の農薬がある．</sentence>
+<sentence>これらの中でパラコート剤は除草剤として広く使用され，わが国でも昭和４０年（１９６５年）に発売以来，除草労働の省力化の不可欠の農薬として利用されているが，散布中の中毒はないものの，誤飲や自殺などによる死亡事故が発生している．</sentence>
+<sentence>死因は腎および肝臓の機能障害と，同時に進行する肺水腫，肺出血による呼吸不全であるが，この時期をのりこえても間質性肺炎で死亡する場合が多い．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　パラチオンなどの有機リン剤の中毒の発症機序を図１に示す．</sentence>
+<sentence>体内侵入後，それ自体もしくは代謝を受け活性化されて，アセチルコリンエステラーゼ（ＡｃｈＥ）のエステルサイトと結合し，アセチルコリンと酵素の結合を阻害する．</sentence>
+<sentence>そのため分解されずに蓄積されたアセチルコリンは受容体を飽和し，特に副交感神経系の緊張をもたらす．</sentence>
+<sentence>すなわち心・血管系の抑制，縮瞳，唾液腺分泌の活発化などの有機リン剤中毒の症状を起こし，重症の場合は呼吸困難により死亡する．</sentence>
+<sentence>治療は２‐ピリジン２‐アルドオキシメチルアイオダイド（ＰＡＭ）により有機リン剤とＡｃｈＥの結合を除去するか，アトロピンによって受容体とアセチルコリンの結合を除去することによって行う．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表１　主要な農薬と中毒症状</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１　有機リン中毒の発症機序と治療模式図（パラチオンの場合）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（上田喜一他：代謝，４：７‐１９，１９６７）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<caption>
+<sentence type="quasi">表２　主な農薬に関する歴史的事項</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">１９１５年　有機水銀剤が小麦の黒穂病防除種子消毒剤として使用わが国では１９５１年頃から稲のイモチ病の予防に酢酸フェニル水銀の散布剤使用</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">→</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">１９６７年，使用禁止（水俣病発生が喫機となって）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９３９年　ＭｕｌｌｅｒらがＤＤＴを開発して以来，ＢＨＣやドリン剤など多くの有機塩素系殺虫剤が開発わが国ではＤＤＴは１９４８年，ドリン剤は１９５３年から使用</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">→</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">１９７１年，ＤＤＴ，ＢＨＣ使用禁止（牛乳や母乳がＢＨＣで汚染されている事がわかり環境汚染問題が起こったため）１９７１年，ドリン剤（アルドリン・デイルドリン・エンドリン）一般農作物で使用禁止</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１９４４年　Ｓｃｈｒａｄｅｒらがパラチオンを開発して以来多くの有機リン剤が開発（わが国では１９５１年よりポリドールの名で輸入され使用）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">→</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">１９７２年，パラチオン使用禁止（もっとも多く使用され，しかも毒性が強いため農薬中毒の大部分を占めていたが，比較的毒性の低い有機リン剤が開発されたため）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（９）イタイイタイ病</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　富山県神通川流域の一地方（図１）にはリウマチ様症状を呈する患者が多く見られ，風土病的なものと考えられていた．</sentence>
+<sentence>その後神通川水系の水，その利水<sampling type="end" />を受ける田，またその田で収穫された米などが，他の水系の場合と比較して高濃度のカドミウムで汚染されている（図２，３）ことがわかり，この病気とカドミウムの関連が注目された．</sentence>
+</paragraph>
+</article>
+</sample>

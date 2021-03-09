@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf6_00001" version="1.0" type="fixedLength">
+<article articleID="LBf6_00001_F001">
+<noteBody>
+<sentence>１）媒体クラス間のデータ比較は慎重に行わなくてはなら<sampling type="start" />ない。</sentence>
+<sentence>ゾウの体重とキリンの身長のような，本来は比較不可能なもの同士を比べることになりがちである。</sentence>
+<sentence>たとえば，新聞広告の<quote>「注目率」</quote>と，テレビ番組の<quote>「視聴率」</quote>とでは，調査の対象（個人／世帯），測度のレベル（認知／接触）が異なり，両者を比較することはできない。</sentence>
+<sentence type="quasi">（日本新聞協会広告委員会　１９７９　明日の新聞広告を語るために：広告調査データ“７つの誤解”をただす，を参考にした。）</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　いま１つは，同一媒体クラスの中での広告単位の違いによる効果の違いである。</sentence>
+<sentence>テレビ広告での３０秒ＣＭは１５秒ＣＭとは異なる効果があるだろうし，新聞広告での１５段広告は５段広告とは異なる影響力を持つだろう。</sentence>
+<sentence>しかし，これらは，３０秒ＣＭは１５秒ＣＭの２倍の効果があるとか，１５段広告は５段広告の３倍の効果があるなどというように，一元的な評価基準での定量的比較は困難である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最後が同一媒体クラスの中でのビークル（ｖｅｈｉｃｌｅ）の違いによる効果の違いである。</sentence>
+<sentence>雑誌の同じカラー１ページ広告であっても，そして，同じ人がその広告を見るとしても，経済誌で見るのとゴルフ誌で見るのとでは効果が違いそうである。</sentence>
+<sentence>あるいは，テレビ広告でも，バラエティ番組の中で見るのとドキュメンタリー番組の中で見るのとでは，異なった印象を持ちそうである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以下では，ビークルの違いによる効果の違いについて見て行こう。</sentence>
+<sentence>ビークルの違いが異なった効果を持つ原因はいくつか考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１つは，媒体の専門性や信憑性が広告効果に与える影響である。</sentence>
+<sentence>信憑性や専門性の高い情報源から受け取る情報は，そうでない情報源からよりも，受け手の態度変化を引き起こしやすい。</sentence>
+<sentence>たとえば，テニスに関する記事は，権威あるテニス雑誌で読むほうが一般の週刊誌で読むよりも説得力が強いと考えられる。</sentence>
+<sentence>そして，雑誌の読者は記事と広告とで情報接触傾向性を変化させないと思われるので，テニス雑誌に掲載されているテニス関連の広告は，一般週刊誌に掲載される同一の広告よりも説得性が高いと想像される。</sentence>
+<sentence>アペル（１９８７）の研究では，ある雑誌を取り上げた場合，編集の信憑性の評価が高い人ほど，広告商品の品質や広告の信憑性の評価が高いことが確かめられた<noteMarker text="２）" />。</sentence>
+<sentence>しかし，この問題はこれまで考えられていたよりもっと複雑なことも報告されている。</sentence>
+<sentence>４誌を用いて比較した結果，雑誌によっては，その雑誌の読者と非読者とではその中に挿入される広告の評価が有意に差があり，読者での評価が非読者での評価より高いものがあったのである。</sentence>
+<sentence>雑誌の非読者とは，定義上，日常生活でその雑誌を読まない人のことであるから，現実にはこの<sampling type="end" />研究で見られた低い評価は生起していないことになる。</sentence>
+</paragraph>
+</article>
+</sample>

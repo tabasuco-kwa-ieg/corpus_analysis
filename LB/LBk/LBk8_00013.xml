@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk8_00013" version="1.0" type="fixedLength">
+<article articleID="LBk8_00013_F001">
+<paragraph>
+<sentence><noteMarker text="＊" />中国の常用字さえ決まっていない現状か<sampling type="start" />ら見れば、日本は夢のようである。</sentence>
+<sentence>従って中国の漢字教育は、系統性のないままに、教科書教材に左右されつつひたすら覚えていくほかはない。</sentence>
+<sentence>教育を普及して漢字の読み書きを覚えてもらうことが、現在でも最大の課題である。</sentence>
+<sentence><sentence>（現在でも識字率は七割に満たないといわれる。</sentence>
+）そのため、<noteMarker text="＊" />文字改革も積極的に進められてきたが、たとえば簡体字の採用も、期待したほどの効果を生んでいない。</sentence>
+<sentence>一方、一家に一人っ子の政策によって家庭教育の比重が高まり、識字率はじめ学習面で、新たな格差が生じてきている。</sentence>
+<sentence type="quasi">　</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（江連　隆）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBk8_00013_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">中国の文字改革　ちゅうごくのもじかいかく</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文字どおり五万を超える漢字を、いかに整理し簡略化するか、という改革。</sentence>
+<sentence>その方向は、文字の整理と字体の簡略化の二つである。</sentence>
+<sentence>文字の整理については、同じ漢字の異体字の統一（略・畧など）と、異体字とされる中での略体字（簡体字）の採用（檢→検など）の二つがある。</sentence>
+<sentence>この二つめは自然に、字体の簡略化に結びついていく。</sentence>
+<sentence>一九三五年、中華民国政府は<quote>「第一批簡体字表」</quote>三二四字を公布した。</sentence>
+<sentence>しかし簡体字には、従来俗字・略字として一段低く見られていたものが多く、識者の反対が強かったため普及しなかった。</sentence>
+<sentence>中華人民共和国になると、教育の普及のため積極的に簡体字問題に取り組んだ。</sentence>
+<sentence>一九五六年には<quote>「漢字簡化方案」</quote>を制定、一九六五年には<quote>「簡化字総表」</quote>を公布し、あわせて準拠するべき字形を示した。</sentence>
+<sentence>偏旁の一部も簡化したので、約八〇〇〇字がここに含まれる。</sentence>
+<sentence>一九八六年に一部修正されたが、なお問題点が多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（江連　隆）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBk8_00013_F003">
+<titleBlock>
+<title>
+<sentence type="quasi">中国の常用字　ちゅうごくのじょうようじ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日常に使用する漢字の種類にある程度の枠を設けること、漢字を廃止して別の文字を用いること、この両面から考えられてきた。</sentence>
+<sentence>漢字を覚える負担が識字人口を低くし、教育の普及を妨げ、ひいては中国の近代化を遅らせている。</sentence>
+<sentence>中国がこう自覚する直接の契機はアヘン戦争（一八四〇）である。</sentence>
+<sentence>以後、多くの外国人が中国にやって来た。</sentence>
+<sentence>彼らが漢字を覚えるためには、日本の振り仮名のような発音記号が必要である。</sentence>
+<sentence>トマス・ウェード（<ruby rubyText="ぺきん">北京</ruby>のイギリス大使館の初代首席書記官）は、これをアルファベットで示す方法を工夫した。</sentence>
+<sentence>このウェード式は広く普及し、現在でも各国で使われている。</sentence>
+<sentence>とんで中華人民共和国の一九五八年に<quote>「漢語<ruby rubyText="へい">拼</ruby><ruby rubyText="おん">音</ruby>方案」</quote>が全国人民代表大会で批准された。</sentence>
+<sentence>ウェード式とは有気音と無気音の表記法ほか一部が変わっている。</sentence>
+<sentence>この<noteMarker text="＊" /><ruby rubyText="ビンイン">拼音</ruby>文字は、国際連合でも公式に使用している。</sentence>
+<sentence>中国語がローマ字化するという類の意見は、このような流れから出てきたものである。</sentence>
+<sentence>以上は、中国の国際化から進められてきたものだが、もちろん、国内の<sampling type="end" />教育の普及にも大きな貢献をしてきている。</sentence>
+</paragraph>
+</article>
+</sample>

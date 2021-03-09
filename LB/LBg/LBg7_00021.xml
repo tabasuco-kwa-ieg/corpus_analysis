@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg7_00021" version="1.0" type="fixedLength">
+<article articleID="LBg7_00021_F001">
+<paragraph>
+<sentence>円筒を軸に平行な形で垂直に切り、あま<sampling type="start" />つさえ基点Ｔに発する線分ＴＤと直交する仮想のパネル底部が弦ＢＣに当る。</sentence>
+<sentence>方眼区画化されたパネルの面ということで、弦ＢＣはＢＨ、ＨＥ、ＥＤ…というふうに六等分される。</sentence>
+<sentence><quote>「材料たる形象ないし肖像」</quote>、即ち元絵はまず方眼分割によってこの平面上に配され（図１１２）、次に透明な鏡を透過していくことができる仮想の光線によって水平パネルの上に投影されていくのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　二つの点を基に構成されるのは平面上のダイレクト・タイプのアナモルフォーズの場合と変わらない。</sentence>
+<sentence>基点Ｔ、そして好みの高さの位置にとった視点Ｖ、の二点である。</sentence>
+<sentence>ＴＶは円筒の側面たるＡＺと平行の関係になっている。</sentence>
+<sentence>図解では、そうした垂直の線分が便宜的に水平に表現されているだけのことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この操作で描かれていく図の中で、線分ＴＢω、ＴＨο…は方眼元絵の縦断線（ｍｏｎｔａｎｔｅｓ）を表わしている。</sentence>
+<sentence>それらと横断線（ｔｒａｎｓｖｅｒｓａｌｅｓ）との交点は、点Ｖに発する光線によって決められる。</sentence>
+<sentence>こうして<quote>「正しき手法」</quote>のおなじみの古典的手続きがとられたことになる。</sentence>
+<sentence>次はこのダイレクト・タイプのアナモルフォーズが、ひとつひとつの反射光線に対してそれぞれの入射光線を決めていくことで、反射光学的システムにそっくり移し換えられる番である。</sentence>
+<sentence>縦断線Ｆλに対する光線ＦＲは二等辺三角形△ＦＮＯによって決められ（その辺ＯＦの延長線がＦＲとなる）、結局点Ｒの位置を決めるはずの横断線とこの縦断線との交点は、鏡の円周部と点λとの距離によって与えられる。</sentence>
+<sentence>入射光線ＲＦ、ＱＧの長さは反射光線Ｆλ、Ｇνの長さに、それぞれ等しいからである。</sentence>
+<sentence>鏡の中で水平な正像を結ばせるためにはアナモルフォーズの格子の曲線が点Ｐ、Ｑ、Ｒ、Ｓを通らねばならない。</sentence>
+<sentence>分割が細かくなればなるほど、この曲線は正確なものになる。</sentence>
+<sentence>一見いかにも明快そうだが、実は分かりにくいことおびただしい図解なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうした厄介な問題は円錐‐遠近法によってひき起こされることはない（図１１３）。</sentence>
+<sentence>そこには複雑な計算を必要とする横断線も縦断線もない。</sentence>
+<sentence>幾つかの円、幾つかの直径の値、そして架空裡に円錐底部に配される問題の図柄、それで全部である。</sentence>
+<sentence>幾つかの同心円が元絵の周りに、ちょうど<ruby rubyText="みな">水</ruby><ruby rubyText="も">面</ruby>に落ちた石がつくる水紋のように重なっていく。</sentence>
+<sentence>そうやって少しずつ広がっていく広がり具合を確定すればいいだけの話だ。</sentence>
+<sentence>その投影は鏡の頂点Ａの上方、好みの高さに固定された視点Ｅ、そして基点Ｆをもとにして行なわれる。</sentence>
+<sentence>それらの軸ＡＧは（ＥＧ＝ＧＦ）円錐の辺ＣＡの延長線である。</sentence>
+<sentence>反射光線ＡＥ、ＹＥに対する入射光線ＯＡ、ＮＹは、鏡の<sampling type="end" />表面ＣＡ上で問題の二本の光束が交わる交点Ａ、Ｙ、Ｘ、Ｚによって決められていく。</sentence>
+</paragraph>
+</article>
+</sample>

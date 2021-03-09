@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs6_00002" version="1.0" type="fixedLength">
+<article articleID="LBs6_00002_F001">
+<paragraph>
+<sentence>ミクロデータは、企業についても個人についても存在し、民間機関や公的<sampling type="start" />機関で収集できる。</sentence>
+<sentence>本章が焦点をあてる研究は、米国国勢調査局が収集した企業のミクロデータを利用している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ミクロデータ研究の利点</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生産性のような経済現象を分析する際には、通常、同一産業内の企業は同質であり、経済環境変化に対する反応も似通っていると仮定される。</sentence>
+<sentence>この仮定の非現実性を指摘するのは簡単である。</sentence>
+<sentence>どのような産業においても、多様な企業が存在するといえばよい。</sentence>
+<sentence>これは、産業の定義をいかに狭くしても、また企業の反応をどのように定義しても同じことだ。</sentence>
+<sentence>特定産業についてのケース・スタディを行えば、このことが正しいことがわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ミクロデータを使えば、企業の多様性の評価や、産業への参入・退出行動を検討できる。</sentence>
+<sentence>また、雇用、売上げ、生産性といった企業パフォーマンスの変化を記述し、そうした変化が他産業でも見られるのか、同一産業内で共通しているのか、あるいは操業年数や規模などが同じ企業で共通しているのか、についても検討できる。</sentence>
+<sentence>ミクロデータを利用した過去二〇年間における調査を見ると、企業の経済特性やパフォーマンスがとてつもなく多様であることがわかる<noteMarker text="（１）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（１）　これについての優れた要約は以下を参照（Ｅ．Ｂａｒｌｔｅｓｍａｎ　ａｎｄ　Ｍ．Ｄｏｍｓ，“Ｕｎｄｅｒｓｔａｎｄｉｎｇ　Ｐｒｏｄｕｃｔｉｖｉｔｙ：Ｌｅｓｓｏｎｓ　ｆｒｏｍ　Ｌｏｎｇｉｔｕｄｉｎａｌ　Ｍｉｃｒｏｄａｔａ，”Ｊｏｕｒｎａｌ　ｏｆ　Ｅｃｏｎｏｍｉｃ　Ｌｉｔｅｒａｔｕｒｅ，Ｖｏｌ．３８，Ｓｅｐｔｅｍｂｅｒ　２０００）。</sentence>
+<sentence>この論文は米国国勢調査局が行った研究を概説するとともに、他のミクロデータに関する研究にも言及している。</sentence>
+<sentence>ミクロデータに基づく生産性に関する初期の研究は以下を参照（Ｍ．Ｂａｉｌｙ，Ｃ．Ｈｕｌｔｅｎ，ａｎｄ　Ｄ．Ｃａｍｐｂｅｌｌ，“Ｐｒｏｄｕｃｔｉｖｉｔｙ　Ｄｙｎａｍｉｃｓ　ｉｎ　Ｍａｎｕｆａｃｔｕｒｉｎｇ　Ｐｌａｎｔｓ，”Ｂｒｏｏｋｉｎｇｓ　Ｐａｐｅｒｓ　ｏｎ　Ｅｃｏｎｏｍｉｃ　Ａｃｔｉｖｉｔｙ：Ｍｉｃｒｏｅｃｏｎｏｍｉｃｓ　１９９２，１９９２）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ミクロデータを見れば、集計されたマクロ経済統計の変化の意味が明確になる。</sentence>
+<sentence>また、ミクロデータを使えば、単なる表やその他の集計形式では表せない複雑な関係に、計量的手法を適用することができる。</sentence>
+<sentence>異なるデータ・セットを使った研究結果の比較によって、推計の頑健性、もしくは、どの推計が特定のデータや推計式に依存しているのかを見ることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">研究には上質のミクロデータが必要</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ミクロデータを使った研究は、マクロ経済指標の根底にある、個別企業についての良質な情報を利用する。</sentence>
+<sentence>ミクロデータ・セットは<sampling type="end" />通常、大サンプルの全国統計であり、企業間の途方もない多様性をとらえやすいものにしている<noteMarker text="（２）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

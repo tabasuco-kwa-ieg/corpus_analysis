@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00052" version="1.0" type="fixedLength">
+<article articleID="LBp5_00052_F001">
+<sentence>熱めが好き、ぬるめが好きなど人によって好みはありますが、眠る前やリラックス効果を得たい時は３８度〜４０度の<sampling type="start" />ぬるめのお湯が適しています。</sentence>
+<sentence>ぬるいお湯につかることで緊張をほぐす副交感神経が刺激され、脈拍や血圧が低下してくるのです。</sentence>
+<sentence>反対に４２度以上の熱めのお湯は、交感神経の働きを活発化させ、気分が高揚してしまいます。</sentence>
+<br type="automatic_original" />
+<sentence>日本古来の風習に四季の植物を湯船に入れる植物湯があります。</sentence>
+<sentence>５月の菖蒲湯や１２月の柚子湯などは、その代表的な例です。</sentence>
+<sentence>この他にも四季折々の植物湯があります。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>【春】梅、桃、桜、柳。</sentence>
+<sentence>花びらを浮かべるだけでも香りや美しさを楽しめますが、梅の葉は水虫やたむし、桃の葉はあせもに効きます。</sentence>
+<sentence>柳は陰干しした枝と葉を布袋に入れて湯船へ。</sentence>
+<sentence>神経痛やリウマチ、あせもに効果あり。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【夏】どくだみ、菖蒲、熊笹。</sentence>
+<sentence>どれも葉をそのまま湯船に浮かべます。</sentence>
+<sentence>どくだみはニキビや吹き出物に、菖蒲は疲労回復、冷え性、神経痛に、熊笹は冷え性や肩こり、皮膚病に効果あり。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【秋】菊、からたち。</sentence>
+<sentence>菊は花びらや葉を湯船に入れます。</sentence>
+<sentence>抗菌作用が非常に強いので切り傷やすり傷などの治りを早めてくれます。</sentence>
+<sentence>からたちは、実を輪切りにして湯船へ。</sentence>
+<sentence>冷え性、低血圧、筋肉痛に効きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【冬】ゆず、松葉、大根の葉、みかん。</sentence>
+<sentence>ゆずは実を、松葉は生のまま、大根の葉は１週間ほど干して、みかんは皮を干して、それぞれ湯船へ入れる。</sentence>
+<sentence>ゆずやみかんは血行促進に、松葉と大根の葉は冷え性や肩こりに効果があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>※体質によって合わないものもあります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ハーブティー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ちょっと一休みという時や、眠りにつく前など、一杯の飲み物が心身ともにリラックスさせてくれることがあります。</sentence>
+<sentence>特にハーブティーには様々な効能があり、気分や症状に合わせて飲むとより効果的です。</sentence>
+<sentence>例えば、すっきりとした味わいのミントは気分がリフレッシュするだけでなく消炎、鎮痛作用があるので口内炎などにも効果があります。</sentence>
+<sentence>またカモミールは不眠や女性特有の冷えや生理痛などに効果があります。</sentence>
+<sentence>そのほか、美肌を作るローズヒップやハイビスカス、疲労回復のレモングラスなどがあります。</sentence>
+<sentence>ハーブティーには乾燥させたドライハーブを使うものと、生のハーブを使うものがあります。</sentence>
+<sentence>ティーバックなどにもなっているドライハーブは手軽ですが、生のハーブは香りもよく、ビタミンも豊富です。</sentence>
+<sentence>淹れ方も簡単で一つかみの生ハーブをポットに入れてお湯を注ぐだけ。</sentence>
+<sentence>ハーブはスーパーでも簡単に手に入りますが、育てやすく料理などにも使いまわしがきくので自分で育ててみるのもいいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ｐａｒｔ　４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">番外編</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">みかんの皮で肩こり解消</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>「みかんの皮を肩に当てると、肩こりが和らぐんです。</sentence>
+<sentence>食べ終わった後のミカンの皮を、そのまま直接こっている部分に当て、５〜７分のせたままにし<sampling type="end" />、リラックスした姿勢でくつろぎます。</sentence>
+<sentence type="quasi">みかんのひんやりとした感触と、爽やかな香りでいい気持ちです」</sentence>
+</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00128" version="1.0" type="fixedLength">
+<article articleID="LBo3_00128_F001">
+<titleBlock>
+<title>
+<sentence>衛星遠隔交換講義を通して、多元的な視<sampling type="start" />点を養う。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">中川　正雄</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">理工学部情報工学科</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">教授</sentence>
+<br type="automatic_original" />
+</authorsData>
+<authorsData>
+<sentence type="quasi">平出　賢吉</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">日本無線株式会社</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">常務取締役・研究開発部門副総括</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence>衛星遠隔交換講義のメリットとは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パソコンやインターネットなどに代表される情報機器や情報サービスの爆発的な普及は、社会だけでなく、大学の教育環境にも大きな変革をもたらした。</sentence>
+<sentence>これによって、多くの大学ではコンピュータの導入、それに伴う情報関連の講義を用意するなど、情報化教育に力を入れるようになってきている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そんな中、慶應義塾大学の理工学部と早稲田大学の理工学部では、’９８年の秋から衛星通信を利用した遠隔合同授業を行っている。</sentence>
+<sentence>これは『情報通信２０００』と呼ばれる講座で、衛星回線で結ばれた両大学の教室のスクリーンにそれぞれの教室が映し出され、両大学の学生は同時に講義を受けられるというものだ。</sentence>
+<sentence>そして、両校の先生の講義が終わると、その講義に対する質問やそれに伴うディスカッションが行われる。</sentence>
+<sentence>もちろんこの場合、講義を行う先生は２人。</sentence>
+<sentence>慶應義塾大学では理工学情報工学科の中川教授が、早稲田大学では理工学の高畑文雄教授が中心となっており、ほかにも毎回企業で活躍している学外講師を呼んで講義を行っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今回は、慶應義塾大学の中川教授と、この講義で講師を務めている日本無線の平出賢吉氏に、この『情報通信２０００』を始めたきっかけやメリットなどについてお話を伺った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「今伸びている、成長段階にある技術を教える場合、１人の先生の話だけではなく、複数の先生から話を聞いたほうがいいと思うんですね。</sentence>
+<sentence>それも討論形式でもっとたくさんの人間が関われば、学生にとってもいろんな意見があるんだなと実感できますしね。</sentence>
+<sentence type="quasi">この授業を始めようと思ったきっかけはこのようなことですね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+<speaker>
+<sentence type="quasi">（中川教授）</sentence>
+<br type="automatic_original" />
+</speaker>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「もっと本音のことを言えばですね（笑）、この授業はＮＥＣの寄付講座となっているんですが、ＮＥＣさんは衛星通信がビジネスとしてもっと大きくなってもいいんじゃないかと思っているんです。</sentence>
+<sentence>ですから、衛星通信を使っていろいろな試みをしていて、その中の１つがこの講座というわけです。</sentence>
+<sentence type="quasi">そして、この講座を通して、事業と教育の中から何か新しいものを創り出せないかと可能性を探っているんです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+<speaker>
+<sentence type="quasi">（平出氏）</sentence>
+<br type="automatic_original" />
+</speaker>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　このような遠隔授業は一部の国公立大学で単発的に行われることはあったが、継続的に、しかも両大学間で単位を認めるという講座は、この『情報通信２０００』が初めてだという。</sentence>
+<sentence>では、この講座のメリットとは何なのだろうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「多元的であるということでしょうね。</sentence>
+<sentence>通常の授業は一元的で１人の先生のワンマンショーですよね。</sentence>
+<sentence>これでは学<sampling type="end" />生も退屈してしまう（笑）。</sentence>
+<sentence>学生は複数の先生の話を聞くことで新たな発見もあるし、理解も深まると思うんです。</sentence>
+<sentence type="quasi">特に技術の世界は、多くの人がさまざまな方法を駆使して、競争しながら進歩しているということ、簡単に言うと、技術の後ろに社会があるということが実感としてつかめると思うんです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

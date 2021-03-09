@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc4_00009" version="1.0" type="fixedLength">
+<article articleID="LBc4_00009_F001">
+<authorsData>
+<sentence type="quasi"><sampling type="start" />一九八八年五月</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="おお">太</ruby><ruby rubyText="た">田</ruby>　<ruby rubyText="じ">次</ruby><ruby rubyText="ろう">郎</ruby></sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBc4_00009_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅰ</sentence>
+<br type="automatic_original" />
+<sentence><quote>「極限の生物」</quote>とは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>ヘソ曲がり生物大集合！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「この地球上には、いったい、どのくらいの数の生物が存在するのだろうか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　その答えは、動物約一〇五万<ruby rubyText="しゅ">種</ruby>、植物約三〇万種である。</sentence>
+<sentence>しかし、それは種の数であって、個体数ではない。</sentence>
+<sentence>それぞれの種に、何十億、何十兆という個体が存在することも珍しくないから、全部合わせたらどのくらいの個体数になるかは、その数を示す単位さえ存在しないほどであろう。</sentence>
+<sentence>まさに、地球は、神さまが生きもののためにプレゼントしてくれた、かけがえのない星である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、である。</sentence>
+<sentence>一三〇万種を超える生物の世界を見渡すと、これがなかなか一筋縄ではいかない。</sentence>
+<sentence>人の世にも、変わり者、ヘソ曲がりがいるように、生物の世界にも、<quote>「こう生きて、こう死になさい」</quote>というありがたい神の<ruby rubyText="せつ">摂</ruby><ruby rubyText="り">理</ruby>を無視するかのような、型破りの生き方をする連中が少なくないのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この本で紹介するのは、このような変わり者の中でも、われわれの生物学の常識をはるかに超えた、きわめつきの“変人”たちである。</sentence>
+<sentence>私は彼らを“極限の生物”と呼ぼう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここで、極限の生物を、大ざっぱに次のように定義したい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>とても生命が存在するとは思えないような、めちゃくちゃにきびしい環境に生きている連中</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>気の遠くなるような歳月を、仲間がみんな絶滅してしまったのに、なぜか今日まで自分たちだけがしぶとく生き残っている連中</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>進化の極致ともいうべき絶妙かつ不可思議なからだのつくりをもっている連中</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　では、彼らがわれわれヒトをはじめとする多くの生物とくらべて、どこがそんなに変わっているのか、<enclosedCharacter description="○">１</enclosedCharacter>から順に具体的に説明していこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">“住環境良”から“生存不適”地域まで</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　極限の生物の筆頭は、なんといっても<enclosedCharacter description="○">１</enclosedCharacter>の<quote>「きびしい環境に住む生物たち」</quote>である。</sentence>
+<sentence>次のⅡ部（１〜４章）で扱うこれらのタフな生きものたちは、本書の主役ともいうべき存在である。</sentence>
+<sentence>前置きが少々長くなるのをがまんしてもらいたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この地球という惑星には、たしかに生物が満ち満ちている。</sentence>
+<sentence>万年雪に覆われた高山、乾ききった砂漠、氷に閉ざされた極地でも、生物がまったく存在しない場所は、ほとんどないといっていい。</sentence>
+<sentence>地上七〇〇〇メートルの大気中にも、胞子や<ruby rubyText="しゅ">種</ruby><ruby rubyText="し">子</ruby>などが浮遊しているし、数千メートルの深海底にも生物が見られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　畑の片隅の土をちょっと掘ってみよう。</sentence>
+<sentence>小さなスプーンに軽く乗るていどの一グラムの土の中にも、おびただしい微生物が生活している。</sentence>
+<sentence>表層の土の場合、細菌が一〇〇〇万から一億（東京都の人口から日本全体の人口に匹敵する）、カビがその数十分の一ぐらい、藻類が数万、アメーバなどの原生動物（単細胞の動物）が数<sampling type="end" />万生存している。</sentence>
+</paragraph>
+</article>
+</sample>

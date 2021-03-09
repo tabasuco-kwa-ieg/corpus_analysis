@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00094" version="1.0" type="fixedLength">
+<article articleID="LBs3_00094_F001">
+<paragraph>
+<sentence>　被相続人に<sampling type="start" />対して虐待もしくは重大な侮辱を加えたとき、または著しい非行があったときは、相続人としての権利を失わせることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、家庭裁判所に<quote>「推定相続人廃除申立書」</quote>を提出して、調停または審判を受けます。</sentence>
+<sentence>次に、役所に調停または審判の確定証明書と<quote>「推定相続人廃除届」</quote>を提出して、相続人の廃除が確定するという２段階の手続きが必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　申し立ては、被相続人が生前に家庭裁判所に申し立てるか、遺言で廃除請求の意思表示をして遺言執行者が家庭裁判所に申し立てるという２通りの方法があります。</sentence>
+<sentence>その後、被相続人の気持ちが変われば家庭裁判所に取り消しの申し立てができますし、遺言で取り消すこともできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、廃除の対象となるのは遺留分を持つ者のみで、廃除された相続人に子どもがいる場合は代襲相続が可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■推定相続人廃除申立書</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●申立先：家庭裁判所</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●申立人：被相続人または遺言執行者</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●必要書類：推定相続人廃除申立書、被相続人の戸籍謄本</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■推定相続人廃除届</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●届出先：相続人の本籍地または住所地の市区町村役所</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●届出人：被相続人または遺言執行者</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●必要書類：推定相続人廃除届、家庭裁判所の調停調書または審判書の謄本、確定証明書、被相続人の戸籍謄本、印鑑</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＯＬＵＭＮ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">代襲相続</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>本来の相続人が死亡廃除で相続できないときに、子・孫などの直系卑属が相続することを代襲相続といいます。</sentence>
+<sentence>たとえば、被相続人の息子がすでに死亡していた場合に孫が相続すること、廃除された者の子どもが相続することなどです。</sentence>
+<sentence>相続放棄をした者の子どもは代襲相続できません。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●相続税の申告をする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　相続や遺贈（遺言によって相続人以外の人が財産をもらうこと）によって財産を得た場合は、相続税がかかります。</sentence>
+<sentence>ただし、遺産の総額が基礎控除額（５，０００万円＋１，０００万円×相続人の数）以下であれば、だれにも相続税はかかりません。</sentence>
+<sentence>また、配偶者については、法定相続分もしくは１億６，０００万円までであれば、相続税はかかりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　相続税がかかる財産とは、土地、建物、現金、預貯金、株式、家庭用財産（家具、貴金属、書画、骨董、自動車など）、事業用財産（機械、売掛金、牛馬、果樹など）、電話加入権、ゴルフ会員権、著作権、特許権、みなし相続財産（Ｐ．１８０コラム参照）などです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　相続財産を金銭に換算して相続税額を算出します。</sentence>
+<sentence>相続人が複数の場合は、分割協議書にそって相続税を配分し、申告書に記入のうえ税務署に提出、納税します。</sentence>
+<sentence>分割協議書が完成していないときは、法定相続分にしたがって仮に分割した申告書を提出し、仮納税をしておきます。</sentence>
+<sentence>後日確定したときに改めて納税および払い戻しの手続きをします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　相続税の申告と<sampling type="end" />納税は、相続開始を知った日の翌日から１０か月のうちにすませねばなりません。</sentence>
+</paragraph>
+</article>
+</sample>

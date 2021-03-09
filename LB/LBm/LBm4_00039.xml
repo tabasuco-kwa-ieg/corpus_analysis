@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm4_00039" version="1.0" type="fixedLength">
+<article articleID="LBm4_00039_F001">
+<figureBlock>
+<caption>
+<sentence>図　２‐５　ベクトルのノルムは斜辺の長<sampling type="start" />さ？</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図　２‐６　３次元空間におけるベクトル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〔考えてみよう〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図２‐５のベクトルａが，平面上の座標（３，４）にある“点”なのか，それとも何かをⅠ軸方向に右に３つ，Ⅱ軸方向に上に４つ動かす“働き”なのか，というのはベクトルにどういう具体的な意味づけを与えるか，によって決まる問題です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>４　偏差値って何？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　大学受験や高校受験の進路指導に大活躍しているのが<quote>「偏差値」</quote>ですね。</sentence>
+<sentence>ビジネスマンの諸兄よりも教育ママの間でよく知られていることばかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大手の進学塾や教育産業はそれぞれ独自のデータから偏差値をスコアリングして，学生本人，保護者および学校関係者に情報サービスしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　偏差値を算出するまでのプロセスは次の通りです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>（１）まず大勢の学生に模擬テストを受けてもらいます。</sentence>
+<sentence>偏差値というのは，あくまでも標本データから得られる統計量ですから，テストを受けた受験生が，受験生全体を代表するような集団になっていないと評価の上で都合が悪いわけです。</sentence>
+<sentence>つまり偏差値も世論調査と同じ意味で<quote>「標本の母集団代表性」</quote>が期待されるわけです<noteMarker text="＊）" />。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>＊）　母集団代表性という概念は，標本（サンプルともいう）の集団が，母集団の“よき縮図”になっているか否かを問題にした概念です。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　実物によく似たミニチュア模型が得られないと，受験生全体の中での位置づけがうまく評価できないからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが模擬テストというのは，テストをしたい企業が学生を無作為に指名して，強制的にテストをうけさせるわけにはまいりません。</sentence>
+<sentence>ですから，安心料として大勢の学生にテストを受けてもらっているわけです<noteMarker text="（注１）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">【５９頁注１】</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　大変厳しいいい方をすれば，模擬テストを受けた学生数がたんに多いというだけでは，まだ安心できないのです。</sentence>
+<sentence>肝心なのは人数よりむしろ，彼らが全受験生を比例代表するように，偏りなくテストに参加しているかどうかなのです。</sentence>
+<sentence>つまり，図２‐７でいえばサンプル集合Ｓが母集団Ωの<quote>「良き縮図」</quote>になっているかどうかが問題なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　通常の標本抽出（サンプリング）の事態ですと，調査したい側がΩからＳを無作為に選ぶわけですから，あまりそのへんの心配はありません。</sentence>
+<sentence>ところが模擬テストの場合は自発的参加なので，不安が残るわけです。</sentence>
+<sentence>受験産業の大手企業による模擬テストでも，同じ受験生についても偏差値が多少異なる結果が出るといわれます。</sentence>
+<sentence>これは各社のサンプル構成が違うわけですからやむを得ないことなのです。</sentence>
+<sentence>試験問題の違いだけが偏りの原因ではないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，図２‐７の右下では<quote>「サンプルについて得られたテスト結果」</quote>をＸと書きましたが，これは厳密には正しい言い方では<sampling type="end" />ありません。</sentence>
+</paragraph>
+</noteBody>
+</article>
+</sample>

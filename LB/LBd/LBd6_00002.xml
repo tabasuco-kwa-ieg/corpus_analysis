@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd6_00002" version="1.0" type="fixedLength">
+<article articleID="LBd6_00002_F001">
+<paragraph>
+<sentence>　<sampling type="start" />酒造業界でも物流を取り巻く環境は大きく様変わりし始めている。</sentence>
+<sentence>それは、多品種、小ロット、多頻度化の進展であり、これに対するローコスト、ハイサービスが求められているからだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここに紹介する西宮酒造は、代表ブランドが<quote>「日本盛」</quote>であり、清酒の大手メーカーであるが、<quote>「需要に応じた生産と営業戦略を効果的に推進するトータルな商品供給体制の確立」</quote>をテーマとし、その第一次として昭和六十二年八月に総合物流センターを構築した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このセンターは従来の物流機能に情報システムをフルに組み込み、生産から販売までを一貫したシステムとしてつくり上げている。</sentence>
+<sentence>効率的な出荷や配送はもちろんのこと、同時に多品種、小ロットの受注生産体制と連動したリアルタイム情報機能を備えている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同社の物流センターは本社工場より歩いて四〜五分のところにある。</sentence>
+<sentence>敷地面積は一万千七百三十平方メートル、倉庫棟の延べ床面積は四千七百二十三平方メートルである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このセンターの機能、運用をサポートするのは情報システムである。</sentence>
+<sentence>本社にシステム全体をコントロールするホストコンピューターがあり、これを本社各部門、各地支店、そしてこのセンターのオンライン端末機と専用回線やパケット交換網で結ばれており、その端末数は全国で百台を超えている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この百台のうち、出荷販売物流関係用には約七十台、さらにそのうち約四十台はこの総合物流センターおよび本社倉庫に設置されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このオンラインネットワークは工場ＬＡＮ（企業内情報通信網）システムとも連動してきている。</sentence>
+<sentence>工場と物流との接点にパソコンや各種センサーが数多く設けられ、生産出来高がリアルタイムにコンピューターに流入し、フローラックなどの物流関連機器とパソコンやコンピューターが連動し、計画予定と実績がリアルタイムに把握できるシステムが構築されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、受注インプット時の在庫のチェックも組み込まれており、速やかな対応もできるシステムである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、同社では<quote>「モノ」</quote>と<quote>「情報」</quote>の動きを一致させ、各所に端末機を設置し、今、受注品がどのような状態にあるのか、全品目をリアルタイムでつかめる物流情報システムが完成している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">物流センターのオンライン端末</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">あらゆる情報発生時点でスキャニング</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　それでは、同社におけるリアルタイム情報機能と連動した物流情報システムを、バーコードを中心に本社工場と総合物流センターでみてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）本社工場では同社の主力商品である清酒を中心に生産している。</sentence>
+<sentence>このうち、工場二階の現場事務所にはオンライン端末機とバーコードプリンターが設置<sampling type="end" />されている。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

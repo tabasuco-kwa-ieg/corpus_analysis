@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBhn_00007" version="1.0" type="fixedLength">
+<article articleID="LBhn_00007_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">タチバ<sampling type="start" />ナモドキ（ジョウビタキ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ネズミモチ（ジョウビタキ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ウメモドキ（ジョウビタキ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">シロダモ（ヒヨドリ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲サルトリイバラ（ヒヨドリ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１１月　ノイバラの<ruby rubyText="み">実</ruby>を<ruby rubyText="た">食</ruby>べるジョウビタキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１１月　ジョウビタキのふんのなかのたね</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１月１０日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３月１日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３月３日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３月５日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３月７日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３月２０日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">８</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">４月５日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">９</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">４月１５日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１０</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">６月１日</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<sentence><ruby rubyText="とり">鳥</ruby>にのみこまれたたねは、<ruby rubyText="はつ">発</ruby><ruby rubyText="が">芽</ruby>を<ruby rubyText="よく">抑</ruby><ruby rubyText="せい">制</ruby>する<ruby rubyText="か">果</ruby><ruby rubyText="にく">肉</ruby>がとりのぞかれて、<ruby rubyText="め">芽</ruby>ばえやすい<ruby rubyText="じょう">状</ruby><ruby rubyText="たい">態</ruby>になる。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="かぜ">風</ruby>まかせ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="かぜ">風</ruby>で<ruby rubyText="ち">散</ruby>るたね</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><ruby rubyText="う">羽</ruby><ruby rubyText="もう">毛</ruby>や<ruby rubyText="つばさ">翼</ruby>で<ruby rubyText="かぜ">風</ruby>にのって<ruby rubyText="ち">散</ruby>ってゆくたねは、<ruby rubyText="じ">自</ruby><ruby rubyText="ぶん">分</ruby>で<ruby rubyText="ちゃく">着</ruby><ruby rubyText="りく">陸</ruby><ruby rubyText="ち">地</ruby>をきめられない。</sentence>
+<sentence><ruby rubyText="かわ">川</ruby>に<ruby rubyText="ちゃく">着</ruby><ruby rubyText="すい">水</ruby>することも、<ruby rubyText="ほ">舗</ruby><ruby rubyText="そう">装</ruby><ruby rubyText="どう">道</ruby><ruby rubyText="ろ">路</ruby>に<ruby rubyText="ちゃく">着</ruby><ruby rubyText="りく">陸</ruby>することもある。</sentence>
+<sentence>でも、たくさん<ruby rubyText="ち">散</ruby>っていったなかには、きっと、いいところに<ruby rubyText="ちゃく">着</ruby><ruby rubyText="ち">地</ruby>して<ruby rubyText="め">芽</ruby>ばえるのもあるだろう。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ベニバナボロギク</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ノアザミ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">セイタカアワダチソウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ハハコグサ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オオアレチノギク</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">シュンラン（<ruby rubyText="こな">粉</ruby>のようなたね）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">シラン（<ruby rubyText="こな">粉</ruby>のようなたね）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オケラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オニタビラコ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">コボタンズル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ススキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">アカバナ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">カノコソウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ガガイモ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ゼラニウム</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ワタ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">メボタンズル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ネコヤナギ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲セイヨウタンポポ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ウバユリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">クロマツ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イロハカエデ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">コオニユリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イタドリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヤマノイモ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ウバユリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">クロマツ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イロハカエデ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヤマノイモ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">スギ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">スイバ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒノキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">シシウド</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ノグルミ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イヌシデ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="とお">遠</ruby>くへゆきたい</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="お">落</ruby>ちるたね</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><ruby rubyText="いん">引</ruby><ruby rubyText="りょく">力</ruby>を<ruby rubyText="り">利</ruby><ruby rubyText="よう">用</ruby>して、たねを<ruby rubyText="お">落</ruby>とすだけでは、<ruby rubyText="おや">親</ruby><ruby rubyText="しょく">植</ruby><ruby rubyText="ぶつ">物</ruby>のあしもとに、たねがふりつもる。</sentence>
+<sentence><ruby rubyText="おや">親</ruby><ruby rubyText="こ">子</ruby>がひしめきあい、とも<ruby rubyText="だお">倒</ruby>れになるおそれがある。</sentence>
+<sentence><ruby rubyText="み">実</ruby>のついた<ruby rubyText="え">柄</ruby>が<ruby rubyText="ほそ">細</ruby>く<ruby rubyText="なが">長</ruby>くて<ruby rubyText="かぜ">風</ruby>にゆれやすいと、たねは、<ruby rubyText="お">落</ruby>ちるときに<ruby rubyText="とお">遠</ruby>くへとんでゆく。</sentence>
+<sentence>ドングリも、この<ruby rubyText="らっ">落</ruby><ruby rubyText="か">下</ruby>タイプだが、<ruby rubyText="えだ">枝</ruby>が<ruby rubyText="かぜ">風</ruby>にあおられた<ruby rubyText="はん">反</ruby><ruby rubyText="どう">動</ruby>で、３０メートル<ruby rubyText="い">以</ruby><ruby rubyText="じょう">上</ruby>もとんだのを<ruby rubyText="み">見</ruby>たことがある。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">アヤメ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キンポウゲ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ナズナ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オオイヌノフグリ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ツバキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">コスモス</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ツユクサ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">エノコログサ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ハコベ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">リンドウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ヒッチハイク</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">くっつく<ruby rubyText="み">実</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><ruby rubyText="ひと">人</ruby>の<ruby rubyText="ふく">服</ruby>や<ruby rubyText="どう">動</ruby><ruby rubyText="ぶつ">物</ruby>の<ruby rubyText="け">毛</ruby>にくっついて、はこばれるたねがある。</sentence>
+<sentence>あいさつもしない<ruby rubyText="れい">礼</ruby><ruby rubyText="ぎ">儀</ruby><ruby rubyText="し">知</ruby>らずのヒッチハイカーだ。</sentence>
+<sentence>なかなかおりてくれない、しつこいやつもいる。</sentence>
+<sentence>そんなたねは、たいてい、くずかごか、<ruby rubyText="せん">洗</ruby><ruby rubyText="たく">濯</ruby><ruby rubyText="き">機</ruby>ゆきだ。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">くっつく<ruby rubyText="み">実</ruby></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イノコズチ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">センダングサ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フジカンゾウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">オナモミ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">キンミズヒキ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">アメリカセンダングサ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヤエムグラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヌスビトハギ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ダイコンソウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ミズタマソウ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">メナモミ（ねばりつく）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヌマダイコン（ねばりつく）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">チジミザサ（ねばりつく）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ジャンピング</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">はじける<ruby rubyText="み">実</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>たねが<ruby rubyText="せい">成</ruby><ruby rubyText="じゅく">熟</ruby>すると、<ruby rubyText="み">実</ruby>のさや（<ruby rubyText="か">果</ruby><ruby rubyText="ひ">皮</ruby>）がとつぜんにはじけてたねをとばす、ちょうど、とんできたアブの<ruby rubyText="め">目</ruby>に、ツリフネソウのたねが<ruby rubyText="めい">命</ruby><ruby rubyText="ちゅう">中</ruby>して、ついらくしたことがあった。</sentence>
+<br type="automatic_original" />
+<sentence>カタバミの<ruby rubyText="み">実</ruby>は、はじけない。</sentence>
+<sentence><ruby rubyText="み">実</ruby>のなかで、たねをつつんでいる<ruby rubyText="しろ">白</ruby>い<ruby rubyText="かわ">皮</ruby>が、<ruby rubyText="そ">反</ruby>りかえる<ruby rubyText="ちから">力</ruby>で、たねがとびだす。</sentence>
+<sentence><ruby rubyText="み">実</ruby>からたねをとりだして、<ruby rubyText="かみ">紙</ruby>の<ruby rubyText="うえ">上</ruby>においても<sampling type="end" />、たねははじけとぶ。</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

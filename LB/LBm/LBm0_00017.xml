@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm0_00017" version="1.0" type="fixedLength">
+<article articleID="LBm0_00017_F001">
+<abstract>
+<paragraph>
+<sentence>　情報革命ともいわれ<sampling type="start" />る近年の情報処理技術の飛躍的な革新と展開は、図書館のありかた、活動にきわめて大きな影響を与えてきた。</sentence>
+<sentence>このような時代的な流れのなかで図書館はどう変貌し、どう対応してゆくのか。</sentence>
+<sentence>ここではつねに古くて新しい課題、図書館の運営管理の面に光をあてる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">１．図書館の管理とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　技術革新は図書館の姿を大きく変えた。</sentence>
+<sentence>とくに情報の処理技術はここ十数年で飛躍的な発達をとげ、図書館活動に新たな視野を切り開いたといえる。</sentence>
+<sentence>とはいうものの、図書館の本質は変わったわけではないし、変化しえない部分は残っている。</sentence>
+<sentence>これからの図書館はこうした二つの面から見てゆかねばならないであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図書館を運営してゆくためには、利用の場としての図書館を資料管理、情報管理、施設管理、人事管理の面から考えてゆかねばならない。</sentence>
+<sentence>それらの実態はどうか、そしてどのような問題を抱えているのであろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．資料管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　大量の資料を抱えた図書館は、まず資料をどのように組織化して、利用に結びつけるかを考えておかねばならない。</sentence>
+<sentence>そのために、図書館では一つ一つの資料を全体のコレクションのなかでどこに位置づけるかを定める<quote>「図書館分類法」</quote>という方法を用いてきた。</sentence>
+<sentence>図書館における分類は学問的な系統分類ではなく、本を書架の上に並べるための、いわゆる<quote>「書架分類」</quote>であって、分類というよりは同じ主題の本を集める<quote>「集類」</quote>ともいえる便宜の方法である。</sentence>
+<sentence>ほんの主題は、１箇所に固定できない場合のほうが多いかもしれない。</sentence>
+<sentence><quote>「宗教と政治」</quote>という表題の資料は、どちらの主題のほうに置くかの決定的な判断は下せないから、図書館によって利用者の使いやすいほうに分類しておくのが普通である。</sentence>
+<sentence>著者は、これまで書かれていないからとの理由から新しい主題について本を書くことが多く、図書館での分類を考慮して作品が書かれているわけではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">十進分類法の発明とその後</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１８７６年、メルヴィル・デューイは<quote>「十進分類法」</quote>を発表し、その後の図書館分類の基本をつくった。</sentence>
+<sentence>当時は、世紀の半ばに発足したアメリカの公共図書館がようやく定着のきざしを見せ、数を増やしつつあり、大学図書館も東部諸州から中西部にかけて整備されていた。</sentence>
+<sentence>同年に出された報告書『アメリカ合衆国の図書館』には約３，０００館の図書館が調査の対象となっている。</sentence>
+<sentence>同じ年、アメリカ図書館協会も成立していた。</sentence>
+<sentence>図書館が整い始めたこうした時期には、業務の統一と仕事の標準化が求められていた。</sentence>
+<sentence>それまで、図書館は各館がばらばらに各自の分類を使っていたのである。</sentence>
+<sentence><quote>「十進」</quote>が示すとおり、デューイの分類法は数字を使って１０区分、さらに二桁<sampling type="end" />目まで使えば１００区分と、数字だけで展開する方法であった。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00007" version="1.0" type="fixedLength">
+<article articleID="LBl4_00007_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　１９世紀後半に“数とは何か”という問いかけ<sampling type="start" />が起きましたが，それもいわばピタゴラス以来，数学者が使いなれてきた“数”に対する批判であるといってもよいものでした．</sentence>
+<sentence>ヒルベルトはこの批判数学の流れに乗るように，幾何学の基礎を，“図形”と“数”を調和させる場として徹底した公理主義をとることにより固めていったのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">かず子さん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　この影響はその後どのように広がっていったのですか．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　数学の対象を，まずその概念が包括するものを集合とし，次にその要素の間にいくつかの相互関係をおくことにより特定し，そこから厳密な論理構成によって数学を展開していこうという考えがしだいに数学界に浸透してきたのです．</sentence>
+<sentence>そしてそれは１９３０年代まで抽象数学とよばれる大きな流れを形づくっていくことになりました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">山田君</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　抽象数学では，やはり“はじめに集合ありき”という考えに立つのですね．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうです．</sentence>
+<sentence>抽象数学は，集合と要素の間の関係，および集合から集合への写像というような考えを数学の理念的なものであると設定しましたが，２０世紀数学は結局，この理念に大きく覆われて発展してきたのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">かず子さん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうするとカントルの提起した集合という概念は，２０世紀になってカントル自身が強く心をひかれた“無限”だけではなくて，抽象数学の観点も支えることになったのですね．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そういってよいと思います．</sentence>
+<sentence>集合論そのものの研究はやがて数学基礎論とよばれるものの中で論ぜられるようになりましたが，１９２０年代になるとそれはふつうの数学者の関心をそれほど誘うことはなくなりました．</sentence>
+<sentence>カントルの影響は，“無限”というものをいわば１つの存在概念として数学者の意識の中に植えつけたところにあったといってよいかもしれません．</sentence>
+<sentence>まずその方向で新しい積分論が生まれてきました．</sentence>
+<sentence>それは第５巻６章で述べたルベーグ積分ですが，創始者ルベーグ（１８７５―１９４１）は，関数の積分の考察からは入らず，面積概念の拡張という観点から考えていきました．</sentence>
+<sentence>ルベーグは平面の複雑な図形の面積を測るのに，“無限個のタイル”を用いてその図形を覆い，そのタイルの面積の総和で求める図形の面積を近似しようと考えたのです．</sentence>
+<sentence>しかし無限個のタイルなどいったいどこから調達してくるのでしょう．</sentence>
+<sentence>また無限個のタイルで覆われている状況などを考えることは，私たちの直観をはるかに超えています．</sentence>
+<sentence>しかしこの積分論が容認され，２０世紀数学の支柱となった背景には，間違いなく無限概念の容認があったのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１９０５年頃からはじまったヒルベルトによる積分方程式の研究は，現在ヒルベルト空間とよばれる無限次<sampling type="end" />元の空間を生み出してきました．</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

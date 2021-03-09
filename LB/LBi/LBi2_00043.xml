@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi2_00043" version="1.0" type="fixedLength">
+<article articleID="LBi2_00043_F001">
+<noteBody>
+<paragraph>
+<sentence>はじめ漢学者中山<ruby rubyText="じょう">城</ruby><ruby rubyText="ざん">山</ruby>に学び、長崎に遊学したの<sampling type="start" />ち、文政七年（一八二四）大坂に出て、翌八年私塾泊園書院を開きました。</sentence>
+<sentence>東<missingCharacter attribute="HanIdeograph" unicode="U+7561" daikanwa="M21828" description="田＋亥">〓</missingCharacter>の学問は復古学派といわれる荻生徂徠の流れを受けていますが、とくに勤皇の志あつく皇室を尊ぶことを教えました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">私塾を<ruby rubyText="ごう">郷</ruby><ruby rubyText="こう">校</ruby><ruby rubyText="しゅう">修</ruby><ruby rubyText="どう">道</ruby><ruby rubyText="かん">館</ruby>に</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　京都・大坂での四年間の苦しい学問修業を終えて<ruby rubyText="しか">鹿</ruby><ruby rubyText="の">野</ruby>に帰った<ruby rubyText="し">子</ruby><ruby rubyText="てい">貞</ruby>は、父<ruby rubyText="どう">道</ruby><ruby rubyText="しん">伸</ruby>の私塾を再開し、青年たちの教育に力を尽くしました。</sentence>
+<sentence>ときには<ruby rubyText="はん">藩</ruby><ruby rubyText="こう">校</ruby><ruby rubyText="しょう">尚</ruby><ruby rubyText="とく">徳</ruby><ruby rubyText="かん">館</ruby>に招かれて藩主や藩士に漢書を講義したと伝えられています。</sentence>
+<sentence>また子貞は多くの遺稿が残っていますが、『遺稿集』に載っている主なものは<quote>「<ruby rubyText="きょ">挙</ruby><ruby rubyText="けん">賢</ruby><ruby rubyText="ろん">論</ruby>」</quote><quote>「<ruby rubyText="しょう">賞</ruby><ruby rubyText="ばつ">罰</ruby><ruby rubyText="ろん">論</ruby>」</quote><quote>「<ruby rubyText="ふ">富</ruby><ruby rubyText="こく">国</ruby><ruby rubyText="ろん">論</ruby>」</quote><quote>「<ruby rubyText="ごう">郷</ruby><ruby rubyText="がく">学</ruby><ruby rubyText="ろん">論</ruby>」</quote><quote>「<ruby rubyText="よう">養</ruby><ruby rubyText="せい">世</ruby><ruby rubyText="し">子</ruby><ruby rubyText="さく">策</ruby>」</quote><quote>「<ruby rubyText="しょう">賞</ruby><ruby rubyText="し">賜</ruby><ruby rubyText="ろん">論</ruby>」</quote><quote>「<ruby rubyText="ごう">郷</ruby><ruby rubyText="こう">校</ruby><ruby rubyText="ぐ">愚</ruby><ruby rubyText="こう">考</ruby>」</quote>などです。</sentence>
+<sentence>どれも藩に出した献策（藩に出した意見書）のようです。</sentence>
+<sentence>こうした献策を続けながら道伸以来の私塾を、藩の公認と援助によって郷校（藩校以外に領内各地に開かれた藩公認の学校）に発展させ、郷校で農村の柱石となる人物を養成することを目指して、たびたび藩に願書を差し出していますが取りあげられていません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『遺稿集』に載っていないものに<quote>「<ruby rubyText="たい">太</ruby><ruby rubyText="へい">平</ruby><ruby rubyText="さ">茶</ruby><ruby rubyText="わ">話</ruby>」</quote>があります。</sentence>
+<sentence><quote>「太平茶話」</quote>は<ruby rubyText="か">嘉</ruby><ruby rubyText="えい">永</ruby>四年（一八五一）四月、<ruby rubyText="たか">高</ruby><ruby rubyText="くさ">草</ruby>郡<ruby rubyText="すな">砂</ruby><ruby rubyText="み">見</ruby>村（鳥取市神戸地区）で<quote>「砂見騒動」</quote>といわれる<ruby rubyText="のう">農</ruby><ruby rubyText="みん">民</ruby><ruby rubyText="いっ">一</ruby><ruby rubyText="き">揆</ruby>が起こり、郡界の山を越えて一揆勢が<ruby rubyText="しか">鹿</ruby><ruby rubyText="の">野</ruby>に押し入ってから、鎮圧されるまでの様子を詳しく記述したもので、とくに一揆勢の鎮圧に当たった鹿野の若者たちの尽力を激賞しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうした事件での若者たちの活躍を<ruby rubyText="ま">目</ruby>のあたりにした子貞は、郷校設立の熱意をますますたぎらせ、とうとう藩からお金を借りて郷校を設立することを決意しました。</sentence>
+<sentence>この借金の願書は<ruby rubyText="まん">万</ruby><ruby rubyText="えん">延</ruby>元年（一八六〇）十一月に藩に提出されています。</sentence>
+<sentence>この願書には<quote>「此度鹿野<ruby rubyText="おもて">表</ruby>において学舎一<ruby rubyText="う">宇</ruby>（一軒）を相い構え、郷中富家の子弟で<ruby rubyText="いたずら">徒</ruby>に遊楽の為に日月を費している輩を相集め、及ばずながら<ruby rubyText="けい">経</ruby><ruby rubyText="てん">典</ruby>（聖人賢人の著書）を相授け、孝弟忠信の一端を教論<ruby rubyText="つかまつ">仕</ruby>り、<ruby rubyText="じん">人</ruby><ruby rubyText="りん">倫</ruby>（人としての道）の大切なる<ruby rubyText="おもむき">趣</ruby>を会得致させ申したく存じ奉り候」</quote>と述べて、学舎の建設・経営、書籍の購入などに必要な経費の借用を願っています。</sentence>
+<sentence>藩では<quote>「類例これなき儀に付き」</quote>ととまどいをみせながら、<quote>「<ruby rubyText="きん">金</ruby><ruby rubyText="す">子</ruby>百両拝借仰せ付けられる」</quote>ことに決まりましたが、無利子で元金は十ヵ年年賦で返納という条件が付けられています。</sentence>
+<sentence>この決定があったのは願書を出した翌月の十二月十三日でした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　子貞は早速自宅の隣地に学舎を建てました。</sentence>
+<sentence>これが郷校“修道館”です。</sentence>
+<sentence>この修道館で子貞は<ruby rubyText="やま">山</ruby><ruby rubyText="ぐち">口</ruby><ruby rubyText="こう">鉱</ruby><ruby rubyText="はち">八</ruby><ruby rubyText="ろう">郎</ruby>（九州出身）とともに<ruby rubyText="し">四</ruby><ruby rubyText="しょ">書</ruby><ruby rubyText="ご">五</ruby><ruby rubyText="きょう">経</ruby><noteMarker text="＊１２" />などの漢学はもとより、国学・数学・農学など広い範囲にわたって教えています。</sentence>
+<sentence>修道館では農民などにまじって武士の姿もみられたといわれ、道伸・子貞が考えていた<quote>「学<sampling type="end" />問に身分の隔たりは無い」</quote>という理想に近づいた教育の場だったようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

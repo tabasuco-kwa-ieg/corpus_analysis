@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf7_00004" version="1.0" type="fixedLength">
+<article articleID="LBf7_00004_F001">
+<paragraph>
+<sentence>そこで３と大<sampling type="start" />場に打つことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">５図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６図（右辺に白模様）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<image description="囲碁マーク白" no="35" />のケイマに黒が手を抜くと、（たとえば<image description="囲碁マーク黒" no="36" />と打つ）白はすかさず１と打ちます。</sentence>
+<sentence>黒が２と受けたとき、白３と構え、右辺に白模様ができます。</sentence>
+<sentence>こうなれば白十分です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">６図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">７図（ツナギは危険）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<image description="囲碁マーク白" no="37" />とケイマしても、強引に１と切断してくる力自慢の人がいるかもしれません。</sentence>
+<sentence>白２なら黒３と切ってきます。</sentence>
+<sentence>ここで、白４とつなぎたくなりますが、これは危険です。</sentence>
+<sentence>黒５のオシから９まで、白の四子が囲まれてしまいました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">７図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">８図（捨て石）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここは<image description="囲碁マーク白" no="38" />を捨て石にして、白１、３と打つのがよい手です。</sentence>
+<sentence>黒４と取ったら５とつないでおきます。</sentence>
+<sentence>黒６から８と、なおも強引に切ってくれば、白は９のアテを利かして、１３までと頭を出します。</sentence>
+<sentence>これなら、白は囲まれる心配はなく、十分に戦えます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">８図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">９図（実戦）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　実戦は、黒１と守り、白も２とヒラいて定石どおりの進行になりました。</sentence>
+<sentence>黒はすぐに３と打って、次にａの打ち込みをねらいました（ａについては４５ページ以下でお話します）。</sentence>
+<sentence>白も４とトんで打ち込みを防ぎました。</sentence>
+<sentence>これで上辺は一段落。</sentence>
+<sentence>黒は５とカカり、白１０まで星の基本定石ができました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　互いに大場を打ちあって、黒１５までとなりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　ここで白に好手があるのですが…</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">９図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１０図（模様の接点）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　加藤九段の打った手は、白１です。</sentence>
+<sentence>右辺の黒模様を消しながら上辺の白模様を広げた、絶好点です。</sentence>
+<sentence>このように双方の模様が接しているときは、その接点のあたりに打つ手がよい手になります。</sentence>
+<sentence type="quasi">（模様が接しているときは接点に打て）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　７まで、上辺の白模様が盛り上がってきたのがおわかりでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このあと、黒ａとくれば白ｂと打って、<image description="囲碁マーク白" no="39" />の一子も捨てます。</sentence>
+<sentence>少しぐらい捨てても上辺が大きくなれば、白は十分です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１０図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１１図（黒模様、大）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１１図の白１を打たずに手抜きをすると、黒から１と打つ手が好手になります。</sentence>
+<sentence>こうなると、ご覧になっておわかりのように、右辺の黒模様が広がってきます。</sentence>
+<sentence>模様の接点をどちらが占めるかで、ずいぶん違ってくるものですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１１図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">○ツケヒキ・カケツギ　打ち込み</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">テーマ図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　４２ページの実戦で酒井九段は、右上隅でツケヒキ定石ができたあと、すぐに１とツメました。</sentence>
+<sentence>なぜ、こんな狭いところに打ったのでしょうか。</sentence>
+<sentence>それは、次に白のヒラキに対して、黒から厳しい手をねらっているからなのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実戦では白の加藤九段はａと打ちましたが、ａと守らずに２と大場に打ったとしましょう。</sentence>
+<sentence>これも立派な手です。</sentence>
+<sentence>黒としては１の顔をたてたいところ。</sentence>
+<sentence>上辺の白の薄みをつきたいのです。</sentence>
+<sentence>どう打てばよいでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">テーマ図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１図（黒、有利）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１の打ち込みが、黒のねらいでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白が２、４と閉じ込めてくれば、黒５と<sampling type="end" />打ってワタっています。</sentence>
+</paragraph>
+</article>
+</sample>

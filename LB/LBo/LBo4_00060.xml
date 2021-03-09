@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00060" version="1.0" type="fixedLength">
+<article articleID="LBo4_00060_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">血圧が高いとなぜ怖いの<sampling type="start" />か</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「血圧」</quote>とは、心臓が血液を送り出すときの動脈の圧力</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>心臓は生きているかぎり、絶え間なく動いています。</sentence>
+<sentence>心臓が全身に血液を送り出すとき、血管や心臓には圧力がかかりますが、これが<quote>「血圧」</quote>です。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">心臓は圧力をかけることで血液を循環させている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　私たちの体は、血液が流れることによって組織や細胞に酸素や栄養を取り込み、それによって、エネルギーを得て生きています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この営みの中で、もっとも重要な役割を担っているのが心臓です。</sentence>
+<sentence>心臓は、閉鎖回路ともいうべき体内で、絶え間なく収縮と拡張を繰り返し、全身の血管に血液を送り出しています。</sentence>
+<sentence>いわば、血液を循環させるモーターの役割を果たしているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　左胸に手を当てると、ドキドキというリズミカルな鼓動を感じることができますが、これが心臓の動きであり、血管を押し広げて血液を送り出す原動力になっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　心臓が勢いよく血液を動脈内に押し出すと、血管壁には圧力がかかりますが、この圧力が<quote>「血圧」</quote>です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">血圧はさまざまな要因で微妙に変化する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人間の血圧は、海の中で暮らす生物に比べると約６倍くらいの高さがありますが、必ずしも一定ではなく、さまざまな要因によって変化します。</sentence>
+<sentence>たとえば、何らかの原因によって血管壁が従来のしなやかさを失えば、心臓が血液を押し出したときに血管壁にかかる抵抗は大きくなります。</sentence>
+<sentence>その結果、血圧は上昇します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、日常生活の中で緊張を強いられたりすると、血管が敏感に反応して収縮する場合もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、血圧を決めるもとになる要素には、血管の弾力性や血管の抵抗が大きく影響しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">血液循環のメカニズム</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">医学用語の意味</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">●血圧の大きさ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　血圧の単位に使われるｍｍＨｇ（ミリ水銀柱）とは、水銀柱を押し上げる圧力の単位です。</sentence>
+<sentence>たとえば１００ｍｍＨｇは水銀柱を１００ｍｍ、つまり１０ｃｍ押し上げる圧力があることを意味します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水銀の重さは水の約１３倍ですから、血圧が１００ｍｍＨｇということは、水を約１．３ｍの高さに持ち上げることができる圧力があることを示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">最高血圧１３０、最低血圧８５未満が<quote>「正常血圧」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>正常な血圧とは、どのくらいが目安になるのでしょうか？</sentence>
+<sentence>　血圧は加齢とともに上昇するといわれますが、<quote>「高血圧」</quote>かどうかを判断する基準とは？</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence><quote>「収縮期血圧（最高血圧）」</quote><quote>「拡張期血圧（最低血圧）」</quote>とは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　血圧には、<quote>「収縮期血圧」</quote>と<quote>「拡張期血圧」</quote>があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「収縮期血圧」</quote>とは、心臓が収縮して血液を送り出すときに動脈全体にかかる血圧で、もっとも高いことから<quote>「最高血圧（上の血圧）」</quote>とも呼ばれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「拡張期血圧」</quote>は、心臓が次の収縮のために血液を吸い込んだ瞬間の血圧です。</sentence>
+<sentence>血管に<sampling type="end" />かかる圧力が最小になることから<quote>「最低血圧（下の血圧）」</quote>と呼びます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

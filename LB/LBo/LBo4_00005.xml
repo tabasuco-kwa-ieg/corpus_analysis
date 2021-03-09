@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00005" version="1.0" type="fixedLength">
+<article articleID="LBo4_00005_F001">
+<paragraph>
+<sentence>　ランタノイド（ｌａｎｔｈａｎｉｄｅ）の特徴は最外部のｓやｐ電子殻はそのままでｄ電子殻の内側のｆ<sampling type="start" />電子殻が部分的に電子で充塡されていくことである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">アクチノイド</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アクチノイド（ａｃｔｉｎｉｄｅ）は５ｆ軌道に電子が充塡されるＴｈ，Ｕ，Ｐｕなどの元素で，そのすべてが放射性元素である．</sentence>
+<sentence>原子番号９２のウラン（Ｕ）までは天然に存在するが，原子番号９３のネプッニウム（Ｎｐ）以降は天然には存在しない元素であり超ウラン元素（ｔｒａｎｓｕｒａｎｉｃ　ｅｌｅｍｅｎｔｓ）とよばれる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　化学で使う全世界共通の言葉　その１―単位の世界</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　科学情報を他人に伝達するには，表記法（単位や化合物の名前）が統一されていることが必要である．</sentence>
+<sentence>また，偶然同じ単位を用いていたとしても，概念や大きさが異なれば国際紛争にまで発展しかねない．</sentence>
+<sentence>そこで本章では，国際的に使われているＳＩ標準単位について記述した．</sentence>
+<sentence>さらに化学で最も重要な物質の量の単位であるモルの概念と，この概念を用いた濃度について詳述した．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．１　有効数字</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　測定値は通常，誤差を含んでいる．</sentence>
+<sentence>図２．１は１ｍｍまで目盛りのある物差しで長さを測定している例で，矢印の点は２１．７ｍｍと読める．</sentence>
+<sentence>通常，実際の測定では最小目盛りの１桁下まで読むようにしており，慣れてくるとかなり正確な値として読み取ることができるようになる．</sentence>
+<sentence>しかし，小数点以下１桁目の値は７ではなく，６あるいは８と読む人があるかもしれない．</sentence>
+<sentence>小数点以下２桁目の数値については完全に不明である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　信頼できる情報を表している数字を有効数字（ｓｉｇｎｉｆｉｃａｎｔ　ｆｉｇｕｒｅｓ）という．</sentence>
+<sentence>図２．１の場合，２１．７ｍｍは信頼性のある２と１および多少の不確かさがある小数点以下１桁目の７で構成されている．</sentence>
+<sentence>このような場合，この数を有効数字が３桁の数であるという．</sentence>
+<sentence>もし何らかの根拠により，この数値が２１．６ｍｍと２１．８ｍｍの間にあることが確定するならば，この測定値を２１．７±０．１ｍｍと表示し，０．１ｍｍを誤差範囲あるいは誤差限界という．</sentence>
+<sentence>図２．１の場合は問題ないが，桁が大きくて０が多い数の有効数字の桁数を示すため，下記のような指数表記形（科学的表記法）を用いて表記する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">１．２０×１０<superScript>５</superScript>　有効数字は１，２，０で３桁</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１．２００×１０<superScript>５</superScript>　有効数字は１，２，０，０で４桁</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　有効数字の異なる数値を加減乗除して得た数値は，必ず一番精密でない測定値の有効数字にあわせて表記する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">例２．１　有効数字の計算</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">例２．２　有効数字の計算</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">例２．３　有効数字の計算</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．１　物体の長さ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２．２　ＳＩ単位</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２．２．１　７つの基本単位</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　科学情報を全世界に速く，正しく伝えるためには，重さ，長さなどの単位が，世界的に統一されていなければならない．</sentence>
+<sentence>現在では，１９６０年に国際度量衡委員会が<sampling type="end" />推奨したＳＩ単位系による表記法の統一が図られている．</sentence>
+</paragraph>
+</article>
+</sample>

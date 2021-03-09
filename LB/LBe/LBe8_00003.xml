@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe8_00003" version="1.0" type="fixedLength">
+<article articleID="LBe8_00003_F001">
+<sentence>たなかさんは　はこにかぎをいれま<sampling type="start"/>す。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>たなかさんは　あれを　あそこに　いれました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはうわぎです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはポケットです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしは　このポケットにペンをいれます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>このポケットにノートをいれます。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　う　▶　ケ　ペ　ポ</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>これはぼうしです。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはぼうしをとります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしはぼうしをとりました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>このひとはおとこのひとです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>このひとはおんなのひとです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはおとこのひとのぼうしです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはおんなのひとのぼうしです。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　ぼ</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>これはかんです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはぼうしです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはびんです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはつぼです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしはびんにみずをいれます。</sentence>
+<br type="automatic_original"/>
+<sentence>これはみずです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしはびんにみずをいれました。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　ず　つ　び</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>このひとは　くぼさんです。</sentence>
+<br type="automatic_original"/>
+<sentence>くぼさんのぼうしはテーブルにあります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんはテーブルからぼうしをとります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんはテーブルからぼうしをとりました。</sentence>
+<br type="automatic_original"/>
+<sentence>ぼうしはくぼさんのてにあります。</sentence>
+<br type="automatic_original"/>
+<sentence>ぼうしはテーブルにありました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんはぼうしをつけます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんはぼうしをつけました。</sentence>
+<br type="automatic_original"/>
+<sentence>くぼさんはテーブルからぼうしをとりました。</sentence>
+<br type="automatic_original"/>
+<sentence>そして　それをつけました。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　く　け</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>わたしのうわぎは　あそこにあります。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはあそこから　うわぎをとります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしはうわぎをつけます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしはうわぎをつけました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんは　ぼうしをつけました。</sentence>
+<br type="automatic_original"/>
+<sentence>そして　うわぎをつけました。</sentence>
+<br type="automatic_original"/>
+<sentence>くぼさんは　ぼうしとうわぎを　つけました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはテープです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはテープのはこです。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはテープを　このはこにいれます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これは　はしのはこです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはくつです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これは　おんなのひとのくつです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これは　き　です。</sentence>
+<br type="automatic_original"/>
+<sentence>これは　りんごのき　です。</sentence>
+<br type="automatic_original"/>
+<sentence>くぼさんは　きから　りんごをとります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんは　たなかさんに　りんごをあげます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんは　たなかさんに　りんごをあげました。</sentence>
+<br type="automatic_original"/>
+<sentence>りんごは　たなかさんのてに　あります。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>りんごは　きに　ありました。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　げ</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>わたしはあなたにりんごを　あげました。</sentence>
+<br type="automatic_original"/>
+<sentence>あなたはわたしにりんごを　くださいました。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>くぼさんはわたしにりんごをくださいました。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはこれをあのテーブルにおきます。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはこれをあそこにおきます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはわたしのカードです。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしはあなたにカードをあげます。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>わたしのなまえは　ここにあります。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしのなまえは　たなかたかし　です。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>たなかさんはわたしにカードをくださいました。</sentence>
+<br type="automatic_original"/>
+<sentence>わたしは　たなかさんのカードをここにいれます。</sentence>
+<br type="automatic_original"/>
+<sentence>これはカードのはこです。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　え</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>これは　め　です。</sentence>
+<br type="automatic_original"/>
+<sentence>これはみみです。</sentence>
+<br type="automatic_original"/>
+<sentence>これは　はなです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはくちです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはくびです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはて　です。</sentence>
+<br type="automatic_original"/>
+<sentence>これはゆびです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはあしです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはあしのゆびです。</sentence>
+<br type="automatic_original"/>
+<noteBody>
+<sentence type="quasi">●　ち　め　ゆ</sentence>
+<br type="automatic_original"/>
+</noteBody>
+<rejectedBlock type="figure"/>
+<sentence>これはてです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはあしです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはテーブルです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはテーブルのあしです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはコップです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはコップのてです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>こえはびんです。</sentence>
+<br type="automatic_original"/>
+<sentence>これはびんのくびです。</sentence>
+<br type="automatic_original"/>
+<rejectedBlock type="figure"/>
+<sentence>これはやかん<sampling type="end"/>です。</sentence>
+<br type="automatic_original"/>
+</article>
+</sample>
+

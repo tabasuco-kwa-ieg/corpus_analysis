@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00002" version="1.0" type="fixedLength">
+<article articleID="LBi4_00002_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">表３<sampling type="start" />１　チューリッヒ発着列車時刻表の一部</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　注の説明（Ｚｅｉｃｈｅｎｅｒｋｌａｒｕｎｇ，ドイツ語）には，平日運転，日曜祝日運転，２等車エアコン付，食堂車付，カフェテリア付，直通，経由駅，乗換駅などが書かれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（６）表の題と用紙</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　表には内容を示す題を必ず付けなければならない。</sentence>
+<sentence>単に表１として題がないのは読者に対してすこぶる不親切である。</sentence>
+<sentence>図の題も必要なことは同様だ。</sentence>
+<sentence>図と表だけを拾い読みする読者が多いことを考えると，題のないのは<quote>「本文を読まない人には内容を教えてやらない」</quote>という意地悪を表現しているようなものだ。</sentence>
+<sentence>表は原稿用紙に書かなくてよい。</sentence>
+<sentence>白紙でも方眼紙でもかまわないが，原稿用紙に書くのと同じように，１字ずつ離して同じ大きさにきちんと書く。</sentence>
+<sentence>学会用スライドの場合以外は，写真植字で打ち直すことが多いので，図の場合のレタリングのようにきれいに書く必要はない。</sentence>
+<sentence>ただしパソコンかワープロでｃａｍｅｒａ‐ｒｅａｄｙの表を作るときは，最高に美しく仕上げねばならない（次項）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　近年，外国雑誌の中には，表の四方を枠で囲み，題も枠の中に入れてしまったり，題の部分だけ網目模様を入れたり，２色刷りにしたりして，人目につきやすいレイアウトをしたものを見る。</sentence>
+<sentence>これらの指示は編集者の仕事であるから，投稿者が特にする必要はない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表はどんなに小さくても，本文とは別の紙に１表１枚の原稿として書くのが正則である。</sentence>
+<sentence>表に使う文字は，本文より小さいのが普通で，印刷工程上は各表別々に仕上げて，本文を組むとき指定の場所に挿入することになっているから，各表独立の原稿の方が都合がよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（７）機械による表の作成</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　近年，パソコンでグラフや表を作成する人が多い。</sentence>
+<sentence>その場合，表の文字や線が十分きれいならば，印刷所で入力し直す手数を省き，原稿をそのまま（多くは縮写して）印刷原図（<ruby rubyText="はん">版</ruby><ruby rubyText="した">下</ruby>）とすることができる。</sentence>
+<sentence>すなわちｃａｍｅｒａ‐ｒｅａｄｙ　ｔａｂｌｅ（すぐ写真にとれる表）である。</sentence>
+<sentence>ワープロでもやや高級の機種なら同様の原稿を作れる。</sentence>
+<sentence>入力省略可能ならば，印刷費が安く，校正は不要で，時間的にも早く仕上がるから，一挙三得になる。</sentence>
+<sentence>しかし線の引き方まで厳格に定めている雑誌では，細かな点で編集者の気に入らないことが多く，完全にｃａｍｅｒａ‐ｒｅａｄｙとして校正不要になる例はさほど多くない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表も本文と同様にｆｌｏｐｐｙ　ｄｉｓｋ（ＦＤ）に入力した原稿として提出することができるが，表の線の引き方の指令が，パソコンの機種ごとに異なり，変換機（ｃｏｎｖｅｒｔｅｒ）にかけると別の指令になって誤って印刷される事例があった。</sentence>
+<sentence>アメリカの科学雑誌にＭａｃ<sampling type="end" />ｉｎｔｏｓｈのパソコンを使った原稿を出せば，そういう心配はまずないであろう。</sentence>
+</paragraph>
+</article>
+</sample>

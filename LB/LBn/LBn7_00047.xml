@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn7_00047" version="1.0" type="fixedLength">
+<article articleID="LBn7_00047_F001">
+<paragraph>
+<sentence>画面全体をピリッとシャープなピントの合った画像で再現したいというような時は、絞りを絞り込んでピントの合う範囲を広くするといったように、絞りの調節が、写真撮影テクニックの重要なポイン<sampling type="start" />トであるとされているからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、動きの瞬間を捉えるスナップ撮影やスポーツの撮影などでは絞りの効果を考えるよりシャッター速度のほうが重要だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、シャッター速度優先で撮影していると、何分の１秒のシャッターで撮影しているか確認しているわけだから、手ブレを起こす危険が少ない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それに対して絞り優先ＡＥで撮影していると、手ブレを起こすケースが多いのである。</sentence>
+<sentence>それは、絞り値をセットすることに注意が向けられるため、スローシャッターがセットされていることに気づかないからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　絞り優先ＡＥで撮影する時は、液晶表示やファインダー内表示で、絞り値に対するシャッター速度を確認することを忘れてはいけない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">絞り開放で撮影</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">絞り込んで撮影</sentence>
+<br type="automatic_original" />
+<sentence>絞り値にはＦ１．４・２〜１６・２２と数段あり、数値が大きくなるほど絞り込まれる。</sentence>
+<sentence>絞り込めばピントの合う幅は広く、開ければボケが大きくなる。</sentence>
+<sentence>絞りの違いで写真の内容ががらりと変わることがある。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２９　被写界深度</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">焦点距離・撮影距離・絞り値の３つで決まるピントが合う前後の範囲</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　ピントが合うということは、ある一点の部分が鮮明に写ることだが、実際には被写体の前後のある範囲が鮮明に描写される。</sentence>
+<sentence>ピントが合う前後の範囲を被写界深度と言い、範囲が広い状態を<quote>「被写界深度が深い」</quote>と言い、狭い時は<quote>「浅い」</quote>と言う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じ焦点距離のレンズで同じ場所で撮影した場合、レンズの絞りがＦ２→Ｆ１１となる（絞りを絞り込むと言う）ほど被写界深度は深くなり、Ｆ１１→Ｆ２へ<quote>「絞りを開ける」</quote>ほど浅くなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　レンズの焦点距離、絞り値が同じ条件で、被写体との撮影距離が離れている場合は被写界深度は深いが、被写体に近づくと浅くなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、ピントを合わせた部分の前後の範囲は、前方に浅く、後方に深い。</sentence>
+<sentence>が、この性質は被写体に近づくほど目立たなくなるので、マクロレンズでの接写などでは前後ほとんど同じになるので気にすることはない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もう一つ、レンズの焦点距離の違いによる被写界深度の変化。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　焦点距離の短い広角レンズでは被写界深度が深く、焦点距離の長い望遠レンズになるほど浅い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば２８〜２００ミリズームで絞りＦ１１の場合２８ミリ側では被写界深度が深く、画面全体にピントが合うが、２００ミリ側では極端に浅くなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　被写界深度には以上の四つの性質があるわけだが、その性質をいかに利用するか、つまり画面全体を鮮明な描写にするか、周辺をボカすことで被写体を浮き上がらせるか、といったことが写真表現技法のキーポイントとなるケースが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ということから、ＡＥ機構のカメラは、被写界深度優先ＡＥがメ<sampling type="end" />インになっているのである。</sentence>
+</paragraph>
+</article>
+</sample>

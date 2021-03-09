@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00040" version="1.0" type="fixedLength">
+<article articleID="LBo4_00040_F001">
+<paragraph>
+<sentence>　これまでの章では，人工的に超分子システムを組み立て，いかに新規の機能<sampling type="start" />を得るかを，簡単な系から複雑な系へと見てきた．</sentence>
+<sentence>複雑とはいっても，超分子を利用したシステムの可能性を考えると，我々が達成できた超分子機能はまだまだ初歩的なものである．</sentence>
+<sentence>今後，超分子システムを発展させてゆくためには，何かよいお手本が必要である．</sentence>
+<sentence>そのお手本として，生体超分子システムを本章では取り上げよう．</sentence>
+<sentence>生物学の発展とともに，生体が非常に洗練された高機能系であることが改めて認識されるようになっている．</sentence>
+<sentence>生体は，さまざまな弱い相互作用によって機能分子が高度に組織化された集合体である．</sentence>
+<sentence>すなわち，生物そのものが超分子システムである．</sentence>
+<sentence>本章では，いくつかの機能にわけて，生体の超分子システムとそれに迫ろうとする人工的な超分子システムについて解説する．</sentence>
+<sentence>生体系の高度な機能を学び，そのエッセンスを取り入れ，生体を超える機能を開発しようとするアプローチは，バイオミメティックケミストリー（ｂｉｏｍｉｍｅｔｉｃ　ｃｈｅｍｉｓｔｒｙ）とよばれている．</sentence>
+<sentence>本章は，超分子化学的な観点からのバイオミメティックケミストリーを対象とする．</sentence>
+<sentence>取り上げるトピックは，物質輸送，情報の変換と増幅，エネルギー変換，物質変換（酵素機能）である．</sentence>
+<sentence>また，生物が自然淘汰の過程を通じ，より高度なシステムへと進化してきたことを参考にして，新規の超分子システムを探索する新手法として，コンビナトリアルケミストリーや進化分子工学などについても触れる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">この章で学ぶこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">６．１　生体超分子システムの例とその機能</sentence>
+<br type="automatic_original" />
+<sentence>生体に見られる超分子システムの例から，その機能のすばらしさを学ぶ．</sentence>
+<sentence>べん毛モーターは，タンパク質の集合体であり，超小型・超高効率のモーターである．</sentence>
+<br type="automatic_original" />
+<sentence>細胞膜は，種々のタンパク質を浮かべたプールであり，それらの機能を発現させる場である．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．２　物質輸送の制御―イオンチャネル</sentence>
+<br type="automatic_original" />
+<sentence>細胞内外のイオンの不均等な配分は，イオンチャネルによって生み出されている．</sentence>
+<sentence>人工的なチャネル物質を脂質２分子膜に埋め込めば，選択的なイオンチャネル機能を模倣できる．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．３　情報の変換と増幅―シグナル伝達系</sentence>
+<br type="automatic_original" />
+<sentence>細胞外からのシグナル分子が膜受容体に結合すると，Ｇタンパク質の働きによって，細胞内部の酵素が活性化される．</sentence>
+<sentence>人工脂質膜上に人工受容体と酵素を固定化すると，シグナル化合物によって酵素活性が増加する人工システムを構築できる．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．４　エネルギー変換―光合成</sentence>
+<br type="automatic_original" />
+<sentence>光合成系では，細胞膜中に並んだ機能性色素の配置の妙により，光エネルギーを利用する電荷分離が行われ，ＡＴＰの合成源となる．</sentence>
+<sentence>機能性色素とＡＴＰ合成酵素を脂質２分子膜中に埋め込み，光エネルギー<sampling type="end" />をＡＴＰ生産に変換する人工系を組むことができる．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</abstract>
+</article>
+</sample>

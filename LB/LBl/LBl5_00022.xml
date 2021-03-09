@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00022" version="1.0" type="fixedLength">
+<article articleID="LBl5_00022_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　食パンは耳をとり、牛乳に浸し、や<sampling type="start" />わらかくしておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　キャベツは塩水から固めに茹で、冷水で冷やし、水気を切っておく。</sentence>
+<sentence>芯の固いところは取る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　ひき肉に、<enclosedCharacter description="●">１</enclosedCharacter>の牛乳を絞った食パン、卵、玉ねぎ、ニンニク、パセリ、ナツメグ、塩、コショウを混ぜる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　キャベツを１枚１枚広げ、<enclosedCharacter description="●">３</enclosedCharacter>の合わせたひき肉を薄くぬりつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　小さいキャベツからまるめて、好みの大きさの丸いキャベツにし、色のよい大きいキャベツを最後に巻く。</sentence>
+<sentence>ベーコンを十の字にかけ、その上をヒモでくずれないようにくくる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　グラタン皿か、薄い鍋に<enclosedCharacter description="●">５</enclosedCharacter>をおき、湯むきして荒く切ったトマト、フォン・ド・ヴォー、パセリ、タイム、塩、コショウして、１６０℃のオーヴンで時々汁をかけながらよく焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">７</enclosedCharacter>　ヒモをとり、皿に盛り、煮汁をかけ、パセリを振れば出来上がり。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●料理のポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ハンバーグと同じ要領ですが、ケチャップなどあまりいろいろな調味料を入れず、煮汁をかけながら、キャベツに少し色がつく程度に焼きます。</sentence>
+<sentence>迫力のあるうまい料理になること間違いなし。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">◆ワインと合わせるためのポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>タイムとナツメグの香りが食欲も、ワインも進ませてくれます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ロールキャベツ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBl5_00022_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">なすの肉詰め　味噌風味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">江上</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">●材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　なすは縦２つに切り、水につけてアク抜きし、皮の内側５ｍｍ位のところにそって切り込みを入れ、中身は格子に切り込みを入れる。</sentence>
+<sentence>油でさっと揚げ、切り込みの内側をくり抜く。</sentence>
+<sentence>くり抜いた中身は粗みじんにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　合びき肉はサラダ油少々でねぎと一緒に炒め、ａ）の調味料とくり抜いたなすを加える</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　<enclosedCharacter description="●">１</enclosedCharacter>に<enclosedCharacter description="●">２</enclosedCharacter>をつめてグリルで焼く。</sentence>
+<sentence>アサツキの小口切りを散らす。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●料理のポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>なすをくりぬく時、後でケースにするのでなすの皮を傷つけないようにしましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">◆ワインと合わせるためのポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>なすと油はとても相性がよく、なすのスポンジ状のところに油がしみてトロリとした口当たりが楽しめます。</sentence>
+<sentence>味噌となすも定番のコンビネーションです。</sentence>
+<sentence>少し脂っぽい口当たりをコート・デュ・ローヌの軽い渋みがあっさりとしてくれます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">なすの肉詰め　味噌風味</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBl5_00022_F003">
+<titleBlock>
+<title>
+<sentence type="quasi">ひき肉と味噌のスパイス焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">田崎</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">●材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">●作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　じゃがいもはよく洗って皮つきのまま薄切りにし、フライパンにサラダ油とバターを同量溶かし、きれいなキツネ色に揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　材料を全て合わせてよくこね、平らな耐熱皿に円盤状に薄く延ばして、２００℃のオーヴンで１０分焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●料理のポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>手間入らずの簡単料理ですが、豪華に見えるのでパーティ料理にも向くと思います。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">◆ワインと合わせるためのポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ワインに合わせるため、赤味噌、五香粉、コリアンダーシードは必ず使いたいスパイスです。</sentence>
+<sentence>黒コショウやカイエンヌペッパーで<sampling type="end" />よりエスニック風にしてもいい。</sentence>
+</article>
+</sample>

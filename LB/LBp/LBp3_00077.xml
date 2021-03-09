@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00077" version="1.0" type="fixedLength">
+<article articleID="LBp3_00077_F001">
+<paragraph>
+<sentence>価格変化の方向はオプション評価に関係ないという考えは直感とは大きく反するものであったことが、まさに答が目前にあった時でさえ、ブラックとショールズが探し求めていた解答に到達するのにかくも長い<sampling type="start" />時間を要した部分的理由である。</sentence>
+<sentence>他にも、投資家の潜在的損失はプレミアム（オプション価格）に限定されるが、潜在的利益は無制限であるというオプションの非対照の性質がこの問題をさらに難しくしていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　仮にＡＴ＆Ｔ株がオプション期間中に４５ドルとか、４０ドル、あるいは２０ドルにまで下落しても、オプション保有者が２．５ドル以上の損をすることはない。</sentence>
+<sentence>５０・１／４ドルから５２・３／４ドルの間では保有者の利益は２．５ドル以下である。</sentence>
+<sentence>５２・３／４ドル以上の場合には、少なくとも理論上、潜在的利益は無限大である。</sentence>
+<sentence>様々な試行の後、ブラックーショールズ・モデルは一九九五年の六月にＡＴ＆Ｔ社の現物株オプションに２．５ドルの価値があるとした。</sentence>
+<sentence>なぜなら、投資家は、オプションが存続する四カ月間に、約一〇％のレンジで、すなわち双方向に五ポイントの範囲でＡＴ＆Ｔ株が変動すると予想していたからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ボラティリティ（変動率）は常に重要な決定要因である。</sentence>
+<sentence>ＡＴ＆Ｔ株と比較するためにソフトウェアのリーダーであるマイクロソフト社の株を考えてみよう。</sentence>
+<sentence>ＡＴ＆Ｔ株が５０ドルでそのオプションが２．５ドルで売られている時、マイクロソフト株は８３・１／８ドルで売られ、四カ月以内にマイクロソフト株を９０ドルで購入する株式オプションは４．５ドルで取り引きされていた。</sentence>
+<sentence>マイクロソフト株はＡＴ＆Ｔ社株より六〇％高く売られているにもかかわらず、このオプション価格はＡＴ＆Ｔ社のオプション価格より八〇％も高い。</sentence>
+<sentence>ＡＴ＆Ｔの株価が行使価格から１／４ポイントしか離れていないのに比べマイクロソフトの株価は行使価格からおよそ七ポイントも離れていた。</sentence>
+<sentence>市場は明らかにマイクロソフト株がＡＴ＆Ａ株よりボラティリティが高いと予想していた。</sentence>
+<sentence type="quasi">ブラック‐ショールズ・モデルでは、市場は今後四カ月のうちにマイクロソフト株はＡＴ＆Ｔ株より二倍変動すると考えていたということになるか</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マイクロソフト株はＡＴ＆Ｔ株よりはるかにリスクが高い。</sentence>
+<sentence>ＡＴ＆Ｔには九〇〇億ドル近くの収入があり、二三〇万人の株式保有者、国内のほとんどすべての家庭やビジネスの場に顧客を持ち、弱められたとはいえ未だこの業界で強力な独占的地位を占めている。</sentence>
+<sentence>そして、途切れることなく配当を行ってきたという長い歴史がある。</sentence>
+<sentence>マイクロソフト株は一九八二年から公開されるようになり、その時の収入はわずか六〇億ドルだった。</sentence>
+<sentence>ＡＴ＆Ｔ社より顧客層はずっと狭く、ソフトウェア業界でその威力を打ち負かそうと必死になっている競争相手がおり、かつて配当を行ったことがなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　オプション・トレーダーはその違<sampling type="end" />いを理解している。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr2_00022" version="1.0" type="fixedLength">
+<article articleID="LBr2_00022_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />紀伊路と伊勢路</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　熊野参詣道のうち、古くから存在したのは紀伊路（中辺路）と伊勢路である。</sentence>
+<sentence>それは、平安末期の歌謡集『<ruby rubyText="りょう">梁</ruby><ruby rubyText="じん">塵</ruby><ruby rubyText="ひ">秘</ruby><ruby rubyText="しょう">抄</ruby>』の一首に、つぎのようにあることから知られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　熊野へ参るには、<ruby rubyText="き">紀</ruby><ruby rubyText="じ">路</ruby>と伊勢路のどれ近し、どれ遠し、<ruby rubyText="こう">広</ruby><ruby rubyText="だい">大</ruby><ruby rubyText="じ">慈</ruby><ruby rubyText="ひ">悲</ruby>の道なれば、紀路も伊勢路も遠からず。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　紀路（紀伊路）は、京都を起点とすれば、<ruby rubyText="よど">淀</ruby><ruby rubyText="がわ">川</ruby>を下って<ruby rubyText="せっ">摂</ruby><ruby rubyText="つ">津</ruby>の<ruby rubyText="わた">渡</ruby><ruby rubyText="なべ">辺</ruby>（<ruby rubyText="くぼ">窪</ruby><ruby rubyText="つ">津</ruby>・<ruby rubyText="おお">大</ruby><ruby rubyText="わたり">渡</ruby>ともいう）で上陸し、そこから一路南下して和泉国をへて紀伊国に入り、その西部をさらに南下して田辺に至る。</sentence>
+<sentence>中世においては、田辺からは道を東にとって、山中に分け入り本宮に向かう中辺路がメインルートとされた。</sentence>
+<sentence>したがって、中世の紀伊路といえば、もっぱらこの中辺路ルートをさすのである。</sentence>
+<sentence>一方、伊勢路は、京都から出発する場合、伊勢に向かう道は何本かあるが、近江国を経由する東海道・伊勢別街道、あるいは大和国を経由する<ruby rubyText="い">伊</ruby><ruby rubyText="が">賀</ruby>街道か<ruby rubyText="はつ">初</ruby><ruby rubyText="せ">瀬</ruby>街道が利用されたのではないかと思われる。</sentence>
+<sentence>熊野に向かう伊勢路の起点は田丸で、ここで伊勢本街道と分かれて南西に道をとり、長島に至る。</sentence>
+<sentence>長島からはおおむね海岸線にそって新宮に向かうが、リアス式海岸のところが多く、峠のある山道と海浜の道が交互にあらわれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先の『梁塵秘抄』の歌によれば、<quote>「紀路も伊勢路も遠からず」</quote>とあるが、実際には紀伊路の方が難路で、伊勢路は易路とされた。</sentence>
+<sentence>このことは、<ruby rubyText="か">花</ruby><ruby rubyText="ざん">山</ruby>法皇が長保元（九九九）年に熊野参詣を計画した際、法皇自身が述べたつぎの言葉によって判明する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　紀伊路は徒歩を原則とするのに対し、伊勢路は内々に船に乗って参詣できるので、この方が楽だというのである。</sentence>
+<sentence>事実、近世においてもはじめて海辺に出る長島で、乗船を勧誘している例があるので、長島から新宮まで、さらには川船に乗り換えて本宮まで、船に乗って参詣することも、天候さえよければ可能だったのである。</sentence>
+<sentence>ただし、このときの花山法皇の参詣は、左大臣<ruby rubyText="ふじわらの">藤原</ruby><ruby rubyText="みち">道</ruby><ruby rubyText="なが">長</ruby>らの反対によって中止されたので、実際にどこからどこまで船に乗ろうとしたのか、<ruby rubyText="つまび">詳</ruby>らかではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しからば、中世において難路である紀伊路（中辺路）がメインルートとされ、伊勢路がすたれたのはなぜであろうか。</sentence>
+<sentence>詳しくは次項以下で説明するが、一言でいえば、<ruby rubyText="せん">先</ruby><ruby rubyText="だつ">達</ruby>をつとめた山伏（<ruby rubyText="しゅ">修</ruby><ruby rubyText="げん">験</ruby><ruby rubyText="じゃ">者</ruby>）が、道中での苦行を要求したから、山道が多い紀伊路が選ばれたということになろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３　熊野古道関連図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">大辺路・小辺路と大峯道</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　紀伊路のうち、大辺路と小辺路が参詣道となるのは、近世以降である。</sentence>
+<sentence>もとより、大辺路や小辺路が地域の生活道路として古くから存在したことは間違いないが、中世には熊野への参詣に利用された事例を見出すことができない。</sentence>
+<sentence>大辺路・小辺路の初見と考えら<sampling type="end" />れるのは、近世初頭の笑話集『<ruby rubyText="せい">醒</ruby><ruby rubyText="すい">睡</ruby><ruby rubyText="しょう">笑</ruby>』（岩波文庫）の巻一<quote>「<ruby rubyText="い">謂</ruby>へば謂はるる物の由来」</quote>にみえる小話で、つぎのようにある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

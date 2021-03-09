@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00042" version="1.0" type="fixedLength">
+<article articleID="LBp5_00042_F001">
+<paragraph>
+<sentence>　上に示したのと同<sampling type="start" />様にして求められます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　ここで，歯車について簡単に説明します。</sentence>
+<sentence>歯車は動力を伝えるために，円形状の車の周囲に歯形をつけたものです。</sentence>
+<sentence>通常，大歯車と小歯車の組合わせにより，回転数を変化させています。</sentence>
+<sentence>歯形の形状としては，インボリュート曲線によるインボリュート歯形とサイクロイド曲線によるサイクロイド歯形がありますが，サイクロイド歯形は製作が面倒なので，現在ではほとんど用いられていません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　茶運び人形に用いられている歯車の歯形はほぼインボリュート歯形に近いものです。</sentence>
+<sentence>歯車の大きさを表わす基準寸法はピッチ円直径ですが，歯車により異なるので，取扱いが面倒となります。</sentence>
+<sentence>そこで，ＪＩＳ（日本工業規格）では，モジュール（記号ｍ）を用いています。</sentence>
+<sentence>モジュールｍを基として歯車が設計されています。</sentence>
+<sentence>上記の各種の値もモジュールから計算されたものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．５　製作に必要な材料と道具</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（ａ）　製作に必要な材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　茶運び人形の製作に必要な材料を以下の表２‐３に示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表２‐３　茶運び人形の製作に必要な材料</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　なお，上記の購入先の中で，鋼材店については電話帳で調べて近隣の店を見出し，問い合わせてください。。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）　製作に用いる道具</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　製作に用いる工具などは次のとおりです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・のこぎり，カンナ（必要ならば）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・ペンチ，ヤットコ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・糸のこ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・やすり，紙やすり</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・はさみ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・接着剤（木工用）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・スプレーカラー（白色または肌色）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これらの物についてはホームセンタへ行けば購入可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　木材，接着剤，塗料，工具などは近くのホームセンターで容易に入手できます。</sentence>
+<sentence>しかし，樹脂類や後述のモータ，減速機などは模型材料店に依頼し，取り寄せとなるかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最近，模型材料店には無線操縦の自動車，ヘリコプタ，飛行機などが多く並べられていますが，すべてキットとなっており，部品単位で購入する人が少なくなっています。</sentence>
+<sentence>キットとなっているものを組み立てると物ができあがります。</sentence>
+<sentence>自分で製作する人，部品を購入して組立てて行く，手作りを楽しむ人が減少しています。</sentence>
+<sentence>時間的余裕がないのか，過去に物を製作した経験がないのでどうしたらよいのか分からないからでしょう。</sentence>
+<sentence>茶運び人形を完成させ，手作りを味わいましょう。</sentence>
+<sentence>そして，さらに次の新しいからくり人形の製作にチャレンジしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．６　歯車の製作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（ａ）　歯車の製作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「機巧図彙」</quote>には部品の製作法が色々と指示されています。</sentence>
+<sentence>特に歯車（一の輪，二の輪）の製作に関しては詳細に書かれています。</sentence>
+<sentence><quote><sentence>「一の輪および二の輪は６分割にして，各々を製作し，その後一体に接着をする。</sentence>
+<sentence>さらに，補強のために裏板を打つ。</sentence>
+」</quote>と指示されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　指定材料は歯車部分は樫，裏板部分は檜となっています<sampling type="end" />。</sentence>
+</paragraph>
+</article>
+</sample>

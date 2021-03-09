@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi9_00227" version="1.0" type="fixedLength">
+<article articleID="LBi9_00227_F001">
+<paragraph>
+<sentence>増田さん、まとめてみて下さい、と村中は<sampling type="start" />いって顔を上げた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「あら、わたしがいうんですか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　マリコもノートから顔を上げて目をまたたかせたが、要領よく答えた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ええと、竜馬は勝海舟と出会うことによって攘夷論のむなしさに気づき、海軍創設の必要性と大政奉還によって日本を共和的政体へと変化させようという考え方の素晴らしさを悟った。</sentence>
+<sentence type="quasi">その海舟は、おなじ考えの持主である大久保一翁に竜馬を紹介し、一翁は竜馬に松平春嶽とそのブレーンである横井小楠を紹介してくれた、ということでしょうか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「よくできました」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と大まじめに拍手した村中は、じゃあぼくの方は別の表現でまとめましょう、とつづけた。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「当時の勝海舟は幕府軍艦奉行、一翁は幕府側用取次、越前福井藩主松平春嶽は幕府政治総裁職つまり総理大臣のような存在、そして小楠はそのブレーンだった。</sentence>
+<sentence type="quasi">これらの人たちを〈幕府開明派〉ということばで<ruby rubyText="くく">括</ruby>るとすると、竜馬はこれ以降、〈幕府開明派〉の期待を一身に荷って行動しはじめる、ということになる」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「また、質問があります」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　マリコは左手をピョンと立てて訊ねた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「〈幕府開明派〉が文久三年の段階で大政奉還を不可欠と考えていたことはよくわかりました。</sentence>
+<sentence type="quasi">でもそこまで構想が煮詰まっていたのなら、どうして自分たちで行動を起こさず、竜馬を春嶽や小楠のもとに使者として派遣するという遠まわりな策をとったのですか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　「さっき見た一翁から小楠宛の手紙に、海舟門下の五人の土佐藩士に大政奉還論を開陳してみたところ、竜馬ともうひとりしか理解できなかった、とあったでしょう。幕府を倒したがっている土佐勤王党関係者ですら五人にふたりの割合でしか理解できないような議論を、先祖代々幕府すなわち徳川家から家禄をもらって生活している幕臣たちに説いたとしても、まず賛同を得られるはずがない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　先ほど『雄魂姓名録』に、海舟が文久三年一月十八日に江戸城大広間で大政奉還論を述べたとあることを紹介しましたが、ではこのことを『海舟日記』はどう記述しているかと見てみると、わずかに、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence type="quasi"><sentence>とあるだけなんです。</sentence>
+<sentence type="quasi">増田さんはこの落差をどう思う」</sentence>
+</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「さあ、わかりません」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「この連続インタビューは、<ruby rubyText="かっ">確</ruby><ruby rubyText="こ">乎</ruby>とした出典にもとづかない議論はしないという約束だけど、そのもととなる史料がこのように不充分というか舌足らずの場合には、想像力で穴埋めせざるを得ない」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　マリコは、殊勝な顔でうなずいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　「ぼくはこう思う。『雄魂姓名録』は伝聞筆記だし、海舟はけっこう自分の言動をオーバーに伝える癖のある男だったから、大広間で発言したというのも登城した大名、旗本たち全員の前で一席ぶったのではなく、気心のある程度知れた者にそのような<sampling type="end" />意見を洩らした程度のことじゃなかったのか、とね。あるいは、かなり多人数の前で発言してみたけれど、白い目で見られるばかりだったので、失望して日記には記述しなかった、…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

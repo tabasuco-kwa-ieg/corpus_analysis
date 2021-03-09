@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00031" version="1.0" type="fixedLength">
+<article articleID="LBi4_00031_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">表<sampling type="start" />７．７　マウス８細胞期胚培養に対する水質の影響</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">７．２．３　無血清培地における細胞増殖に対する水質の影響<noteMarker text="３）" /></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｊ．Ｍａｔｈｅｒら<noteMarker text="３）" />はマウスメラノーマ細胞（Ｍ<subScript>２</subScript>Ｒ），マウスＬｅｙｄｉｇ細胞（ＴＭ<subScript>３</subScript>）およびラットｅｎｄｏｔｈｅｌｉａｌｌｉｋｅ細胞（ＴＲ‐１）の３種類の細胞を用い，細胞増殖に対する水質の影響を検討した．</sentence>
+<sentence>培地調製用に用いた試験水はニューヨーク市の水道水，この水道水を１回蒸留した蒸留水およびミリポアー社製のオーガネスク型超純水製造装置で製造した超純水の３種類である．</sentence>
+<sentence>これらの水を用いて調製した無血清培地で，上記の３種類の細胞をそれぞれ培養し水質の影響を検討した．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表７．８に３種類の試験水の分析結果を示した．</sentence>
+<sentence>無機イオンは原子吸光分光光度計で定量した．</sentence>
+<sentence>全有機炭素はＤｏｈｒｍａｎ　ＤＣ８０で求めた．</sentence>
+<sentence>この原理は有機炭素を紫外線で酸化し，生成したＣＯ<subScript>２</subScript>を赤外分光光度計で測定する．</sentence>
+<sentence>パイロジェンは高速液体クロマトグラフで定量した．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図７．２に３種類の異なる細胞の増殖に対する水質の影響を示した．</sentence>
+<sentence>細胞の種類により水質の影響の程度が違っている．</sentence>
+<sentence>しかし，いずれの系でも，超純水を用いた場合が最も細胞増殖が速く，よい結果が得られている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方，水中のどのような成分が細胞増殖に悪影響を与えるかを調べるために，表７．９に示すように超純水に各種成分を単独で添加した場合の細胞の増殖数を測定し，超純水だけの場合に対する割合で示した．</sentence>
+<sentence>添加物は大きく分けてパイロジェン，無機イオンおよび有機物の３種類である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　添加量のレベルは，それぞれ米国ＥＰＡ（Ｅｎｖｉｒｏｎｍｅｎｔａｌ　Ｐｒｏｔｅｃｔｉｏｎ　Ａｇｅｎｃｙ）の飲料水としての許容限界値の上限が用いられている．</sentence>
+<sentence>細胞の種類により添加物の影響度は異なるが，パイロジェンの場合，エンドトキシン１０ｎｇ／ｍｌ（約１０ｐｐｂ）くらいでは大きな影響はない．</sentence>
+<sentence>フミン酸は１ｐｐｍでかなりの影響が表われている．</sentence>
+<sentence>無機イオンではＣｕは１ｐｐｍで，それなりの影響は認められるが，Ｈｇ，さらにＣｄと影響度は大きくなる．</sentence>
+<sentence>とくにＣｄは１０ｐｐｂの結果ではあるが影響が顕著である．</sentence>
+<sentence>Ｃｄの影響をさらに詳細に調べるために，ＴＭ<subScript>３</subScript>細胞を用い培地中のＣｄ濃度を変えて実験した．</sentence>
+<sentence>その結果を図７．３に示す．</sentence>
+<sentence>Ｃｄを超純水に０．１ｐｐｂ添加するだけで，ＴＭ<subScript>３</subScript>細胞の増殖速度が１／１０に低下することがわかる．</sentence>
+<sentence>このようにＣｄの影響がきわめて顕著である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表７．８　３種類の試験水の分析結果（ｐｐｍ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７．２　３種類の異なる細胞の増殖に対する水質の影響</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表７．９　細胞増殖に対する汚染物質の影響<sampling type="end" /></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs8_00017" version="1.0" type="fixedLength">
+<article articleID="LBs8_00017_F001">
+<list>
+<listItem>
+<sentence><sampling type="start" /><enclosedCharacter description="○">１</enclosedCharacter>注文をお願いします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ワインはグラスで注文できますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　これは私が注文したものではありません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　取り寄せができますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　注文した料理がまだ来ません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>▶この文のｏｒｄｅｒは名詞で<quote>「注文したもの」</quote>の意。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ｐａｙ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">払う</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">支払う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">こんな時に使えます</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　現金で払います。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　日本円は使えますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　トラベラーズチェックは使えますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　追加料金が必要ですか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　お勘定は別々にしてもらいたいのですが。</sentence>
+<sentence type="quasi">［レストランなどで］</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　現金で払います。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　日本円は使えますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　トラベラーズチェックは使えますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　追加料金が必要ですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　お勘定は別々にしてもらいたいのですが。</sentence>
+<sentence type="quasi">［レストランなどで］</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＩＮＦＯ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><quote>「割り勘にする」</quote>という言い方には、ｇｏ　Ｄｕｔｃｈ（古い言い方）、ｓｐｌｉｔ　ｔｈｅ　ｂｉｌｌ、ｐａｙ　ｏｎｅ’ｓ　ｓｈａｒｅ、ｇｏ　ｆｉｆｔｙ‐ｆｉｆｔｙ（２人の場合）などもある。</sentence>
+<sentence>ただし、国によっては割り勘という習慣がない。</sentence>
+<sentence>レストランでは１人がまとめて払っておいて、あとで人数で割るほうがスマート。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ｐｕｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">置く</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〜に保管する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">こんな時に使えます</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　荷物はどこに置いたらいいですか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　荷物をトランクに入れるのを手伝ってください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　貴重品を金庫で預かってください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　キーをどこに置いたか思い出せません。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　いくら入れるのですか。</sentence>
+<sentence type="quasi">［公衆電話を使う時］</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　荷物はどこに置いたらいいですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　荷物をトランクに入れるのを手伝ってください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>▶〈ｈｅｌｐ＋Ｏ＋動詞の原形〉は<quote>「Ｏが〜するのを手伝う」</quote>。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　貴重品を金庫で預かってください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence type="quasi">▶ｓａｆｅは<quote>「金庫」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　キーをどこに置いたか思い出せません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　いくら入れるのですか。</sentence>
+<sentence type="quasi">［公衆電話を使う時］</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ｒｅｃｏｍｍｅｎｄ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">勧める</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">推薦する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">こんな時に使えます</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　もっと安いホテルはありませんか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　この近くのおいしいレストランを教えてください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　今日のお勧め料理は何ですか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　あなたの勧める料理をもらいます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　おみやげで人気があるのは何ですか。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　もっと安いホテルはありませんか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　この近くのおいしいレストランを教えてください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　今日のお勧め料理は何ですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>▶名詞形のｒｅｃｏｍｍｅｎｄａｔｉｏｎを使って、次のようにも言える。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　あなたの勧める料理をもらいます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>▶ｗｈａｔｅｖｅｒは<quote>「〜するものは何でも」</quote>という関係代名詞。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　おみやげで人気があるのは何ですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ｒｅｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">借りる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">こんな時に使えます</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　車はどこで借りることができますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　この車を３日間借りたいのですが。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　テニスコートの予約はどこでできますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　用具を借りることはできますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　ここでレンタカーの予約ができますか。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　車はどこで借りることができますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>▶ｒｅｎｔは、車やボートなどをお金を<sampling type="end" />払って借りること（米）。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

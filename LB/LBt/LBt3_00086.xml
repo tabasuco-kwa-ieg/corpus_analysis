@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00086" version="1.0" type="fixedLength">
+<article articleID="LBt3_00086_F001">
+<paragraph>
+<sentence>ボトルネックとは、例えば製造ラインのある工程の機械のところでいつも作業が滞るとか、ある特定の人の作業が著しく遅れるなどといったことを<sampling type="start" />指します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地道な改善活動はもちろん重要ですが、いくら個々の改善を積み重ねても、ボトルネックが解消できなければ全体としての生産性は決して高まりません。</sentence>
+<sentence>ボトルネックを見つけ出し、その工程の能力や生産性を高めたうえで、他の工程をボトルネック工程の生産能力に同期させることが、無駄なく全体の生産性を高めることにつながります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この考え方は決して工場だけに限定したものではなく、サービスも含めたすべてのオペレーションに適用できる汎用性の高い考え方です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３　モノづくりと品質管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　生産システムの進化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　オペレーションの重要な部分を担う生産現場は、市場環境・競争環境の変化、ＩＴを含めた技術革新の進展によってその様相を大きく変えてきました。</sentence>
+<sentence>労働集約的、家内工業的色彩の強かったモノづくりの現場に、近代的管理手法を提唱したのは米国のＦ・Ｗ・テイラーです。</sentence>
+<sentence><quote>「科学的管理法」</quote>と呼ばれるその手法は、仕事の標準化やマニュアル化を推進し、分業による大量生産体制の基盤となる考え方となりました。</sentence>
+<sentence>工場における生産工程や生産作業の体系化が進んだのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この考え方はＩＥ（Ｉｎｄｕｓｔｒｉａｌ　Ｅｎｇｉｎｅｅｒｉｎｇ）へと進化し、生産現場における生産性を向上させるさまざまな手法が生まれ、定着しています。</sentence>
+<sentence>工程分析、動作研究などの方法研究、時間研究、稼働分析などの作業測定を通じて、モノづくりを科学的に考えるベースとなっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大量生産から多品種・少量生産の時代へと変化するなかで、より柔軟性の高い生産システムが求められるようになり、ＮＣ工作機などの自動化機械やロボットを駆使したＦＭＳ（Ｆｌｅｘｉｂｌｅ　Ｍａｎｕｆａｃｔｕｒｉｎｇ　Ｓｙｓｔｅｍ）や開発・設計・資材発注・製造・検査・出荷・販売までの一連の業務の流れと情報の流れを統合的に管理するＣＩＭ（Ｃｏｍｐｕｔｅｒ　Ｉｎｔｅｇｒａｔｅｄ　Ｍａｎｕｆａｃｔｕｒｉｎｇ）など新しい生産システムが発展しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　セル生産方式</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　汎用品の大量生産がコストの安い中国などの海外生産へとシフトするなかで、注目を浴びているのがセル生産方式です（図８‐３）。</sentence>
+<sentence><quote>「セル」</quote>とは<quote>「細胞」</quote>の意味で、ひとりから数人のグループが部品の取り付け、組み立て、加工、検査までの全工程を自己完結的に行う生産方式です。</sentence>
+<sentence>主に多品種生産品に適しており、より付加価値の高い製品やモデルチェンジが頻繁に行われる製品を中心に採用が拡大しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　生産品目の変更が柔軟に行えたり、それぞれのセルが自己完結的に作業を行っているため、どこかの作業が滞ってもライン生産のように全体に大きな影<sampling type="end" />響を及ぼすことがないなどのメリットがあります。</sentence>
+</paragraph>
+</article>
+</sample>

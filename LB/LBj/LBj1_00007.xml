@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj1_00007" version="1.0" type="fixedLength">
+<article articleID="LBj1_00007_F001">
+<paragraph>
+<sentence>　アンチノミーの解決をとおしてわかったことは、直観の形式である空間・時間を離れては、われわれの認識は実質的内容を失って不合理におち<sampling type="start" />いったり、無意味な思弁と化すことがあるということである。</sentence>
+<sentence>なぜなら、直観こそが認識の実質を提供する条件だからである。</sentence>
+<sentence>そこで次に、有意味な認識における直観の役割について考えてみたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">†二種類の判断―分析判断と総合判断</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで、あらゆる認識は判断の形をとる。</sentence>
+<sentence>判断は主語と述語で構成される。</sentence>
+<sentence>その際、判断は二種類に分類されうる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１　すでに主語概念に含まれている概念を述語としてもつ判断を<quote>「分析判断」</quote>という。</sentence>
+<sentence>この種の判断が<quote>「分析（的）」</quote>と呼ばれるのは、主語概念を分析すると述語がおのずと出てくるからである。</sentence>
+<sentence>たとえば、<quote>「物体は広がりをもつ」</quote>という判断の場合、<quote>「広がり」</quote>という述語は<quote>「物体」</quote>という主語概念の定義の中にすでに含まれており、したがって<quote>「物体」</quote>を分析すれば<quote>「広がり」</quote>はその中に見いだされうる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　２　それに対して、もともと主語概念には含まれない述語を、主語概念と結びつける判断があり、それを<quote>「総合判断」</quote>という。</sentence>
+<sentence>これが<quote>「総合（的）」</quote>と呼ばれるのは、たがいに含意しあわない二つの異なった概念を結びつけるから、すなわち<quote>「総合する」</quote>から、とまずは解してよい。</sentence>
+<sentence>たとえば、<quote>「海は青い」</quote>という判断の場合、<quote>「青」</quote>は、<quote>「水」</quote>や<quote>「塩分」</quote>その他の概念とちがって<quote>「海」</quote>という概念に本質的に含まれているわけではなく、この概念の外から取ってこられたものであるから、それは総合的である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　分析判断にあっては、述語は経験の助けを借りずに、（主語）概念にとどまるだけでその中から導出することができるから、それは原理的にすべてア・プリオリである。</sentence>
+<sentence>これはこの種の判断の最高原則である<quote>「同一律」</quote>（Ａ＝Ａ）、あるいは<quote>「矛盾律」</quote>（Ａ≠〜Ａ）にしたがってなされる（五二ページ参照）。</sentence>
+<sentence>しかしこのような述語措定は、主語概念の外に出るわけではなく、いわば主語概念に明示的にか暗示的にか含まれているものを、単に新たに確認するにすぎないから、認識内容を増やすものではない。</sentence>
+<sentence>そのことからカントは、分析判断を単なる<quote>「開明判断」</quote>とも呼んでいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方の総合判断の場合、述語は主語概念には由来しないものとして、まったく新たにそれに付け加わったのであるから、認識内容はそのぶんだけ増加している。</sentence>
+<sentence>カントがこの種の判断を<quote>「拡張判断」</quote>と呼ぶのはそのゆえである。</sentence>
+<sentence>したがって認識の進歩という点では、総合判断の方がはるかに重要である。</sentence>
+<sentence>ところで、右にあげた例文、<quote>「海は青い」</quote>が意味ある命題として成りたっているのは、<quote>「海」</quote>に<quote>「青」</quote>を正当に結びつけることを保証する直観の助けによる。</sentence>
+<sentence>この命題にかぎらず、一般に有意味な命題はそれに対応する直観によって裏づけられる。</sentence>
+<sentence>ふり返って見れば、先に検討したアンチノミーのいずれの主張も無意味で空虚な、しかも自己<sampling type="end" />矛盾する結果におちいったのは、せんじつめれば、判断の有意味性を保証する直観という契機を欠いていたからにほかならない。</sentence>
+</paragraph>
+</article>
+</sample>

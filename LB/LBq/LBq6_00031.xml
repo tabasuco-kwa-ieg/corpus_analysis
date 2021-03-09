@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq6_00031" version="1.0" type="fixedLength">
+<article articleID="LBq6_00031_F001">
+<titleBlock>
+<title>
+<sentence><sampling type="start" /><enclosedCharacter description="○">６</enclosedCharacter>　物件を修理・改造したときは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リース契約では、リース物件を正常な状態または十分に機能する状態を維持する費用は、ユーザーが負担することが規定されています。</sentence>
+<sentence>つまり、保守・修繕義務はユーザーにあるわけです。</sentence>
+<sentence>したがって、部品の交換、補修、損傷部分の修理、定期的な検査など、税務上は修繕費に該当する支出を行った場合は、支出した日の属する事業年度に損金処理します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、リース物件に物理的に付加をすることによる性能、機能、品質の向上、あるいは用途の変更など物件の価値が増加するような修理・改造の費用は、税務上<quote>「資本的支出」</quote>として支出した事業年度に損金（費用）処理することはできません。</sentence>
+<sentence>リース契約書上は、リース会社に無断でこのような改造などを行うことはできないこととなっています。</sentence>
+<sentence>また、仮に行ったとしても、その価値はリース会社に帰属することになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユーザーが資本的支出に該当する修理・改造費用を支出した場合は、次ページの図表のような処理を行い、法定耐用年数にわたって償却していきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、資本的支出とは、固定資産にかかわる支出のことで、固定資産の取得にかかった費用のほか、固定資産の能力増強、耐用年数の延長などのための支出費用をいいます。</sentence>
+<sentence>これら費用は、固定資産の取得原価に含められ、減価償却の対象となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">修繕・改造費の処理</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence><enclosedCharacter description="○">７</enclosedCharacter>　中途で解約したときは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リース契約では、原則としてユーザー側から契約を解除することはできません。</sentence>
+<sentence>ただし、ケースによっては残期間分のリース料をリース会社に支払えば解約することもできます。</sentence>
+<sentence>一方、リース会社はユーザーが次に掲げるような事項のどれかに該当したときは、規定損害金あるいは残期間分のリース料の支払いをユーザーに要求することができることになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>リース契約条項のいずれかに違反したとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>仮差押え、仮処分、強制執行、競売の申立て、租税滞納処分などを受けたとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>会社整理、破産、会社更生などの申立てがあったとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>手形不渡処分を受けるなど支払い停止の状態になったとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>営業廃止または解散の決議をしたとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>経営が相当悪化したとき、または悪化するおそれがあると認められる理由があるとき。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　ユーザー側から残期間分のリース料を支払ってリース契約の中途解約を行う場合には、次ページの図表のように雑損失として処理します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　リース契約の内容により、リース会社がユーザーに請求する規定損害金（残期間分のリース料）は、物件の処分あるいは未経過期間の金利相当分の控除などにより別途精算されることがあります。</sentence>
+<sentence>このような場合は、次ページの図表<sampling type="end" />のように処理します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

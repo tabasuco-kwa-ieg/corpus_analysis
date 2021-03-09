@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa6_00010" version="1.0" type="fixedLength">
+<article articleID="LBa6_00010_F001">
+<sentence>その結果は、図３・４に示してあるが、横軸の左の欄の値は、（イ）のスコアをプラス一・〇、（ロ）をマイナス一・〇（ハ）をゼロとして示<sampling type="start" />してあり、折線グラフは各価格段階におけるその平均値を出したものである。</sentence>
+<sentence>また横軸右の欄の値は、（ハ）<quote>「手頃（適当）な値段である」</quote>と答えた人のパーセントの尺度で、棒グラフが男女別のそのパーセントの値を表わしている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　各商品ごとに、<quote>「手頃な価格」</quote>の平均値（折線グラフがゼロと交わる価格）と、<quote>「手頃な価格」</quote>と答えた人の比率の多い価格帯（棒グラフ）をみると、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（ａ）オーデコロン…平均値は男子は一五〇〇円余、女子は二〇〇〇円となっており、身だしなみ的なおしゃれ用の化粧品の一種と考えている女子の方が五〇〇円高い。</sentence>
+<sentence>棒グラフの価格帯で<quote>「手頃な価格」</quote>という回答者がほぼ五〇％を越える価格をみてみると、男子で<quote>「一〇〇〇円―二五〇〇円」</quote>、女子で<quote>「一〇〇〇円―三〇〇〇円」</quote>となっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｂ）かばん…手頃と考える平均価格は男子七〇〇〇円、女子一万二〇〇〇円ぐらいで、これも女子の方がかなり高い価格になっている。</sentence>
+<sentence>棒グラフの価格帯では、男子<quote>「三〇〇〇円―一万五〇〇〇円」</quote>、女子<quote>「五〇〇〇円―二万円」</quote>といずれもかなり価格帯が広い。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｃ）ウイスキー…男女の差がほとんどなく、平均価格で三〇〇〇円、五〇％の価格帯では<quote>「一五〇〇円―六〇〇〇円弱」</quote>となっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｄ）スーツ…男子の方が平均価格が高く、男子で三万円、女子で二万五〇〇〇円ぐらいとなっている。</sentence>
+<sentence>五〇％の価格帯では、男子<quote>「二万円―五万円」</quote>、女子<quote>「一万五〇〇〇円―五万円」</quote>である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｅ）コーヒー（喫茶店）…平均価格では男女の差がなく二五〇円である。</sentence>
+<sentence>五〇％の価格帯では男女とも<quote>「二〇〇円―三五〇円」</quote>となっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｆ）万年筆…これも男女差が少なく、平均価格で四〇〇〇円ぐらい、価格帯では、男子<quote>「二〇〇〇円―一万円」</quote>女子<quote>「一五〇〇円―八〇〇〇円」</quote>と、男子の方が高い価格にややシフトしている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｇ）カメラ…男女でかなり差がみられる。</sentence>
+<sentence>男子では平均価格五万円、女子では三万五〇〇〇円、となっている。</sentence>
+<sentence>価格帯では、男子<quote>「三万円―八万円」</quote>、女子<quote>「二万円―六万円」</quote>となっており、一万円から二万くらいの差がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｈ）ジーンズ…これは男女差が少ない。</sentence>
+<sentence>平均価格は男女とも六〇〇〇円、価格帯は<quote>「三〇〇〇円―八〇〇〇円ぐらい」</quote>である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｉ）ステレオカセット…オーディオ製品なので男女差がかなりある。</sentence>
+<sentence>平均価格は男子で四万円、女子で、三万五〇〇〇円と男子が高く、価格帯でも、男子<quote>「三万円―七万円」</quote>、女子<quote>「二万円―五万円」</quote>と、一万円から二万円男子の方が高い価格にシフトしている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ｊ）革靴…男女差が少ない。</sentence>
+<sentence>平均価格で男子<quote>「八〇〇〇円」</quote>、女子<quote>「七〇〇〇円」</quote>、価格帯では男女とも<quote>「五〇〇〇円―一万五〇〇〇円」</quote>となっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　なお、以上は大学生についての昭和五八年の調査結果であることに注意をする必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３・４　購入意欲と価格帯</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">９　消費支出金額と満足度<sampling type="end" /></sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn3_00055" version="1.0" type="fixedLength">
+<article articleID="LBn3_00055_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">表２‐２　年齢別勤続年<sampling type="start" />数</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典）アメリカ労働省</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表２‐３　年齢別勤続年数比率</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典）アメリカ労働省</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表２‐４　業種別平均勤続年数</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典）アメリカ労働省</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">日本の場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本の場合はモビリティについても全く逆のトレンドを示している。</sentence>
+<sentence>平成一〇年版『労働経済の分析（労働白書）』によれば、男性労働者の平均勤続年数は七六年に九・五年だったのが、九六年には一三・一年に、女性労働者については七六年に五・三年から八・二年に伸びている。</sentence>
+<sentence>加えて、勤続年数二〇年以上の男性労働者の全労働者に占める割合は七六年一一・四％であったのが、九六年二七・〇％、女性の場合は、七六年二・九％だったのが、九六年一〇・〇％となって大きく増加している。</sentence>
+<sentence>九一年と九六年とを比較して不況の影響を探してみても、三五歳〜三九歳の層で若干勤続年数の減少がみられるほかは、全ての年齢層では横這い、もしくは長期化の傾向がみられる（図２‐１０）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、労働者からみて終身雇用制度の評価は一般的に高い。</sentence>
+<sentence>表２‐５は労働白書の付属資料であるが、終身雇用について、労働者にとってはよい制度だという回答は、八七年七〇・一％、九五年七三・三％と圧倒的である。</sentence>
+<sentence>日本において長期の雇用保障を期待する者は多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、私はここでデータから二つの点を指摘したい。</sentence>
+<sentence>第一に表２‐５をみると、八七年と九五年では、企業にとってはよい制度だと答えた人が八七年六・〇％から六・五％へ、企業にとっても労働者にとってもよくない制度だと答えた人が八七年七・三％から九五年一一・一％へ伸びている。</sentence>
+<sentence>つまり労働者にとって中立的、あるいはむしろよくない制度だと考えた人を併せると八七年一三・三％から九五年一七・六％と四・三％伸びたことになる。</sentence>
+<sentence>先の終身雇用が労働者にとってはよい制度であると答えた人が三・二％伸びたことと併せて解釈すると、八七年の調査でわからないと答えた人の数が半分に減少している。</sentence>
+<sentence>すなわち、終身雇用を期待する人が大多数ではあるが、積極的によくないと答える人も増えており、二極化する傾向があることがわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二に、図２‐１１をみると、七〇年代までの労働移動率はそれ以降の二倍であったことがわかる。</sentence>
+<sentence>一般的にあたかも日本の伝統のように思っている終身雇用は、実は七〇年代以降の安定成長期以降に定着したもので、決して戦後日本の、ましてや近代日本の伝統ではない。</sentence>
+<sentence>たかだか二〇年余定着してきたにすぎないことがわかる。</sentence>
+<sentence>環境変化によって終身雇用は変わり得るということである。</sentence>
+<sentence>これについては第Ⅱ部でまた議論したい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１０　年齢階級別勤続年数の推移</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">出典）日本労働省<quote>「賃金構造基本統計調査」</quote></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">注）１９７６年の６０〜６４歳は６０歳以上の数値</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表２‐５　転職等に<sampling type="end" />関する意識（終身雇用制）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

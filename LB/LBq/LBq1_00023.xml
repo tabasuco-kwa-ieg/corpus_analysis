@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq1_00023" version="1.0" type="fixedLength">
+<article articleID="LBq1_00023_F001">
+<titleBlock>
+<title>
+<sentence>７１　今日の自分は○だと思います<sampling type="start" />か？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>○でも×でも△でも、自分がその基準をどこにおくかが問題です。</sentence>
+<sentence>自分に対する要求が厳しい人は、めったに○は出ないかもしれません。</sentence>
+<sentence>逆に厳しくない人は、普段から○が出やすいかもしれません。</sentence>
+<sentence>あなたの基準はどうだと思いますか？</sentence>
+<sentence><quote>「今日はいつもどおり、特にいいこともないけれど悪いこともないし、普通に健康でいられるから○かな」</quote>ですか？</sentence>
+<sentence>　それとも<quote>「理想の一日を一〇〇点とすると、今日は平凡な一日だったから五〇点で、△」</quote>ですか？</sentence>
+<sentence>　人それぞれですが、完璧を求めてマイナス部分に目が行くよりは、多少自分を大目に見て、プラス部分を考えたほうが暮らしやすいような気がするのですが、どうでしょうか？</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>７２　子供と話すのは好きですか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>子供のいる人、または子供といることが多い仕事の人はもちろん好きだと思います。</sentence>
+<sentence>さて、では<quote>「<sentence>なぜ好きなのですか？</sentence>
+」</quote>と聞かれたら、なんと答えますか？</sentence>
+<sentence>　かわいいから、おもしろいから、自分も若返るから？</sentence>
+<sentence>　あるいは自分も精神年齢が子供と近いから？</sentence>
+<sentence>　では逆に、子供と話すのは苦手という人は、それはなぜですか？</sentence>
+<sentence>　話題が合わないからですか？</sentence>
+<sentence>　すぐ走り回ったり、はしゃいだりするからですか？</sentence>
+<sentence>　面倒を見てあげないといけないから、ハラハラするからですか？</sentence>
+<sentence>　たしかに子供は大人とまったく違う生き物です。</sentence>
+<sentence>でも、その違いがおもしろいと思うくらいのスタンスで構えていると、逆にペースを乱されなくてすむのでは？</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>７３　あなたのリラックス法はなんですか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>仕事や家事や勉強やつき合いで疲れたりストレスがたまったりしたときに、<quote>「私はこれをやれば大丈夫」</quote>というリラックス法を、誰でも一つくらい持っているのではないかと思うのですが、あなたのそれはなんですか？</sentence>
+<sentence>　ゆっくりお風呂に入る、ひたすら寝る、マッサージをしてもらう、あるいはゆっくりお酒でも飲みますか？</sentence>
+<sentence>　ペットと遊ぶという人もいるかもしれませんし、好きなＣＤを聴くという人もいるでしょう。</sentence>
+<sentence>仲よしの友人と電話で話すというのもいいかもしれません。</sentence>
+<sentence>一つでも二つでも持っていると、<quote>「ここを乗り切ったら、あれをしよう」</quote>と思えるから、ちょっと頑張れるのではないでしょうか。</sentence>
+<sentence>そう、自分へのご褒美に近いかもしれません。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>７４　一番好きな果物はなんですか？</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">理由を三つあげてください</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>あなたがその果物が好きな理由はなんですか？</sentence>
+<sentence>　単純に一番好きな味だから？</sentence>
+<sentence>　見た目はどうですか？</sentence>
+<sentence>　それはいつも食べるものですか？</sentence>
+<sentence>　それとも、めったに食べられないから好きなのでしょうか？</sentence>
+<sentence>　それを食べるときは、いつもどうやって食べますか？</sentence>
+<sentence>　その果物について詳しいですか？</sentence>
+<sentence>　今はどんな果物も、ある程度一年中食べられるようになりましたが、もともとはいつの季節の<sampling type="end" />果物か知っていますか？</sentence>
+</article>
+</sample>

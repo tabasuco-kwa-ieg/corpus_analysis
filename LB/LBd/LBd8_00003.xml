@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd8_00003" version="1.0" type="fixedLength">
+<article articleID="LBd8_00003_F001">
+<paragraph>
+<sentence>　家事にもいろいろあるが、それを大別すると、<enclosedCharacter description="○">１</enclosedCharacter>食事や食器洗い（ｐｒｅｐａｒｅ　ｂｒｅａｋｆａｓｔ〈ｌｕｎｃｈ・ｄｉｎｎｅｒ〉、ｗａｓｈ　〈ｄｒｙ〉　ｔｈｅ　ｄｉｓｈｅｓ、ｓ<sampling type="start" />ｅｔ　ｔｈｅ　ｔａｂｌｅ、ｃｌｅａｒ　ｔｈｅ　ｔａｂｌｅ）、<enclosedCharacter description="○">２</enclosedCharacter>お掃除（ｔｉｄｙ　ｕｐ　ｔｈｅ　ｒｏｏｍ、ｓｗｅｅｐ　ｔｈｅ　ｆｌｏｏｒ〈ｙａｒｄ〉、ｖａｃｕｕｍ　ｔｈｅ　ｃａｒｐｅｔ〈ｆｌｏｏｒ〉）、<enclosedCharacter description="○">３</enclosedCharacter>洗濯（ｔｕｒｎ　ｏｎ　ｔｈｅ　ｗａｓｈｉｎｇ　ｍａｃｈｉｎｅ、ｈａｎｇ　ｏｕｔ　〈ｕｐ〉　ｔｈｅ　ｌａｕｎｄｒｙ、ｔａｋｅ　ｄｏｗｎ　ｔｈｅ　ｌａｕｎｄｒｙ、ｆｏｌｄ　ｔｈｅ　ｃｌｏｔｈｅｓ、ｉｒｏｎ　ｔｈｅ　ｃｌｏｔｈｅｓ）、<enclosedCharacter description="○">４</enclosedCharacter>買い物（ｇｏ　ｓｈｏｐｐｉｎｇ）、などの表現がある。</sentence>
+<sentence>これらの動作をさらに細かく分け、実際に動作をしながらいってみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<list>
+<listItem>
+<sentence>（１）食卓を片付ける。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（１）ｃｌｅａｒ　ｔｈｅ　ｔａｂｌｅは<quote>「机の上のものをしまう」</quote>、ｃｌｅａｎ　ｔｈｅ　ｔａｂｌｅなら<quote>「机の上をふいてきれいにする」</quote>。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（２）食卓をふく。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（３）食器を洗う。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（３）ｄｏ　ｔｈｅ　ｄｉｓｈｅｓともいう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（４）食器をふく。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（５）洗剤を洗濯機のなかに入れる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（５）<quote>「漂白剤」</quote>はｂｌｅａｃｈ、<quote>「柔軟剤」</quote>はｓｏｆｔｅｎｅｒ（発音［ｓɔːｆｎəｒ］に注意）という。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（６）洗濯物を洗濯機のなかに入れる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（６）<quote>「洗濯物」</quote>はとくに会話でｗａｓｈ（ｉｎｇ）ともいう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（７）洗濯機のスイッチを入れる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（７）<quote>「えりのしみを手洗いする」</quote>はｗａｓｈ　ｔｈｅ　ｓｔａｉｎ　ｏｆｆ　ｔｈｅ　ｃｏｌｌａｒ　ｂｙ　ｈａｎｄ、<quote>「クリーニング屋（コインランドリー）に持っていく」</quote>は、ｔａｋｅ　ｔｈｅ　ｄｉｒｔｙ　ｃｌｏｔｈｅｓ　ｔｏ　ｔｈｅ　ｃｌｅａｎｅｒ’ｓ（ｌａｕｎｄｒｏｍａｔ、英国ではｌａｕｎｄｒｅｔｔｅ）となる。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（８）洗濯物を取り出す。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（９）乾燥機で乾かす。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（９）<quote>「機械で乾かす」</quote>はｔｕｍｂｌｅ　ｄｒｙ、ぬれたままつるして乾かすはｄｒｉｐｄｒｙという。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（１０）洗濯物を干す。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（１０）<quote>「日かげ（日なた）に干す」</quote>は、ｈａｎｇ　ｏｎｅ’ｓ　ｌａｕｎｄｒｙ　ｉｎ　ｔｈｅ　ｓｈａｄｅ（ｓｕｎ）。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（１１）洗濯物を取り込む。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（１２）洗濯物をたたむ。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（１３）アイロンをかける。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（１４）掃除機をかける。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（１４）ｖａｃｕｕｍ　ｔｈｅ　ｒｏｏｍでもいい。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（１５）部屋を片付ける。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（１５）Ｔｈｅ　ｒｏｏｍ　ｉｓ　ｍｅｓｓｙ（ｉｓ　ａ　ｍｅｓｓ）．は<quote>「部屋が（物で）散らかっている」</quote>。</sentence>
+<sentence>Ｔｈｅ　ｒｏｏｍ　ｉｓ　ｄｉｒｔｙ．は<quote>「不潔で汚れている」</quote>。</sentence>
+<sentence>Ｔｈｅ　ｒｏｏｍ　ｉｓｎ’ｔ　ｃｌｅａｎ．は両方の意味。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（１６）床をモップでふく。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（１７）バケツに水を入れる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（１８）雑巾がけをする。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（１８）雑巾はほかにｄｕｓｔｃｌｏｔｈ、ｄｕｓｔｅｒ、ｔｏｗｅｌなど。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（１９）雑巾をゆすぐ。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（２０）雑巾をしぼる。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（２０）ｓｑｕｅｅｚｅ　ｔｈｅ　ｗａｔｅｒ　ｆｒｏｍ　ｔｈｅ　ｒａｇでもいい。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（２１）庭の掃除をする。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（２１）<quote>「草とりをする」</quote>はｗｅｅｄ　ｔｈｅ　ｙａｒｄ、<quote>「芝生を刈る」</quote>はｍｏｗ　ｔｈｅ　ｌａｗｎ、<quote>「芝生に水をまく」</quote>はｗａｔｅｒ　ｔｈｅ　ｌａｗｎ。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence>（２２）テレビドラマを見る。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<noteBody>
+<sentence>（２２）<quote>「新聞のテレビ欄を見る」</quote>はＩ　ｒｅａｄ　ＴＶ　ｓｃｈｅ<sampling type="end" />ｄｕｌｅ　ｉｎ　ｔｈｅ　ｎｅｗｓｐａｐｅｒ．でよい。</sentence>
+</noteBody>
+</listItem>
+</list>
+</article>
+</sample>

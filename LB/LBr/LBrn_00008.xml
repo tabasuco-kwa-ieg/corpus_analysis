@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00008" version="1.0" type="fixedLength">
+<article articleID="LBrn_00008_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＴＥＰ１　現在<sampling type="start" />編集中のファイルを転送する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">すべて転送済みにしたい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ページに少しでも修正を加えると転送対象のファイルとして自動的に認識されてしまいます。</sentence>
+<sentence>これを無視し、サイト内のファイルをすべて転送したことにするには、メニュー［サイト］→［転送設定］→［すべて転送済みにする］を選択してください。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ファイルを指定して転送</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>［サイト／素材］ビューの一覧から転送したいファイルを右クリック→［ページ転送］を選択しても転送することができます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">転送ファイルを絞り込むには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>転送の直前に表示されるダイアログボックスの［転送対象ファイルの一覧］ボタンをクリックすると、これから転送するファイルの一覧が表示されます。</sentence>
+<sentence>この中のチェックマークをオフにした分に関しては、転送されません。</sentence>
+<sentence>また転送ファイルを追加したい場合は［一覧に追加］ボタンをクリックして追加してください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">転送の種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>転送の直前に表示されるダイアログボックスでは、以下の４つの転送の種類が選択できます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［前回の転送以降に更新されたファイル］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>これを選んで転送した場合、前回の転送以降に修正や追加されたファイルを転送する。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［今日更新されたファイル］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>今日１日で修正したり追加されたファイルを転送する。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［指定日以降に更新されたファイル］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>指定した日付以降に修正したり追加されたファイルを転送する。</sentence>
+<sentence type="quasi">（これを選択すると、日付も指定しなければなりません。）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［すべてのファイル］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>変更の有無にかかわらず、サイト内のすべてのファイルを転送する。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">はみだしコラム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ワークステーション：パソコンより高度な機能を持ったコンピュータ。</sentence>
+<sentence>ＣＡＤなどのグラフィック処理を得意とする。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">はみだしコラム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ワークフロー：業務の発生から終了までの仕事の流れ。</sentence>
+<sentence>オフィスでの事務処理などをコンピュータ化し、効率や生産性を高めるのを目的に、ワークフローを分析、改善していく。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｅｃｔｉｏｎ　７３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＦＴＰツールでファイルを転送するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>サイトやページと関係なく、個々のファイルを転送したり、サーバーにあるファイルを削除したりするにはＦＴＰツールを使うと便利です。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">ＦＴＰツールとは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＴＥＰ１　ＦＴＰソフトを起動して一部のファイルを転送する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＦＴＰツールの起動</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＦＴＰツールは単独で起動することもできます。</sentence>
+<sentence>Ｗｉｎｄｏｗｓの［スタート］→［すべてのプログラム］→［ホームページ・ビルダー７］→［ツール］→［ファイル転送］を選択してください。</sentence>
+<sentence type="quasi">（Ｖ６．５の場合［スタート］→［すべてのプログラム］→［ホームページ・ビルダーＶ６．５］→［ファイル転送］）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">右クリックでできる操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>サーバ<sampling type="end" />ー側のファイル一覧リスト上で、マウスを右クリックするとポップアップメニューが表示され、様々な操作が可能です。</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

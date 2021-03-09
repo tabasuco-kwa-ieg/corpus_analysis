@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr6_00009" version="1.0" type="fixedLength">
+<article articleID="LBr6_00009_F001">
+<paragraph>
+<sentence>実行プランも例外ではありま<sampling type="start" />せん。</sentence>
+<sentence>実行の過程で絶えずその狂いを調整し、軌道修正することが不可欠です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プランが実行の過程で狂うのは、（１）〜（５）で記したように担当マネジャー本人の責任に帰せられる場合が大半です。</sentence>
+<sentence>それは結局、人間の弱さや能力の限界に起因しています。</sentence>
+<sentence>そこで、そのような問題が起きたときに適時適切に対応し、臨機応変の軌道修正を可能とするような、自己管理用のツールが必要となります。</sentence>
+<sentence>その一例が図Ⅶ‐４です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここで注目しておきたいのは、実行プランと連動してこのフォーマット（進捗状況管理表）の中でＰＤＣＡのサイクルを回すようになっているということです。</sentence>
+<sentence>すなわち、実行プランそのものがＰ（プラン）です。</sentence>
+<sentence>そして進捗状況管理表における<quote>「実行したこと」</quote>欄がＤ（ドゥ）、問題に気づいて書く<quote>「発生した問題」</quote>欄がＣ（チェック）、その問題がなぜ起きたか、その対策をどうするかを考える<quote>「その原因」</quote>と<quote>「対策案」</quote>の欄がＡ（アクション）になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実行プランを問題解決型に作るとともに、進捗状況管理表を使い実行の段階で生じる問題をそのつど逐一解決することによって実行プランの遂行が可能となるのです。</sentence>
+<sentence>その過程で当初考えた実行プランの内容は姿と修正、追加、削除され、原形をとどめないほどになりますが、それでやっとゴールに着けるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　世間では計画を作れば、あとは計画通りやればよいとみなす風潮があります。</sentence>
+<sentence>会社でも自分は計画通りやったと胸を張る人をよく見かけます。</sentence>
+<sentence>しかし、実際は大した成果が出ていないのが通例です。</sentence>
+<sentence>それでは自画自賛も同然で、なんら賞賛に値しません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そんなことより、計画遂行の段階でどれだけ軌道修正に知恵を絞ってきたか、その地道な努力の積み重ねのほうが価値があります。</sentence>
+<sentence>そこが難易度の高い重点業務の成否の分かれ目になるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅶ‐４　進捗状況管理表（例）</sentence>
+<br type="automatic_original" />
+<sentence>（注）　実行欄の済は今月に対策案実行済，継は来月以降も継続実行，未は来月以降実行予定の場合をさし，対策案ごとにそれぞれ○を記入する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４　効果の確認</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　トップ方針遂行の一環としてマネジャーが実行プランを策定し、実行に移せば、最終的には効果の有無が問われるのは論を待ちません。</sentence>
+<sentence>当然、その内容は上司や部下にも見せることになりますので、実行結果報告書（図Ⅶ‐５参照）のようなフォーマットの作成が必要になります。</sentence>
+<sentence>問題は、実行プランの効果をどういう形で捉えるかということです。</sentence>
+<sentence>それにはデータで物を言うしかありません。</sentence>
+<sentence>そのためにも実行プランの中の重点業務には目標数字の設定が欠かせません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　近年ＩＴ（情報技術）が普及し、営業でも多種多様なデータを採る会社が増えてきましたが、まだ売上、回収な<sampling type="end" />どの基本的なデータしかないという会社も少なくありません。</sentence>
+</paragraph>
+</article>
+</sample>

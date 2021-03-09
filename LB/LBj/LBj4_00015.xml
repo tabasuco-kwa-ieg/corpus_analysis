@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj4_00015" version="1.0" type="fixedLength">
+<article articleID="LBj4_00015_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />図５‐１　ＤＸＡによる骨塩量の測定</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５‐２　ＤＸＡによる背骨の写真</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■その他の診断方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　骨塩量を測るために，このほかにもいくつもの新しい方法が開発されています。</sentence>
+<sentence>たとえばＳＸＡやｐＱＣＴと呼ばれるものなどがありますが，これらの方法には，それぞれが持っている長所，短所があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>ＳＸＡによる診断：測定できる部位が，橈骨（手の先の骨）とか踵骨（足首の骨）といった脂肪組織の少ない部位に限られていますが，これらの骨の骨塩量を高い精度で測定できます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ＱＣＴによる診断：ＱＣＴというのは，通常用いられるＣＴの機械で骨塩量を測定する方法です。</sentence>
+<sentence>特徴として海綿骨（骨粗鬆症で減りやすい，骨の中の梁の部分）だけを測ることもできるのがいちばんのメリットです。</sentence>
+<sentence>しかし，Ｘ線の被曝が多い，時間がかかる，誤差が多い，脂肪による干渉があるなどの問題点があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｐＱＣＴによる診断：ＱＣＴがおもに腰椎の海綿骨部分の測定に用いられるのに対し，おもに橈骨を対象とした装置です。</sentence>
+<sentence>脂肪組織の少ない部分なので，干渉の問題があまりありません。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■骨塩量と骨の強度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＤＸＡで骨塩量を測って，それが骨の強度と相関があるかないかの問題は重要ですが，一般には骨塩量が落ちれば骨の強度も落ちて骨折しやすくなると考えてさしつかえありません。</sentence>
+<sentence>しかし，骨の強度も評価できる方法として，超音波測定装置を用いた測定などが試みられています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■骨量と骨折の関係</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図５‐３は，ＤＸＡで腰椎の２番〜４番の骨塩量を測ったデータですが，このデータでは，骨折のない人の多くが骨塩量が０．８５以上の値になっており，０．８５以下の辺りから急に骨折をもつ患者さんの数が増えていることがわかります。</sentence>
+<sentence>この値以下になると骨折を起こしやすくなるという意味で，この点の骨塩量に対して骨折閾値という表現が使われています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５‐３　脊椎圧迫骨折者と非骨折者の腰椎骨密度の分布</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（福永仁夫：ＤＸＡ法による骨量定量法．厚生省老人保健福祉局老人保健課監修：骨粗鬆症による寝たきり防止マニュアル．ｐ．４９，骨粗鬆症財団，１９９３）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２．血液や尿の中にある骨の代謝マーカー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ある時点で骨の量がどのくらいかを知ると同時に，その後，骨の量はどのように推移するのかを知る必要があります。</sentence>
+<sentence>かなり骨の量があっても，その後どんどん骨が減り続けるのか，あるいは，ある程度少ないけれども，たいして減る量は多くないのか，などによって，それ以後の治療の必要性なども変わってくるわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■骨の代謝マーカーの種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そこで，ある時点での骨の減る速度を評価する方法が必要となってきます。</sentence>
+<sentence>つまり，骨の吸収が非常に<sampling type="end" />盛んになっているのか，骨の吸収に見合っただけ骨の形成が行われているのか，あるいは，骨の形成が非常に低下しているのかなどを判定しようというものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

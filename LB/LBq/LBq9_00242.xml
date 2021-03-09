@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq9_00242" version="1.0" type="fixedLength">
+<article articleID="LBq9_00242_F001">
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">馬をとめて眺めやり　一人さまよえ<sampling type="start" />ば、<verseLine />眼前に　照り映える柳の綿毛がふうわり。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">思えば　咸陽の火徳が衰えてより、<verseLine />龍虎は激しく戦って　勝負果てなし。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">襄陽の宴に　王孫は酒を飲み、<verseLine />座中の玄徳　まさに危うし。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">命拾いして　単騎　西門より逃れるも、<verseLine />追っ手の兵も背後に迫る。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">濛々たる水煙　壇渓の流れ、<verseLine />馬を叱咤し　捨て身の跳躍。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">蹄は砕く　青き波、<verseLine />風の響きに　金の鞭。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">耳に届くは千騎の足音、<verseLine />目に入るのは双龍の飛翔。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">西川（蜀）の覇者　まことの英主、<verseLine />またがる龍駒とめぐり逢う。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">檀渓の水は絶えず東へ、<verseLine />龍駒と英主　今いずこ。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">流れに臨んでため息しきり　心しんみり、<verseLine />静寂の中　落ちかかる夕陽が山を照らす。<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">三国<ruby rubyText="てい">鼎</ruby><ruby rubyText="りつ">立</ruby>　すべては夢か、<verseLine />名残の跡のみ　空しくここに。<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<noteBody>
+<sentence>［１］ここでは長安を指し、漢王朝をいう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　劉備は檀渓の西岸に飛び移ってから、ふりかえって東岸を見ると、<ruby rubyText="さい">蔡</ruby><ruby rubyText="ぼう">瑁</ruby>はすでに軍勢を率いて追いつき、渓流のほとりまで来ていた。</sentence>
+<sentence>蔡瑁は大声で呼ばわった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「<ruby rubyText="し">使</ruby><ruby rubyText="くん">君</ruby>よ、どうして酒席から逃げ出して、行ってしまわれるのか」</quote>。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「私ときみは<ruby rubyText="かたき">仇</ruby>同士でないのに、どうして殺そうとするのか」</quote>と劉備。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「けっしてそんなことはありません。</sentence>
+<sentence type="quasi">使君には他人の言うことをお聞き入れになりませんように</sentence>
+」</quote>と蔡瑁。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　劉備は蔡瑁が弓を取り矢をつがえるのを目にしたので、急いで馬首をめぐらし、西南の方向へと向かった。</sentence>
+<sentence>蔡瑁は左右の者に<quote>「いかなる天の助けだろうか」</quote>と言うと、軍勢をまとめて城内にもどろうとした。</sentence>
+<sentence>その瞬間、西門から趙雲が三百の兵を率いて追いかけて来るのが目に入った。</sentence>
+<sentence type="quasi">これぞまさしく、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="old" />
+<verse>
+<sentence type="verse">飛び去る龍駒は主を助け、<verseLine />追い来る虎将は仇を殺さんとする。<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<sentence>というところ。</sentence>
+<sentence>はてさて蔡瑁の命はいかがあいなりますでしょうか。</sentence>
+<sentence>まずは次回の<ruby rubyText="ときあかし">分解</ruby>をお聞きください。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">玄徳　襄陽に<ruby rubyText="つどい">会</ruby>に赴く</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">玄徳　馬を躍らせて壇渓を跳ぶ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第三十五回</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="げん">玄</ruby><ruby rubyText="とく">徳</ruby>　<ruby rubyText="なん">南</ruby><ruby rubyText="しょう">漳</ruby>にて<ruby rubyText="かくれびと">隠淪</ruby>に逢い</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="ぜん">単</ruby><ruby rubyText="ふく">福</ruby>　<ruby rubyText="しん">新</ruby><ruby rubyText="や">野</ruby>にて英主に<ruby rubyText="あ">遇</ruby>う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、<ruby rubyText="さい">蔡</ruby><ruby rubyText="ばう">瑁</ruby>が城内にもどろうとしたとき、趙雲が軍勢を率い城から追いかけて来た。</sentence>
+<sentence>趙雲は酒を飲んでいる最中、ふと人馬の動きに気づき、急いで奥へ見に入ると、席上から劉備の姿が消えていた。</sentence>
+<sentence>仰天して宿舎に向かう途中、人が<quote>「蔡瑁が軍勢を率い西の方角へ追いかけて行った」</quote>と話すのを聞いたので、趙雲は大急ぎで鎗をつかんで馬に乗るや、もともと連れて来た三百の軍勢を率いて、西門から飛び出したのだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのとき、ばったり蔡瑁と出くわしたので、急いでたずねた。</sentence>
+<sentence><quote>「わが君はどこにいらっしゃるのか」</quote>。</sentence>
+<sentence><quote>「<ruby rubyText="し">使</ruby><ruby rubyText="くん">君</ruby>は酒席を抜け出して出て行かれたが、どこへ行かれたかは存じません」</quote>と蔡瑁。</sentence>
+<sentence>趙雲は慎重かつ細心な人柄だったので、無遠慮な振舞いはさしひかえ、そのまま馬に鞭を当てて先へ進んだ。</sentence>
+<sentence>しかし、行く手は深い渓谷で、はかに行く道もないと見<sampling type="end" />て取ると、馬を返し、<ruby rubyText="さい">蔡</ruby><ruby rubyText="ぼう">瑁</ruby>を怒鳴りつけて問いただした。</sentence>
+</paragraph>
+</article>
+</sample>

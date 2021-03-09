@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00048" version="1.0" type="fixedLength">
+<article articleID="LBs5_00048_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>構造を担当さ<sampling type="start" />れたオーク構造設計との仕事もはじめてでしたし。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">木村</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ふつうこういう屋根は、小屋組みというのをやって、そこに板を張っていきます。</sentence>
+<sentence>鉄骨で屋根を載せる台をつくるわけですね。</sentence>
+<sentence>ところがガエ・ハウスにはそういう鉄骨がなくて、いきなりデッキプレートを載せなければなりません。</sentence>
+<sentence>そもそもデッキプレートというのは一般的な構造材ではないし、だいたい床材のデッキプレートを屋根材にしてしまうというのも、とんでもない発想なんですが。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ああ、そうなんですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">木村</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　Ｈ鋼などで梁をつくって、その上に水平にデッキプレートを敷いてコンクリートを流し込むというのがふつうのやり方です。</sentence>
+<sentence>だからもしデッキプレートを屋根に使うのであれば、まず梁を渡して骨組みをつくって、そこにデッキプレートを載せるんですが。</sentence>
+<sentence>ここはそれがない。</sentence>
+<sentence>それで苦労したわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">田原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あれはコンクリートの型枠材みたいなものですからね。</sentence>
+<sentence>屋根材で似たのは山形の鋼材（<ruby rubyText="せっ">折</ruby><ruby rubyText="ぱん">板</ruby>）を工場の屋根に使うことはあるけれども。</sentence>
+<sentence>住宅の屋根にというのははじめてですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　細部の取り付けについての図面は、塚本研究室から順次送られてきたんですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">木村</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　うちと両方で書きました。</sentence>
+<sentence>原寸大でどれくらいの板が必要かとか、どういうふうにつなぎ合わせるかなどをこちらから書いて送り、塚本研の富永さんからも<quote>「こうしたらどうですか」</quote>と返ってくる。</sentence>
+<sentence>富永さんとは図面のキャッチボールをかなり頻繁にしました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　屋根の西面と北面の接合部分がどうなるか心配でした。</sentence>
+<sentence>ぴったりおさまりましたね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">田原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　これは展開した図面をつくって正確に切り出し、きちんとつながないとおさまらない。</sentence>
+<sentence>ところが３ＤのＣＡＤはうちにないし、仲間も持ってない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">木村</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　東工大のＣＡＤで出してもらいました。</sentence>
+<sentence>これがただの片流れの屋根なら問題はないんですよ。</sentence>
+<sentence>ところが西側だけ寄せ棟にしていますから難しい。</sentence>
+<sentence>接合部分に三角形の補強材を入れなければならないんです。</sentence>
+<sentence>ところがこの形を計算で割り出すのが大変でした。</sentence>
+<sentence>塚本研で３ＤのＣＡＤを使って出してもらいました。</sentence>
+<sentence>しかも、デッキプレートは平面ではなくて断面が凸凹ですよね。</sentence>
+<sentence>それが斜めにつながるためには上の部分と下の部分とで長さが変わってしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　うーん、耳で聞いているだけでは理解できない。</sentence>
+<sentence>いや、図にしてもわかりませんよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">木村</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　途中で組み上げたところを見にいらっしゃいましたよね。</sentence>
+<sentence>じつはあそこで仮組みしてみるまで、ちゃんとできるかどうか不安でした。</sentence>
+<sentence>ふつうは骨組みをつくって、それに合わせながら屋根材を切っていくんです。</sentence>
+<sentence>ところがこの場合は骨組みがないから、その手を使え<sampling type="end" />ない。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

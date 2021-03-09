@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl9_00239" version="1.0" type="fixedLength">
+<article articleID="LBl9_00239_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />西川祐信『百人女郎品定』</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">盥</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">業平の恋の場にも</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<ruby rubyText="たらい">盥</ruby>は、古く平安前期の作品『伊勢物語』（第二七話）に現れる。</sentence>
+<sentence>作品の主人公は、六歌仙の一人<ruby rubyText="ありわらの">在原</ruby><ruby rubyText="なり">業</ruby><ruby rubyText="ひら">平</ruby>とされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　業平は、平安王朝きっての女色家という伝説の持ち主だけあって、女の心をとらえることばの巧みさはさすがである。</sentence>
+<sentence>ともあれ、水をたたえた盥が、ふたたび二人の恋を実らせた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　清少納言の『枕草子』（一二〇段）には、正月、人々が神社や寺に<ruby rubyText="こも">籠</ruby>って祈願する情景に、盥が登場する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<titleBlock>
+<title>
+<sentence type="quasi">芭蕉庵の雨漏りに</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　手や顔を洗うための盥は、古くから身近な生活道具として使われていた。</sentence>
+<sentence>たとえ質素な<ruby rubyText="わ">侘</ruby>び住いでも、盥の一つはそなえていた。</sentence>
+<sentence>たとえば松尾芭蕉が住んだ深川の芭蕉庵。</sentence>
+<sentence>そこで詠んだ芭蕉の句がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　野分とは、二百十日・二百二十日前後に吹く暴風、いまいう台風である。</sentence>
+<sentence>延宝八年（一六八〇）の冬、芭蕉は日本橋本船町から、深川の草庵に移り住んだ。</sentence>
+<sentence>そのころの深川は、まだ人家がまれで、寂しいところであった。</sentence>
+<sentence>だが世間のわずらわしい交渉から離れ、俳諧の道に専念できるのは、芭蕉にとってこの上ない環境だった。</sentence>
+<sentence>年が明けた春、門人の<ruby rubyText="り">李</ruby><ruby rubyText="か">下</ruby>が、芭蕉の株を庭に植えてくれた。</sentence>
+<sentence>この芭蕉はよく土地になじみ、大きく生長して、葉が繁るようになった。</sentence>
+<sentence>門人たちは、その住まいを芭蕉庵といい、その<ruby rubyText="ぬし">主</ruby>を芭蕉庵の<ruby rubyText="おきな">翁</ruby>と呼ぶようになった。</sentence>
+<sentence>芭蕉が自分できめた号は<ruby rubyText="とう">桃</ruby><ruby rubyText="せい">青</ruby>である。</sentence>
+<sentence>そこで芭蕉庵桃青といい、やがては芭蕉が号として使われるようになってしまった。</sentence>
+<sentence>この年の秋、芭蕉庵は暴風雨に見舞われる。</sentence>
+<sentence>吹き荒れる嵐の中の草庵で、芭蕉は独り座っていた。</sentence>
+<sentence>外では芭蕉の葉が、ばさばさと激しく吹き破られ、その音が聞こえる。</sentence>
+<sentence>そのうちに、ぽたぽたと<ruby rubyText="あま">雨</ruby><ruby rubyText="も">漏</ruby>りがしてきた。</sentence>
+<sentence>芭蕉はあわてて盥をもち出して、そこにあてがうのだった。</sentence>
+<sentence><quote>「芭蕉野分して」</quote>と一気に詠んだ、その字余りが、風雨のすさまじさを感じさせる。</sentence>
+<sentence>そして、ぽつねんと置かれた盥、その盥に落ちる雨のしずくの音が、<ruby rubyText="せき">寂</ruby><ruby rubyText="ばく">寞</ruby>とした孤独感をよく表している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　いわゆる『芭蕉七部集』と呼ばれる俳諧集の一つ『猿蓑』にのる凡兆の句である。</sentence>
+<sentence>凡兆は芭蕉の高弟で、蕉門十哲の一人に数えられることもある。</sentence>
+<sentence><missingCharacter attribute="HanIdeograph" unicode="U+881B" daikanwa="M33779" description="虫＋蔑">〓</missingCharacter>をうんかと読ませているが、正しくはまくなぎもしくはすむしとかぬかかという小虫である。</sentence>
+<sentence>炎天下の井戸端などでもあろうか。</sentence>
+<sentence>まだ水気がのこる湿った盥の底に、小虫がべっとりと群がりついている。</sentence>
+<sentence>いかにも暑苦しげな情景である。</sentence>
+<sentence>盥の句を、与謝蕪村も詠んでいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　当時たいていの家には、足を洗う専用の盥もあった。</sentence>
+<sentence>春の名残の行楽から帰ってきたのだろうか。</sentence>
+<sentence>家に着いたところでよごれた足を洗っていると、盥の継ぎ目から漏っていく水に気づく。</sentence>
+<sentence>音もなく地に吸い込まれ<sampling type="end" />ていく盥の水に、行く春を惜しむ情感を漂わせている。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00076" version="1.0" type="fixedLength">
+<article articleID="LBp3_00076_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />貸借対照表（Ｂ／Ｓバランスシート）</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">年度の期首―期末の資産の状態を一望する</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">貸借対照表</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　帳簿づけに関心がなかった我々にはなじみのない言葉なのだが、<quote>「貸借対照表」</quote>とは、事業年度の期首（１月１日）と期末（１２月３１日）の、手持ち資産の状態を表したもの。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">【資産】には、現金・預金・売掛金といったプラスの財産を、</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【負債】には、未払金・預り金・買掛金など支払い予定のあるマイナスの財産を記述する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　手で計算するとなれば、専門知識や膨大な時間がかかる処理である。</sentence>
+<sentence>素人にはとても無理だ。</sentence>
+<sentence>しかし、会計ソフトで律儀にデータを入力していれば、決算処理のときに計算されて、プリントアウトまでできるから安心だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">【事業主貸】は、資産の部にカウント</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">【事業主借】は、負債・資本の部にカウント</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>【<ruby rubyText="もと">元</ruby><ruby rubyText="いれ">入</ruby><ruby rubyText="きん">金</ruby>】初年度の事業が終わった段階で、逆算して求める<quote>「資本金」</quote>のようなもの。</sentence>
+<sentence><quote>「事業主借」</quote>と<quote>「事業主貸＋資産」</quote>を相殺して残った額のこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">【資産の部の合計＝負債・資本の部の合計】両者は同じ額になる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">貸借対照表（Ｂ／Ｓ）の記入例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">青・白・共通<quote>「還付までの流れ」</quote></sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">所得税を払った後には住民税を払うのだ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　ここで、確定申告後に発生するお金の内容と、支払い時期を時系列でまとめてみた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　還付金をもらって喜んでいられるのも初めのうちだけ。</sentence>
+<sentence>確定申告をしたことで、住民税や国保税がドンとやってくることを忘れないようにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>１２月３１日　１事業年度の終了日。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>１月１日　事業年度の初日。</sentence>
+<sentence type="quasi">新年度の領収証の整理スタート</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１月〜２月　昨年度分の決算処理を進める</sentence>
+<br type="automatic_original" />
+<sentence>取引先から届く<quote>「支払調書」</quote>を集める。</sentence>
+<br type="automatic_original" />
+<sentence>還付申告の場合は早めに提出できる（郵送でもＯＫ<noteMarker text="＊１" />）。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence type="quasi">＊１郵送でもＯＫ</sentence>
+<br type="automatic_original" />
+<sentence>収受印を押してもらった<quote>「控え」</quote>を返送してもらうために、切手を貼った返信用封筒を同封する。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+<listItem>
+<sentence type="quasi">２月１６日　確定申告受付スタート</sentence>
+<br type="automatic_original" />
+<sentence>各地で無料相談会、税務署の出張所が展開される。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３月１５日　確定申告受付終了</sentence>
+<br type="automatic_original" />
+<sentence>受付終了後でも、還付申告は５年前の分まで提出可能。</sentence>
+<br type="automatic_original" />
+<sentence>赤字申告は期限内に提出しないと、持ち越し処理ができないので注意。</sentence>
+<br type="automatic_original" />
+<sentence>青色申告特別控除は、期限切れでも１０万円分認められる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４月〜　還付金の入金</sentence>
+<br type="automatic_original" />
+<sentence>提出書類の金額計算に間違いがなければ、受付日より１ヶ月程度で、還付金の振込通知ハガキが届く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４月　年金の納付書到着（１３３００円×１２ヶ月分）</sentence>
+<br type="automatic_original" />
+<sentence>１年前納なら１５万５７５０円（３８５０円割引）。</sentence>
+<sentence>銀行引き落としの前納をお勧め。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５月〜　市県民税・国保税額が決定</sentence>
+<br type="automatic_original" />
+<sentence>確定申告した所得額が、市町村へと通達され、市県民税と国民健康保険税が算出される。</sentence>
+<sentence>納付通知が届く。</sentence>
+<sentence>銀行口座引き落としなら、引き落とし額と引き落とし日が記載された通知ハガキが届くだけ（還付金の入金と同じ口座を指定しておけば、残額が足<sampling type="end" />りないというトラブルも防げる）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

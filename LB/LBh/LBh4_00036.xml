@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00036" version="1.0" type="fixedLength">
+<article articleID="LBh4_00036_F001">
+<paragraph>
+<sentence>それは、平均的な法<sampling type="start" />則について理解することではなく、ゆらぎがどのようにして生じ、ゆらぎがどのようにして加速されるかのメカニズムを理解することなのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、非平衡物理学に現れる諸現象のうち重要なものは<quote>「カオス」</quote>です。</sentence>
+<sentence>このカオスは極めて多くの役割を持っています。</sentence>
+<sentence>まず第一に、カオスは不規則信号として現れます。</sentence>
+<sentence>例えば、自己触媒挙動を伴う化学反応を取り上げます。</sentence>
+<sentence>これは化学振動のような極めて規則的な挙動を示すこともあります。</sentence>
+<sentence>しかし、非常に不規則な挙動を示すこともあります。</sentence>
+<sentence>このような状態になったとき、人々はこれをカオスと呼ぶわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それでは、まず第一に、カオスの正確な定義とは何でしょうか。</sentence>
+<sentence>カオスの正確な定義とは、隣接する軌跡（トラジェクトリー）が指数関数的に発散していくということであり、これをリャプノフ指数関数と呼ぶわけです。</sentence>
+<sentence>すなわち、カオスとは指数関数的に発散していく軌跡間の距離のことでもあります。</sentence>
+<sentence>このように、カオスというのは極めて興味深い一般的な性質を持っているわけです。</sentence>
+<sentence>カオスにおいては、個々の軌跡の記述は不可能になります。</sentence>
+<sentence>個々の軌跡は発散していくからです。</sentence>
+<sentence>初期状態についてどのような情報を持っていようとも、時間の経過に伴って軌跡を見失ってしまうからです。</sentence>
+<sentence>これはリャプノフ指数関数に従って発散するからです。</sentence>
+<sentence>リャプノフ指数関数の考え方によれば、単一の軌跡を見るのではなく、隣接する複数の軌跡を比較して見なければならず、軌跡の全体を見なければいけないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　古典的科学において、ニュートンは単一の軌跡に焦点を当ててきました。</sentence>
+<sentence>シュレディンガーも単一の波動に焦点を当ててきました。</sentence>
+<sentence>そして、相対性理論においては、単一の測地線の運動に焦点が当てられてきたわけです。</sentence>
+<sentence>しかし今日、それでは十分でないことがわかってきました。</sentence>
+<sentence>集団の全体、統計学的な全体像を考える必要があります。</sentence>
+<sentence>すなわち、宇宙に関する確率論的な観点が必要になるわけです。</sentence>
+<sentence>古典的、決定論的な観点により、単一の軌跡、単一の波動関数だけに焦点を当てる方法ではなく、複数の集合を考える確率論的な観点が必要になってきているわけです。</sentence>
+<sentence>こうした観点を導入することにより、世界をより豊かに記述することができるようになるのです。</sentence>
+<sentence>なぜならば、本質的にはリャプノフ指数関数を導入することにより、単一の軌跡の性質ではなく複数の軌跡の集合の性質を記述することができるようになるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、カオスの状態というのは、量子力学であろうと古典力学であろうと膨大な数の問題に現れます。</sentence>
+<sentence><quote>「ベルヌーイ・マップ」</quote>というのはこの最も簡単な例<sampling type="end" />です。</sentence>
+</paragraph>
+</article>
+</sample>

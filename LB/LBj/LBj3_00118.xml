@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj3_00118" version="1.0" type="fixedLength">
+<article articleID="LBj3_00118_F001">
+<paragraph>
+<sentence><sampling type="start" />情報量が膨大な動画像の記録・伝送には不可欠の情報圧縮（および圧縮したものを復元する情報伸長）技術も国際標準規格に沿って進んでいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アナログではとても望めない情報圧縮という芸当については説明が必要だろうか。</sentence>
+<sentence>たとえば、静止したカメラで歩いている人を写した映像を考えてみよう。</sentence>
+<sentence>人は動くからコマごとに信号の変化があるが、背景部分は数秒なり数十秒なりそのシーンが続くうちは変わらない。</sentence>
+<sentence>描画速度を一秒三〇コマとすると数百コマ、数千コマにわたって同じ信号でいいわけだ。</sentence>
+<sentence>このように信号変化がない部分は各コマのピクセル（画素）を毎コマ処理するのではなく<quote>「前と同じ」</quote>という信号で代用すれば情報の量はうんと小さくなる。</sentence>
+<sentence>その<quote>「威力」</quote>はつぎの例で明らかだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　容量五四〇メガバイトのＣＤ‐ＲＯＭ（文字なら新聞約一年半分の情報が入る）に続く次世代記憶媒体であるＤＶＤ（デジタル・ビデオデスク）は、ソニー‐フィリップス組と東芝など七社グループが別の規格を提唱していたのがやっと統一されることになり、ＣＤ‐ＲＯＭと同じ直径一二センチの円盤で片面四・七ギガバイトの大容量になるようだ。</sentence>
+<sentence>それでも、もし生の動画情報を圧縮せずに記録したら四・七ギガバイトで数分ぶんしか入らない。</sentence>
+<sentence>動画圧縮の技術を使うと、これを二時間ぶん以上にすることができるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当然のことながら、圧縮・伸長の技術が各社・各国ばらばらではうまくない。</sentence>
+<sentence>そこで国際標準化機構（ＩＳＯ）と国際電気標準会議（ＩＥＣ）の傘下の専門家グループＭＰＥＧ（ｍｏｖｉｎｇ　ｐｉｃｔｕｒｅ　ｅｘｐｅｒｔｓ　ｇｒｏｕｐ）が標準化作業を進め、標準規格もＭＰＥＧ（エムペグと読む）と呼んでいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、そういうわけでいずれはパソコンを主体とするマルチメディア端末が実現する。</sentence>
+<sentence>マルチメディア社会の情報基盤と称される光ファイバー網あるいは情報スーパーハイウェイとは、このように真のデジタル・プラットホームとなったコンピュータ同士をネットワークで結び、既存のコンピュータ・ネットであるパソコン通信やインターネットより情報伝送路を高速大容量化しようというものだ。</sentence>
+<sentence>これについてはうんざりするほどの<quote>「情報」</quote>がすでに提供されているから細かい説明を省くが、単純化すればそれだけの話である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在、誰もが利用しているアナログ音声情報の双方向伝送路―電話は音量の大きいほうから小さいほうへ流れるように瞬時に切り換えるから会話ができるのであって正確には<quote>「疑似双方向的」</quote>だ、という説もあるが、それは無視してよかろう―である電話回線（銅線）の伝送速度は通常毎秒三二キロビットだ<sampling type="end" />。</sentence>
+</paragraph>
+</article>
+</sample>

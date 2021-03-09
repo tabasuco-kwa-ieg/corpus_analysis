@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBcn_00010" version="1.0" type="fixedLength">
+<article articleID="LBcn_00010_F001">
+<paragraph>
+<sentence>ぼくはホッとしながら、少しだ<sampling type="start" />けがっかりもした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「あのね、おかあさんがラーメン食べてけってさ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ああ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　<ruby rubyText="さち">幸</ruby><ruby rubyText="お">雄</ruby>くんは、マンガから目をはなさない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「家に電話しといたら」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ぼくがいったら、幸雄くんはクルッと<ruby rubyText="せ">背</ruby>をむけた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「おれんち、昼間だれもいねえもん。</sentence>
+<sentence type="quasi">かあちゃん、夜まで仕事だよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そうだった。</sentence>
+<sentence>幸雄くんは、昼間はひとりぼっちなんだ。</sentence>
+<sentence>おとうさんは、二年前に自殺しちゃった。</sentence>
+<sentence>理由はよくは知らないけど、仕事がうまくいかなかったらしい。</sentence>
+<sentence>今はおかあさんとふたりぐらしだから、ひとりでいることが多いんだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　かあちゃんも、いろいろ大変だよと、よく幸雄くんがいっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ラーメンきたら、よぶからね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　それだけいって、ぼくは部屋をでた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　（幸雄くんも、<ruby rubyText="く">苦</ruby><ruby rubyText="ろう">労</ruby>してんだ）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　階段をおりたら、<ruby rubyText="みつ">光</ruby>ちゃんが、青ざめた<ruby rubyText="かお">顔</ruby>でぼくをふりかえった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「見てみろよ、<ruby rubyText="れい">玲</ruby>ちゃん。</sentence>
+<sentence type="quasi">おっそろしい<ruby rubyText="よう">妖</ruby><ruby rubyText="かい">怪</ruby>だぜ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　光ちゃんの指先をおって、テレビに目をやり、ぼくの<ruby rubyText="こし">腰</ruby>がぬけそうになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　画面いっぱいに、<ruby rubyText="おに">鬼</ruby>ばばあのどアップだ。</sentence>
+<sentence>耳までさけた口を、<ruby rubyText="ち">血</ruby>でまっ赤にそめてせまってくる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ヒエーッ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「なっ、すげえだろ、この<ruby rubyText="よう">妖</ruby><ruby rubyText="かい">怪</ruby>。</sentence>
+<sentence type="quasi">まっ、作り物だけどな」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そういいながらも、<ruby rubyText="みつ">光</ruby>ちゃんは、ジリジリ画面ににじりよっていく。</sentence>
+<sentence>ぼくは、テレビからずっとはなれてすわった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　おとうさんとおかあさんは、店のなかをいそがしく動きまわっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「おい、かあさん。</sentence>
+<sentence type="quasi"><ruby rubyText="おか">岡</ruby><ruby rubyText="だ">田</ruby>さんとこのお<ruby rubyText="つ">通</ruby><ruby rubyText="や">夜</ruby>、何時からだっけ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「七時でしょ。</sentence>
+<sentence type="quasi">さっきも聞いたじゃない、やあねえ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　答えながら、おかあさんが、よごれた仕事場にバケツの水をまいた。</sentence>
+<sentence>それと、店のガラスがひらくのが、いっしょだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「うへっ、冷てえ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　<ruby rubyText="で">出</ruby><ruby rubyText="まえ">前</ruby>のおかもちを持った、<ruby rubyText="ぺきん">北京</ruby><ruby rubyText="てい">亭</ruby>のおにいさんが、がにまたでとびのいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「あらっ、ごめんなさい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ひでえなあ、…しかし、<ruby rubyText="そう">葬</ruby><ruby rubyText="ぎ">儀</ruby><ruby rubyText="や">屋</ruby>さんがいそがしいっていうのも、いいもんかどうかねえ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　おにいさんは、ひとりごとみたいにいいながら、手ぬぐいでジーンズをふいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「つまんないこといってないで、早くラーメンおいてきな」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　おかあさんにどやされ、おにいさんは首をすくめた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「はいよ、おまたせ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ラーメンをおきながら、おにいさんがぼくをつくづくとながめる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「<ruby rubyText="れい">玲</ruby>ちゃん。</sentence>
+<sentence>たまには、スタミナ定食でも食べさせてもらいなよ。</sentence>
+<sentence>ラーメンばっかりじゃ、いつまでたっても、１・２・３のオンパレードだぜ。</sentence>
+<sentence>５なんか、一生とれないよ。</sentence>
+<sentence>アッ、ハッ、ハーッ。</sentence>
+<sentence type="quasi">そんじゃ、<ruby rubyText="まい">毎</ruby><ruby rubyText="ど">度</ruby>ーっ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　おにいちゃんは、ばかわらいを残してでていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　（なに…１・２・３のオンパレード？）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ああっ！</sentence>
+<sentence>　おにいちゃんたら、ぼくの通知表、見ちゃったんだ！」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　<ruby rubyText="みつ">光</ruby>ちゃんが、ちらっと横目でぼくを見た。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「…ほんとに悪かったな、玲ちゃん。</sentence>
+<sentence type="quasi">あんなことしちゃって」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ぼくはなにも答えず、光ちゃんの目の前に、ラーメンをドスンッとおいてやった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「<ruby rubyText="さち">幸</ruby><ruby rubyText="お">雄</ruby>くーん。</sentence>
+<sentence>ラーメンきたよ！」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ふくれっつ<sampling type="end" />らのまま、ぼくは二階の幸雄くんにも声をかけた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

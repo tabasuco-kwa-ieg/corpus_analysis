@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBfn_00012" version="1.0" type="fixedLength">
+<article articleID="LBfn_00012_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　カラスはやっぱり、山や森や林で生活する<sampling type="start" />のが、いちばんにあっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ガイド１・２</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　さあ、クウやクロウたちはいよいよ飛びたっていくようです。</sentence>
+<sentence>バァーイ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>クウとクロウたちのおどりも、さいこうちょうになって、終わる。</sentence>
+<br type="automatic_original" />
+<authorsData>
+<sentence type="quasi">―終わり―</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">作者からみなさんへ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">自由な動きで</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">井上満寿夫</sentence>
+<br type="automatic_original" />
+</authorsData>
+<paragraph>
+<sentence>　この<ruby rubyText="きゃく">脚</ruby><ruby rubyText="ほん">本</ruby>を読んで、みなさんがそれをおしばいして、なにを観客であるみんなにつたえるか、ということは、みなさん自由に考えてくれたらいいわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その場合、もしかしたら<ruby rubyText="ひとり">一人</ruby>のリーダーのさしずで、みんながいっせいに整列することのすばらしさ、美しさをえがいたものだと思われるかもしれませんが、作者はそうではなく、野生で育ったカラスのほうが、そういう<quote>「動き」</quote>をすることのすばらしさを伝えたくて、この<ruby rubyText="きゃく">脚</ruby><ruby rubyText="ほん">本</ruby>を書いたのです。</sentence>
+<sentence>ですから、<ruby rubyText="い">衣</ruby><ruby rubyText="しょう">装</ruby>も、クウのほうはみんな同じで、クロウのほうは、一人一人ちがう<ruby rubyText="い">衣</ruby><ruby rubyText="しょう">装</ruby>をつけたほうがいいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この<ruby rubyText="きゃく">脚</ruby><ruby rubyText="ほん">本</ruby>の動物はカラスになっていますが、上演する人たちみんなで考えて、<ruby rubyText="とう">登</ruby><ruby rubyText="じょう">場</ruby>する動物の種類を変えて、せりふなども自分たちで作ってやってもおもしろいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBfn_00012_F002">
+<titleBlock>
+<sentence>友だちって，何だろう？</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="そっ">即</ruby><ruby rubyText="きょう">興</ruby><ruby rubyText="げき">劇</ruby><ruby rubyText="ふう">風</ruby>に</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">クマが出た</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">作・菅井　建</sentence>
+<br type="automatic_original" />
+</authorsData>
+<list>
+<listItem>
+<sentence type="quasi">上演時間　<ruby rubyText="やく">約</ruby>１０分</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">出演人数　４人</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">あらすじ＝</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ゴンゲン山に山登りにきた<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>と<ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby>は，おじさんに，ゴンゲン山にはクマが出るから，登らないほうがいいといわれます。</sentence>
+<sentence><ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby>は，平気平気といいますが，<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>は，おじさんのことばが気になってしようがありません。</sentence>
+<sentence>クマの話をしながら，山を登る２人でしたが，<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>の心配のとおり，とうとうクマがあらわれてしまいました。</sentence>
+<sentence>大いそぎで木に登る<ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby>。</sentence>
+<sentence>しかたなく死んだふりをする<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">でるもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">クマ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="ぶ">舞</ruby><ruby rubyText="たい">台</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ところは、山道。</sentence>
+<br type="automatic_original" />
+<sentence><ruby rubyText="ぶ">舞</ruby><ruby rubyText="たい">台</ruby>には、木をあらわすキャタツが一つ。</sentence>
+<br type="automatic_original" />
+<sentence><ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby>と<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>が歌を歌いながらやってくる。</sentence>
+<br type="automatic_original" />
+<sentence>反対がわから、おじさんがやってくる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">真一</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　こんにちわ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ああ、こんにちわ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（すれちがってから）あ、おじさん。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（ふり返って）なんだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ゴンゲン山へは、この道を行けばいいんですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ゴンゲン山かね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">真一</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　この道を行けば、ゴンゲン山へ行けるんですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうだよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それみろ、やっぱりこの道だろ。</sentence>
+<sentence type="quasi">（行きかかる）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　おい、ちょっと待て。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　なんですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　礼ぐらい、いったらどうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">真一</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あ、すいません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　どうもありがとうございました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　うん、それでよろしい。</sentence>
+<sentence>わかったな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男・真一</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ハイ。</sentence>
+<sentence type="quasi">（行きかかる）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あ、そうだ、ちょっと待った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence><ruby rubyText="たつ">辰</ruby><ruby rubyText="お">男</ruby>と<ruby rubyText="しん">真</ruby><ruby rubyText="いち">一</ruby>、立ちどまる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　すなおにいうことを聞いたから教えてやるが、最近、ゴンゲン山にはクマが出るそうじゃ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">真一</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　クマ？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">辰男</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　まさか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">おじさん</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いや、ほんとうじゃ。</sentence>
+<sentence>つい二、三日前もすがたを見か<sampling type="end" />けたというからな。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

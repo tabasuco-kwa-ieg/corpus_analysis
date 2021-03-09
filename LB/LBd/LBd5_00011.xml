@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00011" version="1.0" type="fixedLength">
+<article articleID="LBd5_00011_F001">
+<paragraph>
+<sentence>やがて彼らも<quote>「なだれ現象」</quote>だと気づき、論文を軌道修正していく<sampling type="start" />のだが、残念ながら私が先発だったことを主張しようがない。</sentence>
+<sentence>私の書いた論文は、日本文で電気三学会連合大会予稿などに掲載になっただけで、本物は渡辺先生の机の上に眠ったままだったのだから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＡＰＤもｐｉｎフォトダイオードも、出願当初は、光検出用のデバイスとして使うことが念頭にあった。</sentence>
+<sentence>それらが現在の、通信技術の花形である<quote>「光通信」</quote>の受光素子として応用されるようになったのは、もう少し後になってのことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は<quote>「電気」</quote>も<quote>「光」</quote>もひとつの学問対象として考えている。</sentence>
+<sentence>両者を別な学問領域と考える立場もあるが、波長（または周波数）という点に着目した場合、長い波長（低周波）と短い波長（高周波）という違いでしかないからだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般に通信というのは、結局のところ<quote>「波」</quote>に情報を載せて伝送するというものである。</sentence>
+<sentence><quote>「光通信」</quote>が登場する前は、電波を使う電気的な通信手段が主役だった。</sentence>
+<sentence>電波では、周波数が高いほど多くの信号（情報）が載せられる。</sentence>
+<sentence>そのため、周知のように中波から短波、さらにはＶＨＦ、ＵＨＦと、より高い周波数の電波へと通信方法の開発が進んできた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　光は、その延長線上に考えられる“ごく周波数の高い”電磁波なのである。</sentence>
+<sentence>可視光線の周波数はテレビ電波のほぼ百万倍ともいわれているから、光に情報を載せると伝送容量が<ruby rubyText="けた">桁</ruby><ruby rubyText="ちが">違</ruby>いに増えるというわけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　東北大学電気工学科には、八木秀次先生以来<quote>「周波数は財産だ」</quote>と考える伝統があり、学生時代にそういう話をしばしば聞かされたことがある。</sentence>
+<sentence>ちなみに、この言葉を初めて使われたのは、松前重義東海大学総長（東北大電気工学科ＯＢ）であった。</sentence>
+<sentence>新しい波、すなわち高周波数の分野を開拓すれば、それは“財産”になるというわけだ。</sentence>
+<sentence>そうしたところに、東北大学ならではの先見性を感じる。</sentence>
+<sentence>電気通信研究所が設置されていたのも、その現れである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高周波領域にしぼって研究をしていこうという<ruby rubyText="ふん">雰</ruby><ruby rubyText="い">囲</ruby><ruby rubyText="き">気</ruby>のなかで、私の関心も次第に<quote>「光」</quote>に移行していったが、具体的に<quote>「光通信」</quote>なるものを想定するようになったのは、半導体レーザを思いついたときからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">無念の一時中断</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電通研に身を置いて、電磁波関連の論文をあれこれ読んでいた昭和三〇年（一九五五）前後のことである。</sentence>
+<sentence>アメリカのタウンズらが、分子の分離というラビの考えた方法を利用して、分子線メーザを考えついたということ、あるいはメイマンがルビーによって固体メーザを実現したという記述などが目に入ってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それらの論文をむさぼり読み、授業中に学生たちに紹介しながら、ふとあることが私の頭に浮かんだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ルビーメーザというのは、磁場を与えた瞬間だけ増幅や発振ができるというものだ。</sentence>
+<sentence>分子線<sampling type="end" />メーザは、真空ポンプなど大げさな装置を使わなければならない。</sentence>
+</paragraph>
+</article>
+</sample>

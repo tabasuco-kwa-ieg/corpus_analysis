@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00011" version="1.0" type="fixedLength">
+<article articleID="LBn5_00011_F001">
+<sentence>というようにｐｎ接合を流れる電流を<sampling type="start" />表すことができます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図Ａ３．１　電子親和力差のない広バンドギャップｎ型半導体と狭バンドギャップｐ型半導体との接合を流れる電流。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<info arg="sample_type" value="beginning" />
+<titleBlock>
+<title>
+<sentence type="quasi">第１章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">超高周波エレクトロニクスが支えるマルチメディアシステム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　地上および衛星携帯電話など各種無線通信システムや，光ファイバー通信で代表される有線通信システムは，情報化社会の基盤として極めて重要なものであることはあらためて言うまでもありませんが，超高周波エレクトロニクスはこれらの社会基盤を支える根幹の技術です。</sentence>
+<sentence>また，超高周波エレクトロニクスは通信・放送さらにはレーダーといった無線や光の技術分野だけでなく，コンピュータや交換機などの分野で，信号処理ＬＳＩやメモリＬＳＩの動作を高速化する場合や，これらのＬＳＩを性能を落とさずに実装する場合に必須な技術です。</sentence>
+<sentence>しかしながら，これらの技術は大規模なシステムや装置の背後にまわってしまい，一般には見えにくくなっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本章では，超高周波部品の重要性や，特徴的使われ方を認識しやすい，衛星携帯電話システム，自動車レーダーシステム，波長多重光通信システムを例にとり，超高周波エレクトロニクスとこれらのシステムとの関係を説明し，第２章以降で述べる超高周波部品設計法の導入部とします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">１．１　無線通信システムと超高周波部品</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　無線通信システムの概要を知るための一例として地上高度ｈが８００〜１，５００ｋｍの低軌道（ＬＥＯ：Ｌｏｗ　Ｅａｒｔｈ　Ｏｒｂｉｔ）周回衛星を用いた携帯電話システムの概念図を図１．１に示します。</sentence>
+<sentence>この高度の衛星は１００〜１２０分で地球を１周します。</sentence>
+<sentence type="quasi">このとき衛星は遠心力と万有引力とが釣り合う速度υで地球を周回し，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>で表される関係を満足します。</sentence>
+<sentence>（１．１）式においてｍは衛星の質量，Ｍは地球の質量（５．９８×１０<superScript>２４</superScript>ｋｇ），Ｇは万有引力定数（６．６７×１０<superScript>−１１</superScript>Ｎｍ<superScript>２</superScript>／ｋｇ<superScript>２</superScript>），ｒは地球の半径（６，３８０ｋｍ）を表します。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ここで，地上高度ｈを１，１００ｋｍとすると（１．１）式より衛星速度υは約２６，０００ｋｍ／時と非常に高速になりますが，同一軌道上を周回する複数の衛星はちょうど，遊園地のメリーゴーラウンドの木馬と同様に，各衛星からほかの衛星は常に静止して見えます。</sentence>
+<sentence>このため衛星間の通信リンクはレーザ光やミリ波など指向性の鋭い通信手段によっても十分に実現できます。</sentence>
+<sentence>各衛星に地上に向けた広角（〜１２０°）のマルチビームフェイズドアレイアンテナを備えると，直径φ＝４，０００ｋｍ程度の地域を１つの衛星がカバーできることになります。</sentence>
+<sentence type="quasi">このため全世界をカバーするグローバル通信システムを構築するの<sampling type="end" />に必要な衛星の個数Ｎは，</sentence>
+</paragraph>
+</article>
+</sample>

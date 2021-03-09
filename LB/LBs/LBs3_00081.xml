@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00081" version="1.0" type="fixedLength">
+<article articleID="LBs3_00081_F001">
+<paragraph>
+<sentence>　損益計算書<sampling type="start" />は、事業所得者の１年間の儲けを表わす大切な決算書です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　事業所得と不動産所得の両方を営む人の場合には、損益計算書は事業の種類ごとに個別に作成しますが、貸借対照表は両方の事業での資産と負債を合算します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現金主義会計による青色申告者を除き、収入及び必要経費は発生主義により集計し、決算書に計上することが原則となっています。</sentence>
+<sentence>そのため、売上については、未収分と前受分の決算整理、必要経費については、未払費用及び前払費用についての決算整理が欠かせません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　損益計算書の各項目のうち内訳記載が必要な科目は、補助簿などを活用して、スムーズに記載できるように準備しておきましょう。</sentence>
+<sentence>内訳書に記載する内容は、貸借対照表とも連動していますので、転記が正しくなされているか、数値に誤りがないかを相互確認する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　損益計算書の青色申告特別控除前の所得金額は、貸借対照表にも同額が計上されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　月別売上金額及び仕入金額には、原則として毎月の収入金額と仕入金額を発生主義にて記入します。</sentence>
+<sentence>ただし売上及び仕入について、月の途中で請求書を締め切っている場合は、簡便的に２月から１１月は合計請求書に基づき記帳し、１月と１２月のみ帳端を調整しても構いません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば毎月２０日で締め切っている場合には、１月分については１日〜２０日の売上と仕入の発生分を追加計上し、１２月分は２１日〜月末の売上と仕入の発生分を追加計上します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲損益計算書の作成<enclosedCharacter description="○">１</enclosedCharacter>　事業所得者</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１１　損益計算書の作成<enclosedCharacter description="○">２</enclosedCharacter>　不動産所得者</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">不動産所得者の損益計算書では独特の言葉が使われています</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　不動産所得者の損益計算書の賃貸料の欄には、不動産の貸付けから得た収入金額を記載します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　礼金・権利金・更新料の欄は、その年の収入として確定した金額を記載します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　必要経費とは、不動産所得を得るために直接要した諸経費の額ですので、事業所得も同時に営んでいる人は、区分経理をしておく必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　収入金額については、貸地または貸家の区別、所在地、賃借人の氏名と住所、賃貸契約期間、貸付面積、本年中の収入金額、年末時点の預かり保証金残高などを内訳として記載します。</sentence>
+<sentence>期末の保証金・敷金の額は、貸借対照表において負債計上している金額と一致します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　収入の内訳書に記載された物件の数や収入金額の多寡によって、不動産の貸付が事業的規模により営まれているかどうか判断されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　事業的規模でない場合には、専従者給与の支給は認められませんし、青色申告特別控除の額は１０万円のみとなります。</sentence>
+<sentence>ただし、不動産所得と事業所得の両方を営む人については<sampling type="end" />、６５万円の青色申告特別控除を、まず不動産所得の金額から控除し、なお残額があれば事業所得の金額から控除します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd4_00021" version="1.0" type="fixedLength">
+<article articleID="LBd4_00021_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）　トランスフォー<sampling type="start" />ム断層―その直交性</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　幾何学的にいえば，海底拡大の方向（つまりトランスフォーム断層の方向）は海嶺と直交する必要はない．</sentence>
+<sentence>事実，ＦＡＭＯＵＳ計画（Ｆｒｅｎｃｈ‐Ａｍｅｒｉｃａｎ　Ｍｉｄ‐Ｏｃｅａｎ　Ｕｎｄｅｒｓｅａ　Ｓｔｕｄｙ）によるＭＡＲ調査によれば，３６°〜３８°Ｎでは，拡大軸と拡大方向は約１７°斜交している．</sentence>
+<sentence>しかし，プレート運動が急変したと思われる場合には，新しい拡大方向と直交するように拡大軸の方向の調節がおこるらしいことも知られている（Ｍｅｎａｒｄ　ａｎｄ　Ａｔｗａｔｅｒ，１９６８；１９６９）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もし，拡大軸・トランスフォーム断層系のパターンが最小エネルギー消費の原理で規定されているものなら，図６．２から明らかなように一定のｂに対して，直交の場合は海嶺の長さが最小，トランスフォーム断層の長さが最大なのだから，“直交したがる”ということは，海嶺の方が断層より大きなエネルギー消費者であるということになる．</sentence>
+<sentence>これは直観的にはあたり前には見えない．</sentence>
+<sentence>拡大軸には積極的な原動力があるように思われ，トランスフォーム断層では地震活動からみてもプレート運動に対する抵抗力が働くように見えるからである．</sentence>
+<sentence>Ｌａｃｈｅｎｂｒｕｃｈ　ａｎｄ　Ｔｈｏｍｐｓｏｎ（１９７２）は，トランスフォーム断層や拡大軸でのエネルギー散逸機構を検討した．</sentence>
+<sentence>前者を冪乗則（ｐｏｗｅｒ　ｌａｗ（§５．５（ｂ）））にしたがう水平ずれによるエネルギー消費，後者を狭いすきまをおなじく冪乗則にしたがうアセノスフェア物質が上昇するときのエネルギー消費として計算し，比較したのである．</sentence>
+<sentence>当然期待されることだが，断層での抵抗の働く有効厚さに比べて，アセノスフェア物質の上昇するすきまの幅が小さく，その上昇距離が長いときには海嶺でのエネルギー消費の方が大きくなり，直交性が要求される．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｏｌｄｅｎｂｕｒｇ　ａｎｄ　Ｂｒｕｎｅ（１９７２）はワックスによるモデル実験によって直交する海嶺‐トランスフォーム系を実現したが，Ｏｌｄｅｎｂｕｒｇ　ａｎｄ　Ｂｒｕｎｅ（１９７５）では，種々のワックスを用いた実験により，直交パターンが生れるのは，海嶺のエネルギー消費には関係せず，一つの無次元量（Ｇ≡固相パラフィンの破壊強度／トランスフォーム断層に沿う抵抗応力）が１より大きい場合であると結論した．</sentence>
+<sentence>Ｇ＜１では破壊がおきてしまい，安定な直交パターンが維持されないというのである．</sentence>
+<sentence>この結論は前述のＬａｃｈｅｎｂｒｕｃｈ‐Ｔｈｏｍｐｓｏｎ流の考えとは相容れないのだが，論争の結着はついていないようである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図６．２　海嶺Ｒとトランスフォーム断層Ｆの長さと斜交性の関係．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｃ）　拡<sampling type="end" />大軸での火成活動</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

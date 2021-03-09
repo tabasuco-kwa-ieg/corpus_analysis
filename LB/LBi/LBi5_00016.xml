@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi5_00016" version="1.0" type="fixedLength">
+<article articleID="LBi5_00016_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">遮音や延焼防止のた<sampling type="start" />めの壁</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　長屋や共同住宅，病院，ホテルなどは，長期，短期にかかわらず，そこに人が住み，管理主体が異なるため，火災時などに混乱するおそれがあります。</sentence>
+<sentence>また隣戸の騒音が生活を乱す場合などもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　小屋組が木造の建築物は火災の際の伝搬速度が速く，それを防止することも大切です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４．１　共同住宅などの仕切り</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　長屋・共同住宅などの隣戸との境界になる壁を界壁と呼び，建築基準法では界壁に所定の遮音性能と防火性能を規定し，その性能を損なうことがないように，施工に当たっては小屋裏または天井裏まで達せしめて，音の漏洩や火災の延焼がないように規定しています（法第３０条の２，令第２２条の２，令第１０８条の２，令第１１４条１項）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　令第２２条の２，１，２項で指定された遮音構造は図４．１のようになっており，表４．２の遮音性能評価に基づく遮音構造は図４．２のようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　令第１１４条１項には長屋・共同住宅の界壁を延焼防止のために，遮音壁と同様の構造で造ることを規定しており，図４．１，図４．２は耐火構造または防火構造に該当します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　建築基準法での遮音は現状では空気伝搬の場合のみが対象となっており，上階からの足音など固体音については触れられていませんが，現実にはそれらの音が問題となっており，ＪＩＳでは図４．３のような床の遮音等級なども規定されています。</sentence>
+<sentence>図の左上は遮音上好ましい状態で，右下にいくほど性能が低下します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，都安例第１１条の４には，次の建築物の居室相互間に遮音構造の間仕切壁を設置することを規定しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（１）寄宿舎，下宿</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）ホテル，旅館，簡易宿泊所</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また，建築物の一部に車庫を設ける場合は車庫とその他の部分に耐火構造または防火構造の界壁を設け，開口部に防火戸をつける，という規定もあります（都安例第３０条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４．１　界壁・隔壁・間仕切壁</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．１　界壁の遮音構造（令第２２条の２，１〜３項，令第１０８条２号）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４．２　遮音性能評価のための透過損失（令第２２条の２，２項３号）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．２　建設省告示による界壁の遮音構造（昭４５建告第１８２７号）</sentence>
+<br type="automatic_original" />
+<sentence>（注）仕上げは両面に施工する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．３　床構造の遮音等級による分類</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４．４　界壁（法第３０条の２，令第２２条の２，令第１１４条１項）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４．２　木造小屋裏の延焼防止</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　木造建築物は火災の延焼速度が速く，特に小屋裏は延焼速度が大きいので，ある規模以上の木造建築物について小屋裏の防火区画を規定したものが隔壁です。</sentence>
+<sentence type="quasi">構造は耐火構造または両面防火構造とし，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）建築面積が３００ｍ<superScript>２</superScript>を超える建築物は，けた行１２ｍ以内ごとに隔壁を設ける（令第１１４条３項）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（２）延べ面積がそれぞれ２００ｍ<superScript>２</superScript>を超え<sampling type="end" />る建築物（耐火建築物以外のもの）を，小屋組が木造の渡廊下で連絡するとき，廊下の長さが４ｍを超えるときは小屋裏に隔壁を設ける（片方め建築物が２００ｍ<superScript>２</superScript>以下の場合は対象にならない）（令第１１４条４項）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

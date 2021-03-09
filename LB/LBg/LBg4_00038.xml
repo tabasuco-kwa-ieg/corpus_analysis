@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00038" version="1.0" type="fixedLength">
+<article articleID="LBg4_00038_F001">
+<sentence>この図は３種類のうつ病の原因の大まかな傾向を示したも<sampling type="start" />の．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">５　代表的な心身症</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">６　神経症のおもな種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１．不安神経症</sentence>
+<br type="automatic_original" />
+<sentence>理由もなく漠然とした不安に襲われたり，人前でしゃべることが不安でどきどきして落ち着かない，など．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２．心気症</sentence>
+<br type="automatic_original" />
+<sentence>実際にはわるくないのに，胃，腸，心臓，頭などに病気があるのではないかと，たえず心配する．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３．強迫症</sentence>
+<br type="automatic_original" />
+<sentence>ガス栓や水道栓の閉め忘れや，戸締まり，消灯などを気にして，何度もしつっこく確認する．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４．パニック</sentence>
+<br type="automatic_original" />
+<sentence>恐怖の発作に見舞われ，めまい，<ruby rubyText="どう">動</ruby><ruby rubyText="き">悸</ruby>，窒息感などが現れる．</sentence>
+<sentence>エレベーターのなかなど狭い空間でおこる．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５．恐怖症</sentence>
+<br type="automatic_original" />
+<sentence>手の汚れを気にして何度も手を洗う，顔が赤くなるのではないかと気にして，人前に出られない，など．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+<article articleID="LBg4_00038_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">顔面神経麻痺</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ｆａｃｉａｌ　ｐａｌｓｙ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">●関連のある病気</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">中耳炎→３０ページ　耳下腺腫瘍→４２ページ　帯状疱疹→１４２ページ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence><ruby rubyText="がん">顔</ruby><ruby rubyText="めん">面</ruby><ruby rubyText="しん">神</ruby><ruby rubyText="けい">経</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="ひ">痺</ruby>は顔の表情が出せなくなる病気である．</sentence>
+<sentence>眼や口を動かす筋肉に行く神経が<ruby rubyText="ま">麻</ruby><ruby rubyText="ひ">痺</ruby>し，うまく働かなくなるためにおこる．</sentence>
+<sentence>病気になった側の筋肉が収縮せず，ゆるんでしまう．</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">［種類と原因］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　大きく<ruby rubyText="まっ">末</ruby><ruby rubyText="しょう">梢</ruby><ruby rubyText="せい">性</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="ひ">痺</ruby>と中枢性麻痺に分けられる．</sentence>
+<sentence>前者は顔面神経が通っている<ruby rubyText="ない">内</ruby><ruby rubyText="じ">耳</ruby><ruby rubyText="どう">道</ruby>よりも末梢の神経の障害によっておこる．</sentence>
+<sentence>後者は脳の中枢神経の障害によるが，ごくまれである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　末梢性麻痺のうちもっとも多いのはベル麻痺で，約６０％を占める．</sentence>
+<sentence>原因はウイルス説が有力だが，まだよくわからない．</sentence>
+<sentence>ついで約２０％が<ruby rubyText="たい">帯</ruby><ruby rubyText="じょう">状</ruby><ruby rubyText="ほう">疱</ruby><ruby rubyText="しん">疹</ruby>ウイルスによるハント麻痺．</sentence>
+<sentence>１５％が交通事故などによる外傷性麻痺．</sentence>
+<sentence>その他，先天性の奇形による先天性麻痺，<ruby rubyText="じ">耳</ruby><ruby rubyText="しゅ">腫</ruby><ruby rubyText="よう">瘍</ruby>や<ruby rubyText="ちょう">聴</ruby><ruby rubyText="しん">神</ruby><ruby rubyText="けい">経</ruby><ruby rubyText="しゅ">腫</ruby><ruby rubyText="よう">瘍</ruby>などによる<ruby rubyText="しゅ">腫</ruby><ruby rubyText="よう">瘍</ruby><ruby rubyText="せい">性</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="ひ">痺</ruby>，<ruby rubyText="ちゅう">中</ruby><ruby rubyText="じ">耳</ruby><ruby rubyText="えん">炎</ruby><ruby rubyText="せい">性</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="ひ">痺</ruby>などがある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［特徴］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ベル麻痺は，男女差はなく，男性は３０歳代，女性は２０歳代と５０歳代によく発生する．</sentence>
+<sentence>季節には関係がない．</sentence>
+<sentence>症状が出てから，３〜１２ヵ月以内に８０％は自然に治癒する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ハント麻痺は中高年者に多く，治癒率は５０〜６０％とベル麻痺よりも低い．</sentence>
+<sentence>最近，このウイルスに有効な薬が開発された．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　外傷性麻痺は，受傷直後におこるものは放置すると治癒率が低いが，１日以上たっておこるものは治癒率が高い．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　急性中耳炎によるものは小児に多く，中耳炎を治療すればよく治る．</sentence>
+<sentence>慢性中耳炎によるものは，ほとんどが<ruby rubyText="しん">真</ruby><ruby rubyText="じゅ">珠</ruby><ruby rubyText="しゅ">腫</ruby><ruby rubyText="せい">性</ruby><ruby rubyText="ちゅう">中</ruby><ruby rubyText="じ">耳</ruby><ruby rubyText="えん">炎</ruby>で，手術が必要である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［症状］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ベル麻痺では，突然にあるいは朝おきてみると顔が曲がっていたり，眼がふさがらない，口の端から食物がこぼれるなどの症状が現れ，気づくことが多い．</sentence>
+<sentence>耳の後ろが痛んだり，味覚低下，一方の耳の聴覚過敏が現れることもある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ハント麻痺では，麻痺の前に頭痛や耳痛があり，麻痺に前後して<ruby rubyText="じ">耳</ruby><ruby rubyText="かい">介</ruby>や<ruby rubyText="がい">外</ruby><ruby rubyText="じ">耳</ruby><ruby rubyText="どう">道</ruby>に<ruby rubyText="すい">水</ruby><ruby rubyText="ほう">疱</ruby>が発生する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">［注意］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ベル麻痺とハント麻痺では治療方針が異なるので，なるべく早く専<sampling type="end" />門医を訪れる．</sentence>
+</paragraph>
+</article>
+</sample>

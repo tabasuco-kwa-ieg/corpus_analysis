@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj7_00052" version="1.0" type="fixedLength">
+<article articleID="LBj7_00052_F001">
+<list>
+<listItem>
+<sentence type="quasi">２１　タオル　二本以上を用意し、水張りや水分を取る<sampling type="start" />のに使う</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２２　タワシ　石塔面を洗う</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２３　水筒　プラスチック製の密封容器でもよく、水を入れておく</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２４　古新聞　できあがった拓本をはさんでおく。</sentence>
+<sentence type="quasi">拓本枚数に応じて余裕のある枚数を用意する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２５　セロテープ　画仙紙を固定する</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>などを準備する。</sentence>
+<sentence>拓本に必要なものは、拓本をとる人によって違いがあるから、やりよい方法と用具を用意すればよい。</sentence>
+<sentence>なお拓本のとり方については、小沢国平著『板碑入門』（隣人社）や高橋昌博著『拓本入門』（綜芸舎）前田次郎著『拓本の技法』を参照されたい。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　計画も立ち、調査カードも作り、調査に必要な用具もそろったならば調査に出かけよう。</sentence>
+<sentence>目的地に着いたら調査にかかるわけだが、実際には計画どおりに運ばないこともある。</sentence>
+<sentence>調査計画はあくまでも予定であるから、目的地で得られた情報によって時には計画を変更しなければならない。</sentence>
+<sentence>さて調査開始、石仏を見つけた。</sentence>
+<sentence>どのように調査したらよいのか、順を追って説明しよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>ブラシや竹ベラを使って塔に付いている泥や草・苔を取り除きホウキでそれらをよく払って石仏を調べやすい状態にする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>掃除がすんだら石仏をよく観察して特長をつかむ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>調査カードに石仏のスケッチをして、刻像や銘文の位置を明らかにし、調査カードの各項目に記入していく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>石仏の高さ・幅・厚さなどを測る。</sentence>
+<sentence>必要のある場合には、刻像などの高さや幅なども測っておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>石仏の正面（縦位置）と石仏の周囲がわかる中景（横位置）の写真を撮る。</sentence>
+<sentence>その他、主尊や銘文など必要に応じて部分写しをしておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>干支表（年代表）と対照して年号や干支などの読み違いや記録違いがないか確かめる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">７</enclosedCharacter>わからないところやあやふやな点は再検討する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　だいたい以上の順に調査を進めるが、夕方などで光線の状態によっては<enclosedCharacter description="○">６</enclosedCharacter>を先行させて<enclosedCharacter description="○">１</enclosedCharacter>の次に行なうこともあるし、自分のやりよい順序に組み変えることも必要である。</sentence>
+<sentence>石仏を調査していると、地元の人が集まってきたり、通りがかりの人が話しかけたりする。</sentence>
+<sentence type="quasi">そうした時には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>イ　地元ではその石仏をなんと呼んでいるのか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ロ　もとから石仏がここにあったかどうか。</sentence>
+<sentence>移動したものならば旧位置はどこか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ハ　この石仏についての言い伝えはないか。</sentence>
+<sentence>あるならばどのような言い伝えか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ニ　この石仏に願をかけるかどうか。</sentence>
+<sentence>かけるとすれば何の願か。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ホ　この石仏に何を奉納するか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ヘ　奉納する場合は、何のため（目的）、いつ（時期）奉納するのか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ト　この石仏の管理者は誰か。</sentence>
+<sentence>また、どのように管理しているか。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>チ　この石仏のためにお祭りなどの特別な行事を行なうのか。</sentence>
+<sentence>行なうなら、いつ、どのようなものであるのか。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>なども聞いてメモしておく。</sentence>
+<sentence>また石仏に詳しい人<sampling type="end" />を紹介してもらったり、近くにある石仏の所在地などを教えてもらうとよい。</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

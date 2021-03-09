@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00011" version="1.0" type="fixedLength">
+<article articleID="LBq4_00011_F001">
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>公準五　一本の直線が他の二直線とまじわっている同じ側にある内角の和が二直角より小<sampling type="start" />さい場合には、これらの二直線をかぎりなく延長すれば、内角の和が二直角よりも小さい側でまじわる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<paragraph>
+<sentence type="quasi">　この第五の公準は、ジョン・プレイフェア（一七四八〜一八一九）によって</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>公準五　一直線外の一点を通ってこれに平行な直線は一本あって一本に限る。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<sentence>というようにいい直されている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ユークリッドの五つの公準の中の最初の四つはいかにもわかりやすく、それだけその正しさが確信できる。</sentence>
+<sentence>しかし<quote>「平行線の公準」</quote>とよばれる第五の公準は、これらとはその性格がちがうようにみえ、他の四つの公準や公理を使ってこれを証明できるようにもみえる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユークリッド自身もそのことに気づいていたようである。</sentence>
+<sentence>彼の『原論』の第一巻には、定義、公理、公準につづいて四八の命題がかかげられている。</sentence>
+<sentence>これまでに説明した定義、公理、公準にもとづいて、これらの命題を次々に証明しているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところでくわしく調べてみればわかるように、四八の命題中の最初の二八の命題はいずれも第五の公準を必要としないものばかりである。</sentence>
+<sentence>この公準が証明される日にそなえて、ユークリッドは四八の命題を配列したのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第五公準と非ユークリッド幾何学</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ユークリッド以後二〇〇〇年余りにわたって多くの人が努力したにもかかわらず、第五公準の証明はできなかった。</sentence>
+<sentence>ついにロシアの数学者ニコライ・ロバチェフスキー（一七九二〜一八五六）が、一八二九年にこの問題の新たな見方を提案した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大胆にも彼はこの公準が証明できるかどうかは問題にせず、そもそもそれが必要であるかどうかを問題にした。</sentence>
+<sentence>この公準がなくても幾何学が成立するのではないかと考えたのである。</sentence>
+<sentence>もちろんこのようにして成立する幾何学はユークリッド幾何学とはちがったものであり、<quote>「非ユークリッド幾何学」</quote>とよんでよいものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユークリッドの第五公準のかわりに、彼は<quote>「あたえられた直線の上にない点を通って、その直線に平行な直線が少なくとも二本引ける」</quote>という公準を立ててみた。</sentence>
+<sentence>この場合に、ユークリッドのほかの公理や公準はそのままとする。</sentence>
+<sentence>このようにしてロバチェフスキーが組み立てた非ユークリッド幾何学には<ruby rubyText="む">矛</ruby><ruby rubyText="じゅん">盾</ruby>がなかった。</sentence>
+<sentence>ただし彼の非ユークリッド幾何学では、<quote>「三角形の内角の和は一八〇度よりも小さくなる」</quote>といった、ユークリッド幾何学から考えると奇妙な結果が得られる。</sentence>
+<sentence>しかしそれはそれで無矛盾なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じような発見がほとんど同時になされることが多い。</sentence>
+<sentence>非ユークリッド幾何学の場合にも、ハンガリーの数学者ヤノス・ボヤイ（一八〇二〜一八六〇）がロバチェフスキーと同様な結論に達した。</sentence>
+<sentence>父のボヤイは、有名なドイツ<sampling type="end" />の数学者フリードリヒ・ガウス（一七七七〜一八五五）の友人であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

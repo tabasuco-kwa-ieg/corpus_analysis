@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe5_00008" version="1.0" type="fixedLength">
+<article articleID="LBe5_00008_F001">
+<sentence>花ワサビはさ<sampling type="start" />っと熱湯をくぐらせ、材料Ａの液に漬けて２時間ほどおきます。</sentence>
+<sentence type="quasi">適宜に切ります</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi">カタクリの花は塩水でさっとゆで、冷水に放ち、さらにしぼって水気を取り、３ｃｍほどの長さに切ります</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>がすっかり煮えたら味をととのえ、塩抜きしたサクラの花を細切りにして２／３を全体に散らし、残りは薬味皿へつけます</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi">カタクリの花、花ワサビ、サクラの花を薬味皿につけて卓上へ…</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">パン</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">フラワーブレッド三種</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●花のパン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　鮮やかな色、甘い香り、今まで一度も味わったことのない美味しさ、これがフラワーブレッドです。</sentence>
+<sentence><quote>「あらっ、やさしい美味しさ」</quote>、きっとあなたをびっくりさせるフラワーブレッ<correction originalText="ト" type="erratum">ド</correction>。</sentence>
+<sentence>食欲増進と薬用効果も見逃せない、個性豊かな味は甘さを味わう、しまった風味を生かすなど、ビビットな味わいです。</sentence>
+<sentence>思い切って新しい味にチャレンジしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●アドバイス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　フラワーティーを基本に作りますが、ラベンダー、ミント、ポットマリーゴールドなど、そのままこさずに焼き込むこともできます。</sentence>
+<sentence>さらにベースは、エストラゴンのグリーンとローズの花びらを焼き込むなど、よいパートナーを合わせて新しい風味をどうぞ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●パンに適した花</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ローズ、サフラン、ポットマリーゴールド、フェンネル、ローズマリー、タイム、ミント、ラベンダー、ディル、バジル、サフラワー、カモミール、ダンディライオン。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">カモミールのパン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">☆材料（４人前）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ａ</enclosedCharacter>　強力粉　５００ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｂ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">カモミール　１０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">牛乳　３００ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｃ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">塩　７ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖　３０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｄ</enclosedCharacter>　バター　６０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｅ</enclosedCharacter>　イースト　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">作り方は１３０頁</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ハイビスカスパン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">☆材料（４〜５人前）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ａ</enclosedCharacter>　強力粉　５００ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｂ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ハイビスカス（ドライ）　１０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">水　２８０ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｃ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">塩　７ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖　３０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">粉ミルク　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｄ</enclosedCharacter>　バター　６０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｅ</enclosedCharacter>　イースト　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">ハイビスカスパン、エストラゴンのパンとも作り方は同じで、１３０〜１３１頁のようです</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">エストラゴンのパン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">☆材料（４〜５人前）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ａ</enclosedCharacter>　強力粉　５００ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｂ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">エストラゴン（フレッシュ）　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">水　２５０ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｃ</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">塩　７ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖　３０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">粉ミルク　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｄ</enclosedCharacter>　バター　６０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">Ｅ</enclosedCharacter>　イースト　２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence><enclosedCharacter description="○">Ｂ</enclosedCharacter>を煮出し、網でこします。</sentence>
+<sentence type="quasi">ただし、エストラゴンパンの場合は、<enclosedCharacter description="○">Ｂ</enclosedCharacter>を混ぜて、<enclosedCharacter description="○">Ａ</enclosedCharacter>に入れます</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>を冷まして、<enclosedCharacter description="○">Ｅ</enclosedCharacter>を入れましょう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi"><enclosedCharacter description="○">Ａ</enclosedCharacter>に<enclosedCharacter description="○">Ｃ</enclosedCharacter><enclosedCharacter description="○">Ｄ</enclosedCharacter>を入れ、さらに<enclosedCharacter description="○">２</enclosedCharacter>を入れます</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi">よくたたきながら混ぜます</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<sentence type="quasi">型に入れて、２００ｃｃのオーブンで２０分焼きます</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">マリネ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">シーフードマリネフラワー風味</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●花の風味のマリネ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ほどよい酸味と、しっかりとした味、加えて美しさが花のマリネです。</sentence>
+<sentence>火を入れないということで、たくさんの花がこの料理に利用できます。</sentence>
+<sentence>取り合わせる花と、シーフードなどの組み合わせを考えてレシピを作ります。</sentence>
+<sentence>ひんやりとした喉ごしのマリネは、サ<sampling type="end" />ラダ界の王者です。</sentence>
+</paragraph>
+</article>
+</sample>

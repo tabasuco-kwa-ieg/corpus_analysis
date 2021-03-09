@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00007" version="1.0" type="fixedLength">
+<article articleID="LBo3_00007_F001">
+<paragraph>
+<sentence>　つまり遺産分割とは別個に扱うのであるが、誰が承継するかの基準は、<enclosedCharacter description="○">１</enclosedCharacter>遺言があれば遺言に従う、<enclosedCharacter description="○">２</enclosedCharacter>なければ慣習に依<sampling type="start" />る、<enclosedCharacter description="○">３</enclosedCharacter>慣習が不明ならば家庭裁判所で定める、となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今どき、慣習などほとんどないと言ってもよいので、遺言がない限りは家庭裁判所で決めざるを得ない。</sentence>
+<sentence>それを思うと、死後どこの墓に入り、誰に祀ってもらいたいかは、自分で決めて遺言しておくに限る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１０　相続人不存在</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　相続人がいない場合、あるいはいても全員が放棄してしまった場合、遺産は最終的に国の物になる（民法第九五九条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　無論、ただちに国の物になるのではなく、いったんは会社の解散か破産の手続きのように扱って、相続財産管理人を置き、管理人が相続人を探したり、債権者がいればその債権者に弁済をしたりして清算手続きをおこなう（民法第九五一条ないし第九五八条）。</sentence>
+<sentence>その後に余った財産があれば、国庫に帰属する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　国庫に帰属する一歩手前で、<quote>「特別縁故者への財産分与」</quote>がおこなわれることがある。</sentence>
+<sentence>条文をみてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　第九五八条の三<enclosedCharacter description="○">１</enclosedCharacter>　（前略）相当と認めるときは、家庭裁判所は、被相続人と生計を同じくしていた者、被相続人の療養看護に努めた者その他被相続人と特別の縁故があつた者の請求によつて、これらの者に、清算後残存すべき相続財産の全部又は一部を与えることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　前項の請求は、第九百五十八条（相続人捜索の公告）の期間の満了後三箇月以内に、これをしなければならない。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　たとえば、内縁（事実婚）の妻などがその典型である。</sentence>
+<sentence>そのほかにも、被相続人が長年経営していた学校法人に数十億円にのぼる分与を認めた例や、被相続人に対し、生前生活保護を実施し、死後葬祭をおこなった市に、遺産の全額を分与した例などがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１１　もしも相続権が侵害されたら</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば、子どもが三人いて全員が相続人であるのに、亡父と同居していた長男が遺産を独り占めにし、預金などおろして使ってしまっている、というときに、他の二人の子どもたちはどうすればいいのか。</sentence>
+<sentence>その場合、遺産分割調停を起こし、その調停の過程で自己の相続分を主張することができる。</sentence>
+<sentence>場合によっては、調停前の保全処分（家事審判法第一三三条）とか、審判前の保全処分（家事審判法第一五条の三）で、遺産の処分を勝手におこなわないように、という審判を求めることもできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、相続人ではない人が相続人のような顔をして遺産を占有しているというような場合（たとえば一人暮らしの老人の世話をしていた人が家族になりすまして家に住み込み、預金などおろして生活している場合）は、相続人は相続回復請求権を行使して、立退き請求や遺産の引渡し請求をすることができる（民法第八八四条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ、そうした事実を知って五年間権利を行使しなければ、時効で権利は消<sampling type="end" />滅する。</sentence>
+</paragraph>
+</article>
+</sample>

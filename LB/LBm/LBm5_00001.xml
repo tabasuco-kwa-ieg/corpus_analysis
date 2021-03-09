@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00001" version="1.0" type="fixedLength">
+<article articleID="LBm5_00001_F001">
+<paragraph>
+<sentence>フロッピーディスクと<sampling type="start" />同じように使うなら，高い転送レートは求められないが，当初はオーディオＭＤが立ち上がっておらず，フロッピードライブのような低価格化は不可能。</sentence>
+<sentence>その間にハードディスクやＭＯはどんどん低価格し，普及してしまった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＭＤデータはコンピュータデータを含めたデジタルデータを記録するメディアだが，オーディオで独自の地位を築いたように，データ記録用としても独自の地位があるはず。</sentence>
+<sentence>用途提案，アプリケーションの提示を求められたのである。</sentence>
+<sentence>ＭＤデータの製品としては最初コンピュータデータのバックアップ機を作ったが，コンピュータの世界では価格だけでなく，転送レート，アクセススピードなどが要求される。</sentence>
+<sentence>そこで大容量のＭＤならではの新たな用途提案をした。</sentence>
+<sentence>それが後で説明するピクチャーＭＤだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３．ＭＤデータは専用ディスク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＭＤデータのディスクはオーディオ用のレコーダブルＭＤとほとんど同じだ。</sentence>
+<sentence>だが，オーディオ用ＭＤをＭＤデータ用に使うことはできない。</sentence>
+<sentence>ディスクはオーディオ用とデータ用ではっきり分けられている。</sentence>
+<sentence>オーディオ用ＭＤをＭＤデータ用として使えないし，ＭＤデータ用もオーディオ用に使うことはできない。</sentence>
+<sentence>システム的に間違って使えないようになっているだけでなく，カートリッジの形状も変えられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その理由はオーディオとデータで同じディスクが使えるようにすると，トラブルが発生する可能性があるからだ。</sentence>
+<sentence>それを学んだのはＣＤ‐ＲＯＭ。</sentence>
+<sentence>ＣＤ‐ＲＯＭとＣＤ‐ＤＡは同じ形をしている。</sentence>
+<sentence>間違ってオーディオ用ＣＤプレーヤーでＣＤ‐ＲＯＭを再生した場合，アンプの音量を上げていると大きなノイズがでてスピーカーを壊す恐れがある。</sentence>
+<sentence>ＣＤ‐ＲＯＭには必ず，その注意書きがついているはずだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＭＤで同じ轍を踏まないように，まずカートリッジの形を変えた。</sentence>
+<sentence>コーナーのひとつがカットされ，ＭＤデータのロゴマークが大きく入っている。</sentence>
+<sentence>触って，見て分かるようになっているのだ。</sentence>
+<sentence>細かい部分ではシャッターがフル密閉でホコリが入らないようになっている。</sentence>
+<sentence>それでも，同じＭＤだからと間違って使うかも知れない。</sentence>
+<sentence>実はカートリッジの形が違うと，それでオーディオ用とデータ用が判別できると思いがちだが，単に見た目の形で識別ができるようにしただけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際にはＴＯＣでオーディオ用とデータ用の識別をしている。</sentence>
+<sentence>ＭＤディスクの内周部分には成形でＴＯＣ情報が書かれている。</sentence>
+<sentence>再生専用のミュージックＭＤもレコーダブルＭＤもＭＤデータも同じだ。</sentence>
+<sentence>プレーヤーにセットすると，最初にこの部分を読み，再生専用，レコーダブル，データ用とい<sampling type="end" />うことを判断する。</sentence>
+</paragraph>
+</article>
+</sample>

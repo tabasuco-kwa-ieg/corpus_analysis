@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00020" version="1.0" type="fixedLength">
+<article articleID="LBk5_00020_F001">
+<paragraph>
+<sentence>それぞれ約１５０万トンの有害廃棄物が焼却炉と<sampling type="start" />ボイラー及び産業用炉で焼却された。</sentence>
+<sentence>また、約６０万トンが金属回収用及び溶鉱用の炉で燃やされた。</sentence>
+<sentence>その合計量は、全発生量の１％強であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表３‐１９　焼却炉、ボイラー、産業用炉で焼却された有害廃棄物（米国、１９９１）<noteMarker text="１８）" /></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ａ：文献に示された値</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　このうち、有機性廃液と廃液の焼却については、その評価が十分にはなされていない。</sentence>
+<sentence>ここでいう廃液は一般に有機物質濃度が低いものであり、その例として低濃度の溶剤廃液がある。</sentence>
+<sentence>現時点では、このような低有機物質濃度の廃液を焼却に回すことに対してどのような因子が発生者に影響するのか、またどの程度の発生抑制が可能かは不明である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、一般により高濃度の有機物質を含んでいる有機性廃液については、発生抑制されたり、環境にやさしいリサイクリングをされたりしているが、使用済み溶剤のような有機性廃液のリサイクリングが実行可能かどうかについては、多くの因子が関係しているようである。</sentence>
+<sentence>例えば、発生源の外で溶剤をリサイクリングすることは、潜在的に有害物質の排出の可能性があるため、阻害されよう。</sentence>
+<sentence>また、発生源でのリサイクリングについては、関連する許可の取得に必要な費用と時間を惜しみ、その実施を思いとどまるものと考えられる。</sentence>
+<sentence>さらに、原材料の購入費と廃棄物管理費の合計を見た時、再生溶剤を用いるより処女溶剤を用いる方が安くつくということがある。</sentence>
+<sentence>このようなことから、多くの場合、発生者は焼却及びエネルギー回収のために、使用済み溶剤を産業用のボイラーや炉に送る傾向にある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、１９９４年１１月１日現在のＲＣＲＡに基づく焼却施設の設置状況は表３‐２０に示すようであった。</sentence>
+<sentence>ただし、移動式の焼却炉やスーパーファンド修復地で用いられている炉は含まれていない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　有害廃棄物の焼却への対応</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　技術的観点からみた場合、有害廃棄物の焼却は、有機化合物の破壊を通して、事実上すべての有機物質含有廃棄物の毒性と体積を十分かつ永続的に低減する唯一の最終プロセスである。</sentence>
+<sentence>また、多くの廃棄物処理プロセスとは異なり、液体、固形物及び汚泥という広い範囲の廃棄物に適用できる。</sentence>
+<sentence>焼却残渣は、一般的には陸上処分に受け入れられ得るものであり、しばしば、もとの廃棄物に比べより一層受け入れられ易い。</sentence>
+<sentence>さらに、焼却については設計上及び運転操作上かなりの経験が蓄積されており、実地検証されかつ市場的に利用し得る技術である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかしながら、一方では、有害廃棄物の焼却に多くの疑問が提示されていることも事実である。</sentence>
+<sentence>例えば、焼却過程で十分な破壊がなされない場合があり得るし、あるいは微量の毒性有機<sampling type="end" />性化合物が焼却室の後半部で生成され排出される可能性がある。</sentence>
+</paragraph>
+</article>
+</sample>

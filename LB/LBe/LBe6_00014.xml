@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe6_00014" version="1.0" type="fixedLength">
+<article articleID="LBe6_00014_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">栽培に<sampling type="start" />向く用土</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">永井千尋</sentence>
+<br type="automatic_original" />
+</authorsData>
+<paragraph>
+<sentence>　蘭作りの用土のポイントは、“水はけよく、水持ちよく”が基本であるといえます。</sentence>
+<sentence>一般に用土は、固体部分（固相）と孔隙を占める水分（液相）、空気（気相）の三相から構成され、蘭作りではその比率が固相３・液相４・気相３前後が望ましいとされています。</sentence>
+<sentence>土粒は崩れにくく、多孔質で毛管水をよく保って、水分を安心して供給できる物理性にすぐれているとともに、土粒が有効な栄養分を含んでいることも大切です。</sentence>
+<sentence>さらに、化学性としては、生育に適した酸性度（ｐＨ５．５〜６．５）を安定して維持し、植物が必要とする養分を吸着・保持する働きが大きいことも、生育を左右するだけに見逃すことはできません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　“上作を目指すなら根を作れ”との言葉が示すように、根を育て、水と酸素と養分を供給し、生長を決定づけているのが用土であることは明らかです。</sentence>
+<sentence>したがって、蘭の種類、株の状態に適した用土をいかにして用意するかが、栽培家の苦心するところであり、また、腕の見せどころでもあって、経験に加えて創意工夫が大きく求められる場でもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●春蘭系（温帯種）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　用土は通気性に重点をおき、同時に適度の保水力を配慮することです。</sentence>
+<sentence>具体例としては、硬質鹿沼土４・日向砂３・焼赤玉土３の中粒植えが安全です。</sentence>
+<sentence>なお、粒径は小粒三〜五ｍｍ、中粒六〜八ｍｍ、大粒一〇ｍｍ前後です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●寒蘭系（暖帯種）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　春蘭と比較すると、通気性も大切ですが保水力をやや大きくするほうが成績がよいようです。</sentence>
+<sentence>用土は春蘭に準じますが、土粒に小粒を二〜三割加えます。</sentence>
+<sentence>また、市販の蘭用配合土も便利で安全です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●半着生種（亜熱帯種）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　高温多湿の地域に自生して、その生態も相違しますから、種の特徴を理解しての用土が求められますが、水管理さえ注意すれば一般の蘭用土でも十分です。</sentence>
+<sentence>また、水ゴケ植えもよい成績をあげています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">《代表的な用土の特徴》</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　赤玉土　関東地域の畑地の地表約一ｍ以下に堆積している赤土を乾燥して玉状にしたものです。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　クレイボール　赤玉土を炉で焼き固めたもので、形が崩れにくく、比較的水持ちが良好です。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　鹿沼土　栃木県の鹿沼市とその近郊の畑地や山林の地表下に堆積している多孔質の土で、保水力と通気性があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　軽石　火山活動の際、地熱によりできたものです。</sentence>
+<sentence>灰褐色で多孔質の土は、一度高温にあっているので病害の汚染が少なく、保水性と通気性ならびに固相の割合が等量で、ほかの土と混ぜて用土の通気性を増すことができます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　桐生砂　鹿沼土の下層から産出され、鉄分を含み赤褐色で陵角が多く、鹿沼土よりも柔らかくて保水性があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　日向土またはぼら土　九州の霧島地方で産出され、多孔質の黄褐色で、保水<sampling type="end" />性と通気性に富みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

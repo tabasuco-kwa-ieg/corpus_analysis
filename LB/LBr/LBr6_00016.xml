@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr6_00016" version="1.0" type="fixedLength">
+<article articleID="LBr6_00016_F001">
+<paragraph>
+<sentence>トマトの<sampling type="start" />糖度を非破壊測定する画期的な光センサー<quote>「アグリセンサー」</quote>の記者発表会がそれだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　会場には開発にあたった前述の（財）雑賀技術研究所及び（株）エミネットのスタッフや、りょくけん社長の永田次郎さん、それにはるばる高知から駆けつけたハート＆ハート（株）社長、永野雄一さんの顔も見える。</sentence>
+<sentence>アグリセンサーを組み込んだ選果ラインはすでに高橋農産の作業場で稼働しており、北海道中から集められたトマトが目の前で流れるように選別されてゆく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　センサーの原理を簡略に説明すると―。</sentence>
+<sentence>農作物にハロゲンランプの光を当てて、その照射される近赤外線の性質、つまり物質の中を透過しやすく、化学物質の吸収特性がある、という特徴を利用している。</sentence>
+<sentence>特に、化学物質の吸収特性がポイントで、農作物の中に含まれる内部成分（例えば糖分）などの化学的な物質には、特定の波長を持つ光を吸収するという性質があり、その波長帯が近赤外線の中に含まれていることを意味する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　つまり、ハロゲンランプから出た光（入射光）が農作物の内部を通過する際、農作物内部の各種成分、水分などのさまざまな成分が、それぞれ特定の波長を持つ光を吸収する。</sentence>
+<sentence>吸収されずに通過してきた光（透過光）は、センサーボックスに入っていく。</sentence>
+<sentence>センサーボックス内には光を波長ごとに分けるミラーがセットされていて、これにより分光された光のうち、近赤外線に当たる波長帯をセンサーボックス内のセンサーが感知するわけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その後、光を数値化し、波長ごとの透過光量を測定する。</sentence>
+<sentence>果実の糖分を例にとると、糖に関係する波長を持った光の吸収量は多くなり、逆に糖度が低い果実の場合には光の吸収は少なくなる。</sentence>
+<sentence>センサーが感知した透過光量から果実が吸収した光量が換算でき、そこから“検量線”と呼ばれる数式により果実のじっさいの成分値が導き出される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アグリセンサー自体は、平成七年に雑賀技術研究所が世界で初めて実用化に成功し、ミカンの選別作業に使われてきた。</sentence>
+<sentence>永田さんの注文で、それがトマト用に改良されたわけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「開発には苦労しました。</sentence>
+<sentence>ミカンとは違ってトマトは形も大きさもバラバラ。</sentence>
+<sentence>硬度も低く、キズの心配もあるわけです。</sentence>
+<sentence type="quasi">反面、高糖度の商品ですから、高い測定精度への要求もありましたし…」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　アグリセンサーの開発に携わった雑賀技術研究所、中西豊さんの言だ。</sentence>
+<sentence>五年ほど前、別の組織からセンサー開発の依頼を受けたが、結局そのときはトマトの品質が低すぎて、使い道があまりにも限定されるという理由で、実現に至らなかったという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「糖度別販売は、ウチだからできる究極の販売スタイルなんです。</sentence>
+<sentence>高品質のトマトが大量に集荷<sampling type="end" />される生産システムがあって初めて、このアグリセンサーは生きるんです。</sentence>
+<sentence type="quasi">そのシステムを支えるのが、ミカンでいえば防草シート、トマトの場合はコントロール・バッグということになります」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

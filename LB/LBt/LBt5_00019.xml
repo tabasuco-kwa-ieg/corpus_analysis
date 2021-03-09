@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00019" version="1.0" type="fixedLength">
+<article articleID="LBt5_00019_F001">
+<paragraph>
+<sentence>　実用化の観点に立つと、人間の機能に似たものを実現し、その応用を探すというのは、順序が<sampling type="start" />逆である。</sentence>
+<sentence>何をしたいのか、どの作業を自動化したいのかをまず決め、その作業を分析し最も効率的な方法でその実現を目指すというのが正しい姿である。</sentence>
+<sentence>これが第三の立場でのロボット研究である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この立場での研究は、実際のニーズがはっきりしていないと進めることができないし、また学問的な意義を見つけることが一般には難しいので、特に大学の研究者たちに敬遠されがちである。</sentence>
+<sentence>しかも、問題を分析していると、必ずしもロボット技術は必要ではなく、センサーの問題さえ解決できれば、あるいは作業工程の改良を行うことで、事が済む場合もでてくることが多い。</sentence>
+<sentence>あまりロボットにとらわれていると問題の本質を見失うおそれがある。</sentence>
+<sentence>つまり、目標を決めたとたん、それはロボットではなくなってしまうかもしれない。</sentence>
+<sentence>このことは、ロボット研究における汎用性のジレンマであり、デスバレー克服の困難さを暗示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、革新的な応用技術は、第一または第二の立場の研究から生まれるという事実も見逃すことはできない。</sentence>
+<sentence>しかしそれは、現実に問題を抱えてその解決に悩んでいる現場技術者の目利きによって拾いあげられた結果によることが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在、大学や国立の研究機関でロボットの研究に携わっている人たちの立場の割合は、上記三分類に従うと、２対６対２くらい、あるいは、１対８対１かもしれない。</sentence>
+<sentence>しかも、シーズ（基礎研究）側からの製品企画はほとんど行われないし、大学発のロボット関連ベンチャー企業も日本では極めて少ない。</sentence>
+<sentence>一方、ロボット関連企業もユーザーからの要求に応じて開発を行う市場要請型の商品開発が多く、新しい企画にもとづく商品開発、すなわち市場開拓型商品の開発は非常に少ない。</sentence>
+<sentence>ソニーのＡＩＢＯはその少数例の一つである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般に、シーズとニーズを直接結びつけることは難しく、その間に優れた製品企画とその企画を商品化する企業が存在しなければならない。</sentence>
+<sentence>ちなみに、この場合のシーズは、必ずしも大学や基礎的研究所からだけ生まれるのではなく、企業の現場からでも生み出される可能性は十分にある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第７章　ロボットはどうやったら歩くことができるか</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">―歩行機械からヒューマノイドへ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<quotation>
+<citation>
+<sentence>人の体はやわらかい。</sentence>
+<sentence>でもそれは、何もない空を漂うだけの存在ではない。</sentence>
+<sentence>足は地面を踏みしめ、四肢を備えた体幹は音や光の流れと共に動く。</sentence>
+<sentence>世界は確かな制約に満ち、身体はそこに根ざしている。</sentence>
+<sentence>行為はそこから始まる。</sentence>
+<sentence>行為の記述も、そこから始まる。</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（佐々木正人、三嶋博之編『アフォーダンスと行為』）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　<quote>「ロボット」</quote>という言葉から誰もが想起するイメージは、フィクションの世界で遊ぶ<sampling type="end" />としたら、鉄腕アトムか鉄人２８号、あるいは、カレル・チャペックの戯曲『ロボット（Ｒ・Ｕ・Ｒ）』やロボコップなどロボットを主題とするロボット像、現実の世界では、江戸時代から日本にあるからくり人形や、自動車生産ラインに立ち並ぶ産業用ロボットなどであろう。</sentence>
+</paragraph>
+</article>
+</sample>

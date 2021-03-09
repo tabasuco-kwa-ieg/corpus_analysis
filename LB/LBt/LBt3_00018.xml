@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00018" version="1.0" type="fixedLength">
+<article articleID="LBt3_00018_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">■社債の機動的な発<sampling type="start" />行</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３　応募額のみでの社債成立</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　現行法では、社債の応募額が社債総額に達しない場合、応募額のあった部分だけで社債を成立させること（打切発行）を社債申込証の用紙に記載しないと、社債全部が不成立となってしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし新会社法では、応募額のあった部分だけでも社債が成立することとしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この他、以下のような合理的でない規定は廃止されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">●社債の金額（同一種類の社債の金額の均一化）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●割増償還の制限（償還金の券面超過の場合の超過額は、各社債につき同率でなければならない）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｅｃｔｉｏｎ４４　社債管理者〜社債管理者の責任拡大〜</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>社債権者をより保護するため、社債管理者の管理責任の範囲が拡大され、損害賠償責任を負う範囲も広がります。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">１　社債の管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　通常、社債発行においては社債権者が多く存在し、また、資金が巨額であるため、社債発行会社は、銀行・信託銀行などの社債管理者に対し、社債管理委託契約を締結のうえ、社債権者のために社債の管理を行うことを委託します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　社債管理者は、社債権者のために公平かつ誠実に善管注意義務をもって<quote>「社債の管理」</quote>をする義務があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　新会社法は、社債権者の保護を十分なものとするために、<quote>「社債の管理」</quote>の範囲を拡大し、社債管理者の責任を広げています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　社債管理者の損害賠償責任</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　社債権者をより保護すべく、【１】社債発行会社が支払停止などに陥った後、【２】社債発行会社の支払停止などの前３ヶ月以後に、社債管理者の子会社などの特別な関係を有する者が、当該社債管理者の債権を譲り受けて社債発行会社から弁済を受けた場合などにおいても、社債管理者が社債権者に対して損害賠償責任を負うものとされ、社債管理者の責任の範囲が拡大されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■社債管理者の責任</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｓｅｃｔｉｏｎ４５　社債管理者〜迅速な事務処理が可能に〜</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>社債管理者の責任が強化されるのと併せ、迅速な事務処理を行うことができ、社債権者集会の決議なく異議を述べることができます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">１　社債管理者による迅速な事務処理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　迅速な事務処理を確保すべく、社債管理者は、社債管理委託契約の定めがあるとき、社債権者集会の決議なく、社債の全部につき訴訟行為及び法的倒産処理手続に属する行為をすることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■社債管理者による迅速な事務処理</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２　社債権者の異議</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　減資、新設分割、合併などにおける債権者保護手続においては社債管理者に対しても催告を行うものとし、社債管理者は、原則として、社債権者集会の決議なくして異議を述べることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■減資などにおける異議</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３　社債管理者の辞任の自由化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　現行法上、社債管理者が辞任しようとするときは、社債<sampling type="end" />発行会社及び社債権者集会の同意を得ることが必要とされています。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00004" version="1.0" type="fixedLength">
+<article articleID="LBq0_00004_F001">
+<paragraph>
+<sentence>カメラとテレビの間でライターの火をつけると、そこからまた渦巻がぶわっと<sampling type="start" />始まったり。</sentence>
+<sentence>カメラの角度を微妙に変えると、高速で飛ばす車のライトに照らされた路面のように見えたり。</sentence>
+<sentence>夜中にいい大人が部屋真っ暗にして一人で何やってんだという光景ではありますが、そのそしりをはね返すだけの面白さはある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これはあれですね。</sentence>
+<sentence><quote>「フラクタル」</quote>の<quote>「マンデルブロー」</quote>関数とかでできる模様と同じ原理ですね。</sentence>
+<sentence>ｆ（ｘ）＝Ｘ<superScript>２</superScript>−ａｘという関数で、ある初期値をＸに代入してやる。</sentence>
+<sentence>それでまた出てきた答えをまたＸに代入して…と、どんどん繰り返すと、普通は無限大にふえてゆくか０に落ち着くかのどちらかなんだけど、初期値を虚数にしてａの値をちょうどええ感じにとると、無限大にも０にもならずに適当なとこを不規則にふらふらして、それをガウス平面という座標軸に点々打ってグラフつけてゆくと、とても不思議な模様ができあがるという（多分かなり不正確な説明）。</sentence>
+<sentence>この辺全部、数学解説本の受け売りですが、考え方一緒ですよね。</sentence>
+<sentence>ギターのフィードバックやビデオカメラの不思議模様と。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、ここまで読まれて、そんな面白いこととっくにやってらい、何をいまさら得意げに、という方もたぶん多々おられるでしょう。</sentence>
+<sentence>特にビデオアートの人なんか、絶対やりつくしてるはずです。</sentence>
+<sentence>でも僕のまわりにはビデオカメラでこんな面白いことができるなんて教えてくれる人はいなかったし、本で読んだこともなかった。</sentence>
+<sentence>こんなにご家庭で簡単にできることなのに不思議ですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　蛇足ですが、それに類する日常の謎を一つ。</sentence>
+<sentence>虫メガネで近くの物を見ると大きく見える。</sentence>
+<sentence>遠くを見ると物が逆さまに見える。</sentence>
+<sentence>その間どこかに、像が逆転する瞬間があるわけですよね。</sentence>
+<sentence>理屈として。</sentence>
+<sentence>実際やってみるとそれは、微妙なレンズの角度に沿って、にょろんという感じで入れ替わる。</sentence>
+<sentence>もし完璧に歪みのないレンズで、完璧に目に対して斜めでない角度でそれをやったら、その瞬間、像はどうなるのか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　逃げ場のないレンズは、どんな像を結ぶのか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　最後に注意。</sentence>
+<sentence>このビデオアートごっこは、やりすぎるとカメラ壊れます。</sentence>
+<sentence>僕の場合ＣＣＤとかいう光を電気信号に変換する部分がやられて、修理にウン万円とられました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">バスケットボールのこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　高校以来、１５年ぶりにバスケットボールを始めたのが去年の５月でした。</sentence>
+<sentence>そこに至る諸々の事情は長くなるので略すけど、その１５年間ほとんど運動らしき運動をしてない三十男がいきなりオールコートのバスケですから、そりゃもう最初のランニングシュートだけでおもわず座り込み、呼吸をするだけで精いっぱいという情けなさ。</sentence>
+<sentence>それでも月１、２ペースでも練習を続けていると、それなりに体が動くよ<sampling type="end" />うになって、１０分ハーフぐらいなら何とか試合らしきものもこなせるようになってしまうから不思議だ。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00056" version="1.0" type="fixedLength">
+<article articleID="LBm5_00056_F001">
+<paragraph>
+<sentence>　したがって、本来目的<sampling type="start" />であるトイレ等に水を使っても、消防用設備等に必要な水量が常時確保されている構造とする必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１３　消防用設備等の水源と兼用する例<noteMarker text="３）" /></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〈引用文献〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">第４章　浸透技術</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４．１　浸透施設の分類と設置可能性</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　都市における雨水浸透施設は、地下水のかん養だけでなく洪水の流出抑制、河川維持用水の確保、都市気候の緩和、さらには動植物の自然生態系の保全・回復などの多様な機能を持っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　浸透施設の多面的な機能を整理すると次のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">〈治水面〉</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">・洪水の流出抑制</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">〈利水面〉</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">・地下水のかん養</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">〈環境面〉</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">・河川維持水量の確保</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・公共用水域の水質汚濁の軽減</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・動植物等、自然生態系の保全と回復</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・下水道施設の負担の軽減</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・緑被地への水分補給</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・都市気候の緩和</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<paragraph>
+<sentence>　開発に伴う表面流出量の増大を抑制するとともに、総合的に水環境を保全する手段として、雨水を効率よく地中に浸透させる技術が確立されつつある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地盤および各種浸透施設の浸透能力の評価手法については、（社）雨水貯留浸透技術協会<noteMarker text="※１" />が４年余りの調査・研究の集大成としてとりまとめた<quote>「雨水浸透施設技術指針（案）」</quote>（以下、<quote>「指針（案）」</quote>という）の調査・計画編<noteMarker text="※２" />に詳しく記述されている。</sentence>
+<sentence>さらに、標準構造、施工・維持管理手法については、同<quote>「指針（案）」</quote>の構造・施工・維持管理編<noteMarker text="※３" />に詳しく記述されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※１　連絡先　〒１０２‐００８３　東京都千代田区麹町３‐７‐１　半蔵門村山ビル５Ｆ　Ｔｅｌ．０３‐５２７５‐９５９１</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence type="quasi">※２　<quote>「雨水浸透施設技術指針（案）調査・計画編」</quote>　定価：５，０７６円（税込）　発行：（社）雨水貯留浸透技術協会</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence type="quasi">※３　<quote>「雨水浸透施設技術指針（案）構造・施工・維持管理編」</quote>　定価：４，９８０円（税込）　発行：（社）雨水貯留浸透技術協会</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　以下、第４章では、この<quote>「指針（案）」</quote>の内容の一部を紹介することとし、詳細については同書を参考にされたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４．１．１　浸透施設の分類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　雨水浸透法を分類すると図４‐１のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４‐１　浸透施設の分類</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　拡水法は、各施設より直接土壌の不飽和帯へ浸透させるものであり、浸透ます、浸透トレンチ、浸透側溝、透水性舗装等が一般的である（図４‐２参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、砕石貯留浸透施設は、雨水を貯留するための砕石部を設けておき、ここに雨水を一時貯留すると同時に、周辺土壌に浸透させようとするものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、井戸法は、地盤沈下対策、地下水への塩水浸入防止対策等の目的の基に以前より用いられていた方法である。</sentence>
+<sentence>この方法は、雨水を井戸壁のわずかな面積を通して地下に注入させるものであるため、目詰まりが発生しやすく、目詰まりの原因となる物質を取り除く前処理を行って注入する方法が採られる場合が多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　したがって、この井戸法は、浸透させる雨水の水質や、浸透層の地盤、地下水汚染の問題等につ<sampling type="end" />いての十分な配慮が必要である。</sentence>
+</paragraph>
+</article>
+</sample>

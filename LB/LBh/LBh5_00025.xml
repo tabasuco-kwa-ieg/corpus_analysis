@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh5_00025" version="1.0" type="fixedLength">
+<article articleID="LBh5_00025_F001">
+<paragraph>
+<sentence>　そのままじゃ，ドライバーがここぞと思ったときに良い加速が得られず，もういいやと思ったときに急激にエンジンがパワー<sampling type="start" />を出すという，ドライバーにとってはちっとも嬉しくないエンジンになってしまう。</sentence>
+<sentence>あるいはドライバーが先へ先へと常に予測を立てて，ターボラグの分だけ早め早めにアクセルを踏んでいくしかない。</sentence>
+<sentence>その点，スーパーチャージャーはパワーロスがあるものの，反応遅れがない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，ターボチャージャーでもターボラグを感じさせなくする手はある。</sentence>
+<sentence>まず排気管を短くして排気ガスがすぐにターボチャージャーを回せるように，また，コンプレッサーで圧縮された吸気がすぐシリンダーへ入るように配管をできるだけ短くする。</sentence>
+<sentence>あるいは，ターボチャージャー本体について，排気ガスで回されるタービンを小型にする。</sentence>
+<sentence>そうすればちょっとの排気ガスでビュンと勢い良く回りはじめる。</sentence>
+<sentence>でも，小さなターボチャージャーでは力が足りないというのなら，ふたつ使って帳尻を合わせることだってできる。</sentence>
+<sentence>また，セラミックのような非常に軽い材料でタービンを作ると，ちょっとの排気ガスでも回りやすくなる。</sentence>
+<sentence>セラミックは，お茶碗のような陶器と同じ材料だから壊れやすいんじゃないかってイメージがあるだろうけど，いまでは金属より強いセラミックがあるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ターボを回すのは排気ガスで，排気ガスはターボが回って吸気が多くならないと勢いがつかない。</sentence>
+<sentence>この堂々めぐりがターボラグだ。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">排気量</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　唐突ながら，エンジンの排気量って何だろう？</sentence>
+<sentence>という話をここでしてみよう。</sentence>
+<sentence>すでに何度も排気量という言葉は使ってきたけれど，排気量にはいろいろなイメージがありそうだ。</sentence>
+<sentence>６６０ｃｃと聞くと，小さなエンジンだなということがすぐに思い付くけれど，同時に経済的だとか，でもちょっと物足りないかなぁと感じるはず。</sentence>
+<sentence>ところが，唯もクルマとは言っていないわけで６６０ｃｃのエンジンのオートバイとなったら日本じゃ限定解除の自動二輪免許を取得していないと乗れない大型車だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　屁理屈はさておき，クルマの２０００ｃｃクラスというと性能的には十分で，それなりに満足のいくサイズと感じているだろう。</sentence>
+<sentence>４０００〜５０００ｃｃと聞くと，そんなものは必要ないと感じる人もあれば，高級車をイメージする人もいるだろう。</sentence>
+<sentence>こう考えると，エンジンの排気量って不思議なものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　排気量は，ピストンが往復運動をするストロークぶんのシリンダー容量を言う。</sentence>
+<sentence>ようするに，どれだけ混合気を吸い込めるのかという話だ。</sentence>
+<sentence>混合気が吸い込める量が決まると，得られるトルクがわかる。</sentence>
+<sentence>もちろん，混合気がちゃんと燃えるかどうかで違ってはくるんだけどね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それはさておき，排気量が決まるとそのエンジンの基本性能が決ま<sampling type="end" />るのだ。</sentence>
+</paragraph>
+</article>
+</sample>

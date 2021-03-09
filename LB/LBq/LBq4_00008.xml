@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00008" version="1.0" type="fixedLength">
+<article articleID="LBq4_00008_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">５．４　手足（四肢）に隠された<sampling type="start" />ヒミツ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">手足の骨連結が示すもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ヒトの祖先は，直立することで四足歩行の生活に別れを告げ，そのときから<quote>「<ruby rubyText="ぜん">前</ruby><ruby rubyText="し">肢</ruby>と<ruby rubyText="こう">後</ruby><ruby rubyText="し">肢</ruby>」</quote>も<quote>「<ruby rubyText="じょう">上</ruby><ruby rubyText="し">肢</ruby>と<ruby rubyText="か">下</ruby><ruby rubyText="し">肢</ruby>」</quote>に名前を変えることになりました．</sentence>
+<sentence>では，四足と二足とでは何が違うのでしょうか．</sentence>
+<sentence>ここでは，骨格から見た四肢の違いを考えてみることにしましょう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ヒトの四肢の骨格には<quote>「関節で連結している」</quote>という特徴があり，頭蓋が縫合や軟骨結合で連結するのと違っています．</sentence>
+<sentence>これは，四肢に<quote>「運動性」</quote>が要求されているためで，骨盤や頭蓋で<quote>「安定性」</quote>が必要とされるのと対照的です．</sentence>
+<sentence>さらに，上肢には自由かつ精密な運動が求められるのに対し，下肢の場合は運動に加えて体重を支える安定性も必要となります．</sentence>
+<sentence>このため，四肢にはそれぞれにふさわしいはたらきの関節が備わっているのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ヒトの肩関節は運動性が高い</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まず，上肢の肩関節を調べてみましょう．</sentence>
+<sentence>ヒトの肩関節は連結が浅いので，自由に動かすことができる反面，とても不安定な関節です．</sentence>
+<sentence>筋肉などで補強されてはいますが，外れることも多く，もっとも<ruby rubyText="だっ">脱</ruby><ruby rubyText="きゅう">臼</ruby>しやすい関節ともいわれます．</sentence>
+<sentence>また，ヒトの<ruby rubyText="けん">肩</ruby><ruby rubyText="こう">甲</ruby><ruby rubyText="こつ">骨</ruby>は<ruby rubyText="さ">鎖</ruby><ruby rubyText="こつ">骨</ruby>によって外側へと押しやられているため，肩関節も<ruby rubyText="きょう">胸</ruby><ruby rubyText="かく">郭</ruby>から離れた位置にあり，上肢はこれにじゃまされることなく動かすことができます（図５．９）．</sentence>
+<sentence>これに対し，イヌやネコでは鎖骨が未発達であり，肩関節は胸郭に近接して位置するため，前肢が大きく運動する場合には胸がじゃまになります．</sentence>
+<sentence>また，動物の肩甲骨は筋肉によってしっかりと胸郭に連結しており，ヒトの肩甲骨のように大きく動くしくみにはなっていません．</sentence>
+<sentence>イヌやネコが肩を回したり，大の字になって寝ることができないのは，こういう事情があるからなのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５．９　ヒトとネコの肩の比較</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ヒトは走るのが苦手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　では，下肢の場合はどうでしょうか．</sentence>
+<sentence>動物が走るときの<ruby rubyText="こ">股</ruby><ruby rubyText="かん">関</ruby><ruby rubyText="せつ">節</ruby>を見ると，前方へ強く曲げた状態から，後方へ１８０度近くまで伸ばすことで地面をけっていることがわかります（図５．１０上）．</sentence>
+<sentence>また，ネコやイヌなどの様子を見ていると，走るときに腰椎を曲げることで股関節の位置を動かし，後脚（後肢）のけりを強めることでストライドを大きくしています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対し，直立姿勢をとっているヒトの股関節は最初から伸びた状態にあるため，動物のような<quote>「けり出し」</quote>はできません．</sentence>
+<sentence>すなわち，ヒトでは地面をける力が動物と比べて弱いため，動物のようには速く走れないのです．</sentence>
+<sentence>陸上競技の１００ｍ走を見ると，全員が股関節や<ruby rubyText="しつ">膝</ruby><ruby rubyText="かん">関</ruby><ruby rubyText="せつ">節</ruby>を曲げたスタート姿勢をとりますが，これも四足動物の走り方を見習った形なのです（図５．１０下）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５．１０　四足動物とヒトの走り方</sentence>
+<br type="automatic_original" />
+<sentence>四足<sampling type="end" />動物は股関節の運動範囲を十分に利用して走っている．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

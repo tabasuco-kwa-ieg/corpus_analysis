@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00045" version="1.0" type="fixedLength">
+<article articleID="LBi4_00045_F001">
+<paragraph>
+<sentence>また、がん<sampling type="start" />やエイズ、そのほかの生命を脅かす疾患に対する遺伝子治療の可能性に強い関心が集まっている割には、<quote>「遺伝子治療がどういう治療法なのか」</quote>を本当に理解している人が少ないのというのも実情です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本書は、遺伝子治療に興味を持った一般の人が、ステップを踏みながら遺伝子治療の最前線まで知ることができるような本として企画されました。</sentence>
+<sentence>できるだけ科学的に正確に、しかし、なるべく一般の人々にも理解できるように努めました。</sentence>
+<sentence>変化の激しい分野ですから、そのすべてを網羅することはできませんでしたが、この本によって多くの人の遺伝子治療に対する理解が深まることを願っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、推薦文を書いていただいた高久史麿国立国際医療センター総長、浅野茂隆東大医科研附属病院長、対談をしていただいた日本医科大学の島田隆教授、写真を提供していただいた東大医科研の若林とも博士、金沢大学の中尾眞二博士、株式会社エスアールエル、貴重な資料を提供していただいたアメリカ国立衛生研究所（ＮＩＨ）の梶ヶ谷幸子博士、宮村耕一博士（現名古屋大学）に感謝します。</sentence>
+<sentence>また、本書の出版を熱心に勧めてくださった、健康春秋社の福田雅人さん、執筆の協力をしていただいた編集者の杉山哲水さん、渡辺裕之さんに心より深謝いたします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">一九九四年七月</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">小澤敬也</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBi4_00045_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">遺伝子の世界へ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">超微細な世界から生命活動を指令する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「生命の神秘」</quote>を解明するために科学者がたどりついたのが遺伝子という存在。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それは、十億分の一メートル（ナノメートル／ｎｍ）という実に小さなスケールの世界にあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、遺伝子はこんなに小さな存在でありなから、実は生命のすべてを形づくるために膨大な情報を発信しつづけているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　遺伝子治療は、この超微細な世界の情報の発信あるいは交信の仕組みを知るところから始まりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">遺伝子を探して</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">細胞から染色体へ　染色体からＤＮＡへ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生命のすべてを形づくる情報を持つ遺伝子はいったいどこにあるのでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その探索の旅は、まず生物の基本単位である細胞を見るところから始まります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　どの細胞もよく見ると中心には核があります。</sentence>
+<sentence>核の中には色素に染まりやすい染色質があり、この染色質は核酸という成分を含んでいます。</sentence>
+<sentence>核酸には二種類あり、一つは遺伝情報を持つＤＮＡ（デオキシリボ核酸）、もう一つはＲＮＡ（リボ核酸）。</sentence>
+<sentence>そして遺伝子はこのＤＮＡからできています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ふだんＤＮＡは複雑な構造をしたまま染色質の中を浮遊しています。</sentence>
+<sentence>ところが細胞分裂が始まると、染色質は次第に糸状の染色糸に変わり、さらに太くなって染色体になります。</sentence>
+<sentence>このときＤＮ<sampling type="end" />Ａは染色体の形に固めつくされていきます。</sentence>
+</paragraph>
+</article>
+</sample>

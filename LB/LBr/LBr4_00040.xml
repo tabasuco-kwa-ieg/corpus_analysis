@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00040" version="1.0" type="fixedLength">
+<article articleID="LBr4_00040_F001">
+<paragraph>
+<sentence>　一方、Ｂのグラフでは、ｘ＝−５の時の縦<sampling type="start" />軸のΨ（−５）の値はマイナスになっています。</sentence>
+<sentence type="quasi">しかしΨ（５）はプラスの値ですから、等式が成り立つためには</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となり、（４−１１）式に一致します。</sentence>
+<sentence>とにかく図４‐９をもう一度見てください。</sentence>
+<sentence>（４−１０）式（グラフＡ）で表されるような波動関数は偶関数（ｅｖｅｎ　ｆｕｎｃｔｉｏｎ）といい、（４−１１）式（グラフＢ）で表されるような波動関数は奇関数（ｏｄｄ　ｆｕｎｃｔｉｏｎ）と呼ばれています。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　さて図４‐９で縦軸の真上に紙面（ページ）と直角を成すように鏡を置いてみます。</sentence>
+<sentence>そうするとＡのグラフの鏡像では左半分のグラフは右半分のグラフと一致します。</sentence>
+<sentence>Ｂのグラフの鏡像では右半分の像を上下ひっくり返したものが左半分のグラフになっています。</sentence>
+<sentence>ここで波動関数Ψは｜Ψ｜<superScript>２</superScript>においてのみ物理的意味を持ち、それは粒子の存在確率を示すものであることを思い出してください。</sentence>
+<sentence>今考えている波動関数Ψは時間を凍結していますから虚数は入っておらず、｜Ψ｜はΨと同じになります。</sentence>
+<sentence>つまり図４‐９で２乗すると偶関数も奇関数もどちらもプラスになって全く同じになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　波動関数が（４−１０）式（グラフＡ）のように偶関数の場合、パリティ（ｐａｒｉｔｙ偶奇性）はプラス１であるといい、波動関数が（４−１１）式（グラフＢ）のように奇関数の場合はパリティはマイナス１であるといいます。</sentence>
+<sentence>位置座標ｘを−ｘに変える操作（鏡に映す操作）のことを<quote>「パリティ操作」</quote>といいます。</sentence>
+<sentence><quote><sentence>「いったい何が言いたいんだ？</sentence>
+」</quote>というところでしょうが今説明します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　シュレーディンガーの波動方程式は波動関数に対しての時間と空間（位置）に関する微分方程式です〔（４−３）式参照〕。</sentence>
+<sentence>このシュレーディンガーの微分方程式および波動関数は３次元空間の座標（ｘ，ｙ，ｚ）を使って表されています。</sentence>
+<sentence>３次元の波動関数にパリティ操作あるいは鏡に映す操作をする場合には３つの位置座標（ｘ，ｙ，ｚ）を全部マイナスにしてやるのです。</sentence>
+<sentence type="quasi">つまり</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<sentence>というわけです。</sentence>
+<sentence>これは<quote>「空間反転」</quote>とも呼ばれています。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　シュレーディンガーの波動方程式にあるポテンシャル・エネルギーＵは、一般には位置座標（ｘ，ｙ，ｚ）に依存します。</sentence>
+<sentence>つまりＵの位置が変わるとＵが変化するということです。</sentence>
+<sentence type="quasi">もし空間反転してもＵが全く変わらない場合、すなわち</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>である場合は、シュレーディンガーの波動方程式（方程式の形）も、波動関数が偶関数であれ奇関数であれ全く元のままで変わらないことが示されるのです。</sentence>
+<sentence>これは何を意味するのかというと、鏡の中の世界と現実の世界とでは同じシュレーディンガーの波動方程式が成り立つということです。</sentence>
+<sentence>つまり、鏡の中の波動関数の変化の仕方と現実の波動関数の変化の仕方は全く区別がつかな<sampling type="end" />いということを意味しています。</sentence>
+</article>
+</sample>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBen_00017" version="1.0" type="fixedLength">
+<article articleID="LBen_00017_F001">
+<titleBlock>
+<sentence type="quasi">―計算する機械から制<sampling type="start" />御する装置へ―</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">計算機としてのコンピュータ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「コンピュータ」</quote>とは本来<quote>「計算機」</quote>という意味です。</sentence>
+<sentence>私が大変お世話になった大学の教授も、研究室においてあるコンピュータのことを<quote>「計算機」</quote>とよんでいました。</sentence>
+<sentence>物理現象の理論上の予測をするのに必要な膨大な数値計算だけでなく、何万人もの受験生の試験の点数に基づいてひとりひとりの偏差値を出したり点数の大きい順に並べかえたりできる。</sentence>
+<sentence>おおよそ人間の手作業では電卓を使っても時間的にほとんど不可能であり、また一度もミスしないですますのもやはり無理という数字の処理を実に正確に速くやってくれる、というのがコンピュータの大きな特長だったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　コンピュータと電卓の本質的なちがいは、扱う桁数やデータ量の多い少ないではなく<quote>「プログラム」</quote>があるか<ruby rubyText="いな">否</ruby>か、ということだと思います。</sentence>
+<sentence>根気さえあれば、そしてミスをしなければ、さらに時間がいくらかかってもよければ、の三条件を許すならコンピュータで扱うような膨大な計算をすべて電卓でできる場合が多いはずです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　でも、電卓というのはたとえば千種類の商品の値段が<quote>「円」</quote>で書かれていたとして一ドル＝一三〇円、一ドル＝一四〇円、一ドル＝一五〇円のおのおのの場合について、それぞれ何ドルになるか出しなさい、といわれたら÷１３０、÷１４０、÷１５０というキー操作を千回ずつ行わなければならない（メモリーつき電卓だと少しラクですが）。</sentence>
+<sentence>さらに今度はドルになおしたあと三％増やしなさい、ということになったとすれば、÷１３０×１．０３などという操作をやはり千回ずつ行わなければならないんです。</sentence>
+<sentence>人間がこれをやるとだんだん慣れてきて÷１３０×１．０３だけをとても速く打てるようになってくるでしょう。</sentence>
+<sentence>それくらいしつこく繰り返さなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、コンピュータだと、この計算手続をプログラムとしてコンピュータに教えておき、これと同じことをこの千個のデータについて行いなさい、と指令しておけばあとは手放しで自動的にやってくれます。</sentence>
+<sentence>同じ計算式にちがった数値を入れる場合でもその<ruby rubyText="つ">都</ruby><ruby rubyText="ど">度</ruby>計算式を入れなければならない電卓との大きなちがいです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　またコンピュータでは、ある計算結果を使って次の計算を行う場合、たとえば受験生全員の平均点を出したあと、その値を使って各人の偏差値を出すなど手続に手順を踏んでいる場合も、その手順をプログラムしておけば一回一回の計算が終わるたびごとに機械を止めずに最後まで行くことができます。</sentence>
+<sentence>電卓だと一つの数式によって答えを出したらそこでいったんストップしてしまって、次の人間の手順を待っ<sampling type="end" />ていますが、コンピュータは手順そのものを記憶していてすぐ次に移ることができます。</sentence>
+</paragraph>
+</article>
+</sample>

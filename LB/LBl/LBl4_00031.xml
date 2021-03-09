@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00031" version="1.0" type="fixedLength">
+<article articleID="LBl4_00031_F001">
+<paragraph>
+<sentence type="quasi">　これを用いると，カルノー機関の効率を表わす式（５．２７）は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【カルノー機関の効率】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<sentence>と表わされ，効率が温度だけの関数である<sampling type="start" />ことが具体的に示される．</sentence>
+<sentence>じつは，ケルヴィンは，温度を用いてカルノー機関の効率を導いて式（５．３０）や式（５．３１）を得たというより，次に示すように，むしろ式（５．３０）を満たすように温度の尺度を定義したのである．</sentence>
+<sentence>この尺度を熱力学温度（ｔｈｅｒｍｏｄｙｎａｍｉｃ　ｔｅｍｐｅｒａｔｕｒｅ）という．</sentence>
+<sentence>熱力学温度の単位，ケルヴィン（Ｋ）はかれの名にちなんだものである．</sentence>
+<sentence>幸いなことに，この尺度は，３．２節で述べた，一定圧力下での理想気体の体積変化による温度目盛りと一致することが示される（例題５．４参照）．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（ｄ）　熱力学温度の定義<noteMarker text="＊５" /></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>＊５　この項は，むずかしければ飛ばしてもかまわない．</sentence>
+<br type="automatic_original" />
+</noteBody>
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これまで温度のものさしとしては，上述のように，一定圧力下での理想気体の体積変化を考えてきた．</sentence>
+<sentence>しかし実際の気体は，低温では液化したり，理想気体から外れた振舞いをするのでやっかいである．</sentence>
+<sentence>もっと普遍的でよいものはないだろうか．</sentence>
+<sentence>５．１節（ａ）でも述べたように，２つの熱源があったとき，どちらが高温かは，２つを接触させたときに熱エネルギーがどう流れるかを調べればわかる．</sentence>
+<sentence>問題は温度の尺度である．</sentence>
+<sentence>ケルヴィンは，作業物質によらないカルノー機関の効率を用いることで，普遍的な尺度が得られることを示した．</sentence>
+<sentence>以下，これを調べて，上に述べた式（５．３０）を導こう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　２つの熱源でカルノー機関を運転することを考える．</sentence>
+<sentence>２つの熱源について，たとえば適当な気体の体積変化をもとに目盛った温度を，高温側でθ<subScript>１</subScript>，低温側でθ<subScript>２</subScript>とする．</sentence>
+<sentence>またθ<subScript>１</subScript>，θ<subScript>２</subScript>の間で運転されたカルノー機関Ｃ<subScript>１</subScript>によってθ<subScript>１</subScript>の熱源で吸収される熱をｑ<subScript>１</subScript>，θ<subScript>２</subScript>の熱源で放出される熱をｑ<subScript>２</subScript>とする．</sentence>
+<sentence type="quasi">カルノー機関の効率は式（５．２７）で与えられ，両熱源の温度だけで決まるから，式（５．２７）の右辺に現われるｑ<subScript>２</subScript>／ｑ<subScript>１</subScript>の逆数であるｑ<subScript>１</subScript>／ｑ<subScript>２</subScript>も両熱源の<quote>「温度」</quote>θ<subScript>１</subScript>，θ<subScript>２</subScript>だけで決まり，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と表わすことができる．</sentence>
+<sentence>いま，図５．１０のように，θ<subScript>２</subScript>よりもさらに低い温度θ<subScript>３</subScript>の熱源があるとし，θ<subScript>３</subScript>とθ<subScript>２</subScript>を熱源としてはたらく別のカルノー機関Ｃ<subScript>２</subScript>を考える．</sentence>
+<sentence type="quasi">Ｃ<subScript>２</subScript>の運転経路を調節してＣ<subScript>１</subScript>からθ<subScript>２</subScript>の熱源に放出されたｑ<subScript>２</subScript>をちょうど受け取ってθ<subScript>３</subScript>の熱源に熱ｑ<subScript>３</subScript>を放出するようにすると，Ｃ<subScript>２</subScript>の効率は，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>である．</sentence>
+<sentence type="quasi">いまＣ<subScript>１</subScript>とＣ<subScript>２</subScript>を合わせて考えると，θ<subScript>１</subScript>の熱源から熱ｑ<subScript>１</subScript>を受け取ってθ<subScript>３</subScript>の熱源に熱を放出する１つのカルノー機関と見なせるから，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">となり，これからｆは</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>という関係を満たすことがわかる．</sentence>
+<sentence type="quasi">ここでθ<subScript>３</subScript>を基準温度として固定すると，ｆ（θ，θ<subScript>３</subScript>）はθだ<sampling type="end" />けの関数Ｔ（θ）と表わせることになり，</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

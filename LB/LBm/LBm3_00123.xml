@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm3_00123" version="1.0" type="fixedLength">
+<article articleID="LBm3_00123_F001">
+<list>
+<listItem>
+<sentence type="quasi">（３）　交換…金銭を媒介せずに財産権<sampling type="start" />と財産権を交換する契約</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　貸借契約</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">（１）　消費貸借…ある物を貸しそれと同種の別の物の返還を受ける契約（金銭貸借がその典型）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）　使用貸借…無償である物を借り、その物を返還する契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（３）　賃貸借…有償である物を借り、その物を返還する契約（借家やレンタカーの契約など）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　労務提供型契約</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">（１）　雇用…労務の提供に対して賃金を支払う契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）　請負…一定の仕事の完成に対して報酬を支払う契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（３）　委任…法律行為その他の判断力を必要とする行為を委託する契約（弁護士への委任など、医師の治療なども準委任として、委任と同じ扱い）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　その他の契約</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">（１）　寄託…物の保管に関する契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（２）　組合…共同で事業を営む契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（３）　終身定期金…ある人の死亡まで一定の金額を給付する契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（４）　和解…当事者双方の譲歩により、紛争を解決する契約</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">三　事務管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">事務管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　義務なくして他人のためにその事務を管理する行為（頼まれもしないのに上京する友人のため下宿を契約するなど）。</sentence>
+<sentence>管理は本人の意思を知りまたは知り得べきときはこれに従い、その他の場合は彼に最も有利な方法でし、その開始はただちに通知、引き継ぎまで継続する。</sentence>
+<sentence>管理の報酬はとれないが有益費などは償還される。</sentence>
+<sentence>もっとも、管理が本人の意思に反するときは現存利益に限られることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">四　不当利得</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">不当利得とその種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　不当利得とは、法律上これを支持する原因がないのに、一方の当事者が他人の財産・労務などによって利益を受け、これによって他方が損失を受ける場合、受益者は損失者に現存利益を返還する。</sentence>
+<sentence>受益者が悪意の場合（原因がないことを知るとき）は受益に利息をつけ、なお損害も支払う。</sentence>
+<sentence>（ⅰ）債務のないのに弁済した非債弁済では、善意者だけが返還請求を許される。</sentence>
+<sentence>（ⅱ）期限前の善意の弁済者には中間利息返還請求権がある。</sentence>
+<sentence>（ⅲ）他人の債務を弁済した者は債権者が証書破棄・担保放棄などをした後は彼に返還請求できない。</sentence>
+<sentence>（ⅳ）不法の原因に基づいて給付した者（公序違反の、たとえば賭博に負けて金を支払った者など）は、相手方だけが悪い場合を除き、給付の返還を求めることができない（支払った賭金を返してもらえない）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">不当利得</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　次の<enclosedCharacter description="○">１</enclosedCharacter><enclosedCharacter description="○">２</enclosedCharacter>の条件が満たされると不当利得が成立する</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　受益者が法律上の正当な原因なしに利益を受けたこと</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　そのため他人が損失を受けたこと</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">五　不法行為</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">不法行為の意味と成立要件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「故意又ハ過失ニ因リテ他人ノ権利ヲ侵害シタル者ハ之ニ因リテ生シタル損害ヲ賠償スル<ruby rubyText="せめ">責</ruby>ニ任ス」</quote>る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　不法行為の成立には、（ⅰ）故意（侵害を知りかつ認容すること）・過失（善管注意を欠いてこれを知らず、知っても認容しないこと）がいる。</sentence>
+<sentence>ただし、失火で隣家などを<sampling type="end" />類焼したときは善良な管理者の注意を著しく欠いた重過失がないと不法行為にならない。</sentence>
+</paragraph>
+</article>
+</sample>

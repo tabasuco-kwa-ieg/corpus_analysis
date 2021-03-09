@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg9_00031" version="1.0" type="fixedLength">
+<article articleID="LBg9_00031_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「それにしたって、なんか訳がある<sampling type="start" />と思うな。</sentence>
+<sentence type="quasi">ただ、訳もなく、<ruby rubyText="うち">家</ruby>まで来るはずないと思います」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「分らんね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「え？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「なんの事か、<ruby rubyText="おれ">俺</ruby>にも分らん」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「本当ですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「焚火をしたことあるかい？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―そりゃ―あります」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「そうか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「家ではないけど―キャンプで―中学の<ruby rubyText="ころ">頃</ruby>」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「いいもんだ。</sentence>
+<sentence type="quasi">こうやって、じーっと火を見てるなんてことが実になかった」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「俺は、カメラが商売でね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「カメラを売ってるってこと（<sentence>ですか？</sentence>
+）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「いや、撮る方だ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ええ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「随分フイルム使って、よく撮ったよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「はあ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「手あたり次第撮ったといってもいい。</sentence>
+<sentence type="quasi">いっつもこう、カメラ三台ほど肩から提げてね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「光線がいいと撮り、人間が面白くて撮り、角度がいいといっちゃあ撮り、犬も撮り<ruby rubyText="ねこ">猫</ruby>も撮り、ビルも撮りゃあ、車も撮り、酔っぱらいも撮り、ヤクザも撮り、頼まれてモデルも撮り、なにを見てもあんた、この角度で、この絞りで、このレンズで行きゃあ、いけるなんてことばかり頭にある」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ええ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「物を見ても人を見ても、光線とレンズと角度なんてことが、すぐ頭をかけ巡る。</sentence>
+<sentence>こう撮りゃあ、絵になると思う。</sentence>
+<sentence>面白い、と思う。</sentence>
+<sentence type="quasi">受ける、と思う」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ええ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「朝から晩まで、あっちへ行っちゃあ撮り、こっち行っちゃあ撮り、次々といろんなものに向き合っちゃあ、撮りまくる」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「フッと―気がつく」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「ええ―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「物でも人でも―じっくり見たことがない」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「たとえば、この枝と向き合う（と枯枝を拾ってかかげる）すると、たちまち、こうやって、こっからとったらどうか？</sentence>
+<sentence>　いや、こうやって、ここからとった方がいい、というように頭が働く。</sentence>
+<sentence type="quasi">そして、バシャリバシャリと撮りまくる」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「撮り終えると終りだ（と枯枝を捨てる）もう枯枝のことは忘れて、他に目をやっている。</sentence>
+<sentence type="quasi">ほんとうに枯枝をじっくり見ることがない」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「人でも物でも、本当には見ていない」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「そういうことが続くと、どうなるか分るかい？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「いえ―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「胸ン中、からっぽになるのさ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「魂がうつろになるんだ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「なにかを、心から好きになるなんて事もなくなっちまう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「カメラ売り払ってね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（うなずく）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「このボロ家の、留守番させて貰って、こうやって、たとえば、火を見てる。</sentence>
+<sentence>じーっと見てる。</sentence>
+<sentence>すると、随分長いこと、なにかをじーっと見たことがなかったと思う。</sentence>
+<sentence>しかし、ジリジリして来る。</sentence>
+<sentence type="quasi">根気がない」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「我慢して座ってる。</sentence>
+<sentence>フフ、あんたも、たまには、いいだろう。</sentence>
+<sentence type="quasi">つき合って、この、火でも見てってくれ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「煙でもいい（と煙ののぼる空を見る）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「名前、聞いてもいいですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「なんていうんですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「そんなことはいいよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">和彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「でも―」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">竜彦</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「知らなきゃ、口がきけな<sampling type="end" />いってもんでもないだろう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

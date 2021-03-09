@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00004" version="1.0" type="fixedLength">
+<article articleID="LBl8_00004_F001">
+<paragraph>
+<sentence>音符の<quote>「<ruby rubyText="テン・チン">田</ruby>」</quote>は説明するまでもなく鼓の音、つまりあの<quote>「かみなり」</quote>のあたかも太鼓を打つような<sampling type="start" />音の、擬声音を表したものであることは疑いない（後世の、雷と鬼と太鼓との漫画を併考すると、まことに面白い一致ではないか）。</sentence>
+<sentence>こうしてみるとこの字は図版中の１の字形の場合、雷鳴が左から右へ、あるいは右から左へと、転回しながら連続して鳴るさまを表した、指事文字とみてもよい。</sentence>
+<sentence>これは自然の雷鳴のさまを、きわめて巧みに表示した勝れた造字ではないか。</sentence>
+<sentence>一歩退いてみても、同じような雷鳴が横につながる（並びつながる）と見るのも、その字義の理解には変化はない。</sentence>
+<sentence>第二列の金文の字形は、雷鳴時の稲光りの形象とみても誤りあるまい。</sentence>
+<sentence>これは同じ金文欄の上段にあげた、２の<quote>「電」</quote>字の形象と併考しても疑いない。</sentence>
+<sentence>第三列目の形象になると、ついに意符の<quote>「雨」</quote>字が加わってくる。</sentence>
+<sentence>こうなるとこの形象は、雨の降る下で（雨雲の中とみてもよい）稲光りが走り、<quote>「<ruby rubyText="（デン）">田</ruby>」</quote>・<quote>「<ruby rubyText="（デン）">田</ruby>」</quote>…と鼓音がする。</sentence>
+<sentence>それはまさしく<quote>「かみなり」</quote>のことに外ならない。</sentence>
+<sentence>それは正しく後世の竜の飛天の図柄が、このような構図の中にこそあるのを知れば、さらに<ruby rubyText="うなず">首肯</ruby>けるであろう。</sentence>
+<sentence>竜には晴天・快晴の中での昇天は、絶対にありえないことなのである。</sentence>
+<sentence>もしあったとしたらそれは全くナンセンスであり、病臥の猪を描いて無教養の田舎者の疏菜売りの老婆に笑われた、江戸時代の名画家狩野探幽（一六〇二―一六七四）の青年期の話より以上の愚作であろう。</sentence>
+<sentence>以上によると、<quote>「雷」</quote>字はその字形の採り方の相違による字解は次のようになる。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鼓のような音が左から右へ、あるいは右から左へと転回して鳴るもの。</sentence>
+<sentence>かみなり。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>雨の下で稲光りがして鼓のような音が連なり走りまわるもの。</sentence>
+<sentence>かみなり。</sentence>
+<sentence>という二つの形が考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">天空の怪異と神秘二<quote>「電」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「雷」</quote>字の形象が判明したので、金文欄中の（２）の<quote>「<ruby rubyText="テン">電</ruby>」</quote>字について考えてみよう。</sentence>
+<sentence>この形象を見てまず気がつくことは、<quote>「雷」</quote>字の第三列目の形象に比べて、ただ音符の<quote>「田」</quote>の添加がないだけである。</sentence>
+<sentence>それでも一応この字を分析してみよう。</sentence>
+<sentence>この字は意符の<quote>「<ruby rubyText="あめ">雨</ruby>」</quote>と、いなずま、または雷の振動の音と音符を兼ねる<quote>「<missingCharacter attribute="OldHanzi" unicode="U+FFFD" description="金文">〓</missingCharacter>」</quote>（＝<ruby rubyText="シン">申</ruby>）とから成る、会意形声文字である。</sentence>
+<sentence>そしてこの字のもつ字音の<quote>「テン」</quote>は、雷鳴が振動して長くのびる（→<ruby rubyText="シン">伸</ruby>・<ruby rubyText="シン">紳</ruby>・<ruby rubyText="シン">引</ruby>）の意からきているものである。</sentence>
+<sentence>そしてこの字のもつ字義は、雨の中で電が振動してサッと長くのびるもの、つまり<ruby rubyText="いな">稲</ruby><ruby rubyText="ずま">妻</ruby>がひらめく、引いて稲光り・稲妻ということである。</sentence>
+<sentence>以上のように<quote>「雷」</quote>（＝靁）と<quote>「電」</quote>字の古体字形を判断すると、<quote>「竜」</quote>（龍）字の甲骨文字の字形（２）や、金文形象の長く尾を引いたものは、龍を擬虫化した場合に、稲光りの長く走る尾を形象化したものではないかという、推測も当然成り立つものと信ぜられるのである。</sentence>
+<sentence>なおここの<quote>「虫」</quote>とは、怪奇なもの・不思議な<sampling type="end" />むし・霊怪な生きものなどの意とみるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

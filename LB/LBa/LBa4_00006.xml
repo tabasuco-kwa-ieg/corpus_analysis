@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa4_00006" version="1.0" type="fixedLength">
+<article articleID="LBa4_00006_F001">
+<paragraph>
+<sentence>　<quote>「形の物理学」</quote><quote>「日常身近の物理学」</quote>といった寺田流<sampling type="start" />の物理学を確立された寺田寅彦先生のお弟子さんに中谷宇吉郎（北大教授・故人）という物理学者がおられた。</sentence>
+<sentence>中谷教授はわかりやすい流麗な文章を書くことを得意とするエッセイストとしても有名であった。</sentence>
+<sentence>氏の業績の中でも人工雪の実験は世界に知られ、<quote>「雪は天からの手紙である」</quote>との美しいことばを残された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人工雪の実験は、最初は霜をつくることからはじまった。</sentence>
+<sentence>人工霜をつくる原理的な装置を示したのが図９・１である。</sentence>
+<sentence>なぜここで人工霜の話をするのかといえば、その原理が真空蒸着と同じであるからだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、木の箱の底に水を入れた皿をおき、皿の水の温度を五度Ｃから一〇度Ｃに保つようにして、木の箱の天井に銅板をおく。</sentence>
+<sentence>そして、この装置全体をマイナス二〇度Ｃからマイナス三〇度Ｃの低温室に入れてしばらくおく。</sentence>
+<sentence>すると熱伝導のよい銅板が冷やされて、銅板の下の面に霜の結晶が成長する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この実験装置の内部では、水の表面に接した空気は水からの熱であたためられ、水蒸気でほとんど飽和状態となっていて、あたたまったこの空気はゆっくりと上昇して銅板で冷やされ、そのあとを木の枠に沿う下降気流が埋める。</sentence>
+<sentence>上昇した空気が銅板の内側の表面に接すると霜が数多くできる。</sentence>
+<sentence>冬の朝、屋根の全部が白く霜でおおわれているのと同じことが木箱のなかでも起こっていることがわかったであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図９．１　人工霜の発生装置（中谷）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">金属の薄膜をつくるには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、人工霜をつくったのと同じ原理で、ガラスや結晶材料（基板）の表面に金属の霜、つまり金属薄膜をつくることができる。</sentence>
+<sentence>われわれがよく知っている金属の融点は摂氏何百度から何千度というように、霜の融点よりもはるかに高い。</sentence>
+<sentence>が、温度のスケールをずらせてやれば、霜と同じことができるわけだ。</sentence>
+<sentence>室温における水と同じように金属を液体にするには、金属を加熱してやればよい。</sentence>
+<sentence>金属が液体になって、その液体の表面から飛び出る金属の蒸気の流れを室温の基板の表面にあてれば、室温は金属の融点よりずっと低い温度だから、その基板の表面には金属の蒸着薄膜ができると考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、この方法には一つ欠陥がある。</sentence>
+<sentence>それは、空気中で金属を加熱すると酸化してしまうことである。</sentence>
+<sentence>酸化をさけるためには、加熱するときの環境を真空にすることが必要となる。</sentence>
+<sentence>それが真空蒸着であり、薄膜を基板面上につけるのに広く利用される方法である。</sentence>
+<sentence>具体的には、一〇のマイナス五乗トリチェリ（〇・〇〇一気圧前後）以下の低圧にした真空槽の内部で薄膜にしようとする金属を加熱して蒸発させ、平滑な基板、表面の上に付着させて、薄膜をつくることにな<sampling type="end" />る。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo7_00044" version="1.0" type="fixedLength">
+<article articleID="LBo7_00044_F001">
+<paragraph>
+<sentence>　ヒストグラムとは、画像を明暗の分布図で示したも<sampling type="start" />ので、たいていの場合、左が階調の０＝黒、右が階調の２５５＝白を表す。</sentence>
+<sentence>適正な露出で撮影したメリハリのある画像の場合、標準的な被写体では、この分布は中央が盛り上がった山になる。</sentence>
+<sentence>露出がアンダーだと山は左側による。</sentence>
+<sentence>オーバーだとその逆だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし水中写真の場合、この山の分布が全域にわたっていても、メリハリがある画像とない画像がある。</sentence>
+<sentence>それはなぜか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実はこのヒストグラムは、単色のグラデーションをみているのではなくて、ＲＧＢそれぞれのグラフの積算値なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　単色のヒストグラムの下にある、３色のグラフを見てほしい。</sentence>
+<sentence>陸上の画像ではＲＧＢすべての山がそろって中央で盛り上がっているが、メリハリのない水中画像では、山は各所に分布している。</sentence>
+<sentence>確かにこの山を３つ影絵のようにして見ると、一つの山並みに見えるのだが、ＲＧＢ各チャンネルでみると、露出オーバーやアンダーが混在しているように見えるわけだ。</sentence>
+<sentence>山が明から暗までを使い切っていない場合、画像は眠くメリハリがなくなるので、その結果画像全体もメリハリがなくなってしまっているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そしてたいていのレタッチソフトでは、明るくするというと、この３つのチャンネルをまとめて処理したりする。</sentence>
+<sentence>しかしとんでもない。</sentence>
+<sentence>赤チャンネルは明るくして、青チャンネルは暗くしなければならないのである。</sentence>
+<sentence>そのためには、ＲＧＢのチャンネル、すべてを別々に処理できるソフトが必要となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それができるソフトは何かというと、必然的にアドビのＰｈｏｔｏｓｈｏｐなどの高級なソフトになってしまう。</sentence>
+<sentence>しかしそれではあまりお財布の具合が良くない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　でも安いソフトもある。</sentence>
+<sentence>それはＰｈｏｔｏｓｈｏｐの機能限定版のＶｅｒ．５．０Ｌｉｍｉｔｅｄ　Ｅｄｉｔｉｏｎと呼ばれるものだ。</sentence>
+<sentence>ＬＥは一般の<quote>「レタッチ記事」</quote>なんかがやっている合成とか、そういう機能ではあまりよろしくないが、我々が必要とする機能に関しては、すべてそろっていると思ってよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だからまじめにレタッチに取り組みたいユーザーは、水中用のお気楽レタッチソフトが世の中に存在しない以上、セカンドベストとしてＰｈｏｔｏｓｈｏｐ５．０ＬＥを手に入れることをおすすめする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒストグラムで画像を見る</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">チャンネルに分解してみる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">光の減衰とヒストグラム</sentence>
+<br type="automatic_original" />
+<sentence>水深が深くなると、光は色ごとに減衰していき、最後は緑と青だけが残る。</sentence>
+<sentence type="quasi">デジタルカメラは緑を中心に露出を決定するので、必ず緑が真ん中に残る</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｗｉｄｅ　Ｒｅｔｏｕｃｈ　Ｍａｓｔｅｒ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ワイドレタッチマスター</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">レタッチは撮るところから始まる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　じゃあいよいよレタッチに関する本題に入ってい<sampling type="end" />こう。</sentence>
+</paragraph>
+</article>
+</sample>

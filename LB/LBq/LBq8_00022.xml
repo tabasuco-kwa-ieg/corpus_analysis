@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq8_00022" version="1.0" type="fixedLength">
+<article articleID="LBq8_00022_F001">
+<quotation>
+<citation>
+<sentence>セメント５に水１の割合で混ぜて<sampling type="start" />ください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>参加者は，３対１の割合で初心者が多いようです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">比率―ｒａｔｉｏ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>この会社の男子社員に対する女子社員の比率は５：２です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>合格率はどのくらいですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>収入と支出の比率は３対２でした。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">縮尺―ｓｃａｌｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>この建物の模型は，１ｃｍ対３ｍの縮尺で作られています。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>この地図の縮尺は１０ｋｍに対して１ｃｍです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">○パーセント（％）―○ｐｅｒｃｅｎｔ／ｐｅｒｃｅｎｔａｇｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>商品には５％の消費税がかかります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<sentence>＊―形容詞的に使われる場合には数と単位の間にハイフンを入れます。</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>乗客の９０％が通勤客です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>経費削減で交際費が４０％切りつめられました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>タクシーの利用客が去年に比べて２０％落ち込みました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">全品７０％引きの出血大バーゲン</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>交渉は１００％うまくいきました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>女性は全社員の何％ですか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">◆確率（Ｃｈａｎｃｅ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">見込み―ｃｈａｎｃｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>当社があの工事を受注できる見込みは５分の１です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>飛行機事故に遭う可能性は１万分の１もありません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>もはや成功する見込みはありません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>彼が優勝する見込みはどのくらいありますか。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">確率―ｐｒｏｂａｂｉｌｉｔｙ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>明日の降水確率は５０％です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<sentence>＊―形容詞的に使われる場合には数と単位の間にハイフンを入れます。</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>私が代表に選ばれる確率は３分の１です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">五分五分―ｅｖｅｎｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>この方法が有効かどうかは五分五分です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">十中八九―ｔｈｅｎ　ｔｏ　ｏｎｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>残念ながら，この天候の回復は十中八九望めないでしょう。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">九分九厘―ａ　９９％　ｃｈａｎｃｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>次期社長には九分九厘，彼が選ばれると思います。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">千載一遇―ａ　ｏｎｅ‐ｉｎ‐ａ‐ｍｉｌｌｉｏｎ　ｏｐｐｏｒｔｕｎｉｔｙ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>これはまさしく千載一遇のチャンスです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">◆平均（ａｖｅｒａｇｅｓ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〜の平均―ｔｈｅ　ａｖｅｒａｇｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>当社の社員の平均勤続年数は１８年です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>この冬の降雪量は平年より１０％少なかった。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">平均して―ｂｙ（ａｔ）ａｎ　ａｖｅｒａｇｅ　ｏｆ／ｏｎ　ａｖｅｒａｇｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>日本の卸売物価は毎年平均して１．９％上昇しています。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>この５年間の経済成長率は平均して年３％でした。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>この駅の乗降客は一日平均５０人にしかすぎません。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">〜を平均する―ａｖｅｒａｇｅ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>当店の１人あたりの１日の購入金額を平均すると，３５８２円になります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">知っ得コーナー<enclosedCharacter description="●">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">慣用句・四字熟語</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆慣用句（Ｊａｐａｎｅｓｅ　Ｉｄｉｏｍｓ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>＊―日本語に対応する英語の慣用句はかならずしも存在しません。</sentence>
+<sentence>そのときは直訳か言い回しになります。</sentence>
+<sentence>品詞はいろいろで，完全な文章になるものもあります。</sentence>
+<sentence>また，数字表現を使わない英語の決まり文句もあります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">◆四字熟語（Ｆｏｕｒ‐Ｃｈａｒａｃｔｅｒ‐Ｃｏｍｐｏｕｎｄｓ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">第４章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">数量語句の周辺</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｇｅｎｅｒａｌ　Ｅｘｐｒｅｓｓｉｏｎｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆以上／以下（Ｍｏｒｅ／Ｌｅ<sampling type="end" />ｓｓ）</sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

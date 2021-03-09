@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc9_00070" version="1.0" type="fixedLength">
+<article articleID="LBc9_00070_F001">
+<paragraph>
+<sentence>　『秋田街道』は、学友たち<sampling type="start" />と夜っぴて歩いた盛岡から<ruby rubyText="しずく">雫</ruby><ruby rubyText="いし">石</ruby>までの青春放浪記である。</sentence>
+<sentence>歩行により展開される最初の作品と言ってもよいが、これは大正六年七月（賢治二十一歳）の体験をまとめたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　七つ森や小岩井は賢治が好んだ散策の地として、以後しばしば詩歌や童話に登場する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　初秋の七つ森や小岩井農場を歩くと、自然の演じるドラマに見とれて時がたつのさえ忘れてしまう。</sentence>
+<sentence>田沢湖線（当時は軽便鉄道）の小岩井駅を降りて線路に沿って西に進むと、前方やや左手に<ruby rubyText="み">三</ruby><ruby rubyText="ての">手</ruby><ruby rubyText="もり">森</ruby>山が見える。</sentence>
+<sentence>標高三百メーターほどの小さな山だ。</sentence>
+<sentence>その左側にお<ruby rubyText="わん">椀</ruby>をふせたような山が七つばかり点々と連なって見える。</sentence>
+<sentence>いずれも三百にも満たないなだらかな山だ。</sentence>
+<sentence>これが<quote>「薄明の寒天のなかにつゝまるゝしらくもと河と七つの丘と」</quote>と賢治が<ruby rubyText="よ">詠</ruby>んだ七つ森である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　七つ森は離れて眺めるとまるでグリム童話の<quote>「白雪姫と七人の小人」</quote>の人のよい<quote>「妖精」</quote>のようにやさしく愛らしく思える。</sentence>
+<sentence>今は麓まで住宅が押しよせ車道が山を<ruby rubyText="き">截</ruby>っているが、登ってみるとラリックス（落葉松）と杉や柏のがっしりした山だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　三手森山の手前で田沢湖線と十字に交差しているハイウエイが小岩井有料道路である。</sentence>
+<sentence>もちろん賢治存命のころにはなかった。</sentence>
+<sentence>この道を右に、つまり北にとると小岩井農場に至る。</sentence>
+<sentence>秋晴の朝、前方はるかに望む岩手山は肩のあたりに雲を巻き、青紫の<correction originalText="徴" type="erratum">微</correction>妙な色合いでそっと私に<correction originalText="徴" type="erratum">微</correction>笑んでくれた。</sentence>
+<sentence>秋になると空も山も林も磨いたばかりのようにつやつやと輝いている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">それよりもこんなせわしい心象の明滅をつらね<verseLine />すみやかなすみやかな<ruby rubyText="ばん">万</ruby><ruby rubyText="ぼう">法</ruby><ruby rubyText="る">流</ruby><ruby rubyText="てん">転</ruby>のなかに<verseLine />小岩井のきれいな野はらや牧場の標本が<verseLine />いかにも確かに<ruby rubyText="けい">継</ruby><ruby rubyText="き">起</ruby>するといふことが<verseLine />どんなに新鮮な奇蹟だらう<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　自費出版した詩集『春と修羅』に収めた<quote>「小岩井農場・パート一」</quote>の中で賢治はイーハトーヴの自然をこんな風に<ruby rubyText="よ">詠</ruby>んだ。</sentence>
+<sentence>一世紀に近い歴史をもつ小岩井農場はなだらかな岩手山の南麓に広がり、高原状のエキゾチックで牧歌的な雰囲気をかもしている。</sentence>
+<sentence>松で囲われた残丘と開けた牧草地、小さな沢、牛たちを夏の陽射しから守るために残された大きなこならの木、天まで伸びるサイロ、がっしりした荒削りの木の柵。</sentence>
+<sentence>これらがスケールの大きな独特のムードを作っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">もう入口だ〔小岩井農場〕<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">（いつものとほりだ）<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">混んだ野ばらやあけびのやぶ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">〔もの売りきのことりお断り申し候〕<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">（いつものとほりだ　ぢき医院もある）<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">〔禁猟区〕　ふん　いつものとほりだ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">小さな沢と青い<ruby rubyText="こ">木</ruby>だち<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">沢では水が暗くそして鈍ってゐる<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">また鉄ゼルのｆｌｕｏｒｅｓｃｅｎｃｅ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">向ふの畑には白樺もある<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　<quote>「小岩井農場・パート三」</quote>は農場の観光部を過ぎて<sampling type="end" />、ひ弱な体からは想像できない力強い諧調を帯びた独特の歩行スタイルで林や沢をずんずん歩いていく賢治の姿が描かれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

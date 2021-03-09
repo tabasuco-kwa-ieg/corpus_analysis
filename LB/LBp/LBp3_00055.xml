@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00055" version="1.0" type="fixedLength">
+<article articleID="LBp3_00055_F001">
+<paragraph>
+<sentence>　確かに，目的物の時価に相当する代価が提供されれば，理論的には，抵当権者が害されることもなく，抵当不動産の流通に<sampling type="start" />も寄与する。</sentence>
+<sentence>しかし，安い代価で滌除が申し立てられると，抵当権者の地位が脅かされる危険性がある。</sentence>
+<sentence>もちろん，そのような場合には抵当権者は滌除を拒み，後で述べる増<correction originalText="加" type="erratum">価</correction>競売を申し立てることができるが，この増<correction originalText="加" type="erratum">価</correction>競売にもさまざまな手続的制約があり，抵当権者の救済として実効的ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　むしろ，滌除は抵当権者が本来有する担保権の実行の自由を奪い，３９５条の制度のように抵当権実行の妨害の手段として使われることもありうる。</sentence>
+<sentence>そのため，立法論として滌除は廃止すべきであるという議論がなされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｗｅｂ　民事再生法の担保権消滅請求権制度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　民事再生法は，債務者の再生のために，目的物の価額に相当する金銭を提供して担保物権の消滅を申し立てる権利を債務者に認めている（<sentence>担保権消滅請求権。</sentence>
+<sentence type="quasi">民再１４８条</sentence>
+）。</sentence>
+<sentence>この制度は，滌除と同様に，被担保債権全額の弁済なくして抵当権を消滅させる点で不可分性の修正になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">滌除ができる者</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）滌除権者</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　民法は，滌除権者として，抵当不動産の所有権，地上権，永小作権を取得した者を挙げているが（３７８条），主たる債務者，保証人，およびその承継人は滌除権者から除外されている（３７９条）。</sentence>
+<sentence>これらは，被担保債権全額を弁済する義務を負う者であるからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）対抗要件の要否</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第三取得者が本登記をせずに仮登記をしている（権利自体はすでに取得している）場合に滌除できるかどうかが議論されている。</sentence>
+<sentence>判例はこれを肯定する（大決昭１０・７・３１民集１４巻１４４９頁）が，通説は，あくまで対抗要件を具備した第三取得者しか滌除できないとしている。</sentence>
+<sentence>ただし通説は，このような仮登記権利者や（３）の仮登記担保権者に対しても，後述（⇒滌除の手続）の抵当権実行の通知（３８１条）は必要であるとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）停止条件付譲渡の場合など</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　停止条件付の第三取得者は，条件の成否が未定の間は滌除できないとされている（３８０条）。</sentence>
+<sentence>したがって，仮登記担保権者（⇒第１３章２）は担保権の実行前には滌除できない。</sentence>
+<sentence>また，抵当不動産の所有権を担保のために譲り受けた者（譲渡担保権者⇒第１３章３）も滌除できるかどうかは問題であるが，判例は担保権の実行前には滌除できないとしている（最判平７・１１・１０民集４９巻９号２９５３頁）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）共有不動産と滌除</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　共有不動産全体に抵当権が成立している場合に，一部の共有持分のみの譲受人が当該持分について滌除できるだろうか。</sentence>
+<sentence>判例はこれを否定した（最判平９・６・５民集５１巻５号２０９６頁）。</sentence>
+<sentence>その理由は，このような滌除を認めれば，抵当権者が１個の不動産につき全体的に把握している交換価値が分断され，抵当権者が害され<sampling type="end" />るという点である。</sentence>
+</paragraph>
+</article>
+</sample>

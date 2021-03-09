@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs4_00051" version="1.0" type="fixedLength">
+<article articleID="LBs4_00051_F001">
+<paragraph>
+<sentence>それは、相対論の役目は、基準系間の単なる<quote>「翻訳」</quote>に相当するものであって、実<sampling type="start" />質的な物理変化に関係するものではないという本書の解釈と、実質的な物理量である静止エネルギーｍ<subScript>０</subScript>ｃ<superScript>２</superScript>が相対論によってもたらされている事実とは矛盾するのではないかという点です。</sentence>
+<sentence>つまり、一方では実質的な物理変化とは無関係だと言いながら、他方では新しいタイプのエネルギーをつくり出しているというのは矛盾しないのか、という問題です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この疑問は、一見もっともなものですが、以下で述べる事情を考えると、矛盾でないことがわかります。</sentence>
+<sentence>つまり、すでに述べてきましたように、相対論の基本的な考え方は、自然法則は基準系の選択には左右されない普遍的なものであるとする点にあります。</sentence>
+<sentence>これは<quote>「共変性の原理」</quote>と呼ばれています。</sentence>
+<sentence>ニュートンの発見した運動方程式は、基準系が変わると式のかたちも変わる事情にあります。</sentence>
+<sentence>この点を修正したのが相対論で、付録３で議論してあるローレンツ変換を用いると、基準系が変わっても運動方程式のかたちは変わらないようになっています。</sentence>
+<sentence>そして生まれたのが、Ｅ<subScript>０</subScript>＝ｍ<subScript>０</subScript>ｃ<superScript>２</superScript>です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　相対論的な取り扱いが必要になるのは、物体の運動速度が光速に近づく場合ですがこのＥ<subScript>０</subScript>＝ｍ<subScript>０</subScript>ｃ<superScript>２</superScript>は物体が静止していても消えないで残るものです。</sentence>
+<sentence>これは奇妙に思われるかもしれません。</sentence>
+<sentence>つまり、運動速度が大きいときに初めて意味をもつ理論は、その速度が小さくなるとニュートンの普通の理論と同じになるはずで、したがって、Ｅ<subScript>０</subScript>＝ｍ<subScript>０</subScript>ｃ<superScript>２</superScript>が静止した物体に対しても出てくるのはおかしいのではないかというわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、この心配は、エネルギーという物理量の特徴を考えれば消えることがわかります。</sentence>
+<sentence>エネルギーはもともと、その絶対値には意味がなくて、異なる２つの状態に対して定義されるエネルギーの差が問題になるものです。</sentence>
+<sentence>観測にかかるエネルギーの値は、この差なのです。</sentence>
+<sentence>エネルギーを計る原点をどこに取っても、差を取れば、その違いは消えてしまい、常に同じ値となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは、ちょうど、距離をあらわすときに使う数直線と同じ事情にあります。</sentence>
+<sentence>距離は、数直線上の２個の数値の差としてあらわされるので、数直線の原点をどこに取っても距離は同じになります。</sentence>
+<sentence>このように、エネルギーの原点の取り方もまったく任意なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">自然の深層への理解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　しかし、古典力学の世界から飛び出して、より高い観点から自然現象を眺めようとする相対論の世界では、このエネルギーの原点の選び方に新しい意味がつけ加えられました。</sentence>
+<sentence>つまり、いままで捨て去られていたエネルギーの絶対値の中に、静止エネルギーｍ<subScript>０</subScript>ｃ<superScript>２</superScript>が潜んでいたのです。</sentence>
+<sentence>そのことに気づか<sampling type="end" />せてくれたのが相対論です。</sentence>
+</paragraph>
+</article>
+</sample>

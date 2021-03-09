@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe8_00001" version="1.0" type="fixedLength">
+<article articleID="LBe8_00001_F001">
+<paragraph>
+<sentence>詩歌によつて新しい生命を輝かし得た地名は、それが<quote>「ケルン」</quote>であらうと、はたまた<quote>「桃源郷」</quote>であらう<sampling type="start" />と、日本人の<quote>「歌枕」</quote>となることを、決して忘れるべきではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">歌枕考現學＊＊源氏名とわが易姓革名</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　茂吉の歌の中では、<quote>「ドン・キホーテ」</quote>も亦、歌枕の一種として、原・歌枕以上の效果を收めてゐた。</sentence>
+<sentence>このやうな例も、勿論二、三には止らぬ。</sentence>
+<sentence>事のついでに傑作を紹介しておかう。</sentence>
+<sentence>なほ斷つておかねばならぬのは、鐵幹、晶子、勇にもはたまた牧水、白秋にも、固有名詞の華麗奔放な驅使は枚擧に<ruby rubyText="いとま">遑</ruby>もないが、これらはあまりにも當然、かつ自然に過ぎて、今更、特に言及の要を認めない。</sentence>
+<sentence><quote>「事實」</quote>と<quote>「眞實」</quote>を強引無類に重ね合せて、おのが創作の基盤、信條、詩法を語る茂吉なればこそ、改めて引用考察の面白みもあらうといふものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse"><ruby rubyText="あか">赤</ruby><ruby rubyText="ひこ">彦</ruby>と赤彦が妻<ruby rubyText="あ">吾</ruby>に寢よと<ruby rubyText="のみ">蚤</ruby>とり<ruby rubyText="こな">粉</ruby>を呉れにけらずや<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">『赤光』</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">あが友の<ruby rubyText="こ">古</ruby><ruby rubyText="いづみ">泉</ruby><ruby rubyText="ち">千</ruby><ruby rubyText="かし">樫</ruby>は貧しけれさみだれの中をあゆみゐたりき<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">同</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">むらさきの<ruby rubyText="ぶ">葡</ruby><ruby rubyText="だう">萄</ruby>のたねはとほき世のアナクレオンの<ruby rubyText="のど">咽</ruby>を<ruby rubyText="ふさ">塞</ruby>ぎき<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">『寒雲』</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">寒の夜はいまだあさきに<ruby rubyText="はなみづ">洟</ruby>は<ruby rubyText="ウインケルマン">Ｗｉｎｃｋｅｌｍａｎｎ</ruby>のうへにおちたり<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">同</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　外國人固有名詞はしばらく置くとして、私自身が日本の人名に興味を持ち始めたのはいつの頃からだらう。</sentence>
+<sentence>神神の名は例外としよう。</sentence>
+<sentence><quote>「<ruby rubyText="たか">高</ruby><ruby rubyText="み">御</ruby><ruby rubyText="むすびの">産巢日</ruby><ruby rubyText="かみ">神</ruby>」</quote><quote>「<ruby rubyText="う">宇</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="し">志</ruby><ruby rubyText="あ">阿</ruby><ruby rubyText="し">斯</ruby><ruby rubyText="か">詞</ruby><ruby rubyText="び">備</ruby><ruby rubyText="ひこぢの">比古遲</ruby><ruby rubyText="かみ">神</ruby>」</quote><quote>「<ruby rubyText="おもだるの">淤母陀琉</ruby><ruby rubyText="かみ">神</ruby>」</quote>等は、固有名詞といふ點でなら、例の佛典における菩薩名、如來名、佛弟子名とやや趣を異にし、肉聲を以て<ruby rubyText="よば">喚</ruby>はるのには、いささか躊躇逡巡を感じ、かつ<quote>「言葉」</quote>以前の要素に滿ちてゐた。</sentence>
+<sentence>歷代天皇の名もこれに準ずる。</sentence>
+<sentence><quote>「<ruby rubyText="はつ">泊</ruby><ruby rubyText="せ">瀨</ruby>の<ruby rubyText="あさ">朝</ruby><ruby rubyText="くら">倉</ruby>の宮に天の下知らしめしし<ruby rubyText="すめらみこと">天皇</ruby>＝<ruby rubyText="おほ">大</ruby><ruby rubyText="はつ">泊</ruby><ruby rubyText="せ">瀨</ruby><ruby rubyText="わかたけの">稚武</ruby><ruby rubyText="すめらみこと">天皇</ruby>＝雄略天皇」</quote>や、<quote>「<ruby rubyText="を">小</ruby><ruby rubyText="はつ">泊</ruby><ruby rubyText="せ">瀨</ruby><ruby rubyText="わかさざきの">稚鷦鷯</ruby><ruby rubyText="すめらみこと">天皇</ruby>＝武烈天皇」</quote>など、それ自體が榮頒祝詞のたぐひであり、<ruby rubyText="みこ">皇子</ruby>、<ruby rubyText="ひめみこ">皇女</ruby>を始めとする皇族名も、發想や修辭の妙を囃すやうなものではない。</sentence>
+<sentence><ruby rubyText="なみ">竝</ruby>の人の名、それも命名者の叡智と深慮と、時には惡意を、被命名者の宿命をこもごもに感じるやうな姓名に出會ふのは、やはり七世紀に入つてからであらうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『日本書紀』の、あの<quote>「<ruby rubyText="ヒ">比</ruby><ruby rubyText="ト">騰</ruby><ruby rubyText="ミ">瀰</ruby><ruby rubyText="ツ">都</ruby><ruby rubyText="ラ">羅</ruby><ruby rubyText="ム">武</ruby><ruby rubyText="カ">箇</ruby>＝人見つらむか」</quote>風の鬱蒼たる漢字のジャングルの中に、たとへば<quote>「<ruby rubyText="あづみの">阿曇</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="つら">頰</ruby><ruby rubyText="たり">垂</ruby>」</quote><quote>「<ruby rubyText="よさみの">依網</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="わくご">稚子</ruby>」</quote><quote>「<ruby rubyText="もののべの">物部</ruby><ruby rubyText="えのゐの">朴井</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="しび">鮪</ruby>」</quote><quote>「<ruby rubyText="しほやの">鹽屋</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="このしろ">鯯魚</ruby>」</quote><quote>「<ruby rubyText="はしひとの">間人</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="み">御</ruby><ruby rubyText="うまや">厩</ruby>」</quote><quote>「<ruby rubyText="せう">小</ruby><ruby rubyText="せんげつの">山下津</ruby><ruby rubyText="おみ">臣</ruby><ruby rubyText="くつま">傴僂</ruby>」</quote>等が陸續と現れるのは、これらの人物の入亂れる有間皇子の悲劇と共に幻惑的であつた。</sentence>
+<sentence>こんな怖ろしい名稱の男が往來出沒する大和朝廷に、血を血で洗ふクーデターや謀叛の、續かぬ方がむしろをかしいと、好奇心の強い少年である私は、胸を躍らせてゐたことだ。</sentence>
+<sentence>そしてこのあたりから、<quote>「<ruby rubyText="おみ">臣</ruby>・<ruby rubyText="むらじ">連</ruby>・<ruby rubyText="とものみやつこ">伴造</ruby>・<ruby rubyText="くにのみやつこ">國造</ruby>」</quote>すなはち宮廷に列する中、上級官吏、及び下級官吏の一部の、多彩な名が史書に跳梁しつつ、大寳律令の時代に移つて行くのだ。</sentence>
+<sentence>やや遡りつつ今日のわれわれにとつての奇姓麗名を連ねるなら<quote>「<ruby rubyText="あへの">阿閑</ruby><ruby rubyText="おみ">臣</ruby><ruby rubyText="おほ">大</ruby><ruby rubyText="こ">籠</ruby>」</quote><quote>「<ruby rubyText="はじべの">土部</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="うさぎ">菟</ruby>」</quote><quote>「<ruby rubyText="くらつくりの">鞍作</ruby><ruby rubyText="とり">鳥</ruby>」</quote><quote>「<ruby rubyText="おほしかふちの">大河内</ruby><ruby rubyText="あたひ">直</ruby><sampling type="end" /><ruby rubyText="ぬか">糠</ruby><ruby rubyText="て">手</ruby>」</quote><quote>「<ruby rubyText="たかむくの">高向</ruby><ruby rubyText="あやひとの">漢人</ruby><ruby rubyText="くろまろ">玄理</ruby>」</quote><quote>「<ruby rubyText="いぬかみの">犬上</ruby><ruby rubyText="きみ">君</ruby><ruby rubyText="み">御</ruby><ruby rubyText="た">田</ruby><ruby rubyText="すき">鍬</ruby>」</quote><quote>「<ruby rubyText="あはたの">粟田</ruby><ruby rubyText="おみ">臣</ruby><ruby rubyText="いひ">飯</ruby><ruby rubyText="むし">蟲</ruby>」</quote><quote>「<ruby rubyText="さゐの">狹井</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="あぢまさ">檳榔</ruby>」</quote><quote>「<ruby rubyText="あふみの">淡海</ruby><ruby rubyText="ま">眞</ruby><ruby rubyText="ひと">人</ruby><ruby rubyText="み">三</ruby><ruby rubyText="ふね">船</ruby>」</quote><quote>「<ruby rubyText="ちひさこべの">小子部</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="さ">鉏</ruby><ruby rubyText="ひち">鉤</ruby>」</quote><quote>「<ruby rubyText="ふみのおびと">書首</ruby><ruby rubyText="ね">根</ruby><ruby rubyText="ま">麻</ruby><ruby rubyText="ろ">呂</ruby>」</quote><quote>「<ruby rubyText="やくちの">八口</ruby><ruby rubyText="あそみ">朝臣</ruby><ruby rubyText="おと">音</ruby><ruby rubyText="かし">橿</ruby>」</quote><quote>「<ruby rubyText="いんべの">忌部</ruby><ruby rubyText="すくね">宿禰</ruby><ruby rubyText="しこ">色</ruby><ruby rubyText="ふ">夫</ruby><ruby rubyText="ち">知</ruby>」</quote><quote>「<ruby rubyText="しらゐの">白猪</ruby><ruby rubyText="ふびと">史</ruby><ruby rubyText="ほね">骨</ruby>」</quote><quote>「<ruby rubyText="きぶみの">黃文</ruby><ruby rubyText="むらじ">連</ruby><ruby rubyText="そなふ">備</ruby>」</quote><quote>「<ruby rubyText="をさだの">他田</ruby>日奉<ruby rubyText="ひまつリベの">部</ruby><ruby rubyText="あたひ">直</ruby><ruby rubyText="じん">神</ruby><ruby rubyText="ご">護</ruby>」</quote>。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt8_00002" version="1.0" type="fixedLength">
+<article articleID="LBt8_00002_F001">
+<paragraph>
+<sentence>この変換をやりやすくするために、円周を等分して文字を記入し<sampling type="start" />た円形計算尺などの道具も作られている（図２・１０）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　普通には平文（Ｐ）の文字（に対応する前記の数、以下同じ）に鍵字（Ｋ）の文字を前述のように加えて暗号文（Ｃ）の文字にするので、これを、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と表現する。</sentence>
+<sentence type="quasi">翻訳するには、逆に減法をして、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>とする。</sentence>
+<sentence type="quasi">あるいは、２６‐Ｋに相当する補字、たとえばＢに対してＺ、Ｃに対してＹ、…を逆の鍵（Ｋ’）として、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>とする。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　しかし、暗号文の作成に、加法でなく</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と減法を使う方式が一部の機械暗号で使われた。</sentence>
+<sentence>この減法方式では鍵字がＡでも暗号になる。</sentence>
+<sentence>結果的には各文字は補字にうつされて、それからいくつかずらされる。</sentence>
+<sentence type="quasi">この方式が好都合なのは、こうすると翻訳も</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>であり、暗号文の作成とまったく同じ操作で可能な点である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　これらをもっと一般化したのが、一般の単文字換字暗号である。</sentence>
+<sentence>これはＡからＺまでの二六個の任意の置換（一対一変換）をとり、たとえばＡをＫに、ＢをＳに、ＣをＵに、ＤをＢに…といったふうに、まったくアルファベットの順序を無視する。</sentence>
+<sentence>もっと極端な場合には、記号（『黄金虫』の例）や絵（『踊る人形』の例）に変換する。</sentence>
+<sentence>もっともこういう暗号は、文書にはよいが、電気通信用には不向きである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　文字を数字に変換することもあるが、その場合には、単文字換字ではなくて、後述の暗号辞書を使うか、あるいはその数字列を平文として、さらに他の変換を施して暗号文とするのが普通である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで今日では、書かれた言語が既知である単文字換字暗号は、容易に解読できる。</sentence>
+<sentence>古典的暗号学のかなりの部分は、その解読技法の解説である（<sentence>たとえば加藤正隆『基礎暗号学』サイエンス社、参照。</sentence>
+）しかし本書ではごく大ざっぱな考え方にとどめる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本来のシーザー暗号そのものならば、二五通りにずらしてみて、その中から意味のとれる文になるものをさがすという、極めて原始的な手法でも解読できる。</sentence>
+<sentence>もし正しく単語ごとに空白をあけて書かれていれば、語尾変化や、一文字の単語や、特有な形をしている単語などが手掛かりになる。</sentence>
+<sentence>また手紙ならば、冒頭や末尾のきまり文句から鍵字がわかることもある。</sentence>
+<sentence>ヨーロッパやアメリカの新聞にはしばしば娯楽欄に、<ruby rubyText="ことわざ">諺</ruby>などの単文字換字暗号が載っている。</sentence>
+<sentence>これらはたいてい単語ごとに分かち書きされていて、このような手法で、たいして困難なく解読できる。</sentence>
+<sentence>一九六〇年代、私がアメリカ留学中、昼休みなどによく試みたが、八割ほどは三〇分くらいで解読できた経験がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、単文字換字の解読のもっともオーソドックスな手法は、文字やその列の頻度統計に基づくものである。</sentence>
+<sentence>この方法ならば、一般の単文字換字で、分かち書きされていないものでも解読できる。</sentence>
+<sentence>その例は、ポーの『黄金虫』の暗号<sampling type="end" />解読に典型的に示されている。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00016" version="1.0" type="fixedLength">
+<article articleID="LBrn_00016_F001">
+<abstract>
+<sentence><image no="5" description="女" />ＰｏｗｅｒＰｏｉｎｔを起動すると、プレゼンテーションの表紙とな<sampling type="start" />る<quote>「タイトル・スライド」</quote>が表示されます。</sentence>
+<sentence>スライドには［クリックしてタイトルを入力］というように、入力すべき項目が表示されているので、ここに文字を入力します。</sentence>
+<sentence>この枠組みのことを、<quote>「プレース・フォルダ」</quote>と言います。</sentence>
+<sentence>プレース・フォルダに文字やイラストを挿入しながらスライドを作ります。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence>［１］スライドのタイトルを入力します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［２］文字が入力できる状態になりました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［３］文字を入力します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">コラム</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">文字の書式を変えたい場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文字の<quote>「書体」</quote><quote>「大きさ」</quote><quote>「色」</quote>などを変えたい場合は、変更する文字列を範囲選択してから、≪書式設定≫ツール・バーにある各ボタンの<rejectedSpan type="etc"></rejectedSpan>をクリックして書式を選択します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">スライドを追加するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence><image no="6" description="男" />タイトル・スライドを作りましたが、次のスライドはどうやって追加したらいいのでしょうか。</sentence>
+<br type="automatic_original" />
+<sentence><image no="7" description="女" />新しいスライドを追加するには、ツールバーの［新しいスライド］ボタンをクリックします。</sentence>
+<sentence>このときレイアウトは［タイトルとテキスト］が挿入されますが、作業ウィンドウで変更することができます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence>［１］スライドを挿入します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［２］スライドが挿入されました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［３］タイトルとテキストを入力します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">コラム</sentence>
+<br type="automatic_original" />
+<sentence>スライドのレイアウトを変えたい！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スライドを新しく挿入すると<quote>「タイトルとテキスト」</quote>スライドが自動的に挿入されます。</sentence>
+<sentence>レイアウトを変更したい場合は、［スライドのレイアウト］作業ウィンドウから目的のレイアウトをクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">文字を枠内にうまく収めるには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence><image no="8" description="男" />スライドにテキストを入力していますが、入力する項目が多くて枠内からハミ出してしまいました。</sentence>
+<sentence>枠内に収めるにはどうしたらいいのでしょう。</sentence>
+<br type="automatic_original" />
+<sentence><image no="9" description="女" />枠からハミ出して入力しようとすると、自動的にスマート・タグが表示されます。</sentence>
+<sentence>このスマート・タグをクリックして、“枠内に収める”か、“新しいスライドに続ける”かなどを選択できます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence>［１］文字が枠内に自動的に収まるように設定します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［２］文字が枠内に自動的に収まりました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">コラム</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">文字を２段組にできる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「枠内からたくさんの文字がハミ出してしまうけれど、このスライド内に文字を収めたい」</quote>という場合は、２段組みに変更することができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">スライドにイラストを入れるには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence><image no="10" description="女" />スライドには、文字以外にもイラストを挿入してインパクトのあるプレゼンテーションにすることができます。</sentence>
+<sentence>スライドにイラストを入れるには、入れたい位置に<quote>「コンテンツ」</quote>の入ったレイアウトを選択します。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence>［１］新スライドを挿入し、レイアウトを変更します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［２］タイトルとテキストを入力します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［３］クリップ・アートを挿入します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［４］図を選択します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>［５］図が挿入されました。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">スライドに表をいれるには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence><image no="11" description="女" />ＰｏｗｅｒＰｏｉｎｔでは表を挿入することがで<sampling type="end" />きます。</sentence>
+</abstract>
+</article>
+</sample>

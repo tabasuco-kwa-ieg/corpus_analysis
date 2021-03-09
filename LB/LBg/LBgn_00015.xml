@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBgn_00015" version="1.0" type="fixedLength">
+<article articleID="LBgn_00015_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />静</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">１４かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　セイ・ジョウ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　しず・しずか・しずまる・しずめる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter>じっとして<ruby rubyText="うご">動</ruby>かない。</sentence>
+<sentence>しずまる。</sentence>
+<sentence>しずめる。</sentence>
+<sentence>―<ruby rubyText="せい">静</ruby><ruby rubyText="し">止</ruby>・<ruby rubyText="せい">静</ruby><ruby rubyText="ぶつ">物</ruby>　<enclosedCharacter description="○">二</enclosedCharacter>ひっそりしている。</sentence>
+<sentence>しずか。</sentence>
+<sentence>―<ruby rubyText="せい">静</ruby>じゃく・<ruby rubyText="せい">静</ruby>しゅく　<enclosedCharacter description="○">三</enclosedCharacter><ruby rubyText="お">落</ruby>ちついている。</sentence>
+<sentence>やすらか。</sentence>
+<sentence>おだやか。</sentence>
+<sentence type="quasi">―<ruby rubyText="あん">安</ruby><ruby rubyText="せい">静</ruby>・<ruby rubyText="れい">冷</ruby><ruby rubyText="せい">静</ruby>・<ruby rubyText="せい">静</ruby><ruby rubyText="よう">養</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼<ruby rubyText="やま">山</ruby>の<ruby rubyText="なか">中</ruby>の<ruby rubyText="しず">静</ruby>かな<ruby rubyText="みん">民</ruby><ruby rubyText="しゅく">宿</ruby>にとまった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="こころ">心</ruby>を<ruby rubyText="しず">静</ruby>めて<ruby rubyText="はなし">話</ruby>を<ruby rubyText="き">聞</ruby>いてください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="せい">静</ruby>しゅくにしてください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="れい">冷</ruby><ruby rubyText="せい">静</ruby>に<ruby rubyText="こう">行</ruby><ruby rubyText="どう">動</ruby>する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="じょう">静</ruby><ruby rubyText="みゃく">脈</ruby>に<ruby rubyText="ちゅう">注</ruby>しゃをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">街</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">１２かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　ガイ・カイ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　まち</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter>まち。</sentence>
+<sentence>にぎわっているまち。</sentence>
+<sentence>まちなみ。</sentence>
+<sentence>―<ruby rubyText="しょう">商</ruby><ruby rubyText="てん">店</ruby><ruby rubyText="がい">街</ruby>・<ruby rubyText="がい">街</ruby><ruby rubyText="とう">頭</ruby>・<ruby rubyText="がい">街</ruby><ruby rubyText="ろ">路</ruby><ruby rubyText="じゅ">樹</ruby>・<ruby rubyText="し">市</ruby><ruby rubyText="がい">街</ruby>・<ruby rubyText="がい">街</ruby><ruby rubyText="とう">灯</ruby>・<ruby rubyText="まち">街</ruby><ruby rubyText="かど">角</ruby>　<enclosedCharacter description="○">二</enclosedCharacter><ruby rubyText="おお">大</ruby>きな<ruby rubyText="とお">通</ruby>り。</sentence>
+<sentence type="quasi">―<ruby rubyText="かい">街</ruby><ruby rubyText="どう">道</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼<ruby rubyText="えき">駅</ruby>の<ruby rubyText="ちか">近</ruby>くには<ruby rubyText="しょう">商</ruby><ruby rubyText="てん">店</ruby><ruby rubyText="がい">街</ruby>がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="せん">選</ruby><ruby rubyText="きょ">挙</ruby>カーで、<ruby rubyText="がい">街</ruby><ruby rubyText="とう">頭</ruby><ruby rubyText="えん">演</ruby><ruby rubyText="ぜつ">説</ruby>をする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ゆう">夕</ruby><ruby rubyText="がた">方</ruby>になると<ruby rubyText="がい">街</ruby><ruby rubyText="とう">灯</ruby>がともります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼この<ruby rubyText="みち">道</ruby>は<ruby rubyText="にっ">日</ruby><ruby rubyText="こう">光</ruby><ruby rubyText="かい">街</ruby><ruby rubyText="どう">道</ruby>といいます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="まち">街</ruby><ruby rubyText="かど">角</ruby>で<ruby rubyText="ともだち">友達</ruby>と<ruby rubyText="た">立</ruby>ち<ruby rubyText="ばなし">話</ruby>をした。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="やま">山</ruby>の<ruby rubyText="ちょう">頂</ruby><ruby rubyText="じょう">上</ruby>からながめると、<ruby rubyText="まち">街</ruby>のあかりがとてもきれいです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">冷　熱　焼</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">冷</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">７かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　レイ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　つめたい・ひえる・ひや・ひやす・ひやかす・さめる・さます</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter>つめたい。</sentence>
+<sentence>ひえる。</sentence>
+<sentence>ひやす。</sentence>
+<sentence>―<ruby rubyText="れい">冷</ruby><ruby rubyText="すい">水</ruby>・<ruby rubyText="れい">冷</ruby><ruby rubyText="き">気</ruby>・<ruby rubyText="れい">冷</ruby><ruby rubyText="ぞう">蔵</ruby><ruby rubyText="こ">庫</ruby>・<ruby rubyText="れい">冷</ruby>とう・<ruby rubyText="れい">冷</ruby><ruby rubyText="がい">害</ruby>・<ruby rubyText="かん">寒</ruby><ruby rubyText="れい">冷</ruby>・<ruby rubyText="れい">冷</ruby>ぼう　<enclosedCharacter description="○">二</enclosedCharacter><ruby rubyText="こころ">心</ruby>がひややか。</sentence>
+<sentence><ruby rubyText="おも">思</ruby>いやりがない。</sentence>
+<sentence><ruby rubyText="お">落</ruby>ち<ruby rubyText="つ">着</ruby>いている。</sentence>
+<sentence type="quasi">―<ruby rubyText="れい">冷</ruby><ruby rubyText="せい">静</ruby>・<ruby rubyText="れい">冷</ruby>こく・<ruby rubyText="れい">冷</ruby>たん</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼<ruby rubyText="れい">冷</ruby><ruby rubyText="ぞう">蔵</ruby><ruby rubyText="こ">庫</ruby>に<ruby rubyText="むぎ">麦</ruby><ruby rubyText="ちゃ">茶</ruby>が<ruby rubyText="ひ">冷</ruby>えていますよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="なつ">夏</ruby>、<ruby rubyText="き">気</ruby><ruby rubyText="おん">温</ruby>が<ruby rubyText="ひく">低</ruby>いと、<ruby rubyText="れい">冷</ruby><ruby rubyText="がい">害</ruby>が<ruby rubyText="しん">心</ruby><ruby rubyText="ぱい">配</ruby>だ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ゆ">湯</ruby><ruby rubyText="ざ">冷</ruby>ましで<ruby rubyText="くすり">薬</ruby>を<ruby rubyText="の">飲</ruby>む。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="つめ">冷</ruby>たい<ruby rubyText="かわ">川</ruby>の<ruby rubyText="みず">水</ruby>ですいかを<ruby rubyText="ひ">冷</ruby>やす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼あわてず<ruby rubyText="れい">冷</ruby><ruby rubyText="せい">静</ruby>に<ruby rubyText="こう">行</ruby><ruby rubyText="どう">動</ruby>しなさい。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="れい">冷</ruby>こくな<ruby rubyText="はん">犯</ruby><ruby rubyText="ざい">罪</ruby><ruby rubyText="しゃ">者</ruby>がつかまった。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">熱</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">１５かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　ネツ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　あつい</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter><ruby rubyText="おん">温</ruby><ruby rubyText="ど">度</ruby>が<ruby rubyText="たか">高</ruby>い。</sentence>
+<sentence>あつい。</sentence>
+<sentence>あつさ。</sentence>
+<sentence>―<ruby rubyText="ねっ">熱</ruby><ruby rubyText="き">気</ruby>・<ruby rubyText="ねっ">熱</ruby><ruby rubyText="とう">湯</ruby>・<ruby rubyText="ねっ">熱</ruby><ruby rubyText="たい">帯</ruby>・<ruby rubyText="ねつ">熱</ruby><ruby rubyText="びょう">病</ruby>・<ruby rubyText="か">加</ruby><ruby rubyText="ねつ">熱</ruby>・<ruby rubyText="ねっ">熱</ruby><ruby rubyText="ぷう">風</ruby>　<enclosedCharacter description="○">二</enclosedCharacter><ruby rubyText="こころ">心</ruby>をうちこむ。</sentence>
+<sentence>いっしょうけんめいになる。</sentence>
+<sentence>―<ruby rubyText="ねっ">熱</ruby><ruby rubyText="しん">心</ruby>・<ruby rubyText="ねっ">熱</ruby><ruby rubyText="ちゅう">中</ruby>・<ruby rubyText="ねっ">熱</ruby><ruby rubyText="せん">戦</ruby>・<ruby rubyText="じょう">情</ruby><ruby rubyText="ねつ">熱</ruby>・<ruby rubyText="ねつ">熱</ruby><ruby rubyText="い">意</ruby>　<enclosedCharacter description="○">三</enclosedCharacter>ふつうより<ruby rubyText="たか">高</ruby>い<ruby rubyText="たい">体</ruby><ruby rubyText="おん">温</ruby>。</sentence>
+<sentence type="quasi">―<ruby rubyText="はつ">発</ruby><ruby rubyText="ねつ">熱</ruby>・<ruby rubyText="げ">解</ruby><ruby rubyText="ねつ">熱</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼<ruby rubyText="あつ">熱</ruby>いコーヒーを<ruby rubyText="の">飲</ruby>む。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ねっ">熱</ruby><ruby rubyText="とう">湯</ruby>をこぼしてやけどをした。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="きょう">競</ruby><ruby rubyText="ぎ">技</ruby><ruby rubyText="じょう">場</ruby>では<ruby rubyText="ねっ">熱</ruby><ruby rubyText="せん">戦</ruby>が<ruby rubyText="おこな">行</ruby>われていた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼サッカーに<ruby rubyText="ねっ">熱</ruby><ruby rubyText="ちゅう">中</ruby>しています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ねつ">熱</ruby>が<ruby rubyText="たか">高</ruby>いので<ruby rubyText="げ">解</ruby><ruby rubyText="ねつ">熱</ruby>ざいを<ruby rubyText="の">飲</ruby>んだ。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">焼</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">１２かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　ショウ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　やく・やける</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter>やく。</sentence>
+<sentence>やける。</sentence>
+<sentence>もやす。</sentence>
+<sentence>―<ruby rubyText="しょう">焼</ruby><ruby rubyText="しつ">失</ruby>・<ruby rubyText="ぜん">全</ruby><ruby rubyText="しょう">焼</ruby>・<ruby rubyText="しょう">焼</ruby>きゃく・<ruby rubyText="ねん">燃</ruby><ruby rubyText="しょう">焼</ruby>・<ruby rubyText="ゆう">夕</ruby><ruby rubyText="や">焼</ruby>け・<ruby rubyText="や">焼</ruby>け<ruby rubyText="いし">石</ruby>　<enclosedCharacter description="○">二</enclosedCharacter><ruby rubyText="にっ">日</ruby><ruby rubyText="こう">光</ruby>や<ruby rubyText="ゆき">雪</ruby>などで、ひふの<ruby rubyText="いろ">色</ruby>がかわる。</sentence>
+<sentence type="quasi">―<ruby rubyText="ひ">日</ruby><ruby rubyText="や">焼</ruby>け・<ruby rubyText="ゆき">雪</ruby><ruby rubyText="や">焼</ruby>け</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼おいもが<ruby rubyText="や">焼</ruby>けました。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ゆう">夕</ruby><ruby rubyText="や">焼</ruby>けで<ruby rubyText="にし">西</ruby>の<ruby rubyText="そら">空</ruby>が<ruby rubyText="あか">赤</ruby>くそまった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="か">火</ruby><ruby rubyText="じ">事</ruby>で<ruby rubyText="いえ">家</ruby>が<ruby rubyText="ぜん">全</ruby><ruby rubyText="しょう">焼</ruby>してしまった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="しょう">焼</ruby>きゃくろでゴミをもやす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="なつ">夏</ruby><ruby rubyText="やす">休</ruby>みに<ruby rubyText="うみ">海</ruby>に<ruby rubyText="い">行</ruby>った<ruby rubyText="こ">小</ruby><ruby rubyText="ばやし">林</ruby><ruby rubyText="くん">君</ruby>は、<ruby rubyText="ま">真</ruby>っ<ruby rubyText="くろ">黒</ruby>に<ruby rubyText="ひ">日</ruby><ruby rubyText="や">焼</ruby>けしていました。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">浅　低　底</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">浅</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">９かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　セン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　あさい</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">一</enclosedCharacter>あさい。</sentence>
+<sentence><ruby rubyText="みず">水</ruby>かさが<ruby rubyText="すく">少</ruby>ない。</sentence>
+<sentence>―<ruby rubyText="あさ">浅</ruby>せ・<ruby rubyText="とお">遠</ruby><ruby rubyText="あさ">浅</ruby>・<ruby rubyText="せん">浅</ruby><ruby rubyText="かい">海</ruby>・<ruby rubyText="しん">深</ruby><ruby rubyText="せん">浅</ruby>　<enclosedCharacter description="○">二</enclosedCharacter><ruby rubyText="いろ">色</ruby>がうすい。</sentence>
+<sentence>―<ruby rubyText="あさ">浅</ruby><ruby rubyText="みどり">緑</ruby>・<ruby rubyText="あさ">浅</ruby><ruby rubyText="ぐろ">黒</ruby>い　<enclosedCharacter description="○">三</enclosedCharacter><ruby rubyText="がく">学</ruby><ruby rubyText="もん">問</ruby>・<ruby rubyText="ち">知</ruby>しきなどが<ruby rubyText="すく">少</ruby>ない。</sentence>
+<sentence type="quasi">―<ruby rubyText="せん">浅</ruby><ruby rubyText="がく">学</ruby>・<ruby rubyText="あさ">浅</ruby>はか</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">つかいかた</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>▼<ruby rubyText="かわ">川</ruby>の<ruby rubyText="みず">水</ruby>の<ruby rubyText="あさ">浅</ruby>い<ruby rubyText="ところ">所</ruby>で<ruby rubyText="およ">泳</ruby>ぎましょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="とお">遠</ruby><ruby rubyText="あさ">浅</ruby>の<ruby rubyText="うみ">海</ruby>でしおひがりをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="はる">春</ruby>には<ruby rubyText="やまやま">山々</ruby>が<ruby rubyText="あさ">浅</ruby><ruby rubyText="みどり">緑</ruby><ruby rubyText="いろ">色</ruby>にそまる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼<ruby rubyText="ひ">日</ruby>に<ruby rubyText="や">焼</ruby>けてはだが<ruby rubyText="あさ">浅</ruby><ruby rubyText="ぐろ">黒</ruby>くなった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>▼まだまだ<ruby rubyText="せん">浅</ruby><ruby rubyText="がく">学</ruby>ですので、これから<ruby rubyText="べん">勉</ruby><ruby rubyText="きょう">強</ruby>していきたいと<ruby rubyText="おも">思</ruby>います。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">低</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">７かく</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">おん　テイ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">くん　ひくい・ひくめる・ひくまる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いみ―ことば</sentence>
+<br type="automatic_original" />
+<sentence>ひくい。</sentence>
+<sentence><ruby rubyText="した">下</ruby>のほう。</sentence>
+<sentence>ていどなどがひくい。</sentence>
+<sentence type="quasi">―<ruby rubyText="こう">高</ruby><ruby rubyText="てい">低</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="か">下</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="くう">空</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="おん">音</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="おん">温</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="ち">地</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="き">気</ruby><ruby rubyText="あつ">圧</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="がく">学</ruby><ruby rubyText="ねん">年</ruby><sampling type="end" />・<ruby rubyText="さい">最</ruby><ruby rubyText="てい">低</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="きゅう">級</ruby>・<ruby rubyText="てい">低</ruby><ruby rubyText="ちょう">調</ruby></sentence>
+</listItem>
+</list>
+</article>
+</sample>

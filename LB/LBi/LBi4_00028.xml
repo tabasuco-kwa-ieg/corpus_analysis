@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00028" version="1.0" type="fixedLength">
+<article articleID="LBi4_00028_F001">
+<sentence>を得るが，ψ，χの任意性から演算子としてのＶ（ｔ）がｔ→±∞でゼロになる<sampling type="start" />と考えてはならない．</sentence>
+<sentence>つまり任意の状態にＶ（ｔ）を作用させたもののノルムがゼロになるのではなくて，行列要素がゼロになるのである<noteMarker text="＊" />．</sentence>
+<sentence>演算子に対するこのような行列要素での極限を，その演算子の弱極限（ｗｅａｋ　ｌｉｍｉｔ）とよぶ．</sentence>
+<sentence>われわれは，無限の過去または未来の極限は，いつも弱極限で考える必要がある．</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>＊　｜ｎ＞を完全直交系とするならば，<rejectedSpan type="formula"></rejectedSpan>および（２．１２８）から得られる<rejectedSpan type="formula"></rejectedSpan>を用いて，<rejectedSpan type="formula"></rejectedSpan>としてはならない．</sentence>
+<sentence><rejectedSpan type="formula"></rejectedSpan>の無限項の和をとる極限操作と<rejectedSpan type="formula"></rejectedSpan>の極限操作の交換が保障されていないからである．</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　もう１つの注意は，場の量子論では量子力学と違って，全ハミルトニアンを自由ハミルトニアンと相互作用ハミルトニアンの２つの部分に分割するとき，その分割の仕方が自明でないことである．</sentence>
+<sentence>もし漸近的世界の自由粒子像を記述するためのＨ<subScript>０</subScript>が求まれば，相互作用ハミルトニアンはＨ−Ｈ<subScript>０</subScript>で定義すればよい．</sentence>
+<sentence>そうして相互作用の有効到達距離が有限であれば，場の理論でも（２．１２７）が成立すると考えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，Ｈ<subScript>０</subScript>を知るためには，どのような自由粒子が可能かを検べなければならず，これにはＨの固有値問題が解かれなければならないが，それを行なうためには場の演算子が作用するＨｉｌｂｅｒｔ空間がまず用意されている必要がある．</sentence>
+<sentence>ところがその用意は，さきに述べたように，漸近的世界での自由粒子像を用いてなされねばならないから，結局，話がもとに戻ってしまい，解決にはならない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで，まず漸近的世界での自由粒子像としてもっともらしいものを仮定して，これにもとづいてＨｉｌｂｅｒｔ空間をつくり，ここでＨの固有値問題を扱って最初に仮定した粒子像が導けたとき，はじめて理論の解が見つかったといえる．</sentence>
+<sentence>いわば，前提がそれを用いて出した結論と無矛盾であるようにするわけで，セルフコンシステント（ｓｅｌｆ‐ｃｏｎｓｉｓｔｅｎｔ，自己無撞着）な方法とよばれる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし場の量子論はその構造が一般には極めて複雑であり，これを完全に行なうことは現在不可能に近い．</sentence>
+<sentence>そのため多くは，推論に基づいてさまざまな近似を行ない，答を見出すことが試みられている．</sentence>
+<sentence>その簡単なものはあとに述べるが，より具体的な詳細は，本講座第２０巻『ゲージ場の理論』および第１３巻『くりこみ群の方法』を参照されたい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　無限の過去の漸近的世界で設定された任意個数の自由粒子の状態ベクトルは，充分に時間が経過したのちに，無限の未来でふたたび自由粒子を記述している漸近的世界に到達する．</sentence>
+<sentence>この２つの漸近的世界における状態ベクトルつまり始状態と終状態を結ぶ演算子はＳ行列（Ｓ‐ｍａｔｒｉｘ）とよ<sampling type="end" />ばれる．</sentence>
+</paragraph>
+</article>
+</sample>

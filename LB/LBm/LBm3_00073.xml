@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm3_00073" version="1.0" type="fixedLength">
+<article articleID="LBm3_00073_F001">
+<paragraph>
+<sentence>要するに調査対象の軸は、全体―部分の区分を、データの処理方法の軸は、統計（量）―記述（質）の区分をつく<sampling type="start" />る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この二つの軸を組み合わせることによって、社会調査の四つのタイプが設定できる。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>全体を対象とする統計的（量的）調査＝全数調査、<enclosedCharacter description="○">２</enclosedCharacter>部分を対象とする統計的（量的）調査＝標本調査、<enclosedCharacter description="○">３</enclosedCharacter>部分を対象とする記述的（質的）調査＝事例調査、<enclosedCharacter description="○">４</enclosedCharacter>全体を対象とする記述的（質的）調査＝集落調査、である<noteMarker text="３）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>３）　この社会調査の４タイプは、原・海野（１９８４、７頁）を援用しつつ、<quote>「（４）全体を対象とする記述的調査」</quote>に<quote>「集落調査」</quote>という名称を新しく付与している。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">もっともよく行なわれる標本調査</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<enclosedCharacter description="○">１</enclosedCharacter>の全数調査は、<ruby rubyText="しっ">悉</ruby><ruby rubyText="かい">皆</ruby>調査とも呼ばれるもので、代表例として序章で述べた国勢調査があげられる。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>の標本調査は、問題としたい社会や社会集団（これを母集団という）を統計的にとらえたいのだけれども、母集団の規模が大きく、予算の面で、また訓練を受けた調査員を数多く確保するという面で、全数調査を実施することに無理がある場合に用いられる調査である。</sentence>
+<sentence>社会調査では、母集団が大きく全数調査が困難であるケースがたいへん多く、この調査が実施される頻度も高くなるので、標本調査はもっともよく行なわれる社会調査になっている。</sentence>
+<sentence>そこで、本書では、第３章以降、この調査方法を中心に解説を進めてゆくことになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、標本調査で忘れてならないことは、この調査がサンプリングと統計的検定を必要とする調査だという点である。</sentence>
+<sentence>母集団の一部分を標本＝サンプルとして抽出し、このサンプルに対する調査の結果をもとに、問題とするもともとの社会や集団（母集団）の状態を推測するわけであるから、まず、標本の抽出＝サンプリングが、母集団の状態をできるだけ忠実に反映するように実施されなければならない。</sentence>
+<sentence>標本＝サンプルが、母集団を代表するように抽出される手続きをきちんと守ることが必要になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、手続きどおりにきちんとサンプリングを行なっても、標本はあくまで標本にすぎず、母集団からのさまざまなずれ（標本誤差）をわずかなものでもつねに含んでしまっている。</sentence>
+<sentence>かりに調査で得られた結果が、何か特徴のある傾向を示したとしても、それはこのずれを含んでしまったことによって表われた特徴的傾向であるかもしれない。</sentence>
+<sentence>そこで、調査結果を分析してゆくさいには、とりわけ標本調査の場合には、結果が示す特徴が偶然にずれを反映してしまって生じたものか、母集団自体の性質や社会的特質を反映するものであるのか、この点を判断する必要が生じる。</sentence>
+<sentence>統計的検定とは、まさしくこの判断のための手続き、手段をいうのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">事例調査と集落調査</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<enclosedCharacter description="○">３</enclosedCharacter>の事例調査は、問題関心を持つ社会事象について、その事象が起きている一定の社<sampling type="end" />会や集団のなかから少数の典型と考えられる対象を選び出し、多くは詳細な聴き取り調査によって、また書かれた記録・資料の収集、その読みこみを併用しながら、特定の社会事象を記述的にとらえようとする調査である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

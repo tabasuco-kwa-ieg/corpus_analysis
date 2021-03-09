@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00176" version="1.0" type="fixedLength">
+<article articleID="LBr3_00176_F001">
+<paragraph>
+<sentence>極端なことをいいますと、時価情報を出すも出さないも、会計の関知するところではないといってもよいでしょ<sampling type="start" />う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、<quote>「時価で評価する」</quote>ことは、バランス・シートと損益計算書の金額を変えるのですから、まさしく会計の話です。</sentence>
+<sentence>たとえていいますと、<quote>「時価情報の提供」</quote>は<quote>「財布の中身を見せる」</quote>ことで、<quote>「時価評価（時価会計）」</quote>は<quote>「財布の中身を分け与える」</quote>ことといってよいでしょう。</sentence>
+<sentence>両者の間には、埋めきれないギャップがあるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国やアメリカでは、時価情報の提供（投資や財務の理論）と時価評価（会計の理論）の間にあるギャップを埋める努力もしないで、時価情報の提供から一気に時価評価へとジャンプしてしまったのです。</sentence>
+<sentence>つまり、<quote>「投資家が必要としているから時価情報を提供すべし」</quote>という財務論の主張を借りて、会計サイドから、<quote>「投資家が必要としているから、時価評価すべし」</quote>と主張しているだけなのです。</sentence>
+<sentence><quote>「財布の中身を見せて欲しい」</quote>といわれて、<quote>「財布の中身を差し出す」</quote>のですから、そこには、会計の論理がまるで働いていません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　財務論は、時価情報にしろ時価評価にしろ情報を利用するだけですが、会計は違います。</sentence>
+<sentence>時価評価された資産・負債で、当期の利益や配当を計算し、税金を納め、ＲＯＥ（株主資本利益率）を計算し、債務超過の判定やＢＩＳ基準達成かどうかの判定をします。</sentence>
+<sentence>債務超過やＢＩＳ基準不達成と判定された企業や銀行は、営業停止や破綻を覚悟しなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、なぜ、時価情報の提供かち時価評価にジャンプしたのでしょうか。</sentence>
+<sentence>時価情報を財務諸表の脚注や注記で開示しただけでは見落とされるとか、投資家は時価評価した上での利益情報を必要としているとか、いろいろ言われていますが、配当もできない利益を損益計算書に計上したり、含み<quote>「損益」</quote>を損益計算書ではなく、バランス・シートに書いたりする時価会計は投資家を大きくミスリードするのではないでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">時価会計凍結</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本書を執筆中に、自民党本部に乗り込んで、<quote>「時価会計凍結論」</quote>を主張してきました。</sentence>
+<sentence type="quasi">自民党の<quote>「財政・金融・行革・企業会計」</quote>に関係する各委員会の責任者である、林義郎氏、太田誠一氏、塩崎恭久氏、熊代昭彦氏、さらに、元法務大臣の谷川和穂氏、元経済企画庁長官の尾身幸次氏などの国会議員三〇名ほどを前にして、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　世界中の主要国で時価会計の基準を持っているのは、日本とアメリカだけであり、そのアメリカには基準はあっても適用される銀行や企業はないこと</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　国際会計基準三九号は、その前文で、<quote>「暫定基準であって、適用には多くの問題が未解決」</quote>であり、このままでは実務基準にはなりえないことを正直に認めている。</sentence>
+<sentence type="quasi">そうした問題だらけの基準を、世界中で日本だけが国内基準に取り入れたこと</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　日本の時価基準によれば、時価会計は<quote>「シン<sampling type="end" />デレラのバランス・シート」</quote>で、三月三十一日に時価評価しても、翌日には原価に戻す会計であるから、投資家はどちらを信用してよいか、わからないこと</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00001" version="1.0" type="fixedLength">
+<article articleID="LBd5_00001_F001">
+<paragraph>
+<sentence>わが国では地質、地形に崩壊の<sampling type="start" />素因があるうえ地震が多いので、しばしば大崩壊をもたらしている。</sentence>
+<sentence>とくに大きな崩壊は地震や次に述べる火山の噴火によることが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　火山噴火</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　噴火による溶岩流、岩屑流、泥流により大都市が壊滅した例はベスビアス火山によるポンペイ市壊滅（ＡＤ七九年）の他枚挙に暇がない。</sentence>
+<sentence>わが国でも天明の浅間山噴火の例がある。</sentence>
+<sentence>噴火は同時に大量の堆積物を産み出しこれが崩壊地を形成している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（５）　風波</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　海岸は風波によって侵食されつつ、また砂の供給を受けるという微妙なバランスによって成り立っている。</sentence>
+<sentence>これが何かの原因でくずれたのが海岸侵食である。</sentence>
+<sentence>例えば日本有数のリゾートである湘南海岸は年四メートルずつ後退している。</sentence>
+<sentence>日本全国では年々三〇〇ヘクタールの国土が侵食されるとみられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">人間活動</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　直接原因の中で人間活動による原因も多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　森林の伐採</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　焼畑は発展途上国では今なお重要な位置を占めている。</sentence>
+<sentence>焼畑では土壌の固結度が減少し、また透水性も変わるので侵食や地すべりが生じやすくなる。</sentence>
+<sentence>次いで建築用材、燃料のための伐採がある。</sentence>
+<sentence>滋賀県田上山の荒廃は、飛鳥時代の藤原京、奈良時代の東大寺等の造営のための伐採から始まった。</sentence>
+<sentence>また古代から製鉄、製陶の行われた地方も荒廃山地が多い。</sentence>
+<sentence>最近では建築、パルプ用材の伐採で熱帯雨林の荒廃地化がすすんでいる。</sentence>
+<sentence>写真５は田上山の明治年間の荒廃状況と現在の対策工事による回復状況を示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真５ａ　砂防工事施工前（明治４１年）の滋賀県田上山</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真５ｂ　砂防工事施工後（現在）の田上山、同地点からの撮影により砂防工事の成果がはっきりとわかる（建設省琵琶湖工事事務所提供）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　掘削</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　道路、宅地、耕地などの建設工事は大規模な掘削を伴う。</sentence>
+<sentence>新しくできた斜面は不安定になることが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　捨土</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　掘削した土砂を山腹、溪流などに無秩序に捨てると、これが新しい崩壊地となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　ダム・貯水池</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　貯水池の水位を人為的に上下させると、周辺の地盤が不安定となり崩壊を引き起こす。</sentence>
+<sentence>バイヨントダム事故はその例である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（５）　鉱山・煙害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　精練の排煙により周辺の山地が裸地化し土砂崩壊を引き起こす。</sentence>
+<sentence>足尾銅山が代表例である。</sentence>
+<sentence>足尾鉱毒事件といわれ下流部の公害として考えられているが、鉱山周辺の足尾山地は、写真６にみられるように、まだ荒廃がつづき、復旧の努力も実を結んでいない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真６　荒廃した足尾山地（建設省砂防課提供）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（６）　供給土砂の減少</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　高度成長期には莫大な量の砂利が河川から採取された。</sentence>
+<sentence>このため、河床はいたる所で低下し、護岸、橋梁の基礎が浮き上がってしまった。</sentence>
+<sentence>また、これにより下流部や海岸へ供給される土砂が減少した。</sentence>
+<sentence>これが<sampling type="end" />中下流部の河床低下や海岸侵食の一因ともなっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

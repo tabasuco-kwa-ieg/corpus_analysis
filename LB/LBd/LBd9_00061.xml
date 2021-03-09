@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd9_00061" version="1.0" type="fixedLength">
+<article articleID="LBd9_00061_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―このへんが苦しいんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と診察室<sampling type="start" />の中から、お爺さんの声が聞こえた。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―苦しいというのは、どういう感じですか？</sentence>
+<sentence>　息が詰まるような感じですか？</sentence>
+<sentence>　息が詰まるような感じですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　老人は耳の遠い人が多いので、ガンジー医師は大声を出す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―それとも、ひきしぼられるように痛いんですか？</sentence>
+<sentence>　それとも圧迫されるような感じですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そうだ、息が詰まるのも、痛いのも、圧迫されるのも、だるいのも、苦しいには違いない。</sentence>
+<sentence>老人が言った、苦しい、というコトバも、名づけにくいものに、一応名づけたコトバなのだ。</sentence>
+<sentence>せんせいはそれを、ただコトバとしてではなく受けとめて、その名づけにくいものの正体を、なるべく正確につかもうとしている、と思いながらわたしは聞いていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―むかむかするんです…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―むかむかというと、吐気がするんですね？</sentence>
+<sentence>　お腹が張って胃が突き上げられるような感じですか？</sentence>
+<sentence>　それとも、胸のあたりに吐気を感じますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　せんせいは悪戦苦闘していた。</sentence>
+<sentence>それでエネルギーを消耗して、ガンジーのようになってしまうのかもしれない。</sentence>
+<sentence>せんせいは女医だが、インディラ・ガンジー夫人よりも、インドの父ガンジーの方に似ている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　老人の声は聞こえなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―お通じはどうですか？</sentence>
+<sentence>　毎日ありますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　せんせいは別の文脈からたぐり始めた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―ないんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―どのくらいのあいだ、お通じがありませんか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―このところ、ずっと…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―ずっとと言うと、一週間？</sentence>
+<sentence>　それとも十日ぐらい？</sentence>
+<sentence>　もっとですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―もっとです…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　最後のメンズスの日は女として憶えておくべきものだけれど、最後の排便の日は老人として憶えておくべきものというわけではない。</sentence>
+<sentence>老人も答えにくいだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―それは苦しくて、吐気がなさるでしょうね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　せんせいはどうやら<quote>「苦しい」</quote>の実体に近づいたらしい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―胃の検査は去年うちでなさっていますね。</sentence>
+<sentence>このときは異常ありませんが、最近、胃や腸の検査をなさったこと、ありますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―ありません…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―それでは、一度、腸の検査をなさってみるといいですね。</sentence>
+<sentence>最近は超音波などで外からかなりわかりますから。</sentence>
+<sentence>そう苦しい検査ではなく、かなりな程度わかりますから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―こちらで、できますか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　なんだか老人は、わたしと似ているようだった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―それがあいにく、うちではできないんですよ。</sentence>
+<sentence>Ｇ医大病院へのご紹介状を書きますから、それを持っていらしてみて下さい。</sentence>
+<sentence>今日は一応、洗腸をしてみましょうね。</sentence>
+<sentence>出口が詰っているのかもしれませんから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　最後の部分は似ていなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―はい…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　―血圧その他は、落着いていますから。</sentence>
+<sentence>では、こちらへどうぞ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　診察室の奥の部屋へ、医師と患者と看護婦が移動する物音。</sentence>
+<sentence>医師が患者に指示する声。</sentence>
+<sentence>やがて医師が診察室に戻り、廊下の長椅子に腰かけていたお婆さんが、ガンジーせんせいの<sampling type="end" />声に呼ばれた。</sentence>
+</paragraph>
+</article>
+</sample>

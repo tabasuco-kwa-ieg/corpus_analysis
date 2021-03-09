@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00017" version="1.0" type="fixedLength">
+<article articleID="LBh4_00017_F001">
+<paragraph>
+<sentence>　共有結合のｓｐ<superScript>３</superScript>ボンドをもつ半導体表面で非常に頻繁にかつぎだされる再構成の機構にバック<sampling type="start" />リング（ｂｕｃｋｌｉｎｇ）機構がある<noteMarker text="２７）" />．</sentence>
+<sentence>表面原子が一本のｓｐ<superScript>３</superScript>ダングリングボンドをもっているとしよう．</sentence>
+<sentence>水素原子であれば，ｓ軌道もｐ軌道も同じエネルギー準位をもつが，例えばシリコンの場合は閉殻が内部にあるのでｓとｐではエネルギー準位が異なり，ｓの方が低くなる．</sentence>
+<sentence>したがって，ダングリングボンドの軌道のｓ成分を多くすれば，ダングリングボンドのエネルギー準位は低くなることになる．</sentence>
+<sentence>そのためにはバックボンドをｐ<superScript>３</superScript>に近づければよい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　正四面体の中心から頂点の方向へ出ていたボンド角がｐ<superScript>３</superScript>の９０度に近づくためには，表面原子はダングリングボンドの方向に動けばよいことになる．</sentence>
+<sentence>この安定化されたダングリングボンドの状態に，隣のダングリングボンド状態から１個電子をもってきて反平行スピンの２個の電子を入れればエネルギーが下がることになる．</sentence>
+<sentence>このエネルギーの下がりが，半導体表面でのバックリングを引き起こすというわけである．</sentence>
+<sentence>この機構はもともとは準安定なＳｉ（１１１）２×１再構成のために考えられたが，この再構成に対してはその後のπボンド鎖模型に席をゆずった<noteMarker text="２８）" />．</sentence>
+<sentence>しかしＳｉ（１００）再構成表面での非対称ダイマー模型などの機構として生き残っている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７・２　全エネルギーの計算</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　表面系の全エネルギーの計算から，原子の位置の関数として極小になるところを探し，安定構造を求めることができる．</sentence>
+<sentence>その方法としては，半経験的なパラメターを含む電子状態の計算法を用いるものと，構成する原子が与えられているとして，経験的なパラメターを全く含まない第一原理からの計算法とがある．</sentence>
+<sentence>それぞれに重要な理論的なアプローチである．</sentence>
+<sentence>前者の方法の方が古くから始まり，種々の系についての計算が行われた．</sentence>
+<sentence>例えば，半導体表面の再構成に対する計算<noteMarker text="５８）" />，Ｗ（１００）再構成表面に対する計算<noteMarker text="５９）" />などがその例である．</sentence>
+<sentence>第一原理からの計算は今のところ大がかりで，なかなか小回りが利かないのに対して，例えばＷ（１００）表面に対する，長距離秩序が存在する場合としない場合の表面原子間の相互作用の比較のような計算<noteMarker text="６０）" />は，この方法の有用性を示している．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　局所密度汎関数近似に基づく全エネルギー計算はバルクでの成功の後，表面系に対してもかなり早くから始まった．</sentence>
+<sentence>しかし安定構造を求める試みはやはり表面に垂直な方向に並進対称性が存在しないことのために，どうしても計算量が多く，大がかりになり，そんなに使い勝手のよい方法とはいえなかった．</sentence>
+<sentence>つまり全エネルギーの極小を求めるために変化させるパラメター（原子の位置ベクトル）が多く，それでなくて<sampling type="end" />も一電子関数をセルフコンシステントに求めるのにも対称性が低いことが計算量を増やすので，スーパーコンピューターを用いても，そんなに表面単位格子の大きな系は計算できなかった．</sentence>
+</paragraph>
+</article>
+</sample>

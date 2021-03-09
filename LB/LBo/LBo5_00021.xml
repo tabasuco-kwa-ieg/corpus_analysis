@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00021" version="1.0" type="fixedLength">
+<article articleID="LBo5_00021_F001">
+<paragraph>
+<sentence>　運転席と助手席が一体になっているタイプをさし、一部の車種に設定さ<sampling type="start" />れています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）セパレートシート</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　運転席と助手席が別々になっており、個々に調節ができます。</sentence>
+<sentence>また、シートの形状により２種類あります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>レギュラータイプ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一般的で一番多く採用されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>バケットタイプ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スポーツタイプのクルマに多く採用されていて、人がシートに固定されやすい構造になっています。</sentence>
+<sentence>カーブなどでからだが横に移動しにくいように、両肩・両脇から身体をサポートするようになっているのが特徴です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３．シートの調節機構（シートアジャスター）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　シートスライド機構（シート前後調節）、リクライニング（背もたれ角度調節）、ハイトアジャスター（シート高さ調節）、ランバーサポート、ヘッドレストなどの調整機能が付いていて、ドライバーが自分に合ったポジションを設定できるようになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●シートアジャスター</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４．ハンドルの機構</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）チルトステアリング</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ハンドルの角度調節をするためのもの。</sentence>
+<sentence>トラック・バスなどのように抱え込むような位置にはしないこと。</sentence>
+<sentence>事故時にからだにめり込む恐れがありますし、運転席側のエアバックの効力が十分に発揮できないことにもつながります。</sentence>
+<sentence>またメーターの視認性も確保しておく必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）テレスコピック機構</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ハンドルまでの距離を調節するためのもの。</sentence>
+<sentence>ハンドルを握ったときに両腕が伸び切ったままで運転する人を見かけますが、これでは肩・腕ともに力が入ってしまい、俊敏なハンドル操作ができません。</sentence>
+<sentence>この機構で調節するか、シートの前後位置で調節します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●チルトステアリング（左）とテレスコピック機構（右）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">５．正しいポジション</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）座り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　シートにはやや深めに座るようにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）ペダルまでのスライド調節</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　クラッチペダルを一杯に踏み込んだ状態で膝が少し曲がるくらいになるよう、シートスライドを調節します。</sentence>
+<sentence>オートマチック車の場合は、ブレーキペダルを踏み込んだ状態で膝が曲がるぐらいに調節します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）リクライニング角度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ハンドルを持ったとき、ひじが軽く曲がる程度にリクライニング角度を調節します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）その他の調節機講</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>ハイトアジャスターの調節は、背が低い人はシート位置が高くなるように調節し、背が高い人はシート位置が低くなるようにして、運転時の目の位置を決めます。</sentence>
+<sentence>このときルームミラー（バックミラー）の位置をチェックすることを忘れないように。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>ランバーサポートは、背もたれシートに腰が当たる部分を堅くしたり柔らかくすることにより、疲れにくくするもので、各自自分に合うように調整します。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●理想のドライビングポジション</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">鉄則　２５　ミラーを合わせて自分のクルマの死角を知ろう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１．ミラ<sampling type="end" />ーの種類と役割</sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi5_00044" version="1.0" type="fixedLength">
+<article articleID="LBi5_00044_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">ア<sampling type="start" />ラ・マッター</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（ジャガイモとグリンピースの煮物）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">インド</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ピリッと効いた香辛料と刺激的な香りが食欲を増します。</sentence>
+<sentence>血行をよくすることで南の国では発汗して体温を下げる働きになり、北の国では身体を温めることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ギーとガラム・マサラをつくる（<sentence>作り方は次ページ参照。</sentence>
+<sentence type="quasi">市販品を使ってもよい</sentence>
+）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　鍋にギーを熱し、ショウガ、ニンニク、タマネギを入れ、塩少々を加え、中火でタマネギがキツネ色になるまで炒める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　クミン、一味唐辛子、ターメリックを加え混ぜ、トマト、香菜の半量を加えよくまぜ煮る。</sentence>
+<sentence>鍋のふちがパリパリするくらいまで煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　ジャガイモとグリンピースを加えてよく混ぜ合わせ、水（できあがりの量を考えて好みの量を加減する）を加え煮る。</sentence>
+<sentence>フタをして弱火にし、ジャガイモに充分火が通り柔らかくなったら塩、コショウで調味する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　フタを取りガラム・マサラを薄くまんべんなくふりかけ、残りの香菜を散らしてできあがり。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">◆ギーの作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インドバターを厚手の鍋に入れ、中火で溶かす。</sentence>
+<sentence>焦がさないようしゃくしで動かしながら完全に溶かす。</sentence>
+<sentence>火を強くして沸騰させ、白く泡立ってきたら静かにゆっくりかき混ぜ弱火にする。</sentence>
+<sentence>水分を蒸発させるため、フタを取って４０〜５０分煮る、表面が透き通ってきたら火を止め、布でこす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">＊バターからつくる場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　バターを中火で焦げないように溶かし、ゆっくり水分を蒸発させる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　または、バターを中火で焦げないように溶かす。</sentence>
+<sentence>火を止めて、１〜２分おいて上の泡を取る。</sentence>
+<sentence>澄んだ部分がギーになる。</sentence>
+<sentence>鍋底にたまった澱は捨てる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆ガラム・マサラの作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インドでは家庭ごとに好みのスパイスを調合してわが家だけのガラム・マサラをつくります。</sentence>
+<sentence type="quasi">一例として、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<sentence>の粉末を混ぜ、一人あたり小さじ１／２くらいを使います。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　また、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<sentence>をミルサーに３０秒かけ、ペースト状にしたものもおいしいです。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　市販されているガラム・マサラは左記のようなものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<paragraph>
+<sentence>　中国では大茴香、花椒、茴香、丁字、桂皮を粉末にしたものが五香粉と呼ばれ市販されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本ではさしずめ七味唐辛子というところかも知れませんが、日本の本来の香りは、生の香りにあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">オッソ・ブーコ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">イタリア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ギラギラ照りつける夏の太陽の下で、夏バテ予防に食べる一品です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　厚手鍋にバター大さじ２を溶かし、肉に小麦粉をまぶして炒める。</sentence>
+<sentence>両面に焼き色がついたら皿に取り出す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　あいた鍋にオリーブ油を熱し、タマネギ、ニンジン、セロリ、ニンニク、マジョラム、ロリエ、レモン皮、塩、コショウを入れ、野菜に火が通ったら肉を戻し加えてよく混ぜてワインを加える。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　トマト、スープを加え、ブタをして弱火で１時間半<sampling type="end" />〜２時間煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

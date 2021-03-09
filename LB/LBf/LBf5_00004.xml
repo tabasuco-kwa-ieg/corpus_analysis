@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf5_00004" version="1.0" type="fixedLength">
+<article articleID="LBf5_00004_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>卵は、ごまをまぶすときに使う卵白を１／２個分<sampling type="start" />ほど残して、あとは溶きほぐします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>ボールに、溶き卵、砂糖、水、ごま油を入れてよく混ぜ、砂糖が溶けたら、ふるった粉類を加えて耳たぶくらいのかたさにこねます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>軽く打ち粉をふった台の上で、<enclosedCharacter description="○">１</enclosedCharacter>を直径３センチくらいの棒状にのばし、端から３センチ幅に切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>平皿に白ごまを入れ、卵白はほぐします。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>を１個ずつ丸め、卵白をからめてごまをまぶします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>１７０度Ｃの揚げ油に入れ、浮いてきたら箸で返し、色づいて割れてくるまでゆっくり揚げます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">コロコロドーナッツ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>味わいいろいろ。</sentence>
+<sentence>隠れた味はな〜に？</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">生地の材料（１６個分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>ボールにホットケーキミックスと牛乳を入れ、耳たぶくらいのかたさにこねます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>棒状にのばし、１６等分してボール状に丸め、手のひらで押して直径５〜６センチの円形にします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>下記の好みの具をのせ、水を少しつけて口をしっかりとじて丸め、１７０度Ｃの油で３分揚げます。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">Ａ　ジャム入り（１６個分）</sentence>
+<br type="automatic_original" />
+<sentence>片くり粉小さじ２を水大さじ１<fraction>１／２</fraction>で溶き、好みのジャム１００グラムに混ぜて、少し煮つめます。</sentence>
+<sentence>冷めてから、生地で包みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂ　カスタードクリーム入り</sentence>
+<br type="automatic_original" />
+<sentence>６５頁を参照してかためのクリームを作り、小さじ１ずつ包みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｃ　あん入り（１６個分）</sentence>
+<br type="automatic_original" />
+<sentence>かために練り上げたこしあん１５０グラムを１６等分して丸め、生地にのせて包みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｄ　チョコレート入り</sentence>
+<br type="automatic_original" />
+<sentence>市販の板チョコをひと山ずつ生地に包みます。</sentence>
+<sentence>揚げると溶けます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">Ａ　Ｂ　Ｃ　Ｄ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">沖縄風ドーナッツ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>水を全く使わないのでこしが強く、日もちがします。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（２０個分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">【下準備】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>薄力粉とベーキングパウダーを混ぜ、ふるいます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>黒砂糖はかたまりになっているので包丁で薄く削り、さらに刻んで細かくします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>ボールに卵と黒砂糖、サラダ油を入れて泡立て器でよく混ぜ合わせます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>ふるった粉類を加え、木じゃくしに替えてさっくりと混ぜます。</sentence>
+<sentence>１５分くらい放置して生地をなじませます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter><enclosedCharacter description="○">２</enclosedCharacter>を２０等分して、手で丸めます。</sentence>
+<sentence>低温（１６０度Ｃくらい）の揚げ油に入れ、２倍にふくらんできつね色になるまで、４〜５分かけて揚げます。</sentence>
+<sentence>一回に入れる量は油の表面積の１／２までに。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ごま油入り揚げパイ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>しょうが風味のみつをからめた中国風。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">【作り方】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>ボールにはちみつ、水、しょうが汁を入れてかき混ぜます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>別のボールに薄力粉を入れ、ごま油、<enclosedCharacter description="○">１</enclosedCharacter>の順に少しずつ加えて手で混ぜ込みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter><enclosedCharacter description="○">２</enclosedCharacter>をひとまとめにして、打ち粉をふった台にとり、めん棒で長方形にのばします。</sentence>
+<sentence>手前、向こう側から三つ折りにし、これをのばして三つ折りにすることを３回繰り返します。</sentence>
+<sentence>最後に１センチ厚さにのばし、好みの型で抜きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>揚げ油を１２<sampling type="end" />０度Ｃに熱し、<enclosedCharacter description="○">３</enclosedCharacter>を入れて１５分くらいかけてじっくりと揚げます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

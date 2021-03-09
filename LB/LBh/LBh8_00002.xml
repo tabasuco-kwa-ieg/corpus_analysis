@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh8_00002" version="1.0" type="fixedLength">
+<article articleID="LBh8_00002_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />序章　書く紙からワープロへ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>自己紹介からはじめましょう。</sentence>
+<sentence>まず私がワープロを前提とする作文技術に興味を持つようになった、そのいきさつをお話しします。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">書く紙ちょうだい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文章はどう書いたらよいか。</sentence>
+<sentence>文章らしい文章を書くことは自分にもできることなのだろうか。</sentence>
+<sentence>子どものころから絶えずそれが気になっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　書くのは好きだった。</sentence>
+<sentence>よく母に<quote>「書く紙ちょうだい」</quote>とねだっていたのを思い出す。</sentence>
+<sentence><quote><sentence>「はい、はい、あんたは好きだねえ。</sentence>
+」</quote>とかいいながら使い古しの裏紙をくれた。</sentence>
+<sentence>すぐ使ってしまって、またねだった。</sentence>
+<sentence>何を書いていたかは全然おぼえていないけれども、いま筆者がこうしてもの書きをやっているについては、母がたいそう気前よく紙をくれた、そのくれっぷりのお蔭があるような気がする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　筆記用具はいろいろ試した。</sentence>
+<sentence>小学校まではもちろん鉛筆ばかりだったが、中学の入学祝いに万年筆をもらった。</sentence>
+<sentence>勇んで使ってみたら期待したほど速く書けないので失望した。</sentence>
+<sentence>筆者はぶきっちょに力一杯書いていたし、万年筆そのものも決して高品質とはいえない代物だったので、ペン先が紙に引っ掛かって引っ掛かってどうにも調子がよくなかった。</sentence>
+<sentence>引っ掛からないようにテンポを落とすと、書こうと思っていたことがじき脳裏から消し飛んでしまうのが、ひどく腹立たしかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だから国産のボールペンが売り出されたときには真っ先に飛びついた。</sentence>
+<sentence>アメリカにはボールペンという結構なものがあるそうだと聞いて、一度使ってみたいと思っていたのである。</sentence>
+<sentence>確かに早書きにはよかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし当時の日本製ボールペンは、一〇文字に一回ぐらいインクがぼたっと紙にしみ出す、といういやな性質を持っていた。</sentence>
+<sentence>それでもがんばって、大学ノートを何冊か埋めた。</sentence>
+<sentence>そのノートがいまも残っている。</sentence>
+<sentence>年月を経てますますぼてぼてににじみ、もうほとんど読めなくなっているけれども…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＴＳＳ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　やがて大学に入って、そこでコンピュータというものに出会った。</sentence>
+<sentence>こんな面白いものがあるだろうか、と思った。</sentence>
+<sentence>その勉強を続けたくて大学院に進学した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大学院在学中の、多分一九六三、四年ごろだったと思う。</sentence>
+<sentence>海の向こうの<ruby rubyText="エム">Ｍ</ruby><ruby rubyText="アイ">Ｉ</ruby><ruby rubyText="ティー">Ｔ</ruby>（マサチューセッツ工科大学）という大学では、<ruby rubyText="シー">Ｃ</ruby><ruby rubyText="ティー">Ｔ</ruby><ruby rubyText="エス">Ｓ</ruby><ruby rubyText="エス">Ｓ</ruby>という名のコンピュータシステムが、計算にだけでなく英語の文章を書くのにも使われている、という話を聞いた。</sentence>
+<sentence>原稿をペンで書いたりタイプライターで打ったりせず、いきなりコンピュータに打ち込んでしまう。</sentence>
+<sentence>それをコンピュータの力できれいに整理し、プリンタで打ち出して読む。</sentence>
+<sentence>変更したいところがあったら、コンピュータにしまってある原稿（オンライン原稿<sampling type="end" />）を呼び出してきて、そのオンライン原稿の方を訂正してしまうのだ、という。</sentence>
+</paragraph>
+</article>
+</sample>

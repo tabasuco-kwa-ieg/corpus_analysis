@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj4_00044" version="1.0" type="fixedLength">
+<article articleID="LBj4_00044_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>空間は絶対<sampling type="start" />的な<quote>「容れもの」</quote>であって、その中に物があろうとなかろうと、絶対的に存在する不変のものだという<quote>「絶対空間」</quote>の考え方です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　時間についても同じ考え方をしたというわけですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　そうですね。</sentence>
+<sentence>まあその正体はよくわかってないにしても、時間というのも、無限の過去から無限の未来へと一様に永遠に流れ続けるもので、宇宙空間のどこででも同じように流れるものだと考えました。</sentence>
+<sentence>そういうふうに、空間も時間も悠久不変のものと考えたニュートン的な世界では、宇宙論の始まりだとか起源だとかの問題はないわけです。</sentence>
+<sentence>ニュートンがこういうふうに時間と空間を定義してくれたからこそ、物理というものはその土台を疑うことなく進歩できたわけですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">天才アインシュタインの登場</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>アルバート・アインシュタイン（１８７９―１９５５）…ドイツ生まれの理論物理学者。</sentence>
+<sentence>特殊相対性理論、光量子論、ブラウン運動の分子運動理論、一般相対性理論を発表し、現代物理学の基礎をつくり上げた。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ニュートンの後はアインシュタインまで大きな進歩はなかったんでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　本質的に大きな進展はなかったと言えます。</sentence>
+<sentence>アインシュタインが登場してきたことで、時間と空間の考え方に大きな変化が起こりました。</sentence>
+<sentence>時間や空間が絶対的なものではなくなった、つまり、物体があるだけで時間の進み方が変わるし、我々が日常的に使っているユークリッド幾何学が成りたたなくなるようなことを、アインシュタインが一般相対性理論によって明らかにしたんです。</sentence>
+<sentence>ですからその時点で初めて、時間や空間というのが物理学の法則により記述できるようになってきたわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　というのも、アインシュタインが出てきた頃は、ニュートンの力学では扱いきれないような不都合なことがそろそろ出てきていました。</sentence>
+<sentence>目に見える物体の動きはニュートン力学で非常にきれいに記述することができ、ニュートンの言うとおりに動いていたわけですが、電磁気学の法則に関してはニュートンの法則に合わないことがだんだんわかってきたんです。</sentence>
+<sentence>電磁気学の法則というのは、マクスウェルが電気と磁気を統一的に記述できるようにきれいにまとめた方程式です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">―</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それが、どういうふうにニュートン力学と矛盾するんですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　そうですね、たとえば地面を時速五〇キロで走る電車に乗っている人が電車の進行方向に向かって時速五キロで歩いたとします。</sentence>
+<sentence>そうすると、素直に電車の速度プラス歩く速度で計算して、その人は地面から見て時速五五キロで歩いているという答えが出てきますね。</sentence>
+<sentence>これはニュートン力学に基づく結論です。</sentence>
+<sentence>ところが、マクスウェルの<sampling type="end" />方程式が電車の中でも地面でも正しいとすれば、電車に乗っている人が電車の進行方向に光を発射した場合、地面から見た光の速度は、電車の速度プラス光の速度にはならない、ということになってしまう。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

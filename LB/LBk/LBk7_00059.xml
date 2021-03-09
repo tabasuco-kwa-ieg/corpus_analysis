@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk7_00059" version="1.0" type="fixedLength">
+<article articleID="LBk7_00059_F001">
+<paragraph>
+<sentence>そしてこれらの、ピアノ音では<sampling type="start" />低い音についてのみ明瞭に読みとられた特徴が、チェンバロでは、中音域まで続いて見られる。</sentence>
+<sentence>ピアノのａ<superScript>１</superScript>音では１秒以上の余韻がある部分音は、第３次までであったが、９・１・７図のチェンバロｇ<superScript>１</superScript>音では十数次に及び、また７ｋＨｚ以上の部分音線には非整数倍性を表わす乱れがある。</sentence>
+<sentence>また、９・１・８図のｇ<superScript>３</superScript>音では、１６ｋＨｚの分析周波数範囲上限まではっきり部分音が認められる。</sentence>
+<sentence>一般に数ｋＨｚ以上で密集した部分音構造をもつ音は、鈴の音に似ており、チェンバロのチン、チンという感じの音色は、このような高い、整数倍からずれた部分音の豊富なためと考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、９・１・８図の部分音線をみると、基本周波数（１５６８Ｈｚ）のほぼ整数倍の間隔で記録されている本来の部分音の間に、薄い線が見られる。</sentence>
+<sentence>これは、ｇ<superScript>３</superScript>音の振動にオクターブ下の弦、つまりｇ<superScript>２</superScript>音の弦が共鳴し、低調波成分（ｓｕｂ‐ｈａｒｍｏｎｉｃｓ）を生じていることを示している。</sentence>
+<sentence>これは、チェンバロの高音域に共通の現象であるが、低調波成分の存在は、一般に一種の濁りを音色に与える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　９・１・８図の例ではｇ<superScript>３</superScript>音の基音と０‐ｌｉｎｅの中央にある低調波成分（７８４Ｈｚ）は、振幅がｇ<superScript>３</superScript>音の基音の約１／４に達しており、音色形成上かなりの影響をもっていると考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほか、チェンバロ音の立ち上がりには、鳥の羽根で撥く雑音的な成分が伴っており、９・１・８図の鳴り始め約０．０５秒の間、０〜４ｋＨｚの音域に部分音線とは別に記録されている不規則なパターンが、これを表わしている。</sentence>
+<sentence>この雑音成分のスペクトルはどうなっているか、どの部分が羽根で撥いている感じに結びついているかなど、一般に雑音的成分の楽音識別に与える影響は、撥弦楽器全般に通じる非常に興味深い問題であるが、これまでのところ、三味線に関する試みのほかは研究されていない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　チェンバロの音のスペクトルエンベロープについては、現在確定的に言える資料がないが、前章で紹介した、フレッチャーの合成音実験の結果によると、Ｇ音では１．５ｄＢ／ｐａｒｔｉａｌ（部分音が１次数ごとに１．５ｄＢずつ小さくなる）、ｇ<superScript>１</superScript>音では５ｄＢ／ｐａｒｔｉａｌよりも、部分音の次数に伴う減衰度が小さい場合は、ピアノよりチェンバロらしい音に聞こえるということであった。</sentence>
+<sentence>一方、上述のように、チェンバロの部分音数は大まかにいってピアノの２倍あるという所見から、チェンバロのソナグラムパターンと似たピアノ音のパターンを捜すと、チェンバロ音より９度から１２度低いピアノ音のパターンが大体相似であることがわかった。</sentence>
+<sentence>９・１・９図はその一例で、９・１・７図の<sampling type="end" />チェンバロのｇ<superScript>１</superScript>音と相似のパターンを示しているピアノｄ<superScript>０</superScript>音のソナグラムである（ここで９・１・９図の周波数目盛は９・１・７図の半分であることに注意）。</sentence>
+</paragraph>
+</article>
+</sample>

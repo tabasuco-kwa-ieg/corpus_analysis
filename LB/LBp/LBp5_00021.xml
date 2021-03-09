@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00021" version="1.0" type="fixedLength">
+<article articleID="LBp5_00021_F001">
+<paragraph>
+<sentence>液晶画面を大きくし、文字も拡大表示、前面ボタンに良くかける電話番号を三つ割り付けることで<sampling type="start" />機能を簡略化したモデルです。</sentence>
+<sentence>ただし、まだマーケットが小さいため、製品ラインナップが少なく、端末価格が通常の倍近くなっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　介護シーンでは、モバイル機器が積極的に利用されています。</sentence>
+<sentence>ホームヘルパーがｉモードやモバイル端末で本部と介護記録を交換したり、スケジュールを確認したり、介護用品の注文を入力したり、限度額処理など複雑で膨大な事務作業を機械化するといった使い方です。</sentence>
+<sentence>また、ＰＨＳの位置情報サービスやＧＰＳを使って<ruby rubyText="はい">徘</ruby><ruby rubyText="かい">徊</ruby>老人の位置、ペットの居場所などを特定するサービスなどがあります。</sentence>
+<sentence>高齢者が警察や消防に緊急時通報を入れれば、場所を言わなくても位置情報を把握できるなど、安心サポートの道具にもなります。</sentence>
+<sentence>さらに、独り暮らしの高齢者の日常行動をデータベース化しておき、センサで集めた行動データと異なれば、家族が持つｉモード対応の携帯電話に異常を通知するサービスも登場しました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　単身者世帯では、携帯電話をはじめとするＩＴ関連製品の普及率は、６０歳以上で１９％、３０歳未満で５７％と格差は３倍に広がっているとの調査結果があります（１９９９年度末時点、日本政策投資銀行調べ）。</sentence>
+<sentence>現在のところ、モバイル機器に関しては、高齢者が能動的に利用するケースより、受動的に持たされる、周りの人がモバイルを利用して生活支援するといった使われ方が多いようです。</sentence>
+<sentence>しかしながら、職場で情報機器操作に手慣れたリタイア層の加入など、高齢者モバイル人口の着実な増加に伴って、低価格の高齢者仕様製品が出回れば、将来的には高齢者の分け<ruby rubyText="へだ">隔</ruby>てなくモバイルが使いこなされる社会が到来すると見込まれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７‐７　高齢者へのサポート</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>電磁波の影響は心配ないか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「<ruby rubyText="でん">電</ruby><ruby rubyText="じ">磁</ruby><ruby rubyText="は">波</ruby>」</quote>は電界と磁界が相互に作用して組み合わさり、波となって空間を伝搬する現象です。</sentence>
+<sentence>家庭用電気機器や電力設備などは、一般に５０〜６０Ｈｚの交流の電気を用いるため、多種多様の電磁波が発生しており、電子機器を携帯するモバイラーは常に電磁波にさらされていると言えます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　とくに、出力の大きい（平均６００ｍＷ〜１Ｗ）携帯電話は、ペースメーカなどの医用機器に影響を起こす可能性があり、病院・診療所などでは使用を禁止しているところが多くなってきています。</sentence>
+<sentence>平成７〜８年度にかけて、医用電気機器７２７機種についての実験データに基づいて作成された郵政省の<quote>「医用電気機器への電波の影響を防止するための携帯電話端末等の使用に関する指針」</quote>によれば、医療機関の屋内のみならず、<quote>「埋込み型心臓ペースメーカは、その近くで携帯電話端末、自動車電話、ショルダーホン、Ｐ<sampling type="end" />ＨＳ端末、コードレス電話および小型無線機を使用したときに、電波による影響を受ける可能性がある」</quote>ため、<quote>「この影響は一時的かつ可逆的（元に戻る）である」</quote>としながらも、<quote>「携帯電話端末を埋込み型心臓ペースメーカ装着部位から２２ｃｍ程度以上離すこと」</quote>と明記しています。</sentence>
+</paragraph>
+</article>
+</sample>

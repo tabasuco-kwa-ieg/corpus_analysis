@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00006" version="1.0" type="fixedLength">
+<article articleID="LBr3_00006_F001">
+<paragraph>
+<sentence>　金銭で受け取る報酬以外にも、住宅、衣服、食事等、現物で<sampling type="start" />支給されるものがある場合は、これを報酬に含めます。</sentence>
+<sentence>これらのものを金額に換算し、報酬の額に加算しますが、この場合、実際の費用で計算するのではなく、現物給与が行われる地域の時価によって、その地域の社会保険事務局長が標準となる価格を定め、その価格に基づいて計算します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">標準報酬　３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">標準報酬月額の資格取得時決定とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>健康保険の被保険者資格を取得したときは、報酬の支払形態に応じて標準報酬月額を決定する。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">▼資格取得時決定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　会社に入社したとき、健康保険を適用していなかった事業所に健康保険が適用されることになったときなど、被保険者として資格を取得するときには、事業主が届け出た<quote>「被保険者資格取得届」</quote>に記入されている<quote>「報酬月額」</quote>に基づいて、保険者が標準報酬月額を決定します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">▼標準報酬月額の決定方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　報酬の支払形態によって、標準報酬月額の決定方法が異なります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　年俸・月給・週給等…一定の期間によって報酬を定めている場合は、被保険者の資格を取得した日現在の報酬の額を、その期間の総日数で割り、それを３０倍した額を、標準報酬月額表にあてはめて決定します。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　たとえば、年俸の場合は年俸額を１２で割った金額、月給の場合はそのままの金額でよいのですが、週給の場合は週給の金額を７で割ったものを３０倍します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　日給・時間給等…日給、時間給、出来高給などの場合には、被保険者の資格を取得した日の属する月の前月に、その会社で同様の仕事に従事し、同じような給与の支払いを受ける人の報酬の平均額を報酬月額とします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　ただし、同じような給与支払いを受ける人がいないときは、その地域で同じような仕事に従事し、同じような報酬を受けた人の平均報酬額を報酬月額とします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　その他…固定給のほかに歩合給が支給されるなど、給与支払いの方法が二つ以上になる場合には、その合計した額を報酬月額とします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また、時間外勤務に関する給与等については、被保険者として資格を取得した時点では報酬支払いの実績がないので、その会社で同じような仕事に従事し、同じような報酬を受ける人の金額を参考に算定することになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">▼資格取得時決定の有効期間</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　資格取得時の標準報酬月額は、資格取得日が１月から５月末までの場合はその年の８月まで、６月から１２月の場合には翌年の８月まで効力があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">標準報酬　４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">標準報酬月額の定時決定とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>一度決定された標準報酬月額について、毎年１回、７月に定期的に見直しを行うこと。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">▼定時決定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　被保険者の資格を取得したときに決定された標準報酬月額は、時間外手当が大幅に増えても、原則として変更されま<sampling type="end" />せん。</sentence>
+</paragraph>
+</article>
+</sample>

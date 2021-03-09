@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm8_00006" version="1.0" type="fixedLength">
+<article articleID="LBm8_00006_F001">
+<paragraph>
+<sentence>ところがギリシア語のほうは，活用の型としては２つに大別されるが，そのなかで個々の動詞の語幹の区別，時制や態の選択などが一様でないために，いうならば<sampling type="start" />不規則な動詞に満ちていて，ラテン語のように全動詞の活用を一括して提示することができない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ギリシア語とラテン語の動詞は，人称，数，時制，態，法の５つの文法的要素を担っている。</sentence>
+<sentence>そして名詞の単数・主格形に相当する，動詞の辞書の見出しになる形は，例えばギリシア語ｌｅｇｏ<quote>「読む」</quote>のように１人称・単数・現在・能動態・直説法の形である。</sentence>
+<sentence>しかし，ときには能動態を現在形に欠いていて，意味は能動的であっても形は受動（中間）態という動詞もある。</sentence>
+<sentence>例えば，ラテン語ｈｏｒｔｏｒ<quote>「はげます」</quote>は，１人称・単数・現在・受動態・直説法の形である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">人称</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人称（ギリシア語ｐｒｏｓｏｐｏｎ，ラテン語ｐｅｒｓｏｎａ，英語ｐｅｒｓｏｎ）をあらわすｐｒｏｓｏｐｏｎは，本来は<quote>「顔」</quote>の意味で，さらにいえば，これはｐｒｏｔｉ‐ｏｐ‐ｏｎ<quote>「（相手の人の）眼ｏｐ‐に対する（もの）」</quote>である。</sentence>
+<sentence>またラテン語ｐｅｒｓｏｎａ<quote>「（役者の）面，役割」</quote>はエトルリア経由のｐｒｏｓｏｐｏｎを借用したとする説が有力である。</sentence>
+<sentence>人称は近代の諸言語と同じで，１人称は<quote>「話の源になる（人）」</quote>，２人称は<quote>「話がむけられる（人）」</quote>，そして３人称は<quote>「それについて話が（ある）」</quote>，つまり<quote>「話題になるもの」</quote>と定義されている。</sentence>
+<sentence>数は名詞のように単数・複数のほかに，ギリシア語では両数がある。</sentence>
+<sentence>ただしこれは２，３人称に限られ，１人称には複数形を当てる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">時制</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　時制（<sentence>ギリシア語ｋｈｒｏｎｏｓ，ラテン語ｔｅｍｐｕｓ<quote>「時間」</quote>，英語ｔｅｎｓｅ。</sentence>
+<sentence type="quasi">ｔｅｎｓｅはフランス語ｔｅｍｐｓと同源</sentence>
+）はやや複雑である。</sentence>
+<sentence>基本的には現在‐不完了（または未完了）‐未来と，完了‐過去完了‐未来完了の２系列のほかに，ギリシア語はアオリストとよばれる不限定過去をもっている。</sentence>
+<sentence>これらの時制を区別するために，英語のｋｅｅｐ‐ｋｅｐｔ，ドイツ語のｈａｌｔｅｎ‐ｈｉｅｌｔのように，ひとつの語根をもとにつくられた異なる語幹が使われるわけだが，その語幹は上にあげたすべての時制に別々にあるのではなくて，重要なのは現在，完了，それにギリシア語では先にふれたアオリストの３つである。</sentence>
+<sentence>例えば，ギリシア語の現在形ｂａｌｌｏ<quote>「（私は）投げる」</quote>（＜ｂａｌ‐ｙｏ，‐ｙ‐は現在語幹の接尾辞），アオリスト形ｅｂａｌｏｎ（ｅ‐は過去のしるし，‐ｏｎは人称語尾），完了形ｂｅｂｌｅｋａ（ｂｅ‐は重複のしるし，‐ｂｌｅ‐は‐ｂａｌ‐との母音交替，‐ｋａは人称語尾），ラテン語の現在形ｄｉｃｏ<quote>「いう」</quote>，完了形ｄｉｘｉ（＜ｄｉｃ‐ｓ‐ｉ，‐ｉは人称語尾）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">時制語幹</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　辞書の見出しは現在形だから，この形がその動詞の代表とはいえ，それぞれの時制語幹は相互に独立していて，一定のつくり方を示しながらも，その間に規制はない。</sentence>
+<sentence>しかし２つの古典語をくらべてみると，ラテン語ではときに現在形の語幹が<sampling type="end" />完了形にまでみられることがある。</sentence>
+</paragraph>
+</article>
+</sample>

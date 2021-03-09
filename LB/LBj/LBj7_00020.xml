@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj7_00020" version="1.0" type="fixedLength">
+<article articleID="LBj7_00020_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">スクウェ<sampling type="start" />ア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ダンスを習いはじめた人の練習用に最適なのが、このスクウェアです。</sentence>
+<sentence>スクウェアはその別名をボックスともいい、四角を描くようにステップを踏むのが特徴です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　スクウェアには、リバース・スクウェアとナチュラル・スクウェアがありますが、どちらかに苦手意識を持たないよう均等に練習することが大切です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">リバース・スクウェア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　左足、ヒールで前進…Ｓ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　右足、ボールで横へ…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　左足を右足に揃える…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　右足を後ろへ…Ｓ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　左足、ボールで横へ…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　右足を左足に揃える…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ナチュラル・スクウェア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　右足、ヒールで前進…Ｓ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　左足、ボールで横へ…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　右足を左足に揃える…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　左足を後ろへ…Ｓ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　右足、ボールで横へ…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　左足を右足に揃える…Ｑ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＡＲＴ２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＢＬＵＥＳ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ブルース</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＢＬＵＥＳ１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＱＵＡＲＴＥＲ　ＴＵＲＮＳ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">●クォーター・ターンズ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">スタート</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">予備ウォーク</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足前進。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足後退。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足前進。</sentence>
+<sentence>右へ回転をはじめる。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足後退。</sentence>
+<sentence>右へ回転をはじめる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足、Ｌ・Ｏ・Ｄに沿って横へ。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足小さく横へ。</sentence>
+<sentence>つま先を中央斜めに向けておく。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足を左足に揃え、中央斜めに背面する。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足を右足に揃え、中央斜めに背面する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足、中央斜めに後退。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足、中央斜めに前進。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足、中央斜めに後退。</sentence>
+<sentence>左へ回転をはじめる。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足、中央斜めに前進。</sentence>
+<sentence>左へ回転をはじめる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足小さく横へ。</sentence>
+<sentence>つま先を壁斜めに向けておく。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足、Ｌ・Ｏ・Ｄに沿って横へ回転を続ける。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足を左足に揃え、壁斜めに面して終わる。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足を右足に揃え、壁斜めに背面する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">８</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足前進。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足後退。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＢＬＵＥＳ２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＳＩＤＥ　ＣＨＡＳＳＥ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">●サイド・シャッセ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">スタート</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足前進。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足後退。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足、横へ。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足、横へ。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足を右足に揃える。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足を左足に揃える。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足横へ。</sentence>
+<sentence>次いで左足を右足にブラッシュする。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足横へ。</sentence>
+<sentence>次いで右足を左足にブラッシュする。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足前進。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足後退。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＢＬＵＥＳ３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＣＨＥＣＫ　ＢＡＣＫ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">●チェック・バック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　チェックとは、進行中、急に反対方向に運動を起こすこと。</sentence>
+<sentence>このフィガーは、ホールのコーナーに差しかかった場合や、混雑しているときに使われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">スタート</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足前進。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足後退。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠後方の右足に体重を移す。</sentence>
+<br type="automatic_original" />
+<sentence>♥前方の左足に体重を移す。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足を小さく横へ。</sentence>
+<sentence>つま先を壁斜めに向けておく。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足横へ。</sentence>
+<sentence>回転を継続する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｑ）</sentence>
+<br type="automatic_original" />
+<sentence>♠右足を左足に揃え、新Ｌ・Ｏ・Ｄの壁斜めに面する。</sentence>
+<br type="automatic_original" />
+<sentence>♥左足を右足に揃え、壁斜めに背面する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（Ｓ）</sentence>
+<br type="automatic_original" />
+<sentence>♠左足を壁斜めに前進する。</sentence>
+<br type="automatic_original" />
+<sentence>♥右足を壁斜めに後退する。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＢＬＵＥＳ４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＲＥＶＥＲＳＥ　ＴＵＲＮ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">●リバース・ターン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　主にホールの中央で踊るときに用いられるフィガーです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　男性の第一歩は、強く踏み出すことが大切です。</sentence>
+<sentence>第一歩が弱いと、女性がチェックと間違え、足<sampling type="end" />を踏んでしまうこともあります。</sentence>
+</paragraph>
+</article>
+</sample>

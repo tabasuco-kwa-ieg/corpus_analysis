@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00034" version="1.0" type="fixedLength">
+<article articleID="LBg5_00034_F001">
+<paragraph>
+<sentence>同じ関東間のモジュールでも狭く感じ、特にトイレや洗面室などの狭い部屋では圧迫感を生じま<sampling type="start" />す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　原因は、真壁と大壁の差です。</sentence>
+<sentence>真壁で施工すれば間口は８２〜８５ｃｍくらい確保できるのに、大壁で施工すると図<enclosedCharacter description="○">２１</enclosedCharacter>の<enclosedCharacter description="○">イ</enclosedCharacter>のように７５ｃｍくらいしかとれません。</sentence>
+<sentence>洋間が一般化した今日、ほとんどが大壁でつくられていますが、真壁のよさをとりいれてみると広く使うことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トイレや洗面室などのように柱間隔の内側で構成されている狭い部屋の場合は、<enclosedCharacter description="○">ロ</enclosedCharacter>のように真壁と大壁を組み合わせて使いましょう。</sentence>
+<sentence>長手方向を真壁にし、短手方向を大壁にしたのですが、トイレの幅は１０ｃｍも広くなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　奥行きの深いトイレも工夫しだいで有効に使えます。</sentence>
+<sentence>間口が９０ｃｍ、奥行きが１８０ｃｍのトイレなら、奥の窓の窓台を５〜１０ｃｍ広くつくりましょう。</sentence>
+<sentence>そうすることで図<enclosedCharacter description="○">２２</enclosedCharacter>のように、花を置いたり本を置けるスペースができます。</sentence>
+<sentence>窓の上は壁厚を利用した物入れにしておくと、ペーパー類の収納に便利です。</sentence>
+<sentence>また、入り口部分は２０〜３０ｃｍのアルコーブ（廊下から少し退いたスペース）を設けると、スリッパなどを置く場所ができ、廊下を通るじゃまになりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トイレにはペーパーホルダーやタオルリングを取り付けますが、これらが外れてしまうことがあります。</sentence>
+<sentence>これはプラスターボード下地にクロス貼りの施工をした場合によく起こります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ペーパーホルダーやタオルリングを取り付ける場所には、下地の段階で取り付けボードを施工しておきましょう。</sentence>
+<sentence>取り付けボードは、現場で残ったベニヤ板や床板を利用して、幅広にしておくと便利です。</sentence>
+<sentence>吊り戸棚を取り付けたり、絵やカレンダーを掛ける場所にも準備しておくと便利です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">２１</enclosedCharacter>　壁厚を利用して広く使う</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">２２</enclosedCharacter>　窓台と物入れ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">階段下利用のトイレも工夫しだいで広く使える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　トイレは、天井がそれほど高くなくても圧迫感を感じない場所です。</sentence>
+<sentence>狭い敷地での設計なら、階段下をトイレにするなどの工夫も必要です。</sentence>
+<sentence>図<enclosedCharacter description="○">２３</enclosedCharacter>は階段下の狭いスペースにトイレを設けた例です。</sentence>
+<sentence>少しゆとりのある階段なら、階段の低い側をカウンターにして、下を収納や掃除道具置き場に使えば、ゆったりした広さが確保できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、トイレの床を下げて設ける場合は、汚水の配水勾配を考えておく必要があります。</sentence>
+<sentence>浄化槽を設ける場合は、敷地が道路より３０ｃｍくらい上がっていないと排水に支障がでることがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">２３</enclosedCharacter>　階段下利用のトイレ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図<enclosedCharacter description="○">２４</enclosedCharacter>　排水勾配に注意</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２階のトイレはメンテナンスと排水音に注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　２階にトイレを設けたとき、排水の導入管は壁の厚さの範囲内でも施工可能ですが、配管の曲がりが多くなるなどでメンテナンス上問題があります<sampling type="end" />。</sentence>
+</paragraph>
+</article>
+</sample>

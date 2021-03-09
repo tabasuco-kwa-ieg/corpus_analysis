@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00057" version="1.0" type="fixedLength">
+<article articleID="LBn5_00057_F001">
+<list>
+<listItem>
+<sentence>桃と桃のシロッ<sampling type="start" />プを加え、弱火でおよそ５分間ポッシェし、スライスする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<sentence>イタリアンメレンゲとハチミツクリームを作る。</sentence>
+<sentence>ハチミツを１１８℃まで加熱したら、泡立てた卵白に少しずつ加えて混ぜ合わせる。</sentence>
+<sentence>冷水を張ったボウルにゼラチンを漬けておく。</sentence>
+<sentence>ゼラチンがやわらかくなったら取り出し、温めたクレーム・パティシエール（１１６ページ参照）に加えて溶かし、冷蔵庫で冷やしておく。</sentence>
+<sentence>生クリームを軽く泡立て、冷やしたクレーム・パティシエールに加えて混ぜ合わせる。</sentence>
+<sentence>これにまだ温かいイタリアンメレンゲを加えて混ぜ、すぐに使う。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４</sentence>
+<br type="automatic_original" />
+<sentence>ケーキを組み立てる。</sentence>
+<sentence>セルクルに合うように、円盤形のダコワーズ２枚の縁をカットする。</sentence>
+<sentence>セルクルの中にダコワーズを１枚置き、上に半量のハチミツクリームを流し込んで表面をならしてから、スライスした桃とフルーツの半量を散らす。</sentence>
+<sentence>２枚目のダコワーズを置き、ハチミツクリームの残りを流し込む。</sentence>
+<sentence>残りの桃とフルーツ（飾り用に少し残しておく）をクリームの中に軽く押し込み、パレットナイフで表面をならす。</sentence>
+<sentence>飾り付けをする前に冷凍庫で２時間、または冷蔵庫で６時間冷やし固める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５</sentence>
+<br type="automatic_original" />
+<sentence>ハニカムを作る。</sentence>
+<sentence>深鍋でバター、生クリーム、砂糖、ハチミツを色が付き始めるまで煮詰めてシロップを作る。</sentence>
+<sentence>スライスアーモンドを加え、硫酸紙かパラフィン紙を敷いた天パンの中に流し、１７０℃のオーブンで５分間焼く。</sentence>
+<sentence>オーブンから出してすぐ、ケーキの高さと同じ幅の長方形に切る。</sentence>
+<sentence>ハニカムはすぐに固まるので、作業は手早く行うこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６</sentence>
+<br type="automatic_original" />
+<sentence>つやを出すために、冷やし固めたケーキの上面に、溶かしたアプリコットジャムをはけで塗る。</sentence>
+<sentence>長方形のハニカムを重ねながら連ねて、ケーキ側面に丁寧に貼り付けていく。</sentence>
+<sentence>残りのフルーツとハニカムを上に飾る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">メレンゲ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>メレンゲは卵白に砂糖を加えてかたく泡立てたもので、そのまま、または焼いて、さまざまなデザートに使います。</sentence>
+<sentence>泡立てたときにボリュームが出るよう、卵黄が全く混じっていないこと、そして器具に油分が付着していないことを確かめましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">３種類のメレンゲ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フレンチメレンゲ</sentence>
+<br type="automatic_original" />
+<sentence>卵白２個分に対して砂糖１１５ｇを使う。</sentence>
+<sentence>卵白に砂糖の半量を少しずつ加えながらかたくなるまで泡立て、最後に残りの砂糖を加えてさっくりと混ぜ合わせる。</sentence>
+<sentence>成形してオーブンで乾燥焼きしたり、ゆでるのに適している。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">スイスメレンゲ</sentence>
+<br type="automatic_original" />
+<sentence>卵白２個分に対して砂糖１２５ｇを使う。</sentence>
+<sentence>弱火にかけた湯せんのボウルに卵白と砂糖を入れ、泡立てる。</sentence>
+<sentence>むらにならないようにボウルを回しながら泡立てる。</sentence>
+<sentence>搾り出して成形するのに適している。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">イタリアンメレンゲ</sentence>
+<br type="automatic_original" />
+<sentence>砂糖２５０ｇと水６０ｃｃ<sampling type="end" />をプティブーレ（１０８ページ参照）の状態まで煮詰めてシロップを作り、粗熱を取る。</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00120" version="1.0" type="fixedLength">
+<article articleID="LBq3_00120_F001">
+<paragraph>
+<sentence>様々な形での救済方法がとられているが、９８年４月から導入された旧大蔵省の<quote>「早期是正措置」</quote>では、自己資本比率０％す<sampling type="start" />なわち債務超過状態に陥っている農協に対しては、県が業務停止命令を発動することになった。</sentence>
+<sentence>それまでに貯金保険機構などからの資金援助によって救うことになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、貯金保険機構の貯金者保護の措置としては、<enclosedCharacter description="○">１</enclosedCharacter>貯金者に対する保険金・仮払金の支払、<enclosedCharacter description="○">２</enclosedCharacter>貯金者からの保険金支払限度額を超える元本及びその利息に係る貯金等債権の概算払率による買取り、<enclosedCharacter description="○">３</enclosedCharacter>経営困難に陥った農水産業協同組合を救済する場合の資金援助などがある。</sentence>
+<sentence>ちなみに２００１年４月からは法改正されて、<enclosedCharacter description="○">１</enclosedCharacter>貯金等の利息等が新たに保険の対象となった。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>元本補填契約のある金銭信託（貸付信託を含む）、<enclosedCharacter description="○">３</enclosedCharacter>農林債券、<enclosedCharacter description="○">４</enclosedCharacter>国、地方公共団体及び公庫・公団・事業団その他の特殊法人からの貯金等が新たに保険の対象とされた。</sentence>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>仮払金の支払限度額が１口座につき６０万円に引き上げられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　要するに、救済の仕組みは預金保険と変わらない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">資金援助実績（単位：億円）</sentence>
+<br type="automatic_original" />
+<sentence>★金銭贈与額は支払額ベース。</sentence>
+<sentence>資産買取は運営委員会議決ベース。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">貯金保険機構の資金援助実績</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">★２００１年７月１日現在</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｑ…２４</sentence>
+<br type="automatic_original" />
+<sentence>円預金でも保証されない銀行もある？</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">預金保険対象外の外資系金融機関は要注意</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　Ａ　少なくとも銀行と名前がつく金融機関は、預金保険機構に加入しており、その金融商品の大半は預金保険で保証される。</sentence>
+<sentence>ところが、注意したいのは預金保険機構に加入していない、あるいはできない銀行もある。</sentence>
+<sentence>ひとつは日本開発銀行、日本輸出入銀行、商工中金といった政府系銀行。</sentence>
+<sentence>もうひとつがシティバンク、ウエストパック銀行、ロイズ銀行といった日本に本店を持っていない外国の銀行の在日支店、要するに外資系銀行だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　政府系金融機関は、直接個人の顧客との取引はしていないために、我々個人が関係することはないが、外資系金融機関はシティバンクのように円預金を取り扱っているところもある。</sentence>
+<sentence>円預金であっても、外資系金融機関の場合は預金保険の対象外になってしまうわけだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在の預金保険制度では、保証の対象である<quote>「付保預金」</quote>の対象に外貨預金は入っていない。</sentence>
+<sentence>しかし、外貨預金は付保預金ではないが<quote>「預金買取りの対象」</quote>にはなっている。</sentence>
+<sentence>したがって、預金保険機構に加入している銀行の外貨預金であれば、外貨預金の元本と利息の合計額に概算払い率を乗じた金額を受取ることができることになっている。</sentence>
+<sentence>ちょっとややこしい話だが、要するに預金保険の対象商品ではないが、金融機関が経営破綻したときには、預金保険機構が破綻した金融機関の預金を買い取った上で、資金援助するなり、保険金を支払うことになっている。</sentence>
+<sentence>つまり、仮に１０００万円<sampling type="end" />以下であっても丸ごと保証されるわけではないが、概算払い率（破綻した金融機関を清算して得られる大まかな資金回収率）に応じて預金が戻ってくることになる。</sentence>
+</paragraph>
+</article>
+</sample>

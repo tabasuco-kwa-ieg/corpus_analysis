@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00028" version="1.0" type="fixedLength">
+<article articleID="LBr3_00028_F001">
+<paragraph>
+<sentence>　参考までに，エビに無害の生体染色剤を注射して，赤や<sampling type="start" />水色のエビを人工的につくり，河川に放流して<ruby rubyText="そ">遡</ruby><ruby rubyText="じょう">上</ruby>していることを証明するような方法が開発されている（丹羽　１９９４年，１９９７年）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■参考文献</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">■推薦図書</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<authorsData>
+<sentence type="quasi">（丹羽　信彰）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBr3_00028_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">淡水のカメから見る自然度調査</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">カメの行動で環境を考える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ねらい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本の淡水域に生息するカメは，固有のイシガメ，中国大陸にも知られているクサガメ，中国産が基亜種のスッポンが一般的なものである。</sentence>
+<sentence>しかし，最近のペットブームによるアカミミガメ（米国原産の商品名ミドリガメ）のおびただしい数の野外への放逐で，野生化したものが場所によっては日本産のカメを上回るほどになっている。</sentence>
+<sentence>また，ワニガメやカミツキガメなど北米原産で数十ｋｇの体重にも成長する大型種の野生化も見られるようになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もともと，日本に生息していたカメ類は，環境の悪化のため数を減らしている状況にあり，カメの生息できる環境は自然度の高いものと考えることができる。</sentence>
+<sentence>しかし，アカミミガメの急激な増加は在来種の生存をさらに脅かす心配が大きく，早急にこれらの全国的な生息状況を調べて対策を立てる必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">カメ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">必要なもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〈生息種・数のみの調査〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　観察記録ノート，双眼鏡，地図（河川・水路・ため池などの詳細な名や位置，形状がわかるもの…各自治体の管内図や詳細図がよい）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">〈成長や定住性，行動など踏み込んだ調査〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　上記のほかに，手網や柄長網，カニかごトラップ（<ruby rubyText="えさ">餌</ruby>用の魚の頭など），ノギス，<ruby rubyText="て">手</ruby><ruby rubyText="ばかり">秤</ruby>，ハンドドリル，ステンレス線，カラープラスチック板など</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">調査方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　カメのなかまは，水陸両方での生活を必要とするので，陸上に出ている場合には比較的調査しやすい。</sentence>
+<sentence>まず，選んだ水域を双眼鏡で探索することで，甲羅干し中のカメの種数の確認ができる。</sentence>
+<sentence>カメは<ruby rubyText="おく">臆</ruby><ruby rubyText="びょう">病</ruby>な動物であり，驚かすと一斉に水中へ飛び込んでしまうので，できるだけ遠方からの観察が望ましい。</sentence>
+<sentence>また，カメは冬眠することと，季節や１日のうちでの行動や天候との関係で，常に姿を見せているとはかぎらない。</sentence>
+<sentence>そこで，生息が確認できた場所における定期的な観察が必要になる。</sentence>
+<sentence>１日のうちでの時間ごとの記録（基本的には夜間は休息）や季節（完全な冬眠ではなく，真冬でも甲羅干しに出てくる地域もある），天候などにも合わせて調査する。</sentence>
+<sentence>水温や気温との関係も大切である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その場所で繁殖しているかどうかを知るには，子ガメの存在か早朝の産卵行動を確認する。</sentence>
+<sentence>産卵は陸上で行わねばならないので，５月〜８月ごろの繁殖期に上陸し，場所を探していて捕獲される雌ガメが多い。</sentence>
+<sentence>そのカメが産卵し，発生が認められれば，繁殖の確認となる。</sentence>
+<sentence>このような場合に，個体識別のための番号を（図のように，甲羅の縁の<sampling type="end" /><ruby rubyText="うろこ">鱗</ruby>〈甲板〉に数字を設定してドリルで<ruby rubyText="あな">孔</ruby>を開けステンレス線をつけておく）ナンバリングしておけば，１シーズンに何回，いくつ，何日間隔で産卵したかも知ることができる。</sentence>
+</paragraph>
+</article>
+</sample>

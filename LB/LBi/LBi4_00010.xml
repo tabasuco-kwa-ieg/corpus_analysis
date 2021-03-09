@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00010" version="1.0" type="fixedLength">
+<article articleID="LBi4_00010_F001">
+<paragraph>
+<sentence>その<sampling type="start" />結果、体内からは水分が減り、脱水症状（口の渇き、<ruby rubyText="た">多</ruby><ruby rubyText="いん">飲</ruby>、体重の減少、体のだるさなど）があらわれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　極度にインスリンが不足すると<quote>「ケトアシドーシス」</quote>と呼ばれる状態になります。</sentence>
+<sentence>尿には<quote>「ケトン体」</quote>という成分が出て、血液は酸性になります。</sentence>
+<sentence>強い脱水症状とともに、頭痛、吐きけ、吐く、腹痛などを訴えるようになり、意識が消失（<ruby rubyText="こん">昏</ruby><ruby rubyText="すい">睡</ruby>）して、放置すれば死亡することもあります。</sentence>
+<sentence>このような人では注射によってインスリンを補給しないと救命できません。</sentence>
+<sentence>また、このような人たちのことを<quote>「インスリン依存型糖尿病」</quote>と呼びます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">糖尿病を悪くする条件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　糖尿病の患者さんでは、体重が増えたり、カゼなどの感染症にかかったり、副腎皮質ホルモンなどを服用している場合には、インスリンが効きにくくなり、すぐに血糖が高くなります（<enclosedCharacter description="○">１</enclosedCharacter>‐図２参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような際には、血糖がいちじるしく上昇して、脱水症状があらわれることもまれではありません。</sentence>
+<sentence>とくに重症の感染症の場合にはケトアシドーシスになることがあります。</sentence>
+<sentence>すでに高度に動脈硬化の進んだ中高年者では、脱水の状態になると血液が濃くなってかたまりやすくなり、<quote>「血栓」</quote>が生じて脳梗塞や心筋梗塞をおこす場合があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、このような恐れのある人たちは、水分（ただしカロリーのないもの）を十分にとるとともに、入院してただちに輸液（点滴による水分補給）を受けなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　感染をおこしたときは、早めに受診して血糖を測ってもらい、感染の治療を受けることが必要ですが、日ごろからカゼなどをひかないように注意することもたいせつです。</sentence>
+<sentence>関節炎、アレルギー、ぜんそく、<ruby rubyText="こう">膠</ruby><ruby rubyText="げん">原</ruby><ruby rubyText="びょう">病</ruby>などの治療で副腎皮質ホルモンを使用するときには、乱用しないことがたいせつです。</sentence>
+<sentence>感染や副腎皮質ホルモンの服用で血糖が高くなったときには、インスリン以外では血糖を下げることができないからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>‐図２　糖尿病を悪くする条件</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<sentence type="quasi">感染症，炎症，肥満，過食，暴飲（アルコール，糖を含む飲料），運動不足，肝障害（食後高血糖を増強），副腎皮質ホルモン使用，低カリウム血症（肝硬変，アルドステロン血症，降圧利尿剤，下剤の乱用など），急性心筋梗塞，脳出血，慢性<ruby rubyText="すい">膵</ruby><ruby rubyText="えん">炎</ruby>（<ruby rubyText="すい">膵</ruby><ruby rubyText="せき">石</ruby><ruby rubyText="しょう">症</ruby>），甲状腺機能<ruby rubyText="こう">亢</ruby><ruby rubyText="しん">進</ruby><ruby rubyText="しょう">症</ruby>，クッシング症候群，褐色細胞腫，先端巨大症など</sentence>
+<br type="automatic_original" />
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">糖尿病の治療目的は合併症の予防</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　糖尿病を治療する目的は、短期的には脱水を引き起こすいちじるしい<quote>「高血糖」</quote>を改善したり、ケトアシドーシスを予防することにあります。</sentence>
+<sentence>しかし、長期的には糖尿病に特有の合併症をおこさないようにすることです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="もう">網</ruby><ruby rubyText="まく">膜</ruby><ruby rubyText="しょう">症</ruby>がおきない値まで血糖を下げていれば、<ruby rubyText="じん">腎</ruby><ruby rubyText="しょう">症</ruby>も神経障害もおきません。</sentence>
+<sentence>ブドウ糖負荷試験で２時間あとの血糖が２<sampling type="end" />００ｍｇ／１００ｍｌ未満であれば、<ruby rubyText="もう">網</ruby><ruby rubyText="まく">膜</ruby><ruby rubyText="しょう">症</ruby>は生じないことになります。</sentence>
+</paragraph>
+</article>
+</sample>

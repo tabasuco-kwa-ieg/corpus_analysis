@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00016" version="1.0" type="fixedLength">
+<article articleID="LBl8_00016_F001">
+<paragraph>
+<sentence>彼は<sampling type="start" />威王が大好きな謎あてでいったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「国の中に大きな鳥がいます。</sentence>
+<sentence>王の庭に止まっています。</sentence>
+<sentence>三年のあいだ飛びません。</sentence>
+<sentence>また鳴きもしません。</sentence>
+<sentence type="quasi">王様、この鳥が何だかおわかりですか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　威王はさすがに凡庸の君ではない。</sentence>
+<sentence>ただちに答えていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「この鳥は、飛ばなければそれまでだが、ひとたび飛んだとなれば天に達するであろう。</sentence>
+<sentence type="quasi">鳴かなければそれまでだが、ひとたび鳴いたならば、人を驚ろかすであろう」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そして官吏の粛清を行ない、諸政を刷新し、軍を強化して諸侯に反撃した。</sentence>
+<sentence>諸侯はみな恐れて、侵略した領土を返した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これと類似した話が『呂氏春秋』重言篇にもある。</sentence>
+<sentence>こうした語り伝えが一般に存在していたのであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<ruby rubyText="けい">荊</ruby>（楚の異称）の<ruby rubyText="そう">荘</ruby>王（在位、前六一四〜五九一）は即位して三年たったが、政治は見向きもせず、謎あてが大好きだった。</sentence>
+<sentence type="quasi">臣下の<ruby rubyText="せい">成</ruby><ruby rubyText="こう">公</ruby><ruby rubyText="か">賈</ruby>が諫めると、王は不機嫌になって、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「わしは諫めは法度としておるのに、その方はなぜ諫めるのじゃ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「私はお諫めいたしているのではありません。</sentence>
+<sentence type="quasi">王様と謎あてをしたいと思っているのでございます」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「そうか、ではいってみるがよい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「鳥がいます。</sentence>
+<sentence>南方の丘に止まっています。</sentence>
+<sentence>三年のあいだ動きません。</sentence>
+<sentence>飛びもしません。</sentence>
+<sentence>鳴きもしません。</sentence>
+<sentence type="quasi">これは何の鳥でしょうか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　王の答えも威王と同様である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「鳥がいて、南方の丘に止まったまま三年動かぬのは、意志を固めようとしているからだ。</sentence>
+<sentence>また飛ばぬのは、羽や翼が十分に生えそろうのを待っているからだ。</sentence>
+<sentence>鳴かぬのは、民の法則とすべきところを見きわめようとしているからだ。</sentence>
+<sentence>この鳥は飛ばぬとはいいながら、飛べば天に達しようとする。</sentence>
+<sentence>鳴かぬとはいいながら、鳴けば人をも驚かそう。</sentence>
+<sentence>賈よ、退出するがよい。</sentence>
+<sentence type="quasi">わしにはわかっておるのだ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　荘王も官吏の粛清を行ない、臣下を喜ばせた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今では<quote>「鳴かず飛ばず」</quote>ということが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（村松）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBl8_00016_F002">
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="し">歯</ruby><ruby rubyText="が">牙</ruby>に<ruby rubyText="か">懸</ruby>くるに<ruby rubyText="た">足</ruby>らず</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<ruby rubyText="しゅく">叔</ruby><ruby rubyText="そん">孫</ruby><ruby rubyText="とう">通</ruby>は<ruby rubyText="せつ">薛</ruby>（山東省）の人で、秦の時、文学をもって<ruby rubyText="め">徴</ruby>し出され、博士候補の地位についた。</sentence>
+<sentence>やがて、二世皇帝の元年（前二〇九）、<ruby rubyText="ちん">陳</ruby><ruby rubyText="しょう">勝</ruby>が農民たちをひきつれて叛旗をひるがえし、各地のこれに応ずる者を集めて軍を進め、たちまちのうちに<ruby rubyText="ちん">陳</ruby>（河南省）を占領して、みずから王と称し、国を<ruby rubyText="ちょう">張</ruby><ruby rubyText="そ">楚</ruby>と号した。</sentence>
+<sentence>この報がもたらされると、二世は博士や儒生を召して意見を徴した。</sentence>
+<sentence>三十余人の博士、儒生は、これは叛逆であるから、直ちに兵を発して討伐すべきだと主張した。</sentence>
+<sentence>二世は色をなして怒った。</sentence>
+<sentence>皇帝たる自分に逆らう者があるということが、自尊心をいたく傷つけたのである。</sentence>
+<sentence>すると、叔孫通が進み出ていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　「諸先生のいわれたことは、みな間違っております。そもそも秦は天下を合して一家となし、郡県の城を<ruby rubyText="こわ">毀</ruby>し、武器を<ruby rubyText="い">鋳</ruby>つぶし、二度と用いぬことを<sampling type="end" />天下に示したのであります。</sentence>
+</paragraph>
+</article>
+</sample>

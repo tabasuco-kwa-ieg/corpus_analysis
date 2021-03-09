@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh5_00030" version="1.0" type="fixedLength">
+<article articleID="LBh5_00030_F001">
+<paragraph>
+<sentence>長い下り坂などでは、ブレーキの多様が禁物というのは、ベー<sampling type="start" />パー・ロック現象ばかりでなく、フェード現象も恐いからだ。</sentence>
+<sentence>なお、ディスク・ブレーキではディスクが露出しているので、高熱化が起こりにくいが、高熱になれば、ディスク・ブレーキでもフェード現象が起こる。</sentence>
+<sentence>安心してはいられない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＡＲＴ７‐５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">パーキング・ブレーキ</sentence>
+<br type="automatic_original" />
+<sentence>坂道に駐車できるありがたいシステム。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パーキング・ブレーキというのは、クルマ機能のなかでは、あまり注目を集めていないものだ。</sentence>
+<sentence>ところが、これがないとクルマを駐車する場所を探すのがたいへんになるのはいうまでもないこと。</sentence>
+<sentence>こんな大切なものをイージーに扱ってはいけない。</sentence>
+<sentence>簡単なチェックをしておけば、安心して駐車できるというものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ　パーキング・ブレーキの構造と役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　坂道などに駐停車する際に、クルマを動かないように保持するのがパーキング・ブレーキの役割。</sentence>
+<sentence>パーキング・ブレーキ専用のブレーキ本体を備えていることは少なく、後輪のドラム・ブレーキが兼用されていることが多い。</sentence>
+<sentence>４輪ディスク・ブレーキ車のなかには、ディスクの内部にドラムを設けて、専用のパーキング・ブレーキ本体を設けていることもある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本体を兼用している場合も、兼用していない場合も、兼用するのは本体だけで、油圧系統は利用していない。</sentence>
+<sentence>ケーブルやロッドなどのリンク機構によって、パーキング・ブレーキ・レバーとブレーキ本体を接続している。</sentence>
+<sentence>レバーの根元にはラチェット機構と呼ばれるツメがあり、ボタンを押さないと引いた状態が解除できないようになっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｂ　パーキング・ブレーキのチェック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　最近ではほとんどのブレーキ本体に自動調整機能が備わっているので、シューなどが摩耗したからといって、ブレーキ・レバーの引き代が伸びることはない。</sentence>
+<sentence>引き代が大きくなってきたら、シューなどの交換時期だと考えられる。</sentence>
+<sentence>ブレーキ・ペダルの踏み代とは異なり、簡単にチェックすることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ブレーキ・レバーを引いてみて、カチカチというノッチ音が何回するか数えればよいのだ。</sentence>
+<sentence>このノッチ音を車両取扱説明書などに記載されている規定値と比較してみればよい。</sentence>
+<sentence>規定値よりも長くなっていれば、シューの点検を考えるべきだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし、あまりないことだが、ケーブルなどのリンク機構が伸びて引き代が大きくなることもある。</sentence>
+<sentence>シュー交換直後などに引き代が長くなったら、調整が必要だ。</sentence>
+<sentence>ブレーキ・レバーの根元か、クルマの下側に調整機構がある。</sentence>
+<sentence>ただし、自分で調整する前に、プロにシューの状態を点検してもらったほうがよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>１　ブレーキ・レバーをゆっくり引き上げ、完全に解除した状態からロックするまでに、ノッチ音が何回するかをチェック。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　引き代<sampling type="end" />が長くなっていたら、調整機構でアジャストするが、シューの摩耗などもチェックしてみるべきだ。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

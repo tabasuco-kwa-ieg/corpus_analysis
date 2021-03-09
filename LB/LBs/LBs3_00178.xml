@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00178" version="1.0" type="fixedLength">
+<article articleID="LBs3_00178_F001">
+<paragraph>
+<sentence>前者の財産法の原理は貸借対照<sampling type="start" />表に重きを置くのに対して，後者の損益法は損益計算書を重視する考え方でもある。</sentence>
+<sentence>ドイツでは古くから財産法と損益法と称しているが，最近になってアメリカではかつての財産法を新しくモデルチェンジして<quote>「資産負債アプローチ」</quote>とし，損益法を<quote>「収益費用アプローチ」</quote>と呼称しているようだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　簿記の原理ではどちらの方法も一長一短があり，両者の結合により企業の利潤計算の正確性が保証されるとしている。</sentence>
+<sentence>複式簿記の機構は，この財産法利潤計算と損益法利潤計算が自動的に組み込まれているシステムにほかならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　上記の要約した財産法と損益法の背後にある理論を考察する領域を伝統的に<quote>「利潤計算原理」</quote>と呼ぶ。</sentence>
+<sentence>われわれの生活を例にとれば，財産法は朝，出がけに財布を見て，帰宅して財布の残金を見て朝（期首）と夜（期末）のストックの残金比較で１日いくら出入りしたかを推定する方法である。</sentence>
+<sentence>一方，損益法は，常時，小遣帳や電子手帳を携帯していて収入や支出をその都度記録して直接，１日の収支をフローで把握する方法といえる。</sentence>
+<sentence>正確な１日の収支を把握しようとしたら両者を結合して利用しなければならない（岩田巖著『利潤計算原理』（同文館，１９７５年）５１頁，１６１頁）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これら二つの背後にある理論の利潤計算原理を以降考察していこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【２】財産法と損益法の特徴について考える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　財産法の意味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一般に期首資本（または期首純財産）と期末資本（または期末純財産）とを実在有高の比較計算で行う財産法の特徴は，帳簿記録を一応離れて，資産・負債の実在や支配力が及ぶ有高の実地棚卸（棚卸法という）に基づいて利潤計算が行われることにある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もちろん，帳簿を離れたといっても期首の資本有高や期中の増資や減資の記録は必要だ。</sentence>
+<sentence>このように財産法の利潤計算原理においては，最小限の帳簿記録を用いた実施棚卸法を前提にした純財産の比較計算で，ストックの比較による利益算定法である。</sentence>
+<sentence>この場合，期首と期末に資産と負債の一覧表である財産目録が作成される場合がある。</sentence>
+<sentence>この資産・負債の財産目録に資本の概念が入ると貸借対照表となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　理念型の財産法利潤計算原理の特徴は，現実に残留する財産（資産と負債をあわせた概念）の実地棚卸から純財産を確認するので具体的にして確実な方法といえるし，そこから導き出された純利益は存在するという確認がなされた実際の利益の性格を有する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　損益法の意味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これに対して，一定期間に発生した収益とこれに対する費用との差額で企業利益を算定する損益法は，財産法と異なり，帳簿記録（誘導法という）に基づいて計算が行われる。</sentence>
+<sentence>収益，費用の把握はす<sampling type="end" />べて勘定に記録された帳簿から誘導されなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

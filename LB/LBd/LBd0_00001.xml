@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd0_00001" version="1.0" type="fixedLength">
+<article articleID="LBd0_00001_F001">
+<paragraph>
+<sentence>　こうして日経の技術スタッフは、新聞技術に欠かせないノウハウを少しずつ蓄えながら、単なる機械の修理作業から自分たちの創意と工夫を生かした新しい機械の考案へとターゲ<sampling type="start" />ットを一歩一歩前へ進めていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だが、この頃、<quote>「技術先進国」</quote>の朝日では、のちに日本の新聞界に技術革新の大きなうねりを巻きおこす引き金ともなった一大プロジェクトの開発作業にとりかかっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ファクシミリである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">先駆者たち</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　その日、昭和三十三年十月十五日、西銀座の雑踏を見おろす朝日新聞東京本社五階の一室で、朝日の経理面を一手にとりしきる経理総務中川英造は、二人の上司を前にすっかり当惑しきっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　上司とは、専務の<ruby rubyText="しの">信</ruby><ruby rubyText="ぶ">夫</ruby>韓一郎と、常務で東京本社業務局長の永井大三の二人である。</sentence>
+<sentence>信夫は、敗戦直後の朝日に編集局長としての地位を得て、二度にわたる重役の総入れ替え、組合分裂と混乱の打ちつづく社内を持ち前の押しの強さとたぐいまれな人心<ruby rubyText="しゅう">収</ruby><ruby rubyText="らん">攬</ruby><ruby rubyText="じゅつ">術</ruby>でまとめあげ、自ら中心になって<quote>「朝日新聞綱領」</quote>を制定するなど戦後再建期の朝日の進路に大きな影響を与えた編集面の重鎮として知られていた。</sentence>
+<sentence>同じ明治三十三年生まれで、のちに<quote>「六〇年安保」</quote>では<quote>「岸退陣要求」</quote>の論陣をはって朝日ばかりか日本の言論界をリードすることになる論説主幹<ruby rubyText="りゅう">笠</ruby>信太郎ほどのスター性はなかったが、朝日の記者には型破りな親分肌で部下の人望も厚かった。</sentence>
+<sentence>一方、永井も、読売の<ruby rubyText="む">務</ruby><ruby rubyText="たい">台</ruby>光雄とならんで<quote>「販売の神様」</quote>と称される、これまた新聞界に広くその名をとどろかせていた実力者であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もっとも、信夫は安保騒動が峠を越した三十五年六月末、あっさり専務のイスを投げ出して宮崎の地に引きこもってしまう。</sentence>
+<sentence>その辞め方があまりにいさぎよかったため、社内では退任の理由をめぐってさまざまな風説が流された。</sentence>
+<sentence>中でも真相に近いとみられていたのが、前年秋に朝日を襲った組合の九十六時間ストの責任を信夫がとらされたのだという見方であった。</sentence>
+<sentence>ストが長期化したのは、組合の賃上げ要求を会社側が問答無用の形で突っぱねたことが直接の原因だったが。</sentence>
+<sentence>社内には向こう気の強い信夫の強引さが災いしたと見る向きもあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、同じ朝日を去るにしても、信夫以上に永井の<ruby rubyText="さい">最</ruby><ruby rubyText="ご">期</ruby>は劇的で、悲惨だった。</sentence>
+<sentence>永井の場合は、朝日の株の四〇パーセントあまりを持つオーナーの村山家に<ruby rubyText="うと">疎</ruby>んじられ、三十八年十二月に開かれた株主総会の席で投票によって突然常務を解任されてしまう。</sentence>
+<sentence>一カ月前の役員会では永井留任が内定していたのに、オーナーの村山家側が株主権を行使して横車を押したのである。</sentence>
+<sentence>永井を忌避したのは、村山家が計画していた病院建設に朝日から資金を援助するようオーナー側が要請したのにもかかわらず、<quote>「新聞事業と何のゆかりもない家業に会社の金は出せない」</quote>と営業面の<ruby rubyText="そう">総</ruby><ruby rubyText="すい">帥</ruby>で<sampling type="end" />ある永井が門前払いを食わせたためと言われた。</sentence>
+</paragraph>
+</article>
+</sample>

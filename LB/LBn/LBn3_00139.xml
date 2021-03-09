@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn3_00139" version="1.0" type="fixedLength">
+<article articleID="LBn3_00139_F001">
+<paragraph>
+<sentence>　なお、生活財の損失に関しては、その損失の生じた原因が、災害、盗難また<sampling type="start" />は横領による場合に限り、雑損控除（→８８ページ）の対象となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆他のどこにも入らない費用</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　事業上の費用で、これまであげてきた、どの経費にも当てはまらない費用は<quote>「雑費」</quote>という科目で申告します。</sentence>
+<sentence>ただし、あまり雑費の金額が大きくなると、明細を求められますので、なんでもかんでも雑費にしないように注意してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">□借入金や税金などに関わる費用の科目</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">税金は必要経費になるものとならないものがあるので、詳しくは税務署などに問い合わせる</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１０　家族に支払った給料は<quote>「専従者控除」</quote>できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆一定の条件を満たさなければならない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　通常は、家族に支払った給料は必要経費にできません。</sentence>
+<sentence>しかし、その人が次の条件を満たしている場合には事業専従者となり、その支払額を<quote>「専従者控除」</quote>として必要経費に算入できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　生計を一にする配偶者その他の親族であること</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　その年の年末の時点で１５歳以上であること</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　その年中の６カ月超の期間、その事業に従事していること</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　ただし、学生や他に職業がある人、老衰その他心身の障害により、事業に従事する能力が著しく阻害されている人は、事業専従者から除きます。</sentence>
+<sentence>また、事業専従者は配偶者控除、配偶者特別控除、扶養控除（→９７ページ）の所得控除の適用を受けられません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　専従者控除額は、次の<enclosedCharacter description="○">１</enclosedCharacter>と<enclosedCharacter description="○">２</enclosedCharacter>のうち、いずれか少ない金額です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　なお、専従者控除が認められているのは事業所得だけで、雑所得の場合にはこの控除は受けられません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>◆<quote>「生計を一にする」</quote>とは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生計を一にするとは、同じ家に住み、日常生活を共に営んでいることをいいます。</sentence>
+<sentence>ただし、勤務、修学、療養等の都合により日常生活を共にしていない場合であっても、勤務、修学等の余暇には他の親族のもとで日常生活を共にし、常に生活費、学資金、療養費等の送金が行われている場合には、生計を一にするものとして取り扱われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＴＥＰ　４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">控除を活用して税額を減らそう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　所得控除とはどんなものか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆１５種類の控除がある</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、あなたの総所得金額はいくらになりましたか？</sentence>
+<sentence>　あまり減らせなかった、という方も、まだまだあきらめないでください。</sentence>
+<sentence>これから、総所得金額から所得控除を差し引いて、課税総所得金額を算出します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　所得控除には、<quote>「雑損控除」</quote><quote>「医療費控除」</quote><quote>「社会保険料控除」</quote><quote>「小規模企業共済等掛金控除」</quote><quote>「生命保険料控除」</quote><quote>「損害保険料控除」</quote><quote>「寄付金控除」</quote><quote>「障害者控除」</quote><quote>「老年者控除」</quote><quote>「寡婦（夫）控除」</quote><quote>「勤労学生控除」</quote><quote>「配偶者控除」</quote><quote>「配偶者特別控除」</quote><quote>「扶養控除」</quote><quote>「基礎控除」</quote>の１５種類があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　所得控除は、必要経費と違って、給与所得だけしかない場合でも利用できます。</sentence>
+<sentence>本業、副業あわせて２社以上の会社で働いている人の場合には<sampling type="end" />、この控除をとことん利用することが、節税の大きなポイントになります。</sentence>
+</paragraph>
+</article>
+</sample>

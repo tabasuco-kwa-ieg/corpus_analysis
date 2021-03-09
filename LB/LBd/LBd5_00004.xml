@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00004" version="1.0" type="fixedLength">
+<article articleID="LBd5_00004_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「私が手を振って離陸中止の合図を送ったのに、よく離<sampling type="start" />陸しましたね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「えっ、ＯＫのサインじゃなかったのか。</sentence>
+<sentence type="quasi">私はこの目でちゃんと見届けましたよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　事前の打ち合わせのとき、<quote>「中止の場合は手を横に振ること」</quote>と決めてあった。</sentence>
+<sentence>ところが、技術者は滑走路と平行に手を振ってしまったため、新妻にはそれが<quote>「行け」</quote>のサインに見えてしまったのである。</sentence>
+<sentence>結果がよかったので笑い話ですんだが、まさに冷汗もののサイン違いであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">燃料コントロールはキー・テクノロジー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　永野は当時を振り返って、こういっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「いや、偶然にもウッドワードにめぐり会えてよかった。</sentence>
+<sentence>本当に運がよかったよ。</sentence>
+<sentence type="quasi">もし、あのままだったら、Ｊ３全体がどうなったことやら」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ウッドワード・ガバナ社はアメリカの航空用燃料コントロールの二大メーカーのうちの一つである。</sentence>
+<sentence>ＸＪ３が量産に移行されたのち、ウッドワードの燃料コントロールが搭載されることになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ウッドワード製燃料コントロールに出会ったときの心境を、杉山は、次のように述べている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　「昭和三十五年、Ｊ３４燃料コントロールの改造型（ウッドワード製）に接した時、ＮＪＥ型に較べ全ての面ですぐれており、実際に使用されているものの風格を痛感させられた。外観的には単純な筐体で、内部にとても複雑な機構が収納されているとは思えなかった。（中略）我々が最も困ったガバナの安定化が極めて容易に実現でき、更に、エンジンの運転条件（気温、気圧など）が変化しても、スロットルレバー位置とエンジン回転数との関係が容易に規格値内に維持できた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＮＪＥ型は、理論的にも、使用材料及び加工精度的にも、極めて低い技術水準にあり、エンジンに一応装着可能にするために、細心の注意を払った芸術品にする必要があった。</sentence>
+<sentence>これすら十時間もエンジン運転をすれば調子が狂ってしまい、取外して再度台上調整を行なった。</sentence>
+<sentence>コントロール開発関係者は日々日夜これらの繰返しで多忙をきわめた。</sentence>
+<sentence>しかるに、輸入コントロール使用により、一挙に失業した。</sentence>
+<sentence type="quasi">輸入コントロールは、我々の燃料コントロールに対する従来の概念を一変させるものであった」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　杉山にとって、アメリカと日本とのあまりの技術格差はショックであった。</sentence>
+<sentence>数年にわたり、あれほど苦労し、細心の注意を払ってつくり上げた“芸術品”が、量産品である輸入品にまるでかなわない現実に、ただ脱帽するしかなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、ウッドワードの高い技術水準に感心してばかりもいられなかった。</sentence>
+<sentence>燃料コントロールはジェットエンジンのキー・テクノロジーである。</sentence>
+<sentence>もし国産化できなければ、日本のジェットエンジン国産化は、首根っこを抑えられることになる。</sentence>
+<sentence>なんとしても日本製燃料コントロールをつく<sampling type="end" />り上げねばならないと、杉山は再び意欲を燃やし、燃料コントロールの自主開発がいかに重要であるかを、上司を動かして防衛庁に説いた。</sentence>
+</paragraph>
+</article>
+</sample>

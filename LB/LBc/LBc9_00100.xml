@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc9_00100" version="1.0" type="fixedLength">
+<article articleID="LBc9_00100_F001">
+<paragraph>
+<sentence>　手術は、よくいったつもりだ、と主任の医師が云いまし<sampling type="start" />た。</sentence>
+<sentence type="quasi">あとの注意などいろいろ云っていた医師が、廊下をちょろちょろしている茂樹の足を見ると、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「おや、おか<correction originalText="い" type="erratum">し</correction><correction originalText="し" type="erratum">い</correction>ぞ」</quote>と首をひねりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「坊や、ちょっとおいで」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence type="quasi">　茂樹が歩み寄るさまを見て、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「こりゃ、相当な<ruby rubyText="わん">彎</ruby><ruby rubyText="きょく">曲</ruby>だ」</quote>と云いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　早速診て貰うことにしました。</sentence>
+<sentence>レントゲンで調べると、ビタミンＤやカルシュウム不足のため、骨が柔かくて、Ｏ字型に曲っている、との診断です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一難去ってまた一難というとありふれた文句ですが、ぼくも妻も、まったくうんざりして了いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　療法としては、先ずギブスで固定して整形するのだが、それで駄目なら、骨を切開しなければならぬ、と云います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　途方にくれたぼくたちを見て、医師が云いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「根気よくやれば、マッサージで矯正できることもあります。</sentence>
+<sentence type="quasi">暫らくマッサージに通ってごらんなさい」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence type="quasi">　ぼくたちは、しばらくぼそぼそと相談したのち、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「ではそういうことにして頂きます」</quote>と答えました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　親子三人は、珍らしく円タクで帰ることにしました。</sentence>
+<sentence>都電では、茂樹がひどく目立つからです。</sentence>
+<sentence>ぼくと妻が沈み切っているのに引きかえ、<ruby rubyText="からす">烏</ruby><ruby rubyText="てん">天</ruby><ruby rubyText="ぐ">狗</ruby>のような顔をした茂樹は、円タクが嬉しくて大ハシャギです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">十</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｏ字型の足、つまりガニ股ですが、茂樹がこうなった原因は、極めてハッキリしています。</sentence>
+<sentence>茂樹の醜い唇を人目につかせたくない気持から、病院通い以外は、殆んど全く戸外へ出さなかったためです。</sentence>
+<sentence>つまりぼくの、世間への気兼ねが、一切の原因だったのです。</sentence>
+<sentence>なんということでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　太陽と土、これが茂樹には不足だった。</sentence>
+<sentence>二階に監禁して、土を踏ませることはおろか、太陽にもロクに当てなかった。</sentence>
+<sentence>ビタミンＤというのは、太陽の光線に当ることによって補給されるのだそうです。</sentence>
+<sentence>土を踏む踏まぬということが、どんな結果を人体に持ち来たすのか、理窟は判りませんが、茂樹を地に降ろしてやったときの喜びようは、ぼくの胸を打ちました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　下駄も靴も脱ぎ散らしていきなり<ruby rubyText="はだし">裸足</ruby>になります。</sentence>
+<sentence>ひどいガニ股の足で、<ruby rubyText="きん">欣</ruby><ruby rubyText="き">喜</ruby><ruby rubyText="じゃく">雀</ruby><ruby rubyText="やく">躍</ruby>といった有様です。</sentence>
+<sentence>裸足で土を踏む―理窟は一つも聞かずとも、茂樹の振舞で、人間にとってそのことがいかに大切であるかを痛感しました。</sentence>
+<sentence>茂樹は、人間という生物の、生きるために持って生れた衝動、つまり本能によって、土を求めていたのでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　太陽にしても同じことです。</sentence>
+<sentence>茂樹は、<substitution x0213="1-47-52" unicode="20B9F">叱</substitution>ってもどうしても、太陽に向って突進しました。</sentence>
+<sentence>いかに防いでも障子の桟をこわし、とうとう屋根に出て、太陽の光の中に夢見るように坐っていました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　土と太陽とを欲する―生命にとってのこの至上命令を、おろかな父親のぼくは、かたくなにはばみつづけたのです。</sentence>
+<sentence>何ごとでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ぼくは、何も彼もぼくのせいだ、ぼくが悪いの<sampling type="end" />だ、と深く深く頭を垂れました。</sentence>
+</paragraph>
+</article>
+</sample>

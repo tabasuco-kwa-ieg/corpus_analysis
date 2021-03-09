@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd2_00043" version="1.0" type="fixedLength">
+<article articleID="LBd2_00043_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">↑明治９（１８７<sampling type="start" />６）年に天皇の御臨幸があった霞が関の大久保邸</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>→大久保公哀悼碑。</sentence>
+<sentence type="quasi">大久保が襲われた紀尾井坂に近い清水谷公園内にある</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">↓<quote>「絵入りロンドンニュース」</quote>に掲載された大久保の国葬の様子</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBd2_00043_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">比較人物論　明治の群像<enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><ruby rubyText="やまがた">山県</ruby><ruby rubyText="あり">有</ruby><ruby rubyText="とも">朋</ruby>と西郷<ruby rubyText="つぐみち">従道</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi"><ruby rubyText="た">田</ruby><ruby rubyText="おか">岡</ruby><ruby rubyText="のり">典</ruby><ruby rubyText="お">夫</ruby>（作家・故人）</sentence>
+<br type="automatic_original" />
+</authorsData>
+<profile>
+<sentence>山県有朋。</sentence>
+<sentence type="quasi">１８３８〜１９２２年</sentence>
+<br type="automatic_original" />
+</profile>
+<profile>
+<sentence>西郷従道。</sentence>
+<sentence type="quasi">１８４３〜１９０２年</sentence>
+<br type="automatic_original" />
+</profile>
+<paragraph>
+<sentence>　<ruby rubyText="げん">元</ruby><ruby rubyText="ろう">老</ruby>山県有朋の国葬は日比谷公園できわめて厳粛に行なわれたが、ちょうどその前月、同じ所で行なわれた<ruby rubyText="おお">大</ruby><ruby rubyText="くま">隈</ruby><ruby rubyText="しげ">重</ruby><ruby rubyText="のぶ">信</ruby>の国民葬の、参列者十万をこえたという盛大さには比すべくもなかった。</sentence>
+<sentence>それで当時の新聞にこれは両者の国民的人気の差をはっきりと現わしているものだ、という意味の記事がのっていたのを読んだ記憶がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■政党嫌いの大御所様</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そのころ、私は田舎の中学一年生、つまり一個の<ruby rubyText="がん">頑</ruby><ruby rubyText="どう">童</ruby><noteMarker text="※" />にすぎなかったので、山県なる人物には無関心であった。</sentence>
+<sentence>それで、彼の歿したとき、はじめて彼が政界の大御所であったこと、また、武人でありながら和歌のたしなみがあったということを、これまた新聞記事で知ったくらいである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">※頑童　かたくなで愚かな子供</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　和歌のことはともかく、大御所という言葉は、<ruby rubyText="たち">立</ruby><ruby rubyText="かわ">川</ruby>文庫的素養しか持合せていない私としては、必然的に徳川家康を連想し、イコール<ruby rubyText="たぬき">狸</ruby>おやじ、イコール<ruby rubyText="かたき">敵</ruby>役という印象を刻みつけられたものであった。</sentence>
+<sentence>要するにジャーナリズムに毒されたわけであるが、それはそれとして、山県が大御所的存在であったことはまぎれもない事実である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　山県は<quote>「帝国陸軍」</quote>を創設し、その陸軍によって西南の役を鎮圧し、<ruby rubyText="しん">清</ruby>国に勝ち、ロシヤに抗し得た。</sentence>
+<sentence>また、大久保<ruby rubyText="としみち">利通</ruby>のあとをうけて内務省の組織を完成し、内相、首相、<ruby rubyText="すう">枢</ruby><ruby rubyText="みつ">密</ruby><ruby rubyText="いん">院</ruby><noteMarker text="※" />議長を歴任した。</sentence>
+<sentence>まさに威権<ruby rubyText="かっ">赫</ruby><ruby rubyText="かく">々</ruby>である。</sentence>
+<sentence>明治末年に政界から引退したのちも、元老中の元老として大御所的地歩を占めていたのも当然であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>※枢密院　明治２１（１８８８）年に設置。</sentence>
+<sentence type="quasi">天皇の最高諮問機関として重要な国事を審議した</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　物にはおのずから順序がある。</sentence>
+<sentence>民主国家が究極的に望ましい体制であるにしても、三世紀にわたって封建の世に住んでいたわが国民が、その封建制が打破されたからといって、一足飛びに民主制に飛躍はできない。</sentence>
+<sentence><ruby rubyText="かえる">蛙</ruby>の卵と蛙のあいだにはオタマジャクシの過程が必要だ。</sentence>
+<sentence>上に天皇を<ruby rubyText="いただ">戴</ruby>いた官僚が、下、万民を統治するという維新政府は、すなわち、そのオタマジャクシであった。</sentence>
+<sentence>そして、その政治形態が山県の胸中に画かれた理想の国家像であったのである。</sentence>
+<sentence>彼はその国家像の完成に全力をつくした。</sentence>
+<sentence>もし、明治初年の軍政や内治において、山県のような周密な人物が局にあたらなかったら、西南の役はついに国内を<ruby rubyText="てい">鼎</ruby><ruby rubyText="ふつ">沸</ruby><noteMarker text="※" />たらしめたかもしれない<sampling type="end" />し、日本の近代国家は足ぶみをしつづけたかもしれない。</sentence>
+</paragraph>
+</article>
+</sample>

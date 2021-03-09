@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00048" version="1.0" type="fixedLength">
+<article articleID="LBr4_00048_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />図１／舌の構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">舌ガンの特徴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　舌ガンの大半は、舌の表面をおおっている粘膜の上層にある<ruby rubyText="へん">扁</ruby><ruby rubyText="ぺい">平</ruby><ruby rubyText="じょう">上</ruby><ruby rubyText="ひ">皮</ruby>細胞がガン化したものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　舌ガンがもっとも生じやすい部分は舌の側面（<ruby rubyText="ぜつ">舌</ruby><ruby rubyText="えん">縁</ruby>部）で、次が舌の裏側、そして舌根です（<sentence>舌根にできるガンは、<quote>「<ruby rubyText="ちゅう">中</ruby><ruby rubyText="いん">咽</ruby><ruby rubyText="とう">頭</ruby>ガン」</quote>にふくまれます。</sentence>
+<sentence type="quasi">１５０ページの咽頭ガンの項参照</sentence>
+）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　舌の内部はリンパ管に富み、またつねに運動しているため、初診の舌ガン患者の３０〜６０パーセントは、すでにリンパ節に転移しています。</sentence>
+<sentence>ガンが転移しやすい場所は、あごの下側と左右のリンパ節、それに首筋のリンパ節です。</sentence>
+<sentence>また舌から遠く離れた肺などに転移（遠隔転移）がみられると、予後（治療後の成績）は不良となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２／舌ガンの発生場所</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">発症率・生存率</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　わが国では近年、１年間に約３０００人が舌ガンを発症しているとみられています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　舌ガンをふくめた口腔・<ruby rubyText="こう">口</ruby><ruby rubyText="しん">唇</ruby>および咽頭部のガンによる死亡者は、平成１３年（２００１年）の統計では５２１１人あまりでした。</sentence>
+<sentence>男性が約３７８６人、女性が約１４２５人と、男性が女性の２・６倍も多くなっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　舌ガン患者の５年生存率は平均５０〜６０パーセントです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ガンの発見と治療が早期であるほど５年生存率は高く、初期（第１期）に発見・治療された場合の生存率は、８５〜９０パーセントです。</sentence>
+<sentence>またリンパ節への転移がみられない場合の５年生存率は７０〜８０パーセントですが、転移がある場合は約３０パーセントに低下します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表１／口腔ガン（舌、歯肉、口腔底、頰粘膜、小唾液腺＊）の病期</sentence>
+<br type="automatic_original" />
+<sentence>＊／治療方法についてはガンの発生場所の病期に準じる。</sentence>
+<sentence>また大唾液腺ガンの病期については１４６ページ表１参照。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">病期の分類は<quote>「ＵＩＣＣ　ＴＮＭ分類」</quote>による</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">原因</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　口腔ガンの発症には環境的な要因（生活習慣）が強く関係しています。</sentence>
+<sentence>とりわけタバコと飲酒が大きく影響しているとみられており、喫煙者は非喫煙者の約３倍の確率で舌ガンを発症します。</sentence>
+<sentence>また喫煙者はガンが重症化する確率も高くなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　タバコの煙には数十種類の発ガン物質（タールやニコチンなど）がふくまれており、これらが粘膜細胞のＤＮＡを損傷させて、ガンが発症します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　過度のアルコール摂取も体の抵抗力を弱めてガンを進行させます。</sentence>
+<sentence>また、喫煙をしながら飲酒すると、発ガン物質の吸収が促進され、ガンの発症リスクを高めます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また口腔を不潔にしていることも舌ガンを引き起こす原因になります。</sentence>
+<sentence>虫歯、歯石、よく調整されていない歯のつめものや入れ歯などがつねに舌に接触して舌を傷つけ続ける（慢性的な機械的刺激がある）と、その部分がガンになることがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ほかにも、舌に起こる慢性の炎症が遺伝子に損傷を与<sampling type="end" />える活性酸素を蓄積させて、舌ガンを引き起こすこともあるとされています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

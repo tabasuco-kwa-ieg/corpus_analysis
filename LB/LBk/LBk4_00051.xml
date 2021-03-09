@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk4_00051" version="1.0" type="fixedLength">
+<article articleID="LBk4_00051_F001">
+<paragraph>
+<sentence>　飲んだ薬の種類を知ることが、診断上の重要な手がかりになりま<sampling type="start" />す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>？</sentence>
+<sentence type="quasi">　治療方法は</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　疑わしい薬の使用を中止するのが治療の原則です。</sentence>
+<sentence>一般的に薬剤性肝障害は症状が軽く、薬を中止すればほとんどのものは回復します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">薬剤性肝障害は、薬を中止すれば回復するケースが多い</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">自己免疫性肝炎</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">原発性胆汁性肝硬変</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">５０〜５１ページ参照</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　自己免疫というのは、本来は身を守るための免疫組織が、何かの原因で自分の体の一部を異物とみなし、攻撃することです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自己免疫性疾患の発生原因はわかっていませんが、この病気になると、血液中に抗核抗体という自己成分に対する抗体が現れるので診断がつきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、原発性胆汁性肝硬変（５１ページ参照）は、今日でも、その原因ははっきりとわかっていません。</sentence>
+<sentence>胆管の炎症を起こす原因として自己免疫性疾患の関与も考えられていますが、よくわかっていません。</sentence>
+<sentence>ここでは、自己免疫性肝炎と比較するため、あえて２つを並べてみました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">自己免疫性肝炎と原発性胆汁性肝硬変</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">肝ガン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>？</sentence>
+<sentence type="quasi">　どんな病気か</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　肝臓にできるガンは、その発生の仕方によって、大きく<quote>「原発性ガン」</quote>と<quote>「転移性ガン」</quote>に分けられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　原発性ガンというのは、初めから肝臓に発生したガンのことです。</sentence>
+<sentence>さらに、肝細胞がガン化していく<quote>「肝細胞ガン」</quote>と、胆管の上皮細胞がガン化する<quote>「胆管細胞ガン」</quote>に分けられます。</sentence>
+<sentence>原発性ガンの多くは肝細胞ガンで、胆管細胞ガンは５パーセント程度にすぎません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、転移性ガンは、ほかの臓器にできたガン細胞が肝臓に飛び火して増殖するものです。</sentence>
+<sentence>これには、肝臓以外でできたガン細胞が、血液中から肝臓内に入り込む場合と、肝臓の周囲にできたガンが直接肝臓に入り込む場合があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>？</sentence>
+<sentence type="quasi">　起こる原因は</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　肝ガンがなぜ起こるのかは、ほかの多くのガンがそうであるように、わかっていません。</sentence>
+<sentence>しかし、肝ガンの発生に深く関係があると考えられている因子はいくつかあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず挙げられる危険因子（リスクファクター）は、肝炎ウイルスです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　肝ガンは、Ｂ型肝炎ウイルスのキャリアが集中している東南アジアやアフリカに多発すること、さらに肝ガンの細胞の中にＢ型肝炎ウイルスが侵入していることが最近証明されたことなどから、肝ガンの発生にＢ型肝炎ウイルスが密接にかかわっていることは明らかです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、肝細胞ガンの場合、患者の約７５パーセントがＣ型肝炎ウイルスに感染しており、発ガン性からいえば、Ｂ型よりＣ型のほうが高いことがわかっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二の危険因子は、肝硬変です。</sentence>
+<sentence>肝硬変の状態が長期間続くと肝ガンになりやすいことはわかっています。</sentence>
+<sentence>実際に、肝ガン患者の約８０パーセントは肝硬変を合併していることから、肝硬変は肝ガンの最<sampling type="end" />大の危険因子といえます。</sentence>
+</paragraph>
+</article>
+</sample>

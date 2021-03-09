@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp4_00001" version="1.0" type="fixedLength">
+<article articleID="LBp4_00001_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">〔<sampling type="start" />写真４０〕　おおかみ座（右：電波で見た分子雲の分布）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（左：光学写真）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>〔写真４１〕　南十字星とケンタウルス座アルファ星。</sentence>
+<sentence type="quasi">下の電波地図は、全ての分子雲を示す</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>〔写真４２〕　南十字星とケンタウルス座アルファ星。</sentence>
+<sentence type="quasi">下の電波地図は、石炭袋に対応する分子雲を示す</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">〔写真４３〕　帆座の天の川（上）と電波地図（下）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●ハンドメイドで世界最高感度の受信機</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここで装置の話を少ししましょう。</sentence>
+<sentence><quote>「なんてん」</quote>望遠鏡はたいへん感度がよいのですが、必要な観測装置は、私たちが名古屋大学の中で自分たちでつくっています。</sentence>
+<sentence>受信機は超伝導を利用しています。</sentence>
+<sentence>超伝導とは、物質の電気抵抗がゼロになる現象です。</sentence>
+<sentence>受信機を絶対温度で４度、摂氏マイナス２７０度近くまでヘリウムを使って冷やしています。</sentence>
+<sentence>すると金属が超伝導状態になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　受信機の性能を悪くする原因に<quote>「熱雑音」</quote>があります。</sentence>
+<sentence>電気抵抗があると雑音が発生します。</sentence>
+<sentence>電子がそこで乱雑に動きまわり、よけいな電波が出てきます。</sentence>
+<sentence>宇宙からの信号よりも、よけいな電波の方がずっと強いのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　超伝導状態になると電気抵抗がゼロになって、雑音がずっと小さくなります。</sentence>
+<sentence>すると宇宙の信号がたいへんよく“聞こえる”ようになります。</sentence>
+<sentence>それが超伝導受信機です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　超伝導にするためには絶対温度で４度に冷やす必要があるので、真空容器に入れてごく一部だけを極低温にします。</sentence>
+<sentence>そこに受信装置を入れて、宇宙からの電波を導きます。</sentence>
+<sentence><quote>「なんてん」</quote>の受信装置は世界最高の感度です。</sentence>
+<sentence>１０年近く前に１号機をつくりましたが、ずっと世界最高の地位を保っています〔写真４４〕。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１点あたりの観測時間は３秒くらいです。</sentence>
+<sentence>とても丹念に天の川をなめつくしています。</sentence>
+<sentence>これまでおそらく１００万点近い天の川のデータを観測しました。</sentence>
+<sentence>これが全部完成すると、人類が天の川に対してもっている情報の、とても重要な一部になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　残念ながら、これまでの日本の天文学はベーシックな寄与があまりできていませんでした。</sentence>
+<sentence>数年後の天文学の教科書には、必ずみんなが使いたくなる、使わなければ宇宙の説明ができない、そういう観測結果を、ようやくわが国の観測装置もいくつか出し始めています。</sentence>
+<sentence>日本の天文学は２１世紀に飛躍する、そういう世紀にぜひしていきたと考えています。</sentence>
+<sentence>それを支えてくれているのが、いわばハンドメイドのノウハウを集約した、すばらしい観測装置なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">〔写真４４〕　なんてんの超伝導受信機</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●数十個の超新星によって数百個の新しい星が生まれた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　天の川の話に戻ります。</sentence>
+<sentence>次はりゅうこつ座です。</sentence>
+<sentence>りゅうこつ座には、イータ星というたいへん重い星があります〔写真４５〕。</sentence>
+<sentence>この星の周りにはカリーナ星雲〔写<sampling type="end" />真４６〕があり、その一部には<quote>「カギ穴」</quote>星雲〔写真４７〕とよばれる暗黒星雲があります。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00076" version="1.0" type="fixedLength">
+<article articleID="LBs5_00076_F001">
+<paragraph>
+<sentence>　技術開発の実施機関であるＮＥＤＯは毎年、実施事業の成果<sampling type="start" />報告会を行っています。</sentence>
+<sentence>参加無料で、誰でも応募できます。</sentence>
+<sentence>２００４年は前年度の成果発表が２日間にわたって行われました。</sentence>
+<sentence><quote>「燃料電池技術開発」</quote>では、オーラル発表が１６件、ポスター発表は２８件、<quote>「水素安全利用等基盤技術開発」</quote>はオーラル発表が１９件、ポスター発表は３３件ありました。</sentence>
+<sentence><quote>「燃料電池技術開発」</quote>は、今年度がミレニアムプロジェクトの最終年度となるので具体的な成果報告が多く、燃料電池の開発が着実に進んできていることを伺わせました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水素については、２００４年度中を目標にしている規制の再点検のための安全性試験が多数実施されていました。</sentence>
+<sentence>一例として、セパレータは燃料電池の製造コストで大きなウエイトを占めているといわれ、性能の向上とともにコストの低減が至上命題です。</sentence>
+<sentence>コストの低減は量産化技術の開発でもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　三菱電機は<quote>「カーボン樹脂モールドセパレータの開発」</quote>と題する発表を行いました。</sentence>
+<sentence>同社は、材料メーカーと共同開発を行い、性能評価をしました。</sentence>
+<sentence>カーボンメーカーが作ったセパレータを蜘蛛の巣状のグラフで評価して、各社を番号化した評価一覧を作り、<quote>「御社は何番」</quote>と示して相対評価を行いました。</sentence>
+<sentence>評価項目は、貫通抵抗率（電気特性）、コスト、厚み精度（成形性）、溶出（安定性）、重量保持率（安定性）、強度保持率（安定性）、曲げひずみ（機械特性）の８項目。</sentence>
+<sentence>この評価がすべて、いちばん外側の八角形になるように、弱点を一つひとつ克服する技術開発を材料メーカーに再委託して、全体のレベルアップを図りました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当初、カーボンメーカーは自身で燃料電池スタックを運転することがあまりなく、品質にバラツキがあったそうですが、この数年間の努力で今一歩のところまで数社が到達しています。</sentence>
+<sentence>２００円／枚のコストも、何社かはできる見通しを得ています。</sentence>
+<sentence>また、量産化に向けた試作方法の開発にも着手しました。</sentence>
+<sentence>２００円／枚のコストは、燃料電池実用化戦略研究会が掲げた目標値であり、２００１年ごろは４０００円〜数万円／枚していたものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　住友金属は<quote>「固体高分子形燃料電池セパレータ量産化技術開発」</quote>の発表を行いました。</sentence>
+<sentence>こちらは金属セパレータです。</sentence>
+<sentence>同社は２００３年１０月に<quote>「高性能ステンレス薄鋼板を、世界に先駆けて開発し、量産化の見通しを得た」</quote>と発表しています。</sentence>
+<sentence>今回は、その量産化技術開発についての報告でした。</sentence>
+<sentence>水素と酸素の流路部分面積１４ｃｍ<superScript>２</superScript>のプレス金型を用いて、１０万ショットの金型耐久性評価を実施しました。</sentence>
+<sentence>１０万ショットを終了した段階でも金型の損傷はまったく認められませんでした。</sentence>
+<sentence>この試験には３０トンのステンレスを使いました。</sentence>
+<sentence>１秒で１枚の<sampling type="end" />セパレータが落ちてくるそうで、燃料電池自動車１万台分までは設備投資なしでできるそうです。</sentence>
+</paragraph>
+</article>
+</sample>

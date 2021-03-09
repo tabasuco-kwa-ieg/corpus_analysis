@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00032" version="1.0" type="fixedLength">
+<article articleID="LBl5_00032_F001">
+<quotation>
+<citation>
+<sentence>品切れなどで<sampling type="start" />遅れるときは連絡をください。</sentence>
+<sentence>よろしく。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　この例では日本語と英語で結構ニュアンスが異なっています。</sentence>
+<sentence>試しに上の日本語を英文と同じニュアンスで書き換えてみると次のものになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>こんにちは。</sentence>
+<sentence>この前カタログを受け取ったんだけど、早速注文します。</sentence>
+<sentence>Ａ１４とＧＨ５６を一箱ください。</sentence>
+<sentence>日本ではなかなか手に入んないので、できるだけ早く手元に欲しいんだけど。</sentence>
+<sentence>何か問題があったら知らせて。</sentence>
+<sentence>それじゃ。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　どうです？</sentence>
+<sentence>別にどこに間違いがあるわけでもないですが、日本人がこんな注文を受け取ったら<quote>「<sentence>なんて失礼な注文の仕方をするんだ。</sentence>
+」</quote>と怒り出してしまうかもしれません。</sentence>
+<sentence>しかし英文でこれくらいのものの言い方をしても、通常失礼にはあたりません。</sentence>
+<sentence>ただし、あまり教養がないか英語が不得意なのだろうとは思われるでしょうが…。</sentence>
+<sentence>英語で失礼な注文をするには、次の例くらいにしなければならないでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<titleBlock>
+<title>
+<sentence type="quasi">（訳）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>おっす、元気か！</sentence>
+<sentence>今丁度おまえんとこの最高のカタログをチェックし終わったとこだけど、あの起きていても疲れない、わかるだろ、Ａ１４とＧＨ５６の薬を一箱ずつ手に入れなくちゃなんねーと思ってんだ。</sentence>
+<sentence>俺はこいつがちょー好きなんだけど、日本じゃ手に入れんのが難しくて。</sentence>
+<sentence>もう今ここに欲しいくらいなんで、みんなで協力して少しでも早く送ってくれよ。</sentence>
+<sentence>なんか問題があったらすぐ知らせてくれ。</sentence>
+<sentence>あんまり待ってると眠ってしまうかもしれないからな。</sentence>
+<sentence>代金はものが着いたら支払うよ、大丈夫だろ？</sentence>
+<sentence>本当におまえら、いい仕事してるぜ。</sentence>
+<sentence>じゃな！</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">ｄ）日本人がついつい書いてしまいそうな例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　<quote>「〜と思う」</quote>という表現は日本語では普通です。</sentence>
+<sentence>しかしそれをＩ　ｔｈｉｎｋ　ｔｈａｔとしてしまうとちょっと違う感じになります。</sentence>
+<sentence>この文章では<quote>「まだよく心が決まっていないけれど、そちらの薬を買おうかどうか悩んでいます」</quote>というような意味になります。</sentence>
+<sentence>その後のｗａｎｔ　ｔｏもまずいです。</sentence>
+<sentence>知らない人にはｗｏｕｌｄ　ｌｉｋｅ　ｔｏと書かないと、相手の機嫌を損ねかねません。</sentence>
+<sentence>次のｆｉｎｄ　ｏｕｔは情報を見つけるときにしか使いませんので、ここはｆｉｎｄが正しいです。</sentence>
+<sentence>Ｉｆ　ｙｏｕ　ａｒｅ　ｉｎ　ｔｒｏｕｂｌｅは何かに困っているのではなくて、男女関係、警察沙汰などの人に言えない理由で困っているときにしか使いません。</sentence>
+<sentence>Ｉｆ　ｙｏｕ　ｈａｖｅ　ａｎｙ　ｔｒｏｕｂｌｅだったら通用します。</sentence>
+<sentence>ｂｅｃａｕｓｅ　ｏｆ　ｏｕｔ　ｏｆ　ｓｔｏｃｋ　ｏｒ　ｓｏｍｅ　ｒｅａｓｏｎは、意味は通じますが正しい英語ではありません。</sentence>
+<sentence>名詞形はなるべく避けて、説明的に書きましょう。</sentence>
+<sentence>例えば、ｂｅｃａｕｓｅ　ｙｏｕ　ａｒｅ　ｏｕｔ　ｏｆ　ｓｔｏｃｋ、ある<sampling type="end" />いはｉｔ　ｉｓ　ｏｕｔ　ｏｆ　ｓｔｏｃｋのようにするといいです。</sentence>
+</paragraph>
+</article>
+</sample>

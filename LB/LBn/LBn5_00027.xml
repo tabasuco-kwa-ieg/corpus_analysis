@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00027" version="1.0" type="fixedLength">
+<article articleID="LBn5_00027_F001">
+<list>
+<listItem>
+<figureBlock>
+<caption>
+<sentence type="quasi">でき上<sampling type="start" />がりました</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">中心のピースをもう少し移動してみましょう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">４分の１に角を合わせます</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　対角線上、４分の１に角を合わせて置きます。</sentence>
+<sentence>広幅、細幅の差が、その分開きます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">同じ要領で折ります</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ピースの辺に合わせて二つ折り、さらに二つ折りして辺との間を４等分します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>対角線を描きながら、パターンを描く方法。</sentence>
+<sentence>折紙は辺を合わせて折るので、ひと手間省けます。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">対角線の８分の１のピースを使い、中心をずらした場合の２例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　作りたい大きさの正方形を描きます。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>対角線と対角線の交点を通り辺に平行な線を描きます。</sentence>
+<sentence>●じるしと○じるし、▲じるしと△じるしの間隔の差が分かります。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>まずは、中心に近い場合○じるしのほうから描いてみましょう。</sentence>
+<sentence>辺に平行に線を延ばします。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>、<enclosedCharacter description="○">４</enclosedCharacter>対角線を描き、その交点を通る直線を描くことで、布幅が決まり、パターンが描けます。</sentence>
+<sentence>番号はピースを縫いつける順序です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●番号は縫い方順序</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　ピースの端が、大きなブロックの対角線４分の１に接しています。</sentence>
+<sentence>描き方の要領は同じ。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>〜<enclosedCharacter description="○">３</enclosedCharacter>まで対角線を描くことで長さを２分し、その交点を結んだ直線で布幅が決まります。</sentence>
+<sentence>同じ線で分割したものでも、ピースとしてのピックアップで、縫い方順序も、パターン構成も変わってきます。</sentence>
+<sentence>番号は縫い方順序。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">中心を少しはずして―２</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　中心のピースの大きさを、対角線の６分の１を基点にしてみましょう。</sentence>
+<sentence>そして、置く位置を対角線上、少しずつ移動してみましょう。</sentence>
+<sentence>その分、布幅も違ってきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<sentence type="quasi">●パターンと実物大型紙の描き方は１６８〜１６９ページにあります</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ピンクッション</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　１ブロック１１ｃｍ四方の正方形で作ったピンクッション。</sentence>
+<sentence>中心のピースの大きさは同じでも、置く位置によって、ずい分イメージが違ってきます。</sentence>
+<sentence>底に厚紙を入れて座りよく仕立てています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">デザイン・製作／奈良政江</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">テーブルセンター</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ご自分の使いたいサイズに合わせて、１ブロックの大きさを割り出してください。</sentence>
+<sentence>中心のピースを置く位置によって不規則に色が飛び楽しい構成に。</sentence>
+<sentence>テーブルセンターは薄めに仕上げましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">デザイン・製作／奈良政江</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">玄関マット</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　玄関のイメージアップを演出するサイズ、配色など、インテリアとして考えることがいちばんです。</sentence>
+<sentence>また、床に敷くマットとしては少し厚手に仕上げるほうがよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">デザイン・製作／三浦芳枝</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２　中心をはずして</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">中心の大きさは、対角線の６分の１と１２分の１</sentence>
+<br type="automatic_original" />
+<sentence>中心の大きさは対角線の６分の１と１２分の１。</sentence>
+<br type="automatic_original" />
+<sentence>組み合わせると、おもしろいカーブが表現できそうです。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">Ａ．中心は対角線の６分の１の正方形</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">Ｂ．中心は対角線の１２分の１の正方形</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">Ｃ．中心は対角線の１２分の１の正<sampling type="end" />方形</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs0_00006" version="1.0" type="fixedLength">
+<article articleID="LBs0_00006_F001">
+<paragraph>
+<sentence>　さて、困っ<sampling type="start" />た…。</sentence>
+<sentence>何も書くことがないのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しょうがないので、つい１時間前にオレとケンちゃんが交わした会話を脚色なしで再現することにする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―なぁ…多摩川にナマズ捕りに行かねぇか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…あのなぁ、ゴロゴロしてるように見えるかもしれんけど、オレは仕事してんのっ。</sentence>
+<sentence>頭の中で話を書いてる最中なのっ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―また気取ってやがる…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―誰に対して気取るんだよっ！？</sentence>
+<sentence>　どうでもいいけど、アンタも６０の半ばになるんだから、外をブラブラしてばっかいねーで、家の中でジックリできる趣味とか見つけろよ！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…多摩川にナマズ捕りに行かねぇか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―なぁ、アンタは『日本昔ばなし』に出てくる可哀想な大男かっ！？</sentence>
+<sentence>　行かねえっつーーの！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―なんだっ、親に向かってその口のきき方は！！</sentence>
+<sentence>　ピタゴラスかっ、お前は！？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―つまんないっ。</sentence>
+<sentence>とにかく放っといてくれ、オレを。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…なぁ、チャーハンって、つまりは<quote>「焼き飯」</quote>のことだろ？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―はぁ？</sentence>
+<sentence>　そうだけど、それがどうかしたのかよ…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―言わないっ。</sentence>
+<sentence>親に偉そうな口を<ruby rubyText="たた">叩</ruby>く奴には教えないっ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―な…教えてくれなくてもいいから、頼むからアッチ行ってくれよっ！！</sentence>
+<sentence>　営業妨害なんだよっ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…俺が書いてやろうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…何を？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―お前の仕事だよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―なぁ…何言ってんの…。</sentence>
+<sentence>クラブ活動じゃねえんだぜっ。</sentence>
+<sentence>そんなもん、代わりが勤まるわけねえだろ！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ケン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―バカ野郎、テメーみてえなヘッポコが通用するぐれーなんだから、俺が書いたら大変だよっ。</sentence>
+<sentence>翻訳されちゃうよ、中国とかに。</sentence>
+<sentence>…はい、何行？</sentence>
+<sentence>　何行書けばいいか教えてみ。</sentence>
+<sentence>はいっ、何行？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">オレ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　―…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　つーことで、最後にこの本の制作に御尽力下さった方たちにお礼を言っときます。</sentence>
+<sentence>まず、イラストを描いてくれたサイバラ。</sentence>
+<sentence>大変な中、本当にありがとう。</sentence>
+<sentence>デザイン、校正、レイアウトをしてくれた方、ありがとうございます。</sentence>
+<sentence>二見書房の方々、２度もギャンブルをして下さって感謝しています。</sentence>
+<sentence>それから岡田さん、オレはケンちゃんがこの本のタイトルを見て、ますます自信をつけそうな気がします。</sentence>
+<sentence>責任を取って下さい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">ゲッツ板谷</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBs0_00006_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">特別企画</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">キャーム＆セージ＆ケンちゃんの</sentence>
+<br type="automatic_original" />
+<sentence>似顔絵ガチンコ勝負！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　はいっ、そういうわけで再びバカの時間なんですけどね。</sentence>
+<sentence>ボキの公式ＨＰ『ゲッツ板谷Ｗｅｂ』（ｈｔｔｐ：／／ｗｗｗ．ｇｅｔｓｉｔａｙａ．ｃｏｍ／）の人気コーナー『キャームとセージの似顔絵ガチンコ勝負』にケンちゃんが乱入してきたわけっス。</sentence>
+<sentence>早い話が、これから美術のパンチドランカー３人が似顔絵勝負をし、ボキが勝者を無理矢理決めるって寸法です。</sentence>
+<sentence>ルールは、『何も見ないで書く』＆『３分以内に書く』ことのみ。</sentence>
+<sentence>つーことで、人形の首でも引っこ抜きながら見物して下せえ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">お題</sentence>
+<br type="automatic_original" />
+<sentence><quote>「バットマン」</quote>を描け！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【キャーム】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【セージ】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【ケンちゃん】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　…。</sentence>
+<sentence>まず、言っとく。</sentence>
+<sentence>何で<sampling type="end" />今年で７０になるケンちゃんのが一番似てんだよおおおっ！？</sentence>
+</paragraph>
+</article>
+</sample>

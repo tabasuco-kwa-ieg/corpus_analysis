@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00055" version="1.0" type="fixedLength">
+<article articleID="LBs5_00055_F001">
+<list>
+<listItem>
+<paragraph>
+<sentence>　クラスⅠ試験適合の２５ｋ<sampling type="start" />Ａ　サージ防護デバイス（主接地端子盤に取り付け）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">・クリーン接地とＤ種接地間</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　クラスⅠ試験適合の２５ｋＡ　サージ防護デバイス（主接地端子盤に取り付け）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>・防災センター建物内部の各所から多くの信号線が集中するが、多くの各種信号線にすべてサージ防護デバイスを入れることが難しい。</sentence>
+<sentence>源部に耐雷トランスを設置し、Ｂ種接地と絶縁させ、防災センターの各種機器の接地をＤ種接地のみとし、電位差の発生を抑制した。</sentence>
+<sentence>センサ側は電気錠のみ信号線に信号用サージ防護デバイスを取り付けた。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１５　ビルの対策例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＬＡＮシステム（誘導雷対策）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＬＡＮシステムは、広い範囲にネットワーク配線されるため、火災報知器などと同様<quote>「接地線間の電位差や信号線への誘導」</quote>が発生しやすい設備である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図１６は建物間の配線を光ケーブル化したシステムでありながら、メディアコンバータおよびハブに被害が発生した事例である。</sentence>
+<sentence>折角光ケーブル化しながら、ケーブル内のテンションメンバ（金属製）の絶縁処理が不十分であったため、テンションメンバを通じて雷サージが侵入し機器を破損させた事例である。</sentence>
+<sentence>対策として、電源に耐雷トランス、ＬＡＮ配線にＬＡＮ用サージ防護デバイス、また光ケーブルはテンションメンバの絶縁処理を行った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１６　ＬＡＮシステムの対策例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">監視カメラ（誘導雷対策）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　最近防犯意識の向上により、各所に監視カメラの設置が進んでいる</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　カメラは屋外の比較的高所に設置される場合が多く、またカメラ用の電源を信号線と共用するタイプもあり、光ファイバー化による絶縁が難しいため、雷サージによる被害発生の多い設備である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　対策は、電源や信号線に信号にあったサージ防護デバイスを設置するが、カメラが雷サージによる誘導を直接受けるため、場合によってはカメラ本体を架台から絶縁し、制御盤側で一点接地となるよう対策するのが有効である。</sentence>
+<sentence>図１７、図１８に対策事例を示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１７　監視カメラの対策例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１８　監視カメラとＳＰＤ取り付け例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">水処理施設（誘導雷対策）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　水処理関係には、いろいろな機器を組み合わせて構成されるが、その基本となるのが、図１９に示すような水位計とポンプ制御の関係である。</sentence>
+<sentence>被害を受けるのは主に制御盤であり、電源線、接地線、水位計などから雷サージが侵入するため、それぞれに最適なＳＰＤを設置する。</sentence>
+<sentence>また、警報接点出力が遠方まで送り出されている場合には、監視室側にもＳＰＤを設置する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１９　水処理システムの対策例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">通信設備での接地対策</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　従来の通信ビル等では、用途別に複数の接地が設けられているため、鉄塔への直撃雷などで雷サージが侵入<sampling type="end" />した場合、各種接地の間に電位差が生じて通信設備が故障することがあった。</sentence>
+</paragraph>
+</article>
+</sample>

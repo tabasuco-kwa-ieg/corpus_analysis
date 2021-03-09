@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00021" version="1.0" type="fixedLength">
+<article articleID="LBq0_00021_F001">
+<paragraph>
+<sentence>１２０ページの手順を参考にトリミン<sampling type="start" />グを実行します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　完成</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　写真の傾きが直りました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４‐４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">暗すぎる写真をはっきり、くっきりさせる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　全体に暗くなってしまった写真は、輝度調整で明るくします。</sentence>
+<sentence>同時にコントラストも調整してはっきり、くっきりとした写真によみがえらせましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">輝度／コントラストの調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　［編集］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　１１８ページの手順を参考に写真を開きます。</sentence>
+<sentence>［編集］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　［補正］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　［補正］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３　［輝度／コントラスト］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　［輝度／コントラスト］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　<quote>「Ｐｈｏｔｏｓｈｏｐ　Ｅｌｅｍｅｎｔｓ」</quote>では、［画質調整］メニューから［明るさ・コントラスト］→［明るさ・コントラスト］で呼び出すことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４　明るさの調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　画面右に［輝度］と［コントラスト］のスライダが表示されます。</sentence>
+<sentence>はじめは両方とも<quote>「５０」</quote>になっています。</sentence>
+<sentence>まず写真全体を明るくするため、［輝度］のスライダを右方向にドラッグします。</sentence>
+<sentence>画面に結果が反映されるので、適当な位置で指を離してください。</sentence>
+<sentence>暗い部分がはっきり見えるようになり、全体が明るくなりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　元に戻したいときは、数値が<quote>「５０」</quote>になるまでスライダを動かします。</sentence>
+<sentence>数値の上でダブルクリックして、直接入力することも可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　<quote>「Ｐｈｏｔｏｓｈｏｐ　Ｅｌｅｍｅｎｔｓ」</quote>では、<quote>「０」</quote>が基準になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">５　コントラストの調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　写真全体をメリハリのあるものにするため、［コントラスト］のスライダを右方向にドラッグします。</sentence>
+<sentence>画面に結果が反映されるので、適当な位置で指を離してください。</sentence>
+<sentence>色の違いがはっきりし、メリハリのある画像に変わりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　元に戻したいときは、数値が<quote>「５０」</quote>になるまでスライダを動かします。</sentence>
+<sentence>数値の上でダブルクリックして、直接入力することも可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　<quote>「Ｐｈｏｔｏｓｈｏｐ　Ｅｌｅｍｅｎｔｓ」</quote>では、<quote>「０」</quote>が基準になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">６　［適用］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　［適用］をクリックします。</sentence>
+<sentence>［適用］を押さないと、設定は実行されません。</sentence>
+<sentence>忘れずにクリックしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４‐５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ちょっとピンボケした写真の輪郭をはっきりさせる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ピントがずれて少しぼんやりしてしまった写真も、シャープ化を実行することで、輪郭を際立たせ、はっきりした写真にすることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">被写体の輪郭強度の調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　［編集］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　１１８ページの手順を参考に写真を開きます。</sentence>
+<sentence>［編集］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　［補正］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　［補正］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３　［シャープ化］をクリック</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　［シャープ化］をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４　強度の調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　画面右に［強度］のスライダが表示されます。</sentence>
+<sentence>スライダを右にドラッグすると、わずかな色の変化も輪郭としてとらえ、くっきりと見えるようになります。</sentence>
+<sentence>左にドラッグすると、穏やかな画面になります。</sentence>
+<sentence>画像が人物中心<sampling type="end" />め場合は弱めに、金属質なものが中心なら強めにかけると効果的です。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00044" version="1.0" type="fixedLength">
+<article articleID="LBi4_00044_F001">
+<paragraph>
+<sentence>首振りの中心は黄道面に垂直な方向（黄道の極）で、一ま<sampling type="start" />わりに約二万六千年を要します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これが地球の歳差運動です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地球の上で見ると、天の北極（<sentence>星の日周運動の中心。</sentence>
+<sentence type="quasi">現在は小熊座α星の近くにある</sentence>
+）は黄道の北極（竜座にある）のまわりに二三・五度角の半径で反時計まわりにゆっくりと円運動するように見えます。</sentence>
+<sentence>それにつれて、天の赤道と黄道との交点（春分点）も反時計まわり（太陽の年周運動の動きと逆向き）に一年間に約五〇秒角後退し、すべての恒星の春分点から測った経度（赤経）は年々それだけずつ増加します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　古代ギリシアの天文学者ヒッパルコスも、この恒星の位置の変化に注目して、歳差という現象を発見したのです。</sentence>
+<sentence>しかもその原因を正しく理解していたのだから彼の天才ぶりがうかがえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅰ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図Ⅱ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">月と大気</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">なぜ、地球のように存在しないのか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　月には大気がありません。</sentence>
+<sentence>これは月ロケットやアポロ宇宙船が月に行って調べるまでもなく、望遠鏡で見た月面の様子とか、月が星をおおいかくすときの星のかくれ方などから確かめられていたことです。</sentence>
+<sentence>それでは逆にどうして地球に大気があるのかを考えてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地球では大気をつくっている気体の分子が地球の重力に引き留められて、地球から脱出できないのです。</sentence>
+<sentence>気体の分子が地球から脱出するためには<quote>「第二宇宙速度」</quote>（８５参照）といわれる毎秒一一・二キロの速度をもたなければなりません。</sentence>
+<sentence>ですから結果的にいえば、大気の分子が動きまわる速さがこの毎秒一一・二キロに達しないために地球大気は四散しないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで月の場合にもどると、月に大気がないのは月からの脱出速度が小さいために、昔存在した大気も四散した、と当然考えられるでしょう。</sentence>
+<sentence>月の脱出速度は毎秒二・四キロなので、地球の約五分の一にすぎません。</sentence>
+<sentence>気体分子の速度は温度が高いほど、また分子の質量が小さいほど大きくなります。</sentence>
+<sentence>ですから温度が同じなら、もっとも軽い水素分子の速度がもっとも大きく、摂氏十五度では毎秒一・九キロになります。</sentence>
+<sentence>しかし個々の水素分子がすべて毎秒一・九キロの速度をもっているというわけではなく、この一・九の値を中心にして散らばっている、と思ってください。</sentence>
+<sentence>だから毎秒二・四キロ以上の速度をもつものも何割かはあるわけで、もし一五度Ｃの水素ガスが月面をおおっていたとしても、数日のうちに半分逃げてしまい、そのまた数日のうちに残ったその半分がまた逃げてしまい…ということで、これが三十回も続いて、半年たつと、水素ガスは十億分の一になってしまいます。</sentence>
+<sentence>もっと重い気体では速度が小さいので、失われる割合が減少します。</sentence>
+<sentence>窒素ガスだと平均速度は毎秒〇・五キロで脱出速<sampling type="end" />度の五分の一です。</sentence>
+</paragraph>
+</article>
+</sample>

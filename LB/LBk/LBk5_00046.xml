@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00046" version="1.0" type="fixedLength">
+<article articleID="LBk5_00046_F001">
+<paragraph>
+<sentence>　もっとも，発明の構成がきわめて具体的で，実施例をまつまでもなくその発明を容易に実施できる場合は，実施例の記載は必要で<sampling type="start" />ない<noteMarker text="４）" />。</sentence>
+<sentence>また，発明の要旨に直接関係のない技術事項についても，同様である<noteMarker text="５）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>４）　判決（同旨）　東京高判昭５９．１．３０無体集１６巻１号４１頁（磁性材料事件）は，<quote>「発明の実施例は，必要があるときに記載すれば足るものであって，明細書の発明の詳細な説明の項に，発明と認めるに足る技術事項の記載があるのに，それに関する実施例の記載がないからといって，右記載をもって発明としての記載とは認められないとすることは不当である」</quote>旨を判示する。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>５）　判決　東京高判昭４９．９．３取消集昭４９年１３９頁（メリヤス編成機事件），同平元．１０．２４速報１４７号４８３８（海難用救命器事件）<noteMarker text="＊" />。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>＊　判決は，本願考案が海難用救命器に係るものである以上，止着具の構成ないし取り外し方は，その作用効果と関連する重要なる事項であるから，要旨外の事項であっても，少なくとも実施例中にその具体的な構成等が記載されているのでなければ，当業者が考案を容易に実施し得る程度の記載があるものとはいえないとした審決を取り消し，本願考案は，海難に遭遇し，船上において乗客又は乗員を収容した救命器に，海上の漂流に耐え，救命器としての本来の機能を果し得る構造をその主要課題としているのであるから，止着具の構成，取り外しの点はそれ自体実用上重要であることは否定し得ないとしても本願考案の課題に照らし，考案の使用に関する附随的な事項である。</sentence>
+<sentence>本願明細書によれば，本願考案の海難用救命器に関する構成や作用効果等の記載に不備がなく，止着具の構成，取り外しについても一応の記載はあり，常識に照らして種々の方法を採用し得ることは容易に推測し得るところであるから，単にこの点に関する記載が具体的でないことのみを捉えて，明細書の記載が不備であるとすることはできない旨を判示する。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">（ⅳ）　発明の効果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　発明の効果には，当該発明によって生じた特有の効果をなるべく具体的に記載する（特施則様式２９〔備考〕１５ハ（特例法施則様式１４〔備考〕１２ハ））<noteMarker text="１）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでいう効果とは，発明から生ずる従来技術に比較して有利・有効な点（たとえば，内燃機関の場合に，従来のものに比べ，<quote>「燃料消費量を少なくして熱効率を高める」</quote>）をいう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">特有の効果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　当該発明の効果には，その発明の構成要件によってのみ得られる効果，すなわち特有の効果<noteMarker text="２）" />を記載すべきで，当該発明によらなくても得られる効果は記載すべきではない。</sentence>
+<sentence>発明が公知思想を具体化した特定の構成に特徴がありながら，効果として記載されたものが，その公知思想の効果にすぎない場合は，当該発明の効果を記載しないものとして３６条４項に違反するとの理由，又は<sampling type="end" />従来技術の単なる設計変更にすぎないとして，新規性又は進歩性がないとの理由によって出願拒絶及び特許無効の理由とされることがあるから注意を要する。</sentence>
+</paragraph>
+</article>
+</sample>

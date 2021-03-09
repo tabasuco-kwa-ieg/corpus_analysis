@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00154" version="1.0" type="fixedLength">
+<article articleID="LBl3_00154_F001">
+<list>
+<listItem>
+<paragraph>
+<sentence>　これらの力を身につけるためには、日頃から利用者とのやりとりや利用者の行動に関心を向け、自分と利用者との<sampling type="start" />かかわりや自分の目の前で起きている事柄について、いろいろなことを感じたり考えたりすることが大切です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<authorsData>
+<sentence type="quasi">（大崎広行）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBl3_00154_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">８７</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">オンブズマン制度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">Ｑ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<paragraph>
+<sentence>　サービスの質をチェックしたり、利用者のサービスに対する不満・苦情を解決する方法としてオンブズマン制度が最適だと聞きましたが、いったいどのようなシステムなのか教えてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<source>
+<sentence type="quasi">［施設長］</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence>Ａ　オンブズマンとは、<quote>「国民の代弁者」</quote>あるいは<quote>「護民官」</quote>と訳され、１８０９年にスウェーデンで始まった制度です。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　一般には行政の事務執行に対する利用者の不満や苦情をオンブズマンが受け付け、行政から独立した第三者機関として中立的な立場でその問題の原因を調査し、問題があれば行政に対して改善の勧告や助言を行い、敏速に問題解決を図り、利用者の権利を擁護する制度として理解されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　欧米においては戦後、制度としていち早く広まりましたが、最近わが国においても、権利擁護の一つの方法としてオンブズマン制度が注目されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これまで行政のさまざまな事務の執行に問題があった場合、サービスの受け手である利用者の権利救済方法として、法的拘束力をもった<enclosedCharacter description="●">１</enclosedCharacter>行政苦情処理制度、<enclosedCharacter description="●">２</enclosedCharacter>行政不服審査制度、<enclosedCharacter description="●">３</enclosedCharacter>行政事件訴訟がありました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>行政苦情処理制度は、行政内部に<quote>「行政相談所」</quote>や<quote>「市民相談室」</quote>などの名称のセクションを設置し、行政サービスの一環として市民の苦情処理に対応しています。</sentence>
+<sentence>行政内部に設置しているために敏速な対応はできますが、独立性や中立性に欠けます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>行政不服審査制度は、行政の事務執行に対して問題があった場合、<quote>「不服申し立て」</quote>により行政機関に事務執行の取り消しを求めて争いの手続きをとる一種の<quote>「行政訴訟」</quote>です。</sentence>
+<sentence>この方法は簡易ですが、対行政機関との争いとなるために利用者の心情からすると利用しにくく、また、行政の対応に不満がある場合、<quote>「再審査請求」</quote>という手段で再度争うことも考えられます。</sentence>
+<sentence>この場合長期化する可能性もあり、敏速性に欠けることも予想されます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>行政事件訴訟は、まず、長期化が予想され（例えば、朝日訴訟、堀木訴訟など）、費用がかかり訴訟の手続きも煩雑なものです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これらの権利救済制度は、あくまで行政の事務執行に対する救済制度です。</sentence>
+<sentence>ですから、事務執行になじまないもの、例えば、施設において食事のメニューが少ないとか、門限時間が早いとか、あるいはホームヘルパーのつくる料理がまずいなどとかいう福祉サービスの利用者のちょっとした不満、苦情など、サービスの質の改善については上記の方法以外の救済を考える必要があります。</sentence>
+<sentence>また、利用者はサービスをうけていると<sampling type="end" />いう意識があるために立場や発言力が弱く、なかには自らの意思さえ十分表示できないために、自己の権利主張ができない利用者もいます。</sentence>
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

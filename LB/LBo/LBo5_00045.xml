@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00045" version="1.0" type="fixedLength">
+<article articleID="LBo5_00045_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />ｉＭａｃからＷｉｎｄｏｗｓのファイルを開く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＮｅｔＢＩＯＳの設定が終わったら、この時点でｉＭａｃからネットワーク上のＷｉｎｄｏｗｓマシンを認識することができています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、さっそくＷｉｎｄｏｗｓの共有フォルダ（または共有ドライブ）をｉＭａｃから開いてみましょう。</sentence>
+<sentence>ここではＷｉｎｄｏｗｓのどのフォルダ（ドライブ）を開くかを<quote>「ＤＡＶＥクライアント」</quote>を使って設定します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ファイルサーバーの選択</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　セレクタの起動</sentence>
+<br type="automatic_original" />
+<sentence>アップルメニューから［セレクタ］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　共有するファイルサーバーの選択</sentence>
+<br type="automatic_original" />
+<sentence>一覧から<quote>「ＤＡＶＥクライアント」</quote>を選択し、共有したいファイルサーバ（この場合はＷｉｎｄｏｗｓパソコン）のコンピュータ名を選択します。</sentence>
+<sentence>最後に［ＯＫ］ボタンをクリックしてください。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">共有するフォルダを選択してファイルを開く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">３　共有するフォルダ（ドライブ）を選択する</sentence>
+<br type="automatic_original" />
+<sentence>共有するフォルダ（またはドライブ）を選択します。</sentence>
+<sentence>ここで選択したフォルダがｉＭａｃで表示できるようになります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　セレクタの終了とＭａｃＯＳの再起動</sentence>
+<br type="automatic_original" />
+<sentence>ウィンドウの左上をクリックしてセレクタを終了し、キーボードの上にあるパワーボタンを押し、［再起動］ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　共有フォルダを開く</sentence>
+<br type="automatic_original" />
+<sentence>デスクトップ上に表示されている共有フォルダ（ドライブ）のアイコンをダブルクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ドライブの共有を設定する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＷｉｎｄｏｗｓからｉＭａｃ（<quote>「ＤＡＶＥ」</quote>をインストールしたｉＭＡＣ）の中のファイルを開くときは、Ｗｉｎｄｏｗｓの<quote>「ネットワークコンピュータ」</quote>の中にｉＭａｃを認識・表示させてから、ということになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このためには<quote>「ＤＡＶＥ」</quote>をインストールしたｉＭａｃ側でさまざまな設定を行わなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでは、ｉＭａｃをＷｉｎｄｏｗｓの<quote>「ネットワークコンピュータ」</quote>に表示させるための設定手順を説明します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ドライブ共有の設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　<quote>「ＤＡＶＥ共有」</quote>を起動する</sentence>
+<br type="automatic_original" />
+<sentence>アップルメニューから［コントロールパネル］→［ＤＡＶＥ共有］を選択します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　<quote>「ファイルとプリンタの共有」</quote>の設定</sentence>
+<br type="automatic_original" />
+<sentence><quote>「ファイルとプリンタの共有」</quote>のオプションスイッチを<quote>「入」</quote>にし、［共有］ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">共有ドライブを選択する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">３　共有するドライブ（フォルダ）を追加する</sentence>
+<br type="automatic_original" />
+<sentence>［追加］ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　共有するドライブ（フォルダ）を選択する</sentence>
+<br type="automatic_original" />
+<sentence>共有するドライブ（ここではＭａｃｈｉｎｔｏｓｈ　ＨＤ）を選択し、［選択］ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　共有の権限を設定する</sentence>
+<br type="automatic_original" />
+<sentence>ダイアログボックスの左下から<quote>「フルアクセス」</quote>を選択します。</sentence>
+<sentence>フルアクセスとは、ファイルの読み取りの他に編集や上書き保存などができる共<sampling type="end" />有レベルのことです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

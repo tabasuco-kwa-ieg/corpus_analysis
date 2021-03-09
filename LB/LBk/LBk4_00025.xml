@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk4_00025" version="1.0" type="fixedLength">
+<article articleID="LBk4_00025_F001">
+<paragraph>
+<sentence>カ<sampling type="start" />オス理論が複雑系の科学のための最大の理論的武器となるのもこのためだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二に、複雑性を生成する機構の本質がどこにあるかが示されたこと。</sentence>
+<sentence>引き伸ばしたり縮めたりしているだけなら、黒砂糖と小麦粉は混じり合わない。</sentence>
+<sentence>パイこねの操作の結果をややこしくしているのは、ひとえに<quote>「共に折りたたむ」</quote>という操作が反復されているせいである。</sentence>
+<sentence>数学的には、<quote>「引き伸ばす」</quote>操作は線形変換に対応し、<quote>「共に折りたたむ」</quote>操作は非線形の変換に対応している。</sentence>
+<sentence>複雑性の根底には非線形性があり、<quote>「コンプレックス」</quote>と<quote>「コンプリケイティッド」</quote>は双方とも語源的には非線形性を意味しているということだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><quote>「パイこね変換」</quote>の簡単なモデル</sentence>
+<br type="automatic_original" />
+<sentence>このモデルでは，横に２倍に引き伸ばした後，半分に切って上に乗せるこね方が採用されているが，折りたたむこね方も本質的には同じ。</sentence>
+<sentence>図のａ→ａ’，ｂ→ｂ’のように，近接した２点がこねる変換のたびに離れていく。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">神の目には複雑系は存在しない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第三に、<quote>「パイこね変換」</quote>は右のような<quote>「コンプレックス」</quote>と<quote>「コンプリケイティッド」</quote>との同一性と同時に、その差異をも明らかにする。</sentence>
+<sentence>パイこねの結果が灰色の混合物から元の黒白二層の状態に戻せない、つまり不可逆のプロセスに見えたのは、あくまでそこに人間が介在していたからであった。</sentence>
+<sentence>数学的操作だけなら、逆にたどって行けばいいだけの話だから、この現象は可逆なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もし数学が示すことならすべて実行可能な存在がいたとすれば―神でも悪魔でもいいが、ここでは神と呼んで封こう―、その存在つまり神の目には、すべてが可逆であり、どんなにゴチャゴチャしたものでもたかだか<quote>「コンプリケイティッド」</quote>にしか見えないだろう。</sentence>
+<sentence>不可逆性をもつ<quote>「コンプレックス」</quote>は人間の目にだけ見える現象ということになろう。</sentence>
+<sentence>つまり、同一の現象が神の目には<quote>「コンプリケイティッド」</quote>に見え、人間の目には<quote>「コンプレックス」</quote>に見えるわけで、<quote>「コンプレックス」</quote>と<quote>「コンプリケイティッド」</quote>との違いは単に視点の相違ということになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この違いはしかし、本質的であり、重大である。</sentence>
+<sentence>神の目には複雑系は存在しない。</sentence>
+<sentence>ということは、逆にいえば、神は複雑系を科学することができないということだ。</sentence>
+<sentence>このことは、神のよき従僕であった要素還元論的なこれまでの科学についても、同等に成り立つ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だが、幸か不幸か私たちはむろん神ではない。</sentence>
+<sentence>複雑性を複雑性として問題にし得るのは、神でも天使でも野獣でもなく、おそらく人間だけだろう。</sentence>
+<sentence>近代科学は特権的な神の目に憧れ続けて来た。</sentence>
+<sentence>自分だけは、事象から離れて万物を見渡す場所に立ちたいと希求してきた。</sentence>
+<sentence>複雑系の科学はこの近代科学の秘めら<sampling type="end" />れたコンプレックスに異議申し立てをする。</sentence>
+</paragraph>
+</article>
+</sample>

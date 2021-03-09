@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk6_00014" version="1.0" type="fixedLength">
+<article articleID="LBk6_00014_F001">
+<paragraph>
+<sentence>　また、一定条件を満たした<sampling type="start" />コンテナを輸出する場合も、口頭で輸出申告を行なうことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>輸出申告は、現在ではＮＡＣＣＳを使用し、通関業者等の端末機を利用して行なうことが普通になっている。</sentence>
+<sentence>輸出申告書の代わりに、航空貨物運送状が使用できる場合と口頭で輸出申告ができる場合がある。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">船腹を予約し船積みを行う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■保税地域から貨物を搬出して船積を開始</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　税関長の輸出許可がおりたら、いよいよ保税地域から貨物を搬出して、保税運送により船側まで貨物を運び、船積みを開始します。</sentence>
+<sentence>この作業は、通常海貨業者が行ないますが、簡単な流れについてお話しておきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＣＩＦ契約やＣＦＲ契約では、通常、輸出者が配船表、貿易輸送関係の雑誌などにより適当な船舶を予約します。</sentence>
+<sentence>これを、スペースブッキング（船腹予約）と呼んでいます。</sentence>
+<sentence>現実には電話で行なわれることが多いようですが、トラブルを防ぐためには、船腹確認書（Ｂｏｏｋｉｎｇ　Ｎｏｔｅ）の交付を船会社から受けるべきです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、先に説明した船積依頼書（Ｓ／Ｉ）は、この船腹予約に基づいて書かれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、この船積依頼書を受け取った海貨業者は、これに基づいて船積申込書（Ｓｈｉｐｐｉｎｇ　Ａｐｐｌｉｃａｔｉｏｎ；Ｓ／Ａ）を作成して貨物の船積みを依頼します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　船積申込書の提出を受けた船会社は、船腹予約と照合して、積載船の船長宛てに船積指図書（Ｓｈｉｐｐｉｎｇ　Ｏｒｄｅｒ；Ｓ／Ｏ）を発行します。</sentence>
+<sentence>海貨業者は、この船積指図書とすでに取得した輸出許可書とともに輸出貨物を運び、船積を開始します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、船積申込書と船長あての船積指図書はワンライテングになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■総積みと自家積み</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　海貨業者は、保税地域から貨物を搬出し、積載船まで保税運送をします。</sentence>
+<sentence>保税運送というのは、一言でいうと外国貨物を運ぶことで、通常、税関長の承認が必要です。</sentence>
+<sentence>輸出の許可を受けた貨物も関税法上は外国貨物となります。</sentence>
+<sentence>ですから、輸出許可を受けた貨物を運送する場合にも税関長の保税運送の承認が必要になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、輸出貨物が小口のものである場合には、他の貨物とともにまとめて船会社の指定する船積代行業者（Ｓｈｉｐｐｉｎｇ　Ａｇｅｎｔ）が他の貨物とともに本船に積み込みます。</sentence>
+<sentence>この場合には、船会社指定の上屋（うわや）に持ち込みます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大口貨物の場合には、荷主の責任ではしけなどで本船に持ち込み、積み込みます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　前者を総積み、後者を自家積みと呼んでいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■船荷証券を入手する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで、船積みが終わると、本船側でたしかに貨物を受け取ったということを証明する受取書を発行します。</sentence>
+<sentence>これが本船受取書（Ｍａｔｅ’ｓ　Ｒｅｃｅｉｐｔ：Ｍ／Ｒ）と呼<sampling type="end" />ばれるものです。</sentence>
+</paragraph>
+</article>
+</sample>

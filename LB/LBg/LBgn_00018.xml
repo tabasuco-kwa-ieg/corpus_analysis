@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBgn_00018" version="1.0" type="fixedLength">
+<article articleID="LBgn_00018_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">《ハバードおばさ<sampling type="start" />ん》</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<verse>
+<sentence type="verse">ハバードおばさん<verseLine />戸棚のとこへ行ってみた<verseLine />犬に骨でもあげようと<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが戸棚に行ってみると<verseLine />なかはからっぽすっからかん<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">あわれな犬にはなんにもない<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさんパン屋へ行った<verseLine />犬にパンを買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />あわれな犬は死んでいた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさん建具屋へ行った<verseLine />犬に棺桶買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />あわれな犬は笑ってた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさん魚屋へ行った<verseLine />犬に魚を買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />犬はお皿をなめていた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさん床屋へ行った<verseLine />犬にかつらを買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />犬はジッグを踊ってた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさん仕立屋へ行った<verseLine />犬に上衣を買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />犬は<ruby rubyText="やぎ">山羊</ruby>にまたがってた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そこでおばさん靴屋へ行った<verseLine />犬に靴を買うために<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ところが家へ帰ってみると<verseLine />犬は新聞読んでいた<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">おばさん気どっておじぎをすれば<verseLine />犬もまねしてていねいなおじぎ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><quote>「どうぞよろしく」</quote>おばさん言うと<verseLine />犬も答えた，<quote>「ワン，ワン，ワワン」</quote><verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<list>
+<listItem>
+<sentence>♠　<noteBodyInline text="１" />Ｈｕｂｂａｒｄ［ｈʌｂəｄ］．</sentence>
+<sentence><noteBodyInline text="２" />ｃｕｐｂｏａｒｄ［ｋʌｂəｄ］：<quote>「食器棚」</quote>．</sentence>
+<sentence>Ｈｕｂｂａｒｄと，うまく<ruby rubyText="いん">韻</ruby>を合わせてある．</sentence>
+<sentence><noteBodyInline text="５" />ｂａｒｅ［ｂｅə］：<quote>「<ruby rubyText="から">空</ruby>の」</quote>．</sentence>
+<sentence><noteBodyInline text="７" />ｂａｋｅｒ’ｓ＝ｂａｋｅｒｙ．’ｓは<quote>「〜の店」</quote>．</sentence>
+<sentence><noteBodyInline text="１１" />ｊｏｉｎｅｒ（’ｓ）［ｄʒɔｉｎə（ｚ）］：<quote>「建具職人」</quote>．</sentence>
+<sentence><noteBodyInline text="１２" />ｃｏｆｆｉｎ［ｋɔｆəｎ］：<quote>「棺桶」</quote>．</sentence>
+<sentence><noteBodyInline text="１８" />ｌｉｃｋ（ｉｎｇ）［ｌｉｋ（ｉŋ）］：<quote>「なめる」</quote>．</sentence>
+<sentence><noteBodyInline text="１９" />ｂａｒｂｅｒ（’ｓ）［ｂάːｂə（ｚ）］：<quote>「床屋」</quote>．</sentence>
+<sentence><noteBodyInline text="２０" />ｗｉｇ：<quote>「かつら」</quote>．</sentence>
+<sentence><noteBodyInline text="２２" />ｊｉｇ：<quote>「ジグ（テンポの速い踊りの１種）」</quote>．</sentence>
+<sentence><noteBodyInline text="２７" />ｃｏｂｂｌｅｒ（’ｓ）：［ｋɔｂｌə（ｚ）］：<quote>「靴屋」</quote>．</sentence>
+<sentence><noteBodyInline text="３１" />ｃｕｒｔｓｙ［ｋəːｔｓｉ］：<quote>「（<ruby rubyText="ひざ">膝</ruby>を曲げ身体をかがめる女性の）おじぎ」</quote>．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>♠♠　マザーグースに数多い，ｎｏｎｓｅｎｓｅ　ｓｏｎｇの１つ．</sentence>
+<sentence>１８０５年に出版された，『ハバードおばさんと犬のおかしな冒険』（Ｔｈｅ　Ｃｏｍｉｃ　Ａｄｖｅｎｔｕｒｅｓ　ｏｆ　Ｏｌｄ　Ｍｏｔｈｅｒ　Ｈｕｂｂａｒｄ　ａｎｄ　Ｈｅｒ　Ｄｏｇ）という本にはじめて紹介されましたが，この本はたちまち当時のベストセラーになり，わずか数か月で１万部が売れた，と記録にあります．</sentence>
+<sentence>この本の成功にあやかろうと，にせものの<quote>「ハバードおばさん本」</quote>があちこちの出版社から出たりもし，《ハバードおばさん》は童謡の世界の人気キャラクターになりました．</sentence>
+<sentence>大英博物館には，<quote>「ハバードおばさん」</quote>と称する本が２６種類も収められているそうです．</sentence>
+<sentence>出版当時，読者のなかには，このナンセンス詩をなにかの政治諷刺だろうとかんぐった向きもあったといわれます．</sentence>
+<sentence>１２行目のｃｏｆｆｉｎと，１４行目のｌａｕｇｈｉｎｇは，シェイクスピアの時代の古い英語では<ruby rubyText="いん">韻</ruby>を<ruby rubyText="ふ">踏</ruby>んでいたので，この詩の一部の起源はもっと古いのかもしれません．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　比較的長い歌ですが，用語や途中のエ<sampling type="end" />ピソードには，版によっていくつかのヴァリエーションがあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

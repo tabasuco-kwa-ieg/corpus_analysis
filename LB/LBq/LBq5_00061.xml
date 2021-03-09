@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00061" version="1.0" type="fixedLength">
+<article articleID="LBq5_00061_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">キンギョのコ<sampling type="start" />ロッケおべんとう</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">☆作り方☆</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●コロッケ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">じゃがいも（大）…１／２個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">玉ねぎ…２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">牛ひき肉…２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩・こしょう…少々</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">小麦粉・溶き卵・パン粉…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">サラダ油…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【キンギョの飾り】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">口…赤ピーマン（ＰＯＩＮＴ参照）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">からだの模様・背びれ…赤ピーマン（まるく抜き、半分に切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">尾ひれ…赤ピーマン（三日月型に切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">白目…魚肉白色ソーセージ（薄い輪切り）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">黒目…のり（まるく切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　じゃがいもは、ゆでてつぶす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　玉ねぎはみじん切りにし、牛ひき肉と一緒に、油を熱したフライパンで炒め、塩・こしょうをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　<enclosedCharacter description="○">１</enclosedCharacter>と<enclosedCharacter description="○">２</enclosedCharacter>をあわせてまるくととのえ、小麦粉、溶き卵、パン粉の順で衣をつけ、中温の油で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　<enclosedCharacter description="○">３</enclosedCharacter>をお弁当箱につめ、キンギョの飾りつけをする。</sentence>
+<sentence>ソースを別容器に入れて添える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>口は、赤ピーマンをハート型で抜き、下半分を切り取って作ります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●海のごはん</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">ごはん…茶碗１杯</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">【海の飾り】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">海草…きゅうり（写真のように切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">泡…ハム（まるく抜く）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>お弁当箱にごはんをつめ、海の飾りつけをする。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●マッシュルームと卵のソテー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">マッシュルーム…２０ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">卵…１個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">コンソメパウダー…小さじ１／５</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩・こしょう…少々</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">バター…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　マッシュルームは薄くスライスする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　フライパンにバターを熱し、<enclosedCharacter description="○">１</enclosedCharacter>を入れて炒める。</sentence>
+<sentence>卵にＡを入れてよくまぜたものを加えて、さらに炒める。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●いちご入り牛乳ゼリー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料（取り分け）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">粉ゼラチン…５ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">冷水…２０ｍｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">牛乳…２００ｍｌ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖…大さじ１<fraction>１／３</fraction></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いちご…１個</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　粉ゼラチンは冷水に振り入れて、ふやかしておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　牛乳と砂糖を小鍋に入れて火にかけ、沸騰直前で火からおろす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　<enclosedCharacter description="○">２</enclosedCharacter>に<enclosedCharacter description="○">１</enclosedCharacter>を入れて、よく溶かし、保存容器に流し入れて、冷蔵庫で冷しかためる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　<enclosedCharacter description="○">３</enclosedCharacter>といちごを、サイコロ状に切ってあえる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">カニの卵サンドイッチおべんとう</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">☆作り方☆</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●卵サンドイッチ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">サンドイッチ用黒パン…４枚</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">マヨネーズ…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">卵スプレッド</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ゆで卵…１個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">マヨネーズ…小さじ１<fraction>１／２</fraction></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩・こしょう…少々</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">プリーツレタス…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【カニの飾り】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">白目…ソーセージ（薄い輪切り）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">黒目…きゅうり（まるく切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">はさみ…りんご（８等分し、端をＶ字に切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">足…ソーセージ（皮が赤いもの）（ＰＯＩＮＴ参照）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ほほ…ハム（楕円に抜く）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">口…きゅうり（細く切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　ゆで卵はみじん切りにし、マヨネーズ、塩とあわせて卵スプレッドを作る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　黒パンをまるく切り、それぞれマヨネーズをぬって２枚１組で<enclosedCharacter description="○">１</enclosedCharacter>をはさむ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　お弁当箱にレタスをしいて<enclosedCharacter description="○">２</enclosedCharacter>をつめ、カニの飾りつけをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>足はソーセージを半分に切り、端に切りこみを入れて、フライパンで軽く炒めます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●ズッキーニと卵の炒めもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">ズッキーニ…２５ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">卵…１個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">塩・こしょう…少々</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">コンソメパウダー…小さじ１／５</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">バター…適宜</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　ズッキーニは薄切りにし<sampling type="end" />、フライパンにバターを熱して炒める。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00129" version="1.0" type="fixedLength">
+<article articleID="LBs3_00129_F001">
+<paragraph>
+<sentence>　これが、厚生年金を一五年にしたとき<sampling type="start" />のメリットである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、デメリットだってある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　夫が受給している加給年金が支給停止になること。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　Ａ子さんが六五歳になっても、振替加算をもらえないこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これらを総合して検討してみないと、損得勘定はなんともいえない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ子さんが、六五歳になるまでのメリット分を計算してみると、一五年かけたときの年金額と一四年六か月かけたときの年金額の差額分、一四万三六〇〇円の五年分。</sentence>
+<sentence>計算すると、七一万八〇〇〇円。</sentence>
+<sentence>それに、五九歳から六〇歳になるまでの厚生年金七八万四四〇〇円。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この両方の額を合算した一五〇万二四〇〇円がメリット分である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　デメリット分は、加給年金の支給停止。</sentence>
+<sentence>加給年金をＡ子さんが、五九歳から六五歳になるまで支給停止されると、合計額で一三四万六四〇〇円。</sentence>
+<sentence>メリット分の合計額が一五〇万二四〇〇円で、デメリット分が一三四万六四〇〇円なら、メリット分の方がデメリット分より一五万六〇〇〇円多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、この問題は、Ａ子さんに支給される振替加算まで含めないと解決しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ子さんの場合、振替加算額は一四万六五〇〇円。</sentence>
+<sentence>この一四万六五〇〇円は、Ａ子さんが、厚生年金を一五年にするともらえなくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　振替加算の一四万六五〇〇円は、Ａ子さんの六五歳になるメリット分一五万六〇〇〇円とほぼ同額。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だから、Ａ子さんが六六歳を過ぎたときを考えると、厚生年金を一五年にしなかった方がよかった、ということになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　年金額の検証に当たっては、平成六年一〇月の価格でやらせていただいた。</sentence>
+<sentence>理由は<quote>「損か得か」</quote>は、平成六年の価格でも、平成一五年の価格でも、結論は変わらないと考えたからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ子さんの特別支給の老齢厚生年金</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">（平成６年１０月価格）</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　厚生年金を１５年にしたときの年金額</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　厚生年金が１４年６か月で退職したときの年金額</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　厚生年金が１５年のときと、１４年６か月のときの差額</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　厚生年金を１５年にしたときのメリット分</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">ア</enclosedCharacter>　５９歳から６０歳の１年間に受給できる厚生年金</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">７８４，４００円</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">イ</enclosedCharacter>　年金額の差額分（５年間）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ子さんが厚生年金を１５年にしたときのデメリット</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　夫の加給年金が支給停止になる。</sentence>
+<sentence type="quasi">支給停止期間は５９歳から６４歳の６年間</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　振替加算は支給されない（Ａ子さんが６５歳以降）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">厚生年金基金</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">―その総ざらいをしてみよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●　報酬比例部分の年金支給を代行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　厚生年金は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　定額部分の年金</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　報酬比例部分の年金</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　加給年金・特別加算</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>の三つで構成されている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　このうち、厚生年金基金に加入した人には<quote>「報酬比例部分の年金」</quote>に限って、厚生年金基金が年金支給を行う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　厚生年金基金では、国が支給する年金を国に代わって行う<sampling type="end" />ので、基金が支給する年金を<quote>「代行年金」</quote>と呼ぶ人もいる。</sentence>
+</paragraph>
+</article>
+</sample>

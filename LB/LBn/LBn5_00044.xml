@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00044" version="1.0" type="fixedLength">
+<article articleID="LBn5_00044_F001">
+<paragraph>
+<sentence>写真５‐１に示したクレイモデルは、一つ一つこ<sampling type="start" />のような方法で空気抵抗を小さくしていきます。</sentence>
+<sentence>まず、フロントの部分を修正します。</sentence>
+<sentence>つぎにリアの部分にかかります。</sentence>
+<sentence>さらにタイヤまわり、床下の角度と次々に場所を変えていきます。</sentence>
+<sentence>実験開始の頃は少しの修正でもその値を小さくすることが容易です。</sentence>
+<sentence>しかし、繰り返していくうちに、いくら修正をしても値が下がらないところに至ります。</sentence>
+<sentence>そのあたりが、最初にデザインしたモデルが到達できる限界ということになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このモデルを作ったり修正したりするのは、デザイン部門に所属している“モデラー”と呼ばれる人達です。</sentence>
+<sentence>今回のこの実験は日本自動車研究所の風洞を借りて行いました。</sentence>
+<sentence>同所の湊清之さんは風洞実験の専門家です。</sentence>
+<sentence>モデラーの人達はデザイナーと湊さんと相談しながら、次々と手際よく修正をしていきます。</sentence>
+<sentence>車を実用に使うということでなければ空気抵抗の値はかなり下げられるのですが、限られた大きさのなかで必要な車室空間を確保し、かつ、デザイナーが意図するようなきれいな形に仕上げる必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実験にはまず五日間かけました。</sentence>
+<sentence>朝から、毎日夜遅くまで実験と修正をします。</sentence>
+<sentence>四台のそれぞれについて少しずつ値を小さくしていきました。</sentence>
+<sentence>五日目の夜遅くまでかかって、はじめ〇・五程度の値を示していた空気抵抗係数が〇・三を切るところまで下がりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">実験は気力と体力</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　五日間も同じ作業を、しかも長時間続けていると、参加している人達は皆疲れてきます。</sentence>
+<sentence>私はというと、その間、お茶を飲みながら作業を見たり、無駄話をしたり、時々思いのほか数字が大きく下がったりすることになると拍手で盛りあげたりというのが仕事ですから元気十分です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　〇・三という値が出たことで、皆はもう十分ではないかといいはじめます。</sentence>
+<sentence>通常のエンジン車ではこの値が〇・四から〇・五程度ですので、それに比べるとずい分よい値です。</sentence>
+<sentence>作業をしている人達にとってはかなり努力をしたという感覚です。</sentence>
+<sentence>とくに、今回の車は長さが三・三メートルと短いために、値を小さくすることには多少の難かしさがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電気自動車では、空気抵抗が本質的な意味をもつことを強く認識しているのはその場では私一人です。</sentence>
+<sentence>極小にもっていかねばという気持があります。</sentence>
+<sentence>そのため〇・三という値では私としては満足することができません。</sentence>
+<sentence>それで、何とか、さらによい値を出してもらわなければ困るというのが私の考えです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここからが私の出番です。</sentence>
+<sentence>まず、非常に努力をしてくれたことに労いの言葉をかけます。</sentence>
+<sentence>〇・三という値に達してくれたことによくやってくれましたと賞讃を述べます。</sentence>
+<sentence>さらに電気自動車にとって<sampling type="end" />この値を下げることに本質的な意味があることについてもう一度話をします。</sentence>
+</paragraph>
+</article>
+</sample>

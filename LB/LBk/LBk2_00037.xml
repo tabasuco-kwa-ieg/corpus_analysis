@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk2_00037" version="1.0" type="fixedLength">
+<article articleID="LBk2_00037_F001">
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />日本書紀の官家</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まず、『日本書紀』における官家の用例を列挙しよう（内官家は除く）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<noteBody>
+<sentence>１３　ここの<quote>「官家」</quote>については<quote>「宮家」</quote>とする刊本もあるが、京都北野神社所蔵兼永本により、<quote>「官家」</quote>とした。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">官家の第一の意味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これらの史文から、『書紀』に見える<noteMarker text="（１４）" />官家には次の二つの意味がある<noteMarker text="（１５）" />ことがわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>１４　『日本書紀』以外の官家としては、次のような意味がある。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="old" />
+</noteBody>
+<noteBody>
+<sentence>１５　官家について、本居宣長は『古事記伝』（一八二二年）巻二六、巻三〇で、<quote>「もと官所のことなり」</quote><quote>「古は国々処々に、朝廷の御田ありて、（中略）かの上に出たる、田部と云者を役ひて佃らしめて、其御田に成れる、稲穀を蔵むる御蔵、及其官舎をも、合せて美夜気と云ひ、（中略）又其御田をも包合せて、常に美夜気と云り」</quote><quote>「外国なる百済をしも、如此定められたるは、皇国内なる屯家に准へ賜へるなり」</quote>と解いている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　また、弥永貞三氏は<quote>「<quote>「弥移居」</quote>・<quote>「官家」</quote>考」</quote>（<sentence>『名古屋大学文学部研究論集』三五。</sentence>
+<sentence type="quasi">一九六四年</sentence>
+）で、<quote>「天皇ないし朝廷の蕃屛の国という意味と、属領ないし半独立的な従属国という意味と、朝廷の出先機関（日本府）といった程の意味」</quote>や<quote>「地方の小土豪（国造を含む）領そのもの」</quote>などの意味があるとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、『日本古典文学大系日本書紀』下の五五一頁では<quote>「日本の朝廷に対する貢納国の意味」</quote>もしくは<quote>「屯倉をさす」</quote>（屯倉とは<quote>「朝廷直轄の農業経営地あるいは直轄領」</quote>）だとする。</sentence>
+<sentence>この書は大化元年八月条の官家だけが屯倉を指すとし、他の官家が貢納国を指すとする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<paragraph>
+<sentence>　第一義。</sentence>
+<sentence>日本の官公の家屋。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　官家は本来<quote>「官の家」</quote>である。</sentence>
+<sentence>『書紀』には、<quote>「官の何々」</quote>という用例は、官船（応神紀三十一年条）・官物（清寧即位前紀・孝徳紀大化二年三月条）・官馬（武烈即位前紀に重出）・官刀（孝徳紀大化二年三月条）・官羆皮（斉明紀五年是歳条）・官舎（天武紀十三年十月条）など、多々あるが、それらは一般に“日本の官公の何々”“日本の官が有し、官のために用いる何々”という意味である。</sentence>
+<sentence>してみれば、官家も“日本の官公の家屋”“日本の官が有し、官のために用いる家”ということになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、<enclosedCharacter description="○">６</enclosedCharacter>の官家を“官公の家屋”と解する時、<enclosedCharacter description="○">６</enclosedCharacter>の史文は“那津のほとりに官公の家屋を修造せよ”という意味になり、文意が整う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それから、上掲<enclosedCharacter description="○">２</enclosedCharacter><enclosedCharacter description="○">３</enclosedCharacter><enclosedCharacter description="○">４</enclosedCharacter>の文では官家は<quote>「置」</quote>かれるものだとされている。</sentence>
+<sentence type="quasi"><quote>「置」</quote>には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence>などのように、施設・役所等を建築・設置する義がある。</sentence>
+<sentence>このような例からすると、<enclosedCharacter description="○">２</enclosedCharacter><enclosedCharacter description="○">３</enclosedCharacter><enclosedCharacter description="○">４</enclosedCharacter>の官家も家屋のような建築物、すなわち第一義の官家とみることができる。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">官家の第二の意味</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第二義。</sentence>
+<sentence>従属国。</sentence>
+<sentence>蕃屛。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　官家に“日本の官公の家屋”という意味のあることがわかれば、そこから別の意味が派生する。</sentence>
+<sentence>それは“日本の官公の家屋の置かれた国”という意味である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　仲哀記には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence>とある。</sentence>
+<sentence>新羅王が御馬甘になったことにより、新羅国が御馬甘に定め<sampling type="end" />られたのである。</sentence>
+</article>
+</sample>

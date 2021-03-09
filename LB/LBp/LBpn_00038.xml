@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBpn_00038" version="1.0" type="fixedLength">
+<article articleID="LBpn_00038_F001">
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ<sampling type="start" />先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もちろん，実際はそんな面倒なことをしない．</sentence>
+<sentence>あくまで，これは<quote>「証明」</quote>と<quote>「論証」</quote>の違いを示すための例だよ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　とりあえず，だいたい，<quote>「証明」</quote>と<quote>「論証」</quote>の違いはわかりましたが，学校で学ぶ数学のなかでは，この<quote>「証明」</quote>と<quote>「論証」</quote>という二つの言葉を，あまりはっきりと区別していないと思うんですけど．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｂ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　というか，<quote>「証明」</quote>という用語は中学校，高校の両方で使うけど，<quote>「論証」</quote>という用語は高校ではじめて出てくるよね．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それに，先生は，第２のステップとして（２）中学校における<quote>「図形の証明」</quote>，そして，第３のステップとして（３）高校数学における<quote>「いろいろな論証」</quote>と，いいましたよね．</sentence>
+<sentence>なぜ<quote>「証明」</quote>が中学校でのステップで，<quote>「論証」</quote>が高校でのステップになるんですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　中学校での<quote>「図形の証明」</quote>って，どういう問題が多かったか覚えてる？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｂ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　だいたい似たような証明問題が多かったよね．</sentence>
+<sentence>証明で使う図形の性質も，だいたい<quote>「相似」</quote>か<quote>「円の性質」</quote>くらいのもんで．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あと，あらかじめ，証明の全体の７割くらいが書いてあって，途中の空欄に<quote>「どの三角形とどの三角形が相似である」</quote>とか，<quote>「どこの角とどこの角が等しい」</quote>といった，図形の性質を入れていくような，<ruby rubyText="あな">穴</ruby><ruby rubyText="う">埋</ruby>め問題が多かったよね．</sentence>
+<sentence>だから，証明というよりも，むしろ<quote>「図形の性質」</quote>を勉強してるみたいだったなぁ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうした問題が多い理由は，中学校では<quote>「証明」</quote>というものを<quote>「形式」</quote>として学ぶからではないかな．</sentence>
+<sentence>つまり，中学校では，<quote>「数学の証明とはこういう形式のものなんだ」</quote>ということを，わからせることに目標を置いている．</sentence>
+<sentence>だから，穴埋めのような証明問題が多くなるのも無理はない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　なるほど．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それに対して，高校数学では<quote>「筋道を明らかにする」</quote>ことに目標を置いている．</sentence>
+<sentence>つまり，自分自身で証明の形式を組み立てていかなくてはならないんだ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｂ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　その形式を組み立てていくさいに，<quote>「論理」</quote>が必要になってくるわけか．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうだね．</sentence>
+<sentence>筋道を明らかにするためには，どうしても<quote>「論理」</quote>というものが欠かせない．</sentence>
+<sentence>つまり，簡単にいうと，<quote>「論証」</quote>とは，<quote>「論理を用いた証明」</quote>ということになるかな．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そういえば，高校の教科書でも<quote>「論理と証明」</quote>という内容で，いろいろな論理記号を習ったよね．</sentence>
+<sentence>論理記号を使うと，余分な日本語を使わなくてよいから筋道がより明快になって，論証での表現がずいぶん楽になりました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｂ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　論理記号？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">生徒Ｃ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　前に，やったじゃない．</sentence>
+<sentence>たとえば，<quote>「ｐならばｑ」</quote>ということを<quote>「ｐ⇒ｑ」</quote>というように表す記号だよ（ｐ．５０）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">Ａ先生</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　この<quote>「論理記号」</quote>を使うことによって，表現が簡潔になるし，また論理展開がはっきりするので，読む方にとってもわかりやすい証明となる．</sentence>
+<sentence>つまり，日常語を数学語に変える<sampling type="end" />もの，それが<quote>「論理記号」</quote>かな．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00037" version="1.0" type="fixedLength">
+<article articleID="LBo5_00037_F001">
+<list>
+<listItem>
+<sentence>１　トマトは縦半分に切り、切り口を下にしてふきんの上に３０分位おい<sampling type="start" />て水けを切る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　１のトマトを耐熱皿にのせてハーブソルトを振りかけ、１５０度位のオーブンでじっくりと焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>●トマトはなるべく水分が少なくて完熟のものを。</sentence>
+<sentence>ミニトマトでも美味。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">お奨めミックス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　万能ブレンド</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　サラダドレッシング用</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　赤身肉用ブレンド</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　鶏肉用ブレンド</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　魚用ブレンド</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">６　パスタ用</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">７　パン用</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">８　ピッツァ用</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">９　プロバンス風</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０　タイ風</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１　ギリシャ風</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">１２　シェーカー風・魚卵用</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">保存１</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　欲しいときにいつでも新鮮なハーブが手に入れば問題はないのだが、相手は植物ゆえ工業製品のようなわけにはいかない。</sentence>
+<sentence>そこで鉢植えにしてサンルームで栽培したり、温室の隅にハーブの区画を作ったりと工夫を凝らす。</sentence>
+<sentence>それにも限界があるから私は生で使えるうちは盛大に使い、乾燥に耐えるハーブは乾燥させて保存することにしている。</sentence>
+<sentence>乾燥ハーブの常連はタイム、レモンタイム、オレガノ、ラビッジ、セージ、タラゴン、レモングラス、レモンバーム、レモンバーベナ、ミントといったところだ。</sentence>
+<sentence>使用頻度からいうとタイムが一番、オレガノ、セージ、タラゴンがそれに続く。</sentence>
+<sentence>レモン系のハーブとミントは主にお茶用。</sentence>
+<sentence>バジルにはペーストのような優れた保存法があるし、チャイブはあさつきや万能ねぎで代用できるし、チャービルやパセリは乾燥させると違うものになってしまうから、そういうハーブは乾燥させずにフレッシュなものをどんどん消費することにしている。</sentence>
+<sentence>時は朝露が乾く午前中、花が咲く直前のハーブを収穫して、直射日光が当らず風通しのよいところで短時間で乾燥させる、とたいていの本には書いてある。</sentence>
+<sentence>それは正しいのだが、私の場合は、たくさんつぼみをつけたハーブを刈り取ることができなくて、いつも花が咲き終わってからということになってしまうのである。</sentence>
+<sentence type="quasi">（Ｐ５６に続く）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">夏</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＳＵＭＭＥＲ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">夏の庭では花たちの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">にぎやかな饗食が</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">くりひろげられる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>バジルの甘い香りは庭の手入れに疲れた私を<ruby rubyText="いや">癒</ruby>す。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">もうお昼…バジルをたくさんたくさん摘んでキッチンへ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ｂａｓｉｌ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">バジルペースト</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（Ｐ３５の写真参照）</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">バジル</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">バジル（葉をぎゅうぎゅう詰めにして）２カップ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">にんにく（みじん切り）　３片分</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">松の実（あらみじん切り）　１／４カップ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">パルメザンチーズ（すりおろす）　１／３カップ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">オリーブ油　１／２カップ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence>１　バジルは洗ってざるにあげ、ふきんで拭いて水けをよく切る。</sentence>
+<sentence>手で大まかにちぎる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　フードプロセッサーにバジル、にんにく、松の実、パルメザンチーズをいれてペースト状にする。</sentence>
+<sentence>うまく回らなかったらオリーブ油を少し加える。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　２のペーストにオリーブ油を少量ずつ加えてゆるめる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　殺菌した小瓶にいれて<sampling type="end" />冷蔵庫で保存する。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

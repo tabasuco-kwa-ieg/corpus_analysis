@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi9_00079" version="1.0" type="fixedLength">
+<article articleID="LBi9_00079_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「あ、ほんとだ。</sentence>
+<sentence>しかし、大阪には何時に着くんですか？</sentence>
+<sentence>　それから、福岡へ飛ぶ<sampling type="start" />飛行機ってあるのかな？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　浜口が時刻表をのぞき込んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「松山を夜の七時五分に出発した便は、大阪空港へ七時五十五分に着くわ。</sentence>
+<sentence type="quasi">それから大阪から福岡へは、八時十五分発、福岡九時二十五分着というのがあるの」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「大阪空港で二十分しかありませんね？</sentence>
+<sentence>　大丈夫かな？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「大丈夫よ。</sentence>
+<sentence type="quasi">二十分あれば、私、大阪から東京へ行って、すぐ、北海道便へ乗りついだことがあるけど、同じ空港内だから行けるの」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　キャサリンは、ちょっと得意そうにいった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１３</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「九時二十五分に福岡空港へ着けば、十時には充分杉浦さんを殺せますね。</sentence>
+<sentence>福岡空港から市内までは、近いですからね。</sentence>
+<sentence type="quasi">十五分か二十分くらいですね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ところで、十時に殺人をして、そのあとどうして帰るかよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「今度は、一泊して福岡から松山へ飛べばいいんでしょう？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ところがダメなの。</sentence>
+<sentence>福岡から松山へ飛ぶ朝の第一便は十時五分発よ。</sentence>
+<sentence type="quasi">松山には、十時四十五分にしか着かないわ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「じゃあ、帰りも、福岡から大阪に飛んで、大阪から松山に飛んだらどうですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「福岡から大阪に飛ぶ第一便は、朝の七時五十分で、大阪着は八時五十分よ。</sentence>
+<sentence>大阪から松山へは、八時ちょうどが第一便なので、それに乗るのは無理だから、次の十一時十分になるわ。</sentence>
+<sentence type="quasi">そうすると、十二時にしか松山には、着かない」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「なるほど、高岡夫妻は、朝の九時半ごろには、松山の旅館にいましたね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　浜口が、考え込んだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「そこから考えるのに時間がかかったわ。</sentence>
+<sentence type="quasi">それで、博多から列車を使うことにしたの」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「十時以後に博多から大阪へ行く新幹線はないでしょう？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ええ、九時八分が最終よ。</sentence>
+<sentence>だから、<ruby rubyText="さん">山</ruby><ruby rubyText="よう">陽</ruby>本線を使ったの。</sentence>
+<sentence>二十二時三十五分の急行<ruby rubyText="きり">霧</ruby><ruby rubyText="しま">島</ruby>で博多を<ruby rubyText="た">発</ruby>つと、朝の五時十六分には、岡山へ着くの。</sentence>
+<sentence>朝一番の博多発のひかりは、九時十五分にしか大阪へ着かないけど、岡山まで行っておけば、岡山からは、六時ちょうどにひかり１００号が出ているわ。</sentence>
+<sentence>これに乗ると、新大阪着は六時五十八分。</sentence>
+<sentence>三十分あれば空港に行けるので、八時に大阪空港を発って松山へ八時五十分に着く飛行機にゆうゆうと乗れるでしょう？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「なるほど。</sentence>
+<sentence>博多―<noteBodyInline text="山陽本線" />岡山―<noteBodyInline text="新幹線" />大阪―<noteBodyInline text="飛行機" />松山というわけですね。</sentence>
+<sentence type="quasi">これなら可能ですね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　浜口は、もう一度、時刻表を点検した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「でも、可能だけど、実行したという証拠がないわ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　キャサリンがいった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「それは、狩矢さんに考えてもらいましょう。</sentence>
+<sentence type="quasi">プロですから、飛行機とか列車で、目撃者を探してくると思いますが」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「そうね、でも、今日は、元日よ。</sentence>
+<sentence>狩矢さんの家へ電話していいかしら？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「そうですねえ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そこへ、電話がかかって来た。</sentence>
+<sentence>キャサリンが出てみると、山形だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「あけましておめでとうございます」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「こちらこそ、おめでとうございます」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「やよいさんには、話をききましたよ。</sentence>
+<sentence type="quasi">彼女は、狩矢警部さんにも話し<sampling type="end" />たといってましたが」</sentence>
+</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

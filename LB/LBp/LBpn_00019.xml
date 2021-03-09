@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBpn_00019" version="1.0" type="fixedLength">
+<article articleID="LBpn_00019_F001">
+<sentence>遺伝子の５´非翻訳領域にあって，その遺伝子がいつ，どこで，どれくらい<sampling type="start" />転写されるかを決めている部分のこと．</sentence>
+<sentence>また，ここには応答配列とよばれる部分もあって，外界からの刺激（ホルモン，低分子化学物質など）に応答して転写量を決めている．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">同化【ａｎａｂｏｌｉｓｍ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>生物が，ＡＴＰの化学エネルギーを利用して，タンパク質や多糖などの複雑な化学物質を合成すること．</sentence>
+<sentence>逆に，複雑な化学物質を分解することを異化という．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">動原体【ｃｅｎｔｒｏｍｅｒｅ，ｋｉｎｅｔｏｃｈｏｒｅ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>細胞分裂時の染色体で，紡錘糸が付着する細くくびれた部分．</sentence>
+<sentence>くびれた部分全体をセントロメア，紡錘糸が付着する部分をキネトコアという．</sentence>
+<sentence>キネトコアの部分を動原体とよぶことが多い．</sentence>
+<sentence>体細胞分裂では，動原体に付着した紡錘糸によって染色分体は両極に引かれ二分される．</sentence>
+<sentence>動原体の位置は染色体の中央部であるものや，端寄りであるものなどさまざまで，この位置によって染色体が識別できる．</sentence>
+<sentence type="quasi">→体細胞分裂</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">動物極【ａｎｉｍａｌ　ｐｏｌｅ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>動物の卵母細胞で，減数分裂するときに極体という小さい細胞が生じる側をいう．</sentence>
+<sentence>反対側には<noteMarker text="‡" />植物極がある．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">突然変異体【ｍｕｔａｎｔ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>突然変異株ともいう．<noteMarker text="＊" /></sentence>
+<sentence>生殖細胞での<noteMarker text="＊" />突然変異の結果，<noteMarker text="‡" />遺伝形質（表現型）が変化した個体．</sentence>
+<sentence>遺伝子の実態が不明な頃にはこの変化に唐突な印象があったため突然とあるが，現在の<noteMarker text="‡" />分子遺伝学的な理解のうえでは特別な意味はない．</sentence>
+<sentence>遺伝的な変化であるため，ひとたび起きた変異は，世代を越えて受け継がれる形質を示す．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ド・フリース【ｄｅ　Ｖｒｉｅｓ，Ｈ．】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>１８４８‐１９３５　オランダ．</sentence>
+<sentence>オオマツヨイグサの雑種を研究，<noteMarker text="＊" />突然変異説を提唱．<noteMarker text="＊" /></sentence>
+<sentence>メンデルの法則を再発見した．</sentence>
+<sentence type="quasi">→遺伝</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">トランスポゾン【ｔｒａｎｓｐｏｓｏｎ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>転移因子，動く遺伝子ともいう．</sentence>
+<sentence>通常の遺伝子と異なり，染色体上の位置が定まっておらず，転移することができる構造をもつ．</sentence>
+<sentence>トランスポゾンがＤＮＡ分子上に挿入されると，挿入位置にもともとあった遺伝子は二つに分断されてしまうので，その機能が損なわれることがある．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ナ行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">涙【ｌａｃｒｉｍａ，ｔｅａｒｓ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>陸上の脊椎動物の角膜や結膜の表面を湿らせ，異物を除去する涙腺からの分泌液．</sentence>
+<sentence>成分の大部分は水で，タンパク質，食塩，炭酸ナトリウム，脂肪なども若干含まれる．</sentence>
+<sentence>涙分泌の中枢は延髄で，交感神経である顔面神経によって涙腺が刺激され分泌される．</sentence>
+<sentence>刺激源は各感覚器への痛覚，強光，感情に対する反射，笑い，あくび，せきなどである．</sentence>
+<sentence>あふれ出なかった余分な涙は，鼻涙管という管を通って鼻腔内に流れ込む．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">軟骨魚類【ｃａｒｔｉｌａｇｅｎｏｕｓ　ｆｉｓｈｅｓ】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>脊椎動物亜門の一綱．</sentence>
+<sentence>内骨格が軟骨性で，頭蓋も軟骨頭蓋の魚類．</sentence>
+<sentence>サメ・エイ類など多数を含む板鰓<sampling type="end" />類と，ギンザメを含む全頭類との２亜綱からなる．</sentence>
+</article>
+</sample>

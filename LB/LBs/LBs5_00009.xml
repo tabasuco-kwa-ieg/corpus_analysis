@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00009" version="1.0" type="fixedLength">
+<article articleID="LBs5_00009_F001">
+<paragraph>
+<sentence>できるだけ　ｇｅｎｅｒｉｃ　ｌａｎｇｕａｇｅ　（包括的用語）を使用して<sampling type="start" />広い概念の　ｇｅｎｅｒｉｃ　ｃｌａｉｍ　をつくることが大切である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">クレームドラフティング▶▶</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここでクレームドラフティングの実務上の留意点を若干挙げておこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　広いクレームと，それより狭い多段階のクレームを逆ピラミッド型に作成すること</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　クレームの広さと特許性の強さは反比例することはよく知られている。</sentence>
+<sentence>広いクレームは審査で拒絶される可能性があり，特許後も無効になることがないといえない。</sentence>
+<sentence>狭いクレームはその反対だからだ。</sentence>
+<sentence>その意味で出願人が後退できる最低の防御線となるクレーム，広いクレームと最低線との中間にあるクレームなど多段階のクレームを作成しておくことが望ましい。</sentence>
+<sentence>また多段階のクレームは後述の出願記録禁反言の適用を回避できるメリットもあるであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　米国の特許侵害訴訟では，広いクレームの有効性に疑問が生じた場合，特許権者はより狭いが有効性に自信のあるクレームの基づいて侵害者を攻撃する。</sentence>
+<sentence><quote>「単に広いクレームにのみ依存することは，特許侵害訴訟においてオール・オア・ナッシングの賭をなすに等しい」</quote>というエリスの有名な言葉があるが，このことを巧みに表現している（Ｒｉｄｓｄａｌｅ　Ｅｌｌｉｓ，Ｐａｔｅｎｔ　Ｃｌａｉｍｓ，ｐ．１４１）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国では訂正審判でクレームの減縮が認められ，侵害訴訟の場でクレームの有効性を争うことができないと考えられてきたが，のちに述べるようにクレームの訂正については各種の制限が設けられ，一方裁判所が特許の有効性の判断にかなり踏み込んで裁判するという傾向が強まっている。</sentence>
+<sentence>米国と同様に考える必要が出てきたと思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　カテゴリーの異なるクレームを作成すること</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　最も簡単な例を挙げると，組成物の製造方法のクレームでは侵害を立証できないが，組成物のクレームがあれば侵害の主張が容易な場合がある。</sentence>
+<sentence>また，方法クレームについて，その方法を実施する装置がクレームできないか，などを検討し，可能ならばクレームすべきであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　逆に，装置のクレームに，方法クレームを作成して加えることも重要とされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　既に述べたように，多項制のメリットは１つの発明を多面的な観点からクレームして保護できるところにある。</sentence>
+<sentence>明細書の作成にあたっては，このことを十分に活用すべきであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　侵害者の実施の形態を考えてクレームを作成すること</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　例えば，種々の異なるタイプの請求項があれば，カメラの製造業者には，カメラ自体のクレームとカメラボディのクレームおよび交換レンズのクレームによる権利行使が可能であり，交換レンズの製造業者に対しては交換レンズのク<sampling type="end" />レームによる権利行使が可能であり，不確かな間接侵害に頼る必要はなくなるとの指摘がある（大塚文昭<quote>「改善多項制について」</quote>『パテ』４８巻１号ｐ．７）。</sentence>
+</paragraph>
+</article>
+</sample>

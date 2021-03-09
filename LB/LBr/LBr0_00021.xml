@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr0_00021" version="1.0" type="fixedLength">
+<article articleID="LBr0_00021_F001">
+<paragraph>
+<sentence>　ＩＢＭ産業スパイ事件では、<sampling type="start" />ＩＢＭの機密情報（コンピュータ本体と周辺装置の開発情報など）を入手しようとしてＦＢＩ（アメリカ連邦捜査局）のおとり捜査によって、日本企業の社員が逮捕されました。</sentence>
+<sentence>この事件は、アメリカのプロパテント戦略と日米の知的財産戦争の激化に密接に関連しているといわれています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アメリカのプロパテント戦略が推進されたのは、１９８１年のヤングレポートからですから、ＩＢＭ産業スパイ事件は、アメリカのプロパテント戦略の開始と時期的に重なります。</sentence>
+<sentence>２００１年、２００２年の事件も背後には遺伝子研究分野での日米間の熾烈な競争があるといわれています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　日米の法規定の違い</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アメリカの産業スパイ法では、企業秘密を無断で持ち出した場合には、それが遺伝子サンプルなど形のある財物であろうと形のない電子情報であろうと、最長で禁錮１０年の刑に処せられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対して日本では、遺伝子のサンプルなど有体物の<quote>「財物」</quote>である企業秘密を持ち出す場合には、刑法上の窃盗罪で処罰されることはともかく、有体物でない電子情報そのものを複製などにより無断で持ち出した場合には、不正競争防止法により民事的な救済（損害賠償と差止請求）はあるものの、刑罰は規定されていません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本で刑法上の窃盗罪に該当するためには、たんに電子情報自体を盗んだだけでは足りないからです。</sentence>
+<sentence>つまり、窃盗罪に該当するためには、フロッピーなどの媒体に記憶して媒体ごと持ち出すことが必要になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３　<quote>「知的財産基本法」</quote>の整備―日本の不合理な法規定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　こうした事態に対応するために、<quote>「情報知的財産権」</quote>の保護が不十分な状況下で、政府は、企業や大学が保有する先端技術分野の特許や開発途上の研究データなどの知的財産の保護強化のために<quote>「知的財産基本法」</quote>を制定しました（２００３年３月施行）。</sentence>
+<sentence>この中では、産業スパイ対策として新たに<quote>「情報窃盗罪」</quote>を設けて発明の不正な流出を防ぐこととされています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本では、情報を記録して他社へ伝えたり、電子情報を自分のフロッピーディスクへ複製して無断で持ち出した場合には、不正競争防止法により民事的な救済（損害賠償と差止請求）は用意されていますが、残念ながら刑罰規定はありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本の刑法上の窃盗罪で処罰するためには、会社が所有するフロッピーディスクなどの有体物を持ち出すことが必要です。</sentence>
+<sentence>つまり、情報そのものを盗んだだけでは足りず、会社の所有する書類を持ち出したり、電子情報の場合には会社が所有するフロッピーなどの記憶媒体に記憶して媒体ごと持ち出すことが必要なのです。</sentence>
+<sentence>財産的な価値が大きい電子情報自<sampling type="end" />体を盗んだだけでは窃盗罪に該当せずに、財産的な価値の小さい媒体を盗んだ場合に窃盗罪になるというのはいささか不合理でしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

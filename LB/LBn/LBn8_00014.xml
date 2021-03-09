@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn8_00014" version="1.0" type="fixedLength">
+<article articleID="LBn8_00014_F001">
+<sentence>いろいろな映画<sampling type="start" />館について、スクリーンの大きさ、音質、ロビー、チケットの値段、字幕や吹き替え、予告編とか広告などもいい話の種です。</sentence>
+<sentence>見た映画の感想、俳優について、ＳＥについて、また作品の細部についてのコメントもいいですね。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">好みを言う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>□ＳＦはそれほど好きではありません。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□ホラー映画もいいものなら見るけれど残虐なのは嫌い。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">見た映画について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>□よかったわ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□まあまあだと思った。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□ストーリーはそれほどよいと思わなかった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□恋愛もの／お涙ちょうだいものだった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□暗い映画だった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□バイオレント過ぎた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□特殊効果がすごかった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□ハッピーエンドだった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□あそこのところ一瞬、主役が死んじゃうかと思った。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□最初はちょっと退屈だったけど途中からおもしろくなった。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">俳優について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>□俳優はすごくハンサムだった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□確かに彼女はあの映画ではすてきだった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□レオナルド・ディカプリオはあの役にピッタリだった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□みんな彼をすてきだというけれど私はそうは思わない。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">映画に関する質問</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence>□最新のディズニー映画を見た？</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□脚本はだれ？</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□監督を覚えている？</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>□ＣＧで作ったあの場面、見た？</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">何を話そう：コンピュータ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>コンピュータに詳しい？</sentence>
+<br type="automatic_original" />
+<sentence>Ｄｏ　ｙｏｕ　ｋｎｏｗ　ｍｕｃｈ　ａｂｏｕｔ　ｃｏｍｐｕｔｅｒｓ？</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<sentence>コンピュータについて聞きたいときにはこのＤｏ　ｙｏｕ　ｋｎｏｗ　ｍｕｃｈ　ａｂｏｕｔ　ｃｏｍｐｕｔｅｒｓ？</sentence>
+<sentence>　が役に立ちます。</sentence>
+<sentence>Ｙｅｓ．の答えだったらわからないことをなんでも質問してしまいましょう。</sentence>
+<sentence>コンピュータ用語は英語をカタカナ化したものが使われていることが多いので、元の英語を思い浮かべながらカタカナ語を使うとかなり通じます。</sentence>
+<sentence>ｈａｖｅ　ａ　ｈａｒｄ　ｔｉｍｅはｈａｖｅ　ｄｉｆｆｉｃｕｌｔｙと同じで<quote>「困っている」</quote>ということ。</sentence>
+<sentence>ａｄｄｉｃｔｅｄもよくコンピュータで使われます。</sentence>
+<sentence>日本語で言えば<quote>「おたく」</quote>のイメージで、生活がコンピュータ中心に回っているような人を指して使われます。</sentence>
+<sentence>ａｃｃｅｓｓもパソコンで一般的になった言葉で、基本的意味はプロバイダーを通じてコンピュータネットワークに入ること。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｈｅｌｐ！</sentence>
+<sentence type="quasi">　インターネットの活用法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>コンピュータ関連の英語の知識を増やす素晴らしい方法を教えてあげましょう。</sentence>
+<sentence>インターネットにアクセスして海外の人が書いたものを読むことです。</sentence>
+<sentence>チャットルームに参加するといろいろの情報が得られます。</sentence>
+<sentence>チャットルームは比較的安全な環境だし、言葉がよくできなくても、またコンピュータのことをほとんど知らなくても、名乗る必要がないので他人がどう思うか心配しないで、好きなことを質問できます。</sentence>
+<sentence>コンピュータに詳しい人から情報が得られるし、一人二人友だちもできるかも<sampling type="end" />。</sentence>
+</article>
+</sample>

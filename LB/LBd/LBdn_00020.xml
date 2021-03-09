@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBdn_00020" version="1.0" type="fixedLength">
+<article articleID="LBdn_00020_F001">
+<paragraph>
+<sentence>　ゴロの打球を処理したと<sampling type="start" />きに、自分でベースタッチできないときは、ベースカバーに入る投手に送球したり、トスを送る。</sentence>
+<sentence>このようなとき、ベースに入る投手は走りながら捕球するので、タイミングを合わせることと捕球しやすい高さに投げることが重要だ。</sentence>
+<sentence>トスや送球の高さは、ベースに向かって走る投手の顔の高さぐらいを目標にする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●トスの送り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　打球を捕った１塁手は、ベースカバーに入る投手の前方すなわち、投手がトスを<ruby rubyText="と">捕</ruby>ったあとベースをかけぬける位置にタイミングを合わせてトスを送る。</sentence>
+<sentence>手首のスナップを使わず、てのひらのボールを、<ruby rubyText="うで">腕</ruby>を<ruby rubyText="の">伸</ruby>ばしたまま顔をねらってトスする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>●低いトスは投手が捕球しにくいので注意する。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　投手にボールを見せて早くトスする</sentence>
+<br type="automatic_original" />
+<sentence>投手の方へ走りながらボールとミットをはなし、投手にボールを見せるようにして、できるだけ早くトスを送る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　フオロースルーは<ruby rubyText="かた">肩</ruby>の高さで止める</sentence>
+<br type="automatic_original" />
+<sentence><ruby rubyText="うで">腕</ruby>を<ruby rubyText="の">伸</ruby>ばしたままトスしたあとのフオロースルーは、<ruby rubyText="かた">肩</ruby>の高さに止め、てのひらが投手の方向を指すようにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　１歩ふみ出す</sentence>
+<br type="automatic_original" />
+<sentence>トスしたあと、必ずトスした方向に１歩ふみ出すようにすると、相手が受けやすい。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●１・２塁間の打球の処理と１塁への送球（左きき１塁手）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１塁手が処理できそうな１・２塁間の打球は、積極的に処理する。</sentence>
+<sentence>１塁ベースには、投手がカバーに入るからだ。</sentence>
+<sentence>ただし、１塁手は２塁手の守備位置や守備能力を常に頭に入れておく。</sentence>
+<sentence>２塁手から<quote>「オーケー」</quote>の声がかかったら、打球は２塁手にまかせる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　低い姿勢で打球を追う。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　右足を前に出して両手で捕球し、右足を軸に、</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　カバーに入る投手方向に向きを変え、ボールを見せて、</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　タイミングを合わせて右足を１歩ふみこんでトスを送る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●前方のゆるいゴロの処理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１塁手は前進して打球を処理するが、このようなときには、投手と１塁手のどちらが打球を処理するか、声をかけ合ってプレーすることが大切である。</sentence>
+<sentence>投手が<quote>「ＯＫ」</quote>と言ったら１塁ベースに入り、<quote>「ファースト」</quote>と言ったら打球を処理する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●前方のフライの処理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１塁手の前方のフライは、投手・捕手より確実に打球を処理できると判断したときは、積極的に捕球する。</sentence>
+<sentence>捕手や投手より１塁手の方が確実に捕球できるからだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●フェンス近くのフライ処理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　全力でフェンス近くまでフライを追いかけてから、フェンスを<ruby rubyText="せ">背</ruby>にしてフライの落下地点にもどって捕球する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●右ききの１塁手が１・２塁間の打球を処理するとき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　捕球したあと、右足をふんばって体を止め、カバーに入る投手の顔の高さのボールを投手の約１歩前方にオーバーハンドかスリークォーターで送球する。</sentence>
+<sentence>よゆうのあるときは、<ruby rubyText="じく">軸</ruby><ruby rubyText="あし">足</ruby>で小さくステップし、左足<sampling type="end" />を投手の方向に向けて体のバランスをとり、タイミングよく送球する。</sentence>
+</paragraph>
+</article>
+</sample>

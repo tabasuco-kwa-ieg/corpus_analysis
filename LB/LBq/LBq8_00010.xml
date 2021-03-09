@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq8_00010" version="1.0" type="fixedLength">
+<article articleID="LBq8_00010_F001">
+<paragraph>
+<sentence>　つまり，研究方法が適切であることを示すことは，その論文の結論を支える土台を築き上<sampling type="start" />げることである．</sentence>
+<sentence>たとえば，実験や調査の方法に疑問を抱かれたら，データを信用してもらえなくなる（第３部３．１．３項参照；ｐ．２００）．</sentence>
+<sentence>同様に，理論に疑念を持たれたら，その理論が導く予測も信用されなくなる．</sentence>
+<sentence>そうなると，その後の論理展開がどんなに美しくても，論文の結論を読者は決して受け入れてくれない．</sentence>
+<sentence>だから，データに対する信用を得るために，研究方法が適切であることを説得しなくてはいけない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４．１．２　読者が研究を再現できるようにする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　読者は，データ取りを著者に完全に委ねている．</sentence>
+<sentence>実験・調査・観察を行った論文の場合，これらを実際に行ったのはもちろん著者であって，読者がいっしょに手伝うわけもない．</sentence>
+<sentence>読者は，論文に載っているデータを見るだけだ．</sentence>
+<sentence>コンピュータシミュレーションを行った論文や，数値的に解を求めた（解を数学的に証明したわけではない）理論的解析の論文も同様に，シミュレーションや数値解探索の現場に読者が立ち会うわけもない．</sentence>
+<sentence>読者は，シミュレーション結果や数値解を正しいものとして受け入れるだけである．</sentence>
+<sentence>このように読者は，<quote>「こういう研究方法を採ればこういうデータが出てくるのだろう」</quote>と信じて論文を読んでいるわけである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そんな読者のために，研究方法を丁寧に記述して，読者が研究を再現できるようにすることは研究者としての使命である．</sentence>
+<sentence>もちろん，ほとんどの読者は，データが偽造ではないかと疑ったりはしていないと思う．</sentence>
+<sentence>再現できるようにするのは，偽造という疑いを晴らすというよりも，もう一度やっても同じ結果になるのだろうかという疑念に答えるためである．</sentence>
+<sentence>同時にこれは，あなたのデータの正当性を補強することにもつながる．</sentence>
+<sentence>誰かがデータを再現してくれれば，それだけあなたのデータの正当性は増すからである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４．２　読者に示すべき情報</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　上記の二つの目的を果たすためには，要するに，研究方法についての情報を漏らさず説明することである．</sentence>
+<sentence>読者に示すべき情報を表４の<enclosedCharacter description="●">２</enclosedCharacter>（ｐ．７５）にまとめたので，ベガルタ仙台の論文の架空の例と生態学の論文の実例を見ながら説明していこう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，示すべき情報の中身は研究分野によってずいぶんと異なる．</sentence>
+<sentence>あなたの分野ではどういうことを書くのかを知るためにも，あなたの分野の論文をいくつも読んでみることを勧める．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">例１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">なぜ，ベガルタ仙台は強いのか：勝利を呼ぶ牛タン定食仮説の検証</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi"><sentence>（この論文は，２０１０年のＪリーグ終了時に書いたという想定である．</sentence>
+<sentence>書いてあることがちょっとくらい歴史と違っていても気にしないように．）</sentence>
+</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">調査対象</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ベガルタ仙台は，仙台市に本拠地をおくＪリーグクラブであ<sampling type="end" />る．</sentence>
+</paragraph>
+</article>
+</sample>

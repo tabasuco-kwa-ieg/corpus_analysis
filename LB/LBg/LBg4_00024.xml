@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00024" version="1.0" type="fixedLength">
+<article articleID="LBg4_00024_F001">
+<authorsData>
+<sentence type="quasi">国立天文台<sampling type="start" />助教授</sentence>
+<br type="automatic_original" />
+</authorsData>
+<abstract>
+<sentence>アインシュタインの<quote>「特殊相対性理論」</quote>によれば，運動する物体の長さはちぢみ，時計は遅れる。</sentence>
+<sentence>宇宙旅行を舞台に特殊相対論の不思議な世界をみていくことにしよう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">赤くなるボイジャー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<ruby rubyText="わく">惑</ruby><ruby rubyText="せい">星</ruby>探査機ボイジャーが光速に近いスピードで宇宙空間を飛行したらどのようにみえるか。</sentence>
+<sentence>アメリカ，カーネギー・メロン大学のピンカン・シュンが，コンピューターを使って<quote>「特殊相対性理論」</quote>が予言する不思議な結果をえがきだした。</sentence>
+<sentence>宇宙空間にいる観測者の横を左から右に向けてボイジャーが通りすぎた。</sentence>
+<sentence>ボイジャーのパラボラ・アンテナは完全に左の方向に向いていた（図）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ボイジャーが光速の２５％のスピードで通過すると（１），本来ならみえないはずのパラボラ・アンテナの面がみえた。</sentence>
+<sentence>これは高速で運動する物体から出た光の経路が傾いてみえる<quote>「光行差現象」</quote>の結果である。</sentence>
+<sentence>走っている電車の窓からみると，垂直に降っている雨が進行方向斜め前方から降ってくるようにみえる。</sentence>
+<sentence>高速で運動すると光でも同じことがおきる。</sentence>
+<sentence>これが光行差現象である。</sentence>
+<sentence>ボイジャーから出た光も傾いて観測者に届くため，本来ならみえないパラボラ・アンテナの面がみえたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに光速の５０％，７５％で通過した場合が（２），（３）である。</sentence>
+<sentence>スピードが光速に近づくにつれてボイジャーの回転ぐあいははげしくなり，ボイジャーの色が赤く変化していく。</sentence>
+<sentence>色の変化は<quote>「光のドップラー効果」</quote>による。</sentence>
+<sentence>近づいてくるサイレンの音は高く聞こえ，遠ざかると低くなる。</sentence>
+<sentence>これが音のドップラー効果である。</sentence>
+<sentence>光の場合も観測者に近づく場合は光の波長が短くなって青くなり，遠ざかる場合は波長がのびて赤くなる。</sentence>
+<sentence>色の変化のようすは，スピードが速いほどはげしい。</sentence>
+<sentence>（３）のボイジャーが赤く変化したのはこの理由による。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ゆがむ原子の世界</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　超高速でミクロの原子の世界を飛行したらどのようにみえるだろうか。</sentence>
+<sentence>原子の結晶構造に似せて，多数の赤い球がつくる<ruby rubyText="こう">格</ruby><ruby rubyText="し">子</ruby>構造があった（１）。</sentence>
+<sentence>この格子に向かって観測者が光速の５０％，９５％，９９％で接近する場合が（２），（３），（４）である。</sentence>
+<sentence>光速の５０％ものスピードで飛行すると，格子の奥行きの長さが長くみえるようになる（２）。</sentence>
+<sentence>これも光行差現象の結果である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この現象は次のように考えるとわかりやすい。</sentence>
+<sentence>格子の奥の球から出る光は，手前の球から出る光より遅れて観測者に届く。</sentence>
+<sentence>高速で飛行していると，この遅れの間に観測者は手前の球にさらに接近する。</sentence>
+<sentence>このためある時刻に手前の球から出た光は，その時刻より前に奥の球を出た光と同時に観測者に届く。</sentence>
+<sentence>つまり奥の球は“過去”の姿がみえているのである。</sentence>
+<sentence>過去の格子は遠くにあったので，格子の<sampling type="end" />奥行きがのびてみえるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

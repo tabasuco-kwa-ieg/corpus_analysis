@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00014" version="1.0" type="fixedLength">
+<article articleID="LBg5_00014_F001">
+<paragraph>
+<sentence>この振動子の上に抗体をつけておくと、抗原が吸着して抗原抗体反応が起こ<sampling type="start" />り、水晶振動子膜の重さが変わる。</sentence>
+<sentence>その結果、周波数が変わり、その変化から抗原抗体反応がどれだけ起こったかを測定することができる。</sentence>
+<sentence>この原理を用いて、病原性の酵母や免疫グロブリンの濃度、さらには免疫グロブリンのサブクラスの一つであるＩｇＧ（胎盤を通じて母体から胎児に移行し、新生児の感染防御にもかかわる免疫グロブリンＧの略称）の濃度などの測定ができる。</sentence>
+<sentence>最近では、カブトガニの血清の凝集反応を利用して、パイロジェンという発熱物質なども同様の原理で測定できるようになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　圧電素子を用いるセンサで注目されている利用法に、麻薬や覚醒剤の検知がある。</sentence>
+<sentence>水晶振動子の上に、コカインなどの抗体をつけておき、麻薬や覚醒剤およびその代謝産物を含む空気や液体をセンサに送り、生じる周波数の変動を測定し、麻薬・覚醒剤の国内持込みを水際で阻止しようというものである。</sentence>
+<sentence>空港などでの麻薬摘発は、麻薬犬に頼っているのが現状であるが、犬は朝から晩まで働いてくれるわけではないし、また、飽きてしまうとまじめに働いてくれなくなる。</sentence>
+<sentence>しかしセンサなら、二四時間フルタイムで働いてくれる。</sentence>
+<sentence>持ち込まれたトランクの中の空気にふれるだけでも検知できるのではないかということで、われわれの実験室で研究している。</sentence>
+<sentence>あと五年もすれば、かなり感度の高いセンサができるのではないかと考えている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">光デバイスを用いる免疫センサ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これは、免疫反応を光反応に置き換えて測定する原理である。</sentence>
+<sentence>すでに述べたように、ルミノールは過酸化水素を混ぜるとペルオキシダーゼなどの触媒で発光する。</sentence>
+<sentence>また、ルシフェラーゼは螢光を発する反応を触媒する。</sentence>
+<sentence>この発光を指標として、免疫分析を行うことができる。</sentence>
+<sentence>ペルオキシダーゼやルシフェラーゼを標識剤として、これらで抗原あるいは抗体を標識し、免疫反応を行わせ、発光量から抗原あるいは抗体の濃度を測定するのである。</sentence>
+<sentence>この方法によって、消化ホルモンの一種であるガストリンや、ＩｇＧその他の計測が行われた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　免疫センサには光ファイバも利用されている。</sentence>
+<sentence>光ファイバの先端に抗原や抗体と標識剤を固定化し、これを血液やサンプルの中に挿入して免疫反応を行わせる。</sentence>
+<sentence>つぎに光あるいは化学物質を加えて発色もしくは発光を行わせると、その結果は光信号としてフォトマルチプライヤーに送られる。</sentence>
+<sentence>この方法では、免疫反応の起こる場所と測定デバイスが離れていてもよいという利点がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このほかにも多くのセンサがある。</sentence>
+<sentence>たとえば、ＦＩＡ（フロー・インジェクション・アナリシス）は分析化学の新しい装置で、試料を流れの中に入れて分<sampling type="end" />析する方法である。</sentence>
+</paragraph>
+</article>
+</sample>

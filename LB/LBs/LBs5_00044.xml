@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00044" version="1.0" type="fixedLength">
+<article articleID="LBs5_00044_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">写真２‐１０　技術棟の試験台に取り付けられた連<sampling type="start" />結締切装置</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ツールボックス</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｔｏｏｌ　Ｂｏｘ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">規制緩和と構造規則</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　かつての運輸省は，規制のやかましいことで有名であった．</sentence>
+<sentence>田舎のバス停を１０ｍ移動するのにも認可が必要であったといわれた程である．</sentence>
+<sentence>ただしそれはいわゆる民間の運輸業者に対する場合であり，以前の国鉄に対してはいわば運輸省と対等の存在だから規制する法令も異なり，大甘だったようである．</sentence>
+<sentence>余談になるが，おかげで民鉄の場合は過去の工事記録などを調べるのに役所へ行けば詳細な書類が残っているが，国鉄関係は記録がなく，鉄道史の研究者は難儀するそうである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本書のテーマである車両のパーツに関しては，かつては，ハード面では<quote>「普通鉄道構造規則」</quote>，ソフト面では<quote>「鉄道運転規則」</quote>（いずれも運輸省令）によりこと細かに規制されていたが，昨今の規制緩和の流れによってこれらが大幅に改正され，安全上よくよく肝心の事項を除き運輸業者の自己管理に任されるようになった．</sentence>
+<sentence>『鉄道六法』の頁数で見ても，上記両省令が合わせて約１３０頁あったのに対して，これらを１本にまとめた現行の<quote>「鉄道に関する技術上の基準を定める省令」</quote>（国土交通省令）ではわずかに１７頁にすぎない．</sentence>
+<sentence>運輸業者ではない単なる法令の<quote>「読者」</quote>にとっては物足りないことおびただしいのである．</sentence>
+<sentence>旧省令ならほとんどのパーツが網羅され，それぞれがどうあらねばならないかが列挙されていたので，事典的な面白さがあったといえる．</sentence>
+<sentence>したがって本書ではあえて廃止された旧省令を引用したケースが多い．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">（本項は必要上，姉妹編の『パーツ別電車観察学』に掲載のものと内容が重複することをお許しいただきたい）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">３章　連結部の幌</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">幌の役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　鉄道車両の<ruby rubyText="ほろ">幌</ruby>（ｖｅｓｔｉｂｕｌｅ　ｄｉａｐｈｒａｇｍ，ｂｅｌｌｏｗｓ）は，車両端部の貫通路を覆う囲いである．</sentence>
+<sentence>連結器やジャンパケーブルなどと同じように，幌の場合も，列車の先頭部と編成内の連結部とでは事情がかなり異なる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　旧・運輸省令である<quote>「普通鉄道構造規則」</quote>ではその第１９３条で<quote>「貫通口および貫通路」</quote>について規定していた．</sentence>
+<sentence>貫通口は車体妻面の開口，貫通路は両側の貫通口間の通路である．</sentence>
+<sentence type="quasi">幌はその４項の四，貫通路の要件のところで，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi">　「旅客が振動，衝撃等により転落又は転倒することなく安全な通行ができるようにほろ，渡り板等を設けること．」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<sentence>とある．</sentence>
+<sentence>車両間の貫通路はもとより，複数の行先の列車が途中まで併結されるような路線においては，先頭部といえども連結によって編成中間となり，貫通路が形成されれば，幌の設置が必要となる．</sentence>
+<sentence>なお，本書では漢字の<quote>「幌」</quote>を用いるが，当用漢字にないためか，法令，ＪＩＳともにひらがな書き<sampling type="end" />である．</sentence>
+</article>
+</sample>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00122" version="1.0" type="fixedLength">
+<article articleID="LBo3_00122_F001">
+<paragraph>
+<sentence>ただし、実際に取引所に注文が出されるのは取引所の開い<sampling type="start" />ている時間になるということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１日の流れと名称（証券取引所にて）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ザラバと寄付・前引・後場寄・大引</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　取引市場は寄付（よりつき）といわれるオープニングセッション（開幕）から始まり、<quote>「ザラバ」</quote>取引が行われ、<quote>「引け」</quote>といわれるクロージングセッション（閉幕）で一区切りとなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　午前中の取引を前場（ぜんば）といい、朝の寄付を一般に<quote>「寄付」</quote>、そして前場のザラバ、朝の終わりを<quote>「前引（ぜんびけ）」</quote>と呼びます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　午後の取引を後場（ごば）といい、後場の寄付を<quote>「後場寄（ごばより）」</quote>、そして後場のザラバ、後場の終わりを<quote>「大引（おおびけ）」</quote>と言います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１日の終わりを指すので引けは引けでも大きいといったところでしょうか。</sentence>
+<sentence>一般に<quote>「引け」</quote>とだけいった場合は後場の引け、つまり大引を指すことが多いようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">出来高</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　出来高とは売買の成立した（出来たと言います）株数のことを言います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　新聞の朝刊などを見ると各証券取引所ごとにそれぞれの銘柄について<quote>「始値・高値・安値・終値・前日比」</quote>のほかに出来高として<quote>「その日１日で売買された株数」</quote>が記載されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　証券会社での取引は株数が１売買単位ごとにまとめられていますから、新聞などに記載される数値は売買単価で記載されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　つまり○○銘柄が１０００株単位で売買されているのだとしたら、出来高のところに<quote>「１」</quote>と書かれていれば売買単位１単位分の取引が１日で行われたことを指します。</sentence>
+<sentence><quote>「出来高１単位」</quote>などという言い方はしませんから、この場合は<quote>「出来高１０００株」</quote>となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例外として、ソニーなど１００株単位で売買されている銘柄は新聞には１０００株を基準に掲載されていますので気をつけてください。</sentence>
+<sentence>たとえば出来高<quote>「５０・１」</quote>などとあれば５０１００株の売買が成立したことを指すことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">出来高はどこをどう見ればいいのか</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">気配値</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　売買は買う側と売る側の注文の折り合うところで成立します。</sentence>
+<sentence>ですから折り合いがつかない場合も結構あります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば１０００円で買いたいという１０００円の指値注文と１１００円で売りたいという１１００円の売り注文が折り合わず（売買が成立せず）そのままになっていることもあるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように<quote>「１０００円でなら買いたい」</quote><quote>「１１００円なら売りたい」</quote>という成立していない注文が出ている時、この価格のことを成立はしていないものの<quote>「いくらで買いたい売りたい」</quote>という気配があるので<quote>「気配値（けはいち）」</quote>とか<quote>「ケハイ」</quote>という言い方をします。</sentence>
+<sentence>先ほどの例をきちんと言えば、<quote>「１１００円の売りケハイ」</quote><quote>「１０００円の買いケハイ」</quote>ということになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　英語では売り気配のことを<quote>「ＡＳＫ（アスク）」</quote>、買い気配のことを<quote>「ＢＩＤ（ビッド）」</quote>と<sampling type="end" />言います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

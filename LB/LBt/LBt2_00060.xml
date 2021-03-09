@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt2_00060" version="1.0" type="fixedLength">
+<article articleID="LBt2_00060_F001">
+<paragraph>
+<sentence>　森博達氏は、『日本書紀』には二つの明確な境界があること（α<sampling type="start" />群…巻十四から巻十九と巻二十四から巻二十七、β群…巻一から巻十二と巻二十二、二十三）、それは<quote>「音韻」</quote>の差であり、漢字音の相違に基づいていることを、まず突き止めている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして、この<quote>「音韻」</quote>の差は、倭音に基づく仮名＝β群、原音（中国音）で直接書かれた仮名＝α群によって作られていたと指摘したのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なぜ二通りの記述方法がとられたかというと、森氏はα群を<quote>「渡来唐人」</quote>が書いたからにほかならないとした。</sentence>
+<sentence>しかもそれは、日本語に<quote>「習熟しない渡来唐人」</quote>であったという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その証拠はいくつも列挙されているが、決定的なのは、<quote>「日本語の濁音を誤って清音の漢字で写している」</quote>ところにあるとする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、『日本書紀』の記述には、純粋な漢文ではない独特の<quote>「倭習（<sentence>和化漢文。</sentence>
+<sentence type="quasi">漢字の使い方に誤用や奇用がある</sentence>
+）」</quote>が認められ、もちろんそれが、日本人の手で漢文が書かれたからにほかならないのだが、その<quote>「倭習」</quote>がβ群に偏在していると森氏は指摘している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">『日本書紀』を新しい観点から解明した３つの研究法</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">具体的に分ってきた『日本書紀』の編者</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　森氏の研究で興味深いのは、『日本書紀』編纂にいたる<quote>「技術的」</quote>な経過を割り出しただけではなく、携わったひとびとを具体的に特定して見せているところである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　森氏は『日本書紀』の記述を、α群、β群、そして巻三十（<sentence>持統天皇紀にあたる。</sentence>
+<sentence type="quasi">この巻だけが特殊で、たとえば<quote>「群臣」</quote>という言葉はα、β、双方に散らばっているが、三十巻に限って、その使用例がなく、<quote>「公卿百寮人」</quote>とある</sentence>
+）の三つに分類し、その中でもα群を記したのは<quote>「日本語が分かっていない渡来一世」</quote>といいきり、逆にβ群を書いた人物は、仏典や仏教漢文の知識はあったかもしれないが、正格漢文を記述するだけの力がなかったと断定している。</sentence>
+<sentence>β群の中にも正格漢文があるが、それは<quote>「引用文」</quote>に限られていたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、誰がα群を、そしてβ群を書いたのだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まずα群の<quote>「唐人」</quote>で、時期的にぴったりと合ってくる人物が二人いる。</sentence>
+<sentence>それが、日本で最初の音博士・<ruby rubyText="しゅく">続</ruby><ruby rubyText="しゅ">守</ruby><ruby rubyText="げん">言</ruby>と<ruby rubyText="さつ">薩</ruby><ruby rubyText="こう">弘</ruby><ruby rubyText="かく">恪</ruby>（持統天皇紀五年九月四日条に音博士の記述がある）である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　薩弘恪がなぜ日本にやってきたのかははっきりとは分からない。</sentence>
+<sentence>これに対して続守言は、<ruby rubyText="はく">白</ruby><ruby rubyText="そん">村</ruby><ruby rubyText="こう">江</ruby>の戦い（六六三）の三年ほど前（つまり六六〇）、唐と<ruby rubyText="しら">新</ruby><ruby rubyText="ぎ">羅</ruby>の連合軍と<ruby rubyText="くだら">百済</ruby>の戦闘のさなかに百済側に囚われの身となり、斉明七年（六六一）、日本に送られてきたという経歴の持ち主だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　続守言と薩弘恪の二人は、こののち<ruby rubyText="きよ">浄</ruby><ruby rubyText="み">御</ruby><ruby rubyText="はら">原</ruby>律令の編纂に功績があった微証があり、さらに薩弘恪は、<ruby rubyText="たい">大</ruby><ruby rubyText="ほう">宝</ruby>律令編纂に参画している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、持統五年（六九一）八月十三日、歴史編纂のための基礎資料とするためであろう、各豪族らの墓記が朝廷に集められたという<sampling type="end" />記事があり、その二十一日後に、続守言と薩弘恪に音博士の肩書きが与えられたとある。</sentence>
+</paragraph>
+</article>
+</sample>

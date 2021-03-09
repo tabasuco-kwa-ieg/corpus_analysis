@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc5_00019" version="1.0" type="fixedLength">
+<article articleID="LBc5_00019_F001">
+<paragraph>
+<sentence>基本的には、スピーカー・システムを後ろの壁に近づけるほど低域のエネルギーが増えるはずであるが、材料によっては逆の影<sampling type="start" />響を受けることもあるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　部屋のどの面においても、反射する部分と吸収される部分がある。</sentence>
+<sentence>反射は入射角とは別の角度で輻射していくが、吸収するエネルギーは、その物体を動かしてロスしていくわけである。</sentence>
+<sentence>ロスしている部分が少ないと、その物体の表面の振動も小さくてすむが、大きくなると、固有の振動を起こして輻射するわけである。</sentence>
+<sentence>これは入射角とは関係なく、その物体の振動面の直角方向に輻射するのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ブロックの違いを聴き比べる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　重量ブロックを対策する前と後で音がどう変わったか、聴き比べてみた。</sentence>
+<sentence>対策する前は、ライブな感じで明るくなり、バランスが高域の方に引っ張られる。</sentence>
+<sentence>それに対して対策済のブロックは、細かい部分の切れ込みが良く分かり、高低のバランスもよくとれて、音に安定感が出てきた。</sentence>
+<sentence>グレードがだいぶ違って聴こえる。</sentence>
+<sentence>質感、音像の音色、存在感が違うなど、再生の基本的な能力に差が出てくるようだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>１　重量ブロックを裸のままセッティングして試聴する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　ブロックの中に砂を入れて、回りをブチルゴム・テープで対策したものに変えての試聴。</sentence>
+<sentence>全体に音が安定して、グレードが上がってきた。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>１　加工前の重量ブロックで試聴。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>２　加工後の重量ブロック。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">←　ブロック台の積み方による音の違い</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スピーカー台は、一般的にはブロックを使うことが多い。</sentence>
+<sentence>ここでは先に製作した対策済のブロックを使って、その使いこなしを実験してみたい。</sentence>
+<sentence>まず、ブロックの積み方により、低音域の量感が変わってくることを知ることである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　スピーカー・システムは、バッフル板上の交点が聴く人の胸の位置にくるようにすればよい。</sentence>
+<sentence>それはスピーカー・システムの大きさによっても違ってくるが、椅子に腰掛けて聴く場合は、ブロック１段積みだけでは低いので、２段積みの方法を記す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>３　２段ともスピーカー・システムに対して、直角方向に積む。</sentence>
+<sentence>これは、バッフル面が床面になるべくつながらないような置き方。</sentence>
+<sentence>ブロック間の隙間の調整でバッフル効果が変わってくる。</sentence>
+<sentence>つまり、間を開ければ低域が出にくくなり、狭くすれば低域の量は増えてくる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　上の段のブロックを平行に積み、下の段を直角に積む方法。</sentence>
+<sentence>バッフル効果が出て、<enclosedCharacter description="○">３</enclosedCharacter>より低域の量が増す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>５　上の段を直角方向に積み、下の段を平行に積む。</sentence>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>とは上下反対の積み方である。</sentence>
+<sentence>上のブロックがスピーカー・システムのバッフル面につながるので、<enclosedCharacter description="○">４</enclosedCharacter>よりさらに低域の量は多くなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>６　上下とも平行に積む。</sentence>
+<sentence>これは、バッフル効果が一番あり、床面にもつながってくるので、低域の量は一番増してくる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>７　ブロックの隙間の違いによる音の違い。</sentence>
+<sentence>ブロックの間をいっぱい<sampling type="end" />に開けると、バッフル効果は少なく、低域の量感は減る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

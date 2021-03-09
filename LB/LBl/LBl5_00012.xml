@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00012" version="1.0" type="fixedLength">
+<article articleID="LBl5_00012_F001">
+<paragraph>
+<sentence>充電<sampling type="start" />中のバッテリーの内部では放電によって硫酸鉛に変化した陽極板と陰極板のうち，陽極板は過酸化鉛，陰極板は海綿状鉛にそれぞれもどる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このとき，電解液は極板の化学変化にともない，極板から放出された硫酸分により水が減少し，濃度が濃くなり比重が回復する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，このときの化学反応は放電と逆になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにして，バッテリーは充電装置と組み合わせて使用することにより，放電，充電を繰り返して適正な電解液の比重を保ち，安定した電源電圧を供給することができる。</sentence>
+<sentence>つまり，比重はバッテリーの充電量を表わす目やすとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（注）比重とは，物質の重さが同じ容量の水の重さの何倍にあたるかを示す数値をいう。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　バッテリーの電解液は，２０°における比重１．２６〜１．２９のものを使している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">（５）　バッテリーの自己放電</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　バッテリーは充電されることにより電気エネルギーを蓄えられるが，この状態で長い時間放置しておくと，負荷に電流を流さなくても自然に蓄えていた電気を失っていく。</sentence>
+<sentence>これをバッテリーの自己放電という。</sentence>
+<sentence>自己放電が起きる原因をいくつか以下に示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>・陰極板の海綿状鉛が電解液の希硫酸と直接反応し，しだいに硫酸鉛となる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・電解液や極板各部の温度差や濃度差によって起きる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・バッテリー内の陽極板の接触による内部短絡（ショート）によって起きる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また，バッテリーの自己放電は，温度に左右され，温度が高くなるほど自己放電量は多くなる。</sentence>
+<sentence>したがって，長時間バッテリーを使用しないときは，風通しの良い日陰で温度が低い場所に保管すると良い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（６）　ＭＦバッテリー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　鉛蓄電池は従来電解液の漏液，酸霧の発生による他の機器装置の腐食や，衣類や皮膚等の損傷，さらに蓄電池に対する補水の必要性，放電中の自己放電の促進による電池の急激な劣化等，使用者にとってきわめて厄介視される欠点がある。</sentence>
+<sentence>そこでこれらの欠点を改良したＭＦバッテリー（Ｍａｉｎｔｅｎａｎｃｅ　Ｆｒｅｅ）という密閉型電池が使用されはじめている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以下ＭＦバッテリーの特長を示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>・液の補充が不要である。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・自己放電が少なく，保存性に優れている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">（７）　バッテリーの規格</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　バッテリーの仕様を表わす型式記号及び容量の表示は，ＪＩＳにより規格化されている。</sentence>
+<sentence>この規格は，昭和５７年１１月に変更された。</sentence>
+<sentence type="quasi">（従来から継続生産しているものは，従来規格を用いているものがある。）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅰ　バッテリーの型式</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　市販のバッテリーに表示されている型式記号のつけ方は，図３‐２２のような意味がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐２２　バッテリー規格の表示</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅱ　バッテリーの容量</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　バッテリーの放電能力は容量で表わされる。</sentence>
+<sentence>新ＪＩＳ規格では市販のバッテリー<sampling type="end" />の容量を５時間率容量というもので表わし，放電中の端子電圧が放電終止電圧（バッテリーが起電力を供給する上で，これ以上放電してはならないという一定の限界電圧）に達するまで，どのくらい放電できるかを５時間を基準として示す。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh3_00088" version="1.0" type="fixedLength">
+<article articleID="LBh3_00088_F001">
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi">　「二　その小法廷の裁判官の意見が二説に分れ、その説が<sampling type="start" />各〻同数の場合</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　三　大法廷で裁判することを相当と認めた場合」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">下級裁判所</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　下級裁判所は、<quote>「法律の定めるところにより設置」</quote>されるべきものであるが、現行の裁判所法は、次の四種を設置している（一五条以下）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（１）　高等裁判所</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　高等裁判所長官および相応な員数の判事によって構成される（ただし、現在、特例法が判事補も判事の職務を行いうるとする）。</sentence>
+<sentence>事件は裁判官の合議体で取り扱われ、その員数は原則として三人である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">（２）　地方裁判所</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　相応な員数の判事および判事補で構成される。</sentence>
+<sentence>事件はふつう一人の裁判官で取り扱われるが、特定の場合（法二六条二項）には、三人の裁判官の合議体で取り扱われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">（３）　家庭裁判所</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　相応な員数の判事および判事補によって構成される。</sentence>
+<sentence>その審判または裁判は、一人の裁判官で行われるのが原則で、特定の場合（例、刑事訴訟法二三条・家事審判法四条）には、三人の裁判官の合議体で取り扱われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">（４）　簡易裁判所</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　相応な員数の簡易裁判所判事がおかれ、事件は一人の裁判官で取り扱われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<paragraph>
+<sentence type="quasi">　憲法は、これらの下級裁判所の裁判官の任命および任期について、いわく、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「下級裁判所の裁判官は、最高裁判所の指名した者の名簿によって、内閣でこれを任命する。</sentence>
+<sentence>その裁判官は、任期を十年とし、再任されることができる。</sentence>
+<sentence>但し、法律の定める年齢に達した時には退官する。」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+<source>
+<sentence type="quasi">（八〇条一項）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　裁判所法は、下級裁判所の裁判官を、高等裁判所長官・判事・判事補・簡易裁判所判事の四種に分けている（四〇条）が、憲法の規定にいう内閣による<quote>「任命」</quote>とは、これらのいずれかの身分に任ずることで、いわゆる補職まで含むものではない。</sentence>
+<sentence>すなわち、勤務にかかわる具体的な人事行政については、裁判所法によって、<quote>「下級裁判所の裁判官の職は、最高裁判所がこれを補する」</quote>（四七条）とされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、裁判官の職務は特別の法律的素養と品位を必要とするから、裁判所法は、これらを資格要件（四二条〜四五条）および欠格事由（四六条）という形で規定している。</sentence>
+<sentence>そして、高等裁判所長官・判事・判事補の退官の定年は満六五年、簡易裁判所判事のそれを七〇年としている（五〇条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">裁判管轄</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　下級裁判所が<quote>「法律の定めるところにより設置」</quote>されるとは、右に述べたような種類のみならず、審級制度や裁判管轄もまた、法律によって定められるべきことを意味する（最大判昭二三・三・一〇）。</sentence>
+<sentence>現在、裁判所法は、次のような管轄・審級を定めていて（一六条・二四条・三一条の三・三三条）、他の法律に特別の定めがないかぎり、これによって事件が処理される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　最高裁判所が最高の審級を担当するということは、すべての事件の上告審が最高裁判所の管轄とされるべきことを意味しない。</sentence>
+<sentence>また、すべての事件に<sampling type="end" />対して上告審までの道を開くかどうかは、立法政策の問題で（最大判昭二五・九・一八）、現行の訴訟法はこれを制限している（民事訴訟法三九四条、刑事訴訟法四〇五条・四〇六条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm3_00065" version="1.0" type="fixedLength">
+<article articleID="LBm3_00065_F001">
+<paragraph>
+<sentence>すでにＢＳデータ放送では、ＳＤＡＢがＢＳチューナーと家庭用ゲーム機および専用アダプターを接続した受信機を用いた、ゲーム関連情報等の放送の事業を平成７年４月から開始しており、ＣＳデータ放<sampling type="start" />送では株式会社ジパング・アンド・スカイコミュニケーションズが、平成７年１２月にパーソナルコンピュータ向けにソフトウェアや通信販売用カタログ等の放送を開始したが、より柔軟な番組内容を実現するためには、１つのデータ群の中に文字、静止画等の複数種類の情報を組み合わせることが必要だった。</sentence>
+<sentence>そこで、平成７年６月に電気通信技術審議会から<quote>「１２．５から１２．７５ギガヘルツを使用する衛星放送に関する技術的条件」</quote>のうちデータ放送の技術的条件（複合データ信号）についての一部答申と<quote>「放送衛星によるデータ放送に関する技術的条件」</quote>のうち複合データ信号の技術的条件についての答申が出され、この方式による衛星データ放送の技術的条件が固まった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、衛星データ放送を活用した多様な放送サービスの事業化を可能とするためには、多様な受信機に対応できる送信方式の確立が不可欠である。</sentence>
+<sentence>そのため郵政省は、平成７年度第一次補正予算により通信・放送機構に出資し、同機構は衛星データ放送関連企業と共同で、多機能な情報機器での受信を可能とする衛星データ放送の送信方式の開発を行うとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◎地上データ放送：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　データ多重放送は、デジタル情報により、音響、文字、図形等多様なサービスの提供を可能とし、そのうえ、対話型（インタラクティブ）の情報提供機能が実現でき、放送全体のマルチメディア化の先駆的サービスとして期待されている。</sentence>
+<sentence>平成７年１１月、電気通信技術審議会から<quote>「地上データ放送の技術的条件」</quote>のうち、地上系テレビジョン放送の垂直帰線消去期間を利用した地上データ放送（ＶＢＩ方式）の技術的条件について、一部答申が出され平成８年３月、データ多重放送を地上放送に導入するための制度改正が行われた。</sentence>
+<sentence>また、この地上データ放送を活用して提供できるサービスの中で、事業化の期待が大きい電子新聞放送について、郵政省は平成７年１０月から<quote>「電子新聞放送の将来動向等の調査に関する連絡会」</quote>を開催している。</sentence>
+<sentence>ここでは、電子新聞放送に関する利用者ニーズ、将来需要と社会的インパクト、円滑な導入のために考慮すべき事項等の調査をしており、平成８年６月に最終的な報告が出された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●放送のデジタル化の推進</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　放送のデジタル化に関して、諸外国とＩＴＵで、標準化の動きが活発化してきている。</sentence>
+<sentence>このため郵政省では、平成６年６月、電気通信技術審議会に対し<quote>「デジタル放送方式にかかる技術的条件」</quote>について諮問を行い、地上放送、衛星放送とＣＡＴＶの各放送メディアのデジタル放送方式についてメディア横断的、総合的に検討を行っている。</sentence>
+<sentence>平成７年７月に<sampling type="end" />は、衛星放送を利用した衛星デジタル多チャンネル放送方式の技術的条件について答申が出された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

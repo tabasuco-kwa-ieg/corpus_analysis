@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr4_00059" version="1.0" type="fixedLength">
+<article articleID="LBr4_00059_F001">
+<paragraph>
+<sentence>少し<sampling type="start" />長くなるが『わが人生の書』から引用しておこう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「私は季節ごとに周期的に不眠症にかかり，不眠は８日間続く．</sentence>
+<sentence>そのおかげで毎年まる１ヵ月を無駄にするわけだ．</sentence>
+<sentence>それより短いこともあるが，ときには２ヵ月にも及ぶことがある．</sentence>
+<sentence>これを治すために，固形食を控えたり，食物の総量は減らさずに質を落とすよう気を配っているが不眠症にかからない年はない．」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「１０時間は寝床のなかにいるが，睡眠時間は健康なときで８時間，調子の悪いときで４〜５時間である．</sentence>
+<sentence>日の出の２時間後に起床する．</sentence>
+<sentence>不眠症にかかっているときには，起き上がって１０００まで何度も数を数えながらベッドのまわりを歩きまわった．</sentence>
+<sentence>さらに断食をしたり，食物を半分以下に減らすなどした．</sentence>
+<sentence>薬はほとんど用いなかったが，例外はポプラの膏薬，熊の脂肪，ヒツジグサの香油で，それらを体の１７ヵ所に塗った．</sentence>
+<sentence>すなわち腿，足の裏，襟首，ひじ，手首，こめかみ，頸動脈のすじ，心臓および肝臓の周辺，上唇である．」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">３次方程式を解く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　カルダーノが数学者として活躍したのは，１５３４年にミラノ大学で数学を講義していた間のことで，論文は１５３９年から１５５０年にかけて公表している．</sentence>
+<sentence>なかでももっとも重要な著作が，１５４５年に出版された『大技術，もしくは代数学の規則について』，通称『アルス・マグナ』だ．</sentence>
+<sentence>いわゆる<quote>「カルダーノの公式」</quote>も，<quote>「物の立方といくつかの物との和が，ある数に等しいことについて」</quote>と題された，この本の第１１章に掲載されている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし，この章タイトルの表現からもわかるように，当時はまだ，文字による便利な数式の表記法はなかった．</sentence>
+<sentence>数式は全部ふつうの言葉で書かれていたのであり，いわゆる公式も実際には，公式として記されていたわけではない．</sentence>
+<sentence>しかし，それではあまりに煩雑になりすぎるので，以下では現代的な表記法を採用する．</sentence>
+<sentence type="quasi">（今後も同じ方針をとるが，いちいち断わらない．）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて，問題のカルダーノの公式だが，これを紹介するにあたってカルダーノは，以下のような長い断わり書きを書いている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「ボローニァのシピオーネ・デル・フェルロはこの章で述べる方法［３次方程式の解の公式］を３０年ほど前に発明し，ヴェネツィアのアントニオ・マリア・フロリドに教えた．</sentence>
+<sentence>このフロリドは，ブレシアのニッコロ・タルターリアと討論したこともあるが，ニッコロもまたその方法を発見していたと述べていた．</sentence>
+<sentence>それで，私がニッコロに教えを乞うたとき，教えてくれたのではあるが，証明は省かれていた．</sentence>
+<sentence>それで，教えてもらったものをもとにして，証明を求め，たいへんな骨折りをしたあげく，私はそれを見つけた．</sentence>
+<sentence>これから述べるものがそれである．」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　これはあくまでカ<sampling type="end" />ルダーノ側の言い分で，実はここからカルダーノ対タルターリアのドタバタ・コメディが始まるのだが，その話へ入る前に，彼らが発見した解の公式を，現代風の表記で示しておこう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

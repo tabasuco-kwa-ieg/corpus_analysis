@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt4_00006" version="1.0" type="fixedLength">
+<article articleID="LBt4_00006_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　円のなかにストローの入る<sampling type="start" />あなを千枚通しで２つあける。</sentence>
+<sentence>あなのあいだは１５ｍｍ位はなす。</sentence>
+<sentence type="quasi">（図３）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　カッターで円を切りとる。</sentence>
+<sentence>厚みがあるので、カッターの刃を内側にたおすようにすると、垂直に切りはなせる。</sentence>
+<sentence type="quasi">（接着のとき都合がよい）（図４）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　あなにあわせてストローの２か所にカッターで切りこみを入れる。</sentence>
+<sentence>切りはなしてしまわない。</sentence>
+<sentence type="quasi">（図５）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>　ストローをあなにはめこみ、とび出したストローの長さを切りそろえる。</sentence>
+<sentence>両面からあなのまわりに接着剤をぬり、すきまができないようにふさぐ。</sentence>
+<sentence type="quasi">（図６）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">７</enclosedCharacter>　円のまわりに、接着剤をたっぷりつけ、コップの底のくびれ部分まではめこむ。</sentence>
+<sentence type="quasi">（図７）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">８</enclosedCharacter>　接着剤が乾いたら、まわりをセロハンテープでとめる。</sentence>
+<sentence>はみだしたテープは、たてに切りこみを入れ、スチロール板にはる。</sentence>
+<sentence type="quasi">（図８）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">９</enclosedCharacter>　ストローにゴム管をはめ、上からセロハンテープをかける。</sentence>
+<sentence>ゴム管の耳にあたる部分には、ティッシュペーパーをまき、のりでとめる。</sentence>
+<sentence type="quasi">（図９）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>※乾くのに時間がかかりますが、接着剤は空気もれを防ぐため、たっぷりつけるとよい。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">体の中の音をきこう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「自分で作った聴診器で、体の中の音をきいてみましょう。</sentence>
+<sentence>どんな音がきこえるかな？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　自分で作った聴診器から本当に音がきこえるのだろうかと、不安げにゴム管の先を耳にいれます。</sentence>
+<sentence>ほとんどの子が、まず胸に聴診器をあてます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「わあ、ドキンドキンいってる」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、シャツの上からでもはっきりきこえる音に感嘆の声があがります。</sentence>
+<sentence>うまくきこえないという子の聴診器は、空気のもれはないか、耳にきちんとゴム管がはいっているかをチェックします。</sentence>
+<sentence>友だちや大人の人の胸の音もきかせてもらいましょう。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ドキンドキンときこえるのは何の音？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「しんぞう…」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「みんなよく知っているね。</sentence>
+<sentence>ドキンドキンきこえる音は、心臓が動いている音で、鼓動っていうんだよ。</sentence>
+<sentence>心臓は休みなく動いて、体中に血液を送っているんだよ。</sentence>
+<sentence>みんなの体の中はどんなふうになっているんだろうね？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、『人体絵本』（ポプラ社）を使って、心臓、肺、胃、腸などの位置を確かめます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>１分間にきこえる心臓の音は何回？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　秒針のついた時計を用意し、１分間に何回鼓動がきこえるか数えてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「１０２回」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ぼくは９０回」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、人によって違った数字がでてきます。</sentence>
+<sentence>大人の人にも数えてもらうと、７５回前後で、子どもより鼓動が少ないことがわかります。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「１分間の鼓動の数はいつもいっしょかな？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「寝てる時は、ずっと少ないと思うな」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「体育の時走った後、ハアハア、ドキドキしんぞうがはやくうってたよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「びっくりした時も、しんぞうドキドキだよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、いろいろな経験がはなされます。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「運動をした後の鼓動の数はどうなるかな？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　２分間走ったり、階段を上り下りした後、鼓動数を数えてみます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「わたし<sampling type="end" />は１００回が１３０回」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

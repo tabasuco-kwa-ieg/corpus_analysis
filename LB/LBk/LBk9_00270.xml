@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk9_00270" version="1.0" type="fixedLength">
+<article articleID="LBk9_00270_F001">
+<paragraph>
+<sentence>　無言でしばらく飲ん<sampling type="start" />だ。</sentence>
+<sentence>口を切ったのは植松だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「ひとつどうしても訊いておきたいことがある」</quote>植松がじっとグラスを見つめている。</sentence>
+<sentence type="quasi"><quote>「おまえ、拳銃はどうした？」</quote></sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「拳銃？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　虚をつかれた。</sentence>
+<sentence>植松は知っていたというのか。</sentence>
+<sentence>伊勢は内心の動揺を隠すように植松の目をうかがった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ああ、拳銃だ。</sentence>
+<sentence>ここは俺の地元の町だぞ。</sentence>
+<sentence>ガキのころから町の隅々まで知っている。</sentence>
+<sentence>それに顔の繋がりもある。</sentence>
+<sentence type="quasi">もっとも、そのことを知ったのは、ごく最近のことだがな」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　あの頃は町が活気に溢れていた。</sentence>
+<sentence>いたるところにバーや飲み屋が氾濫していた。</sentence>
+<sentence>外洋帰りの漁師、それに各地から正体不明の者が多数盛り場にたむろしていた。</sentence>
+<sentence>伊勢は植松に内緒で、港近くのそんな店の一軒に出入りしていた。</sentence>
+<sentence>拳銃を手に入れるためにだ。</sentence>
+<sentence>一か月ほど経ったころ、顔なじみになった漁師の一人に声をかけられた。</sentence>
+<sentence>博打の借金で首が回らなくなり、町を出るという。</sentence>
+<sentence>持ちかけられたのは、そいつの持っているという拳銃の売り先についてだった。</sentence>
+<sentence>渡りに舟だった。</sentence>
+<sentence>拳銃を入手してもその当人が町を出てしまえば、秘密を保てる。</sentence>
+<sentence>売り先を探してやるという口実で話を伏せるよう、男に約束させた。</sentence>
+<sentence>一週間後に伊勢は男から拳銃を手に入れた。</sentence>
+<sentence>船舶修理工場で働いて貯めた半年分の金だった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「沖本を知ってるな」</quote>植松が伊勢の視線を外し、酒を口にした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そうだ―。</sentence>
+<sentence>確かにあの漁師は沖本とか名乗っていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「やつはいっとき、町から消えた。</sentence>
+<sentence>だが、ほんの数か月前にまた戻ってきた。</sentence>
+<sentence>人間、年をとると、生まれ育ったところをそう離れて暮らせるものじゃない。</sentence>
+<sentence>やつが、おまえを訪ねてきた。</sentence>
+<sentence>あんなやつとおまえが知り合いだというのがどうも腑に落ちなくてな。</sentence>
+<sentence>ちょっと脅しを入れてみたら、簡単に吐いたよ。</sentence>
+<sentence type="quasi">叩けば埃の出るやつだ、その筋を一番恐れているからな」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「…」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　植松は空のグラスに酒を継ぎ足した。</sentence>
+<sentence>そして、一口含むと、何事もないかのような視線を伊勢に戻すと言った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「おまえが店で働きたいと言ってきた時、俺はすぐに調べたよ。</sentence>
+<sentence>こんなちっぽけな町だ。</sentence>
+<sentence>そんなことはすぐにわかる。</sentence>
+<sentence>おまえのどこか投げやりな態度が気になったからだ。</sentence>
+<sentence>確かにあの時のおまえはこの世の中のすべてに対して興味が失せたとでもいうような雰囲気があった。</sentence>
+<sentence>まだ若いのにな。</sentence>
+<sentence>それもいいだろう。</sentence>
+<sentence>そんな気持ちがわからぬじゃない。</sentence>
+<sentence type="quasi">俺が勤め人を辞めてこの町に戻ってきたのも似たようなものだ</sentence>
+」</quote>植松が初めて口元に笑みを浮かべると、つづけた。</sentence>
+<sentence type="quasi"><quote><sentence>「だがな、店を辞めて佐々木の元に行くと言いだした時のおまえは、初めて店に顔を出したあのころのおまえとはまた違っていた。</sentence>
+<sentence>なんというのかな、世の中のことに興味が失せたというより、もっと陰惨なものを感じたよ<sampling type="end" />。</sentence>
+<sentence>やけっぱちというか、切れた、というか、なんかそんな印象を受けたもんだ。</sentence>
+<sentence type="quasi">今考えてみると、そんな兆候ってのは、ちょうどおまえが沖本から拳銃を手にした時期と合致している」</sentence>
+</quote></sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

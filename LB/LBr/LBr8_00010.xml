@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr8_00010" version="1.0" type="fixedLength">
+<article articleID="LBr8_00010_F001">
+<paragraph>
+<sentence>　そのほか，関東地方，瀬戸内海地方などの地方単位や，県・市・町・村単位，ま<sampling type="start" />た，県境地帯や河川流域の方言地図も多数作られています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図４　ありがとう</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（『方言文法全国地図』第５集第２７０図より，大西拓一郎作成）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●方言談話資料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　会話の音声を録音し，それを文字にしたものを<quote>「談話資料」</quote>といいます。</sentence>
+<sentence>日常的な自然な談話や，インタビュー，場面を設定して演技をしてもらった会話など，いろいろな内容のものがあります（→解説３）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　談話にはその土地の方言の特徴がよく現れます（→解説４）。</sentence>
+<sentence>関西では，<quote>「行かなかった」</quote>（否定の過去）と言うとき，<quote>「イカナンダ」</quote>のように，〜ナンダを用いるのが伝統的な言い方です（→コラム２）。</sentence>
+<sentence>関西の年配の人の会話から〜ナンダの使用例を抜き出してみましょう<noteMarker text="（注１）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（注１）『全国方言談話データベース　日本のふるさとことば集成』より。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image no="1" description="年配男性" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+
+　それから　一番　成績が　あかなんだらね（だめだったらね）　<quote>「おまえ　ベベタやなあ」</quote>　と言う。<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image no="2" description="年配女性" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうでんなあ　わたしの　母なんか　半年　<ruby rubyText="げ">下</ruby><ruby rubyText="た">駄</ruby>　履かなんだ（履かなかった）　ゆうとき　ありましたですわ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　一方，関西の若者の会話では，〜ナンダがまったく使われていません。</sentence>
+<sentence>そのかわりに，〜ヘンカッタ・〜ンカッタが現れています<noteMarker text="（注２）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（注２）真田信治ほか『関西・若年層における談話データ集』（１９９９年，科学研究費報告書）より。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image no="3" description="若者男性１" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+
+　おれ　結局　１年間　乗らへんかった（乗らなかった）けどなあ。<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><image no="4" description="若者男性２" /></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それだけは　食わんかった（食わなかった）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　年配の人の談話と若者の談話を比べることによって，ことばの変化が見えてきます。</sentence>
+<sentence>〜ナンダは，かつて関西の中心部ではよく使われていましたが，最近の関西の若者は使わなくなってきています（→コラム４）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全国規模の方言談話資料には，次のようなものがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『ＣＤ‐ＲＯＭ版　全国方言資料』ＣＤ‐ＲＯＭ・小冊子付（１９９９年，日本放送出版協会）は，ＮＨＫが１９５２年から約２０年をかけて録音した方言会話の音声とその文字化を収録したＣＤ‐ＲＯＭです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　国立国語研究所編『方言談話資料』カセットテープ付全１０冊（１９７８〜１９８７年，秀英出版（大日本図書扱い））は，１９７４年から１９７６年にかけて収録した方言の談話の音声とその文字化です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　国立国語研究所編『全国方言談話データベース　日本のふるさとことば集成』ＣＤ・ＣＤ‐ＲＯＭ付　全２０巻（２００１年〜刊行中，国書刊行会）は，１９７７年度から１９８５年度にかけて行われた，文化庁の方言談話収録事業<quote>「各地方言収集緊急調査」</quote>を原資料としています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">調べてみよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日常の会話を記録したもののほかにも，民話や昔話を方言で語ったものもあります。</sentence>
+<sentence>自分のことばと違っているところを抜き出して比較してみるというのはどうでしょう。</sentence>
+<sentence>また，くつろいで話しているときの会話を録音してみましょう。</sentence>
+<sentence>改めて聞き直し，文字にしてみると，ふだんの<sampling type="end" />ことばづかいの特徴がわかってきます。</sentence>
+</paragraph>
+</article>
+</sample>

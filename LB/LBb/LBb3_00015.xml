@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb3_00015" version="1.0" type="fixedLength">
+<article articleID="LBb3_00015_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">―立退交<sampling type="start" />渉と補償の考え方―</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一　地上げと借家人</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●借家人の態様</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ある特定の区域、ないし場所を地上げする場合、地主や借地人の権利を買収するのとは違い、地主や借地人の持っている家屋を借りている借家人（アパート、ビル等の事務所の借主も含む）を立ち退かせる問題がある。</sentence>
+<sentence>最近、都心部の地上げにこのことがクローズアップされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この問題を考える場合に、次のことが考慮されなければならない。</sentence>
+<sentence>それは、一軒家のような独立家屋を借りているか、アパートのような一室を借りているか、また、それは家族持ちか、単身であるか、という問題はもちろんだが、借家の使用状態が重要で、それぞれの使用状態に応じてキメの細かな対応が必要になってくる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　借家人の態様をみると、大きく分けて、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　専ら住居として使用している</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　生業的な営業（たとえば、魚屋とか八百屋のように地域と密着した商売）の店舗と住居が一緒になっている</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　専ら営業のために（たとえば、貸ビルの一室を事務所あるいは貸店舗）使っている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　この三通りがあるが、<enclosedCharacter description="○">１</enclosedCharacter>の場合も、定着型の借家人と非定着型の借家人がある。</sentence>
+<sentence>非定着型の借家人とは、最近のマンションやアパート等（ワンルームマンションなど典型的といえる）の借家人である。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>の場合も、純粋に資本効率だけを考えて借りている者と、零細な生業型の者とでは異なる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これを図で示すと右のようになるが、それぞれの対応は、右上に挙げた使用状態によって異なることを認識する必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　借家法によって借家人が手厚く保護されていることは常識だが、借家法は、その成立の経緯から、いわゆる木造一戸建の住居としての借家関係を頭に置いてつくられたもので、現在では、借家の態様もさまざまである。</sentence>
+<sentence>その多様性故に問題が生じている。</sentence>
+<sentence>そのもっとも重要な点は、居住用の建物と営業用の建物の借家関係が、借家法によって同一に保護されるべきかという問題である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　外国法では、居住用建物と営業用建物とは明確に区別され、適用される法が異なっているといわれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国でも、この相異が認識されてきていて、明渡裁判において、いわゆる正当事由の判断に実質的には異なる判断基準が適用されてきている。</sentence>
+<sentence>そうした流れから『借地、借家法改正に関する問題点』（法務省民事局参事官室）においても、居住用の賃貸借とそれ以外の賃貸借とに区分する必要があるかどうかを検討事項としているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●立退交渉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　地上げの場合、借家人の立退交渉は誰がその責任においてやるのかの問題がある。</sentence>
+<sentence>地主なり借地人なりが、その所有する家屋の借家人に対し立退交渉をする場合と、地上げ側でやる場合がある。</sentence>
+<sentence>また、その<sampling type="end" />混合という場合もあるだろう。</sentence>
+</paragraph>
+</article>
+</sample>

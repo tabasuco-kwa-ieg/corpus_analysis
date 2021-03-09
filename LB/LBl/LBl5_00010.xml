@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00010" version="1.0" type="fixedLength">
+<article articleID="LBl5_00010_F001">
+<paragraph>
+<sentence>　三〇分ほどそのまま放置し、すしがしまってきた<sampling type="start" />ところで型から出し、食べやすい大きさに切って食する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●野沢菜の塩漬けのおにぎり</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方（２人分）〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<paragraph>
+<sentence>　炊きあがった白米を四等分に分け、軽くむすびを作り、塩漬けの野沢菜のよく絞ったもので、ご飯を包み込む。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">玉ねぎの仲間達の漬けもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　玉ねぎ…塩漬け／甘酢漬け</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　小玉ねぎ…塩漬け／甘酢漬け／醤油漬け／オイル漬け</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　エシャロット・らっきょう…塩漬け／甘酢漬け／たまり漬け</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　ユリ科ねぎ属の玉ねぎは、中央アジアの原産であるが、紀元前に南ヨーロッパに伝わると、いち早く欧米諸国に広まり、現在では料理に欠かせない素材として、アメリカ、中国の生産地をはじめ全世界で食されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本での本格的栽培は明治以降であるが、北海道、関西地方で主に生産されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユリ科の多年草エシャロットは、生食を目的とした野菜で、らっきょうの一種を若いうちに収穫し、葉付きのまま売られているものだ。</sentence>
+<sentence>同名の香味野菜エシャロットとは異なる種類のものである。</sentence>
+<sentence>また、昔から酢漬けのらっきょうは、常備食として梅干と並んで親しまれてきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【玉ねぎ（大玉赤・白共通）の漬けもの】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●塩漬け</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　玉ねぎは洗ってふたつに割り、薄くスライスして塩をふる。</sentence>
+<sentence>一時間ほど置き、絞って食す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●甘酢漬け（酢漬け液（甘酢）４８頁Ｎｏ．１）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　器に塩漬けの玉ねぎ（前項参照）を入れ、うえから甘酢をかけ、一時間経ったら食べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【小玉ねぎの漬けもの】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●塩漬け</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　皮をむいた小玉ねぎに塩とリキュールをふりかけ、一日置いて食べる。</sentence>
+<sentence>ときどきゆするとよい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●醤油漬け（醤油液６５頁Ｎｏ．３）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　小玉ねぎは軽く塩をして一昼夜置いたものを醤油液に漬け込む。</sentence>
+<sentence>カリカリの風味を楽しみたい方は、塩に漬けず、そのまま液に入れる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●オイル漬け</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｗ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　小玉ねぎは塩をして一昼夜放置し、水気を取ってオイル漬け液に漬ける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【エシャロット・らっきょうの漬けもの】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●塩漬け</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　らっきょうは葉の部分を取り除き、水でよく泥を洗い流す。</sentence>
+<sentence>根を切って水気を拭いたら容器に入れ、塩と好みでリキュールをまぶす。</sentence>
+<sentence>軽く重石をして水があがったら取り出してそのまま食べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●甘酢漬け（酢漬け液（甘酢）４８頁Ｎｏ．２）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｍ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　水があがった塩漬けのらっきょう（前項参照）をよく水切りして容器に入れ、甘酢とたかのつめを加え密閉して置いておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>一カ月ほどで食べられるが、さらに時間をかけて漬け込むと、べっこう色になり、味がよくなる。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">●たまり（醤油）漬け（たまり漬け液６５頁Ｎｏ．２）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〈材料と作り方〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence type="quasi">Ｍ</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　らっきょうは水でよく洗い、水気を取ったら（半日くらい陰干しにするとなおよい）たまり漬け液に漬け込む。</sentence>
+<sentence>漬けてから<sampling type="end" />一〜二カ月で食べることができるが、長く漬けるほどまろやかになる。</sentence>
+</paragraph>
+</article>
+</sample>

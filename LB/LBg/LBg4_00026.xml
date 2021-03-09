@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00026" version="1.0" type="fixedLength">
+<article articleID="LBg4_00026_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　ぼくは<ruby rubyText="くし">櫛</ruby>の歯みたいな<ruby rubyText="かぎ">鍵</ruby>を作ればいいと考えたこと<sampling type="start" />があるけどね。</sentence>
+<sentence>凹のところが０で、凸が１。</sentence>
+<sentence>（図７）これを電話機にガシャッと嵌めると、即、通じる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　でも、もっといいのは、それを平面的にするわけ。</sentence>
+<sentence>一次元でなくて二次元にする。</sentence>
+<sentence>そのほうが形で覚えられるでしょ。</sentence>
+<sentence type="quasi">（図８）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ああ、そうか。</sentence>
+<sentence>中にはすごくカッコいい番号もあるわけだな。</sentence>
+<sentence type="quasi">市松模様になってたり、真中だけとか…</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　対角線だけとかね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　四隅とか。</sentence>
+<sentence>そんなのは値段が高かったりしてね。</sentence>
+<sentence>（笑）これで何本まで表わせるかな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　２の十六乗。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ちょっと電卓で計算すると、６５５３６か。</sentence>
+<sentence>かなりな数までいける。</sentence>
+<sentence>これはいいなあ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　この四四・十六で五桁の番号が可能になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　だから、いっそのこと五五・二十五の桁にすると、相当の数じゃない？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　二十五だったらすごいよ。</sentence>
+<sentence>３３５５４４３２だから、東京都がいま七桁でしょう。</sentence>
+<sentence>これで表わせるね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　まてよ。</sentence>
+<sentence>これは天地を決めておかねばいけないぞ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そりゃ、そうです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それにしても、これは本日の収穫。</sentence>
+<sentence>（笑）電電公社に教えてやりたくなったね。</sentence>
+<sentence>美しいもの、これは。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図８</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">十進法にとらわれた世界</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　二進法の世界はおもしろいね。</sentence>
+<sentence>これからはもっと二進法が日常的になると思いますね。</sentence>
+<sentence>森式電話番号はどうかわからないけれども。</sentence>
+<sentence>（笑）二進法で、銀行でお金を預けたり出したりすると、最初のうちは<ruby rubyText="だま">騙</ruby>されたような気がするだろうね。</sentence>
+<sentence><quote><sentence>「大丈夫かな？</sentence>
+」</quote>なんてね。</sentence>
+<sentence>当分は翻訳機が売れるんじゃないかしら。</sentence>
+<sentence type="quasi">（笑）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　この電話番号のようなやり方だと、数字が一次元的に並んでいるのを眺めていくのより、楽なんじゃないかなあ。</sentence>
+<sentence>人間には二次元が向いてるからね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　これは電話以外にもけっこう使える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうね。</sentence>
+<sentence>いろんな番号というのは、けっこうむずかしいですからね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　自動車も、前後にこういうプレートを付けて走るようにしたら…</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　このほうがパターン認識しやすいから、パッと見ただけでわかる。</sentence>
+<sentence>だから、こういう表現が日常化すれば、次第に記憶の仕方が上手になって、一目で見られるようになるんじゃないかなあ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　一目でパターン認識ができる。</sentence>
+<sentence>顔のニキビの位置で、<quote>「あ、俺の電話番号だ」</quote>なんて。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　これは二進法だから、ディジタルそのものみたいだけど、むしろふつうの数字の０から９までというのがディジタルすぎるんですね。</sentence>
+<sentence>まあ、ディジタルって言うのは、言葉としては十進のことだから当然だけど。</sentence>
+<sentence>ところが、数字が０と１だけの二進だと、意外とパターン的になるんですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">安野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　これだと、パターン認識のミスは、あるいはあるかもしれないけれど、機械的な操作の場合にはほとんどないね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">森</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そうですね。</sentence>
+<sentence>電話回線はつながるかつながらないかのどちらかしかないから、電話交換にこれ<sampling type="end" />を使うほうが楽だと思うんだけどね。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

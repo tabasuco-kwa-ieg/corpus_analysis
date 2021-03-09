@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00015" version="1.0" type="fixedLength">
+<article articleID="LBo4_00015_F001">
+<paragraph>
+<sentence>そのかわり、反<sampling type="start" />応時間は対象の数の増加に応じて単調に増加するはずである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第三番目が、<quote>「推量」</quote>（ｅｓｔｉｍａｔｉｏｎ）という方法である。</sentence>
+<sentence>たとえばおはじきを手に持ってバラバラバラッと畳の上にばらまくと、直観的把握にちょっと似ているけれど、ひじょうに大きな数でも、だいたいこれはいくつぐらいだとは言える。</sentence>
+<sentence>この推量というのは、直観的把握ほどではないけれど、対象の数が増えても、その推量にかける時間は数え上げほどには増えない。</sentence>
+<sentence>また正答率は、直観的把握と数え上げのちょうど中間で、対象の数の増加にともなって徐々に落ちていくはずである。</sentence>
+<sentence>対象の数が小さなあいだは、推量でやっていてもひじょうに高い正答率でできるだろうが、数が大きくなっていくとだんだん正答率は落ちていく。</sentence>
+<sentence>ヒトのおとなの場合、<quote>「できるだけ速く答えてください」</quote>という指示を与え、推量による数の命名を強制すると、だいたい９と１０のあいだぐらいで正答率は五〇％を切る。</sentence>
+<sentence>１４、１５ぐらいで〇％のあたりまで落ちていく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　チンパンジーが１から９くらいまでの対象の数を認識する場合には、以上の三つの方法が考えられる。</sentence>
+<sentence>実際、ヒトの子どもの場合には、数の命名は、まず直観からはじまり、数え上げをするようになり、さらには推量という形で発達していくのだろうとわたしは考えている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図４‐５にヒトとチンパンジーの実際の反応時間のデータを示した。</sentence>
+<sentence>ヒト（実際はわたし）と、チンパンジー（アイ）のデータ（１から９までと、１から１０までの訓練場面）である。</sentence>
+<sentence>横軸が画面に提示された点の数を、縦軸がそれを命名するのに要した時間を表わしている。</sentence>
+<sentence>ヒトのデータを見ると、点の数が１、２、３、４ぐらいまでは、反応時間にあまり変化がない。</sentence>
+<sentence>直観的把握をしていると考えてよさそうである。</sentence>
+<sentence>チンパンジーも同様で、４ぐらいまでは反応時間はひじょうに傾きのゆるやかな直線になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そしてヒトのほうが顕著だが、５、６、７、８、９と上がっていくと反応時間はほぼ単調に増加する。</sentence>
+<sentence>ヒトの場合はこういう課題のときに、５より小さい数については直観、５より大きい数については数え上げで答えると考えられる。</sentence>
+<sentence>実際、わたし自身が被験者となったときの感じでも、５より小さい数だとすぐわかるが、５より大きい数だといちいち数えなければならないので時間がかかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　チンパンジーの場合も、ヒトほど顕著ではないが、４あるいは５のところまで反応時間が変化せず、それ以降は、反応時間がだんだん増大する。</sentence>
+<sentence>ただし１から９までの訓練場面において、９は例外である。</sentence>
+<sentence>９というのは、アイにとって特別な数である。</sentence>
+<sentence>この段階では、アイは実は９以上の数<sampling type="end" />についても９と命名する。</sentence>
+</paragraph>
+</article>
+</sample>

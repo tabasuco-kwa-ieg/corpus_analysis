@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa8_00006" version="1.0" type="fixedLength">
+<article articleID="LBa8_00006_F001">
+<list>
+<listItem>
+<sentence type="quasi"><sampling type="start" />レンタカー：<rejectedSpan type="foreign"></rejectedSpan></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■韓国の見どころ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">観光地や街で…</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　▲市街や名所旧跡の観光には観光バスが手軽で，旅行会社に頼むか，あるいは主要ホテルにはツアーデスクがあります。</sentence>
+<sentence>２人以上の旅行者がいれば，日本語ガイドを頼むこともできます。</sentence>
+<sentence>予約はホテルのフロントでもＯＫです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■観光</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>（日）ソウル市内観光バスを　予約したいのですが？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）何名様ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）４人です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）午前１０時からのと，午後２時のとが　ありますが，どちらに　なさいますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）午前１０時の　ツアーを。</sentence>
+<sentence>ところで　ガイドは　日本語を　話せますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）大丈夫です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）１人　いくらですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）ガイド料，入場料込みで　お１人　１万ウォンになって　おります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）どんな　ところを　回りますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）国立中央博物館とか　徳寿宮，南山公園などです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）わかりました。</sentence>
+<sentence>お願いします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）あの　建物は　何ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）どの　くらい　古い　ものですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）写真を　撮っても　いいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）時間は　大丈夫ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）トイレは　どこに　ありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）おみやげを　買いたいのですが？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■写真を撮る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　▲韓国では観光地は別として，街中では写真を撮ってはいけない撮影禁止場所があります。</sentence>
+<sentence>主として軍事関連の施設ということになりますが，必ず確かめてから，カメラを向けるように心がけましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これはどの国へ行っても同じですが，人を写すときは了解をとってシャッターを押すのがエチケットです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（日）あの　建物の　写真を　撮っても　かまいませんか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）あなたの　写真を　撮っても　いいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）すみません。</sentence>
+<sentence>シャッターを　押して　いただけますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）ぜひ，旅行の　記念に　あなたも　入って　いただけますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）日本に　帰ったら　必ず　写真を　送ります。</sentence>
+<sentence>住所を　教えて　ください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）近くに　カメラ屋は　ありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）これを　焼付けして　ください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）３５ミリの　フイルムは　ありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■街で道を尋ねる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　▲市街地や観光地などの地図は，書店やホテルの売店，旅行社などで手に入ります。</sentence>
+<sentence>旅行地での心得として，必要な地図は必ず買い求めましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，韓国では毎月１５日に“民間防衛訓練”が行われ，サイレンがけたたましく鳴りますので，驚かないようにしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　街角で道を尋ねるときは，必ず<quote>「失礼ですが…」</quote>，教えてもらったら<quote>「ありがとう」</quote>という言葉を忘れずに…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（日）失礼ですが，東大門市場に　行くには，どう行くのですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）この　通りを　まっすぐ　行って，２つ目の　信号を　右へ　曲がりなさい。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）はい，わかりました。</sentence>
+<sentence>ありがとう。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（韓）すると　看板が　あります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）ありがとう。</sentence>
+<sentence>とにかく　行って　みます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）（地図を見せて）ここへは　どう　行けば　いいのですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）すみません。</sentence>
+<sentence>地図を　書いて　いただけますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）ここの　通りは　何という　名前ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）ここは　どこですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）この　地図に　現在地を　示して　ください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（日）どこに　市街地図<sampling type="end" />が　ありますか？</sentence>
+</listItem>
+</list>
+</article>
+</sample>

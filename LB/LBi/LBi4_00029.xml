@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00029" version="1.0" type="fixedLength">
+<article articleID="LBi4_00029_F001">
+<paragraph>
+<sentence>植物宿主上で増殖しては昆虫によって他へ運ばれ、そこでまた殖えるという戦略を放棄し、昆虫の細胞内に住みついて垂直感染をくり返すばかりでなく、宿主の性比を操ってより効率よく増殖できる方向へ<sampling type="start" />と、彼らは戦略を転換したものと考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図８‐１　スピロプラズマ、昆虫宿虫およびその寄主植物の三者関係</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆スピロプラズマの運動性</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　運動性をもつ原核細胞は珍しくはないが、らせんという特殊な形態をもつ細胞の場合は、その運動のメカニズムに特別の興味がもたれる。</sentence>
+<sentence>例えば、スピロヘータの運動を詳細に検討すると、それは並進運動、長軸を中心とする回転運動および屈曲運動の三つの要素からなっていることがわかる。</sentence>
+<sentence>スピロプラズマも、少なくともある条件の下では、これら三つの運動性を示すことが知られている。</sentence>
+<sentence>暗視野の顕微鏡下で観察する限り、液体培地中のスピロプラズマの運動はスピロヘータのそれとほとんど区別がつかない。</sentence>
+<sentence>しかし、培地のもつ粘性に対する応答は二つの間で明らかに異なり、スピロプラズマでは粘度が高まるにつれて並進運動が著しくなる。</sentence>
+<sentence>粘性の高い溶液中で運動性を増すことは、スピロプラズマに他の原核生物とは異なるニッチの利用を可能にするし、その高い走化性とあいまって宿主資源の利用を容易にしているのであろう。</sentence>
+<sentence>スピロプラズマの運動性は細胞がらせん型をしていることと密接に関連していることは、Ｓ・シトリの非らせん型変異体がほとんど運動性をもたないことからもうかがえる。</sentence>
+<sentence>おもしろいことに、この突然変異体は野生型に比べて、ただ一つのタンパク質を欠くだけだという報告がなされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　スピロヘータおよびスピロプラズマの双方にとって、細胞のらせん型が運動性に重要な意味をもつことは共通だが、らせん性を支えている構造は二つの間で明らかに異なっている。</sentence>
+<sentence>スピロヘータの場合、らせん型の基礎を与えているのは細胞壁のペプチドグリカン層である。</sentence>
+<sentence>スピロヘータからペプチドグリカン層だけを単離しても、らせん型は保持されているし、細胞壁をリゾチームによって分解したり、その合成をペニシリンによって阻害することによって細胞のらせん性が失なわれるからである。</sentence>
+<sentence>スピロプラズマはペプチドグリカンをいっさいもっていないから、そのらせん性の基礎はこれとは違っている。</sentence>
+<sentence>スピロヘータのらせん性はデオキシコール酸ナトリウム処理によって失なわれないが、細胞壁をもたないスピロプラズマは同様の処理によって溶解をうける、このとき、条件によっては特殊な微小繊維が検出されることがある。</sentence>
+<sentence>この微小繊維は長軸に沿ってくり返し構造をもっており、そのインターバルからはこの繊維がスピロプラズマのらせん性と関連したものであることがうかがえる。</sentence>
+<sentence>また、無脊椎動物のアクチンに対する抗体を用いた<sampling type="end" />免疫組織化学やイムノブロティングによると、スピロプラズマにはアクチン様タンパク質の存在が示唆されるので、そのらせん性と運動性の基礎にはこの収縮性タンパク質が関連している可能性も考えられている。</sentence>
+</paragraph>
+</article>
+</sample>

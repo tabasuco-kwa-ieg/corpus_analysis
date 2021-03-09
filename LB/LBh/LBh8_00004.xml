@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh8_00004" version="1.0" type="fixedLength">
+<article articleID="LBh8_00004_F001">
+<paragraph>
+<sentence>　次ページ下段参<sampling type="start" />照。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="しん">信</ruby><ruby rubyText="しょ">書</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>▽自分の意思や物事の事情などを特定の人に伝えるために記載した書状。</sentence>
+<sentence>▽記載の方法は、肉筆でもタイプでも印刷でもよい。</sentence>
+<sentence>▽信書については、その秘密を侵してはならない。</sentence>
+<sentence><ruby rubyText="ふう">封</ruby><ruby rubyText="かん">緘</ruby>した、他人あての信書を故なく開封した者は、刑法で罰せられる。</sentence>
+<sentence>▽注意　不特定多数にあてた広告用印刷物は、特定の<noteMarker text="＊" />あて名が記載されていないかぎり、信書ではない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="しん">身</ruby><ruby rubyText="じょう">上</ruby><ruby rubyText="い">異</ruby><ruby rubyText="どう">動</ruby><ruby rubyText="とどけ">届</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>▽身上に関する事柄に異動を生じたときに勤務先に提出する<noteMarker text="＊" />届け書。</sentence>
+<sentence>▽この種の異動には、住所変更・婚姻（結婚）・離婚・出生・死亡・扶養家族異動・改姓・改名・身元保証人変更・学歴追加・免許取得・資格取得など、いろいろある。</sentence>
+<sentence>そのつど、それぞれの具体的な標題で届けを提出する（解説・要点・書式例については各項参照）。</sentence>
+<sentence>ただし、その様式が身上異動届として統一されていることも多い。</sentence>
+<sentence>▽要点　異動の項目。</sentence>
+<sentence>異動年月日。</sentence>
+<sentence>届け出の内容。</sentence>
+<sentence>添付書類名。<noteMarker text="＊" /></sentence>
+<sentence>戸籍抄本・謄本や各種<noteMarker text="＊" />証明書など、必要書類を添える。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">身上異動届の例　〔様式を統一した用紙〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次ページ下段参照。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="しん">身</ruby><ruby rubyText="じょう">上</ruby><ruby rubyText="しょ">書</ruby>１</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>▽本人の身上に関する事柄を記載した文書（就職・応募用）。</sentence>
+<sentence>▽就職や応募に当たっては、<noteMarker text="＊" />履歴書とともに身上書の提出を求められることが多い。</sentence>
+<sentence>▽特に用紙を指定されない場合は、市販の身上書用紙（多くは履歴書の用紙と一続きになっている）を用いる。</sentence>
+<sentence>▽青色・青黒色のインクは複写機に不適当なため、黒インクか黒のボールペンで書くほうがよい。</sentence>
+<sentence>▽要点　本人の氏名・性別・生年月日・年齢。</sentence>
+<sentence>本籍（都道府県名）・現住所（連絡先）・電話。</sentence>
+<sentence>交通機関・通勤時間。</sentence>
+<sentence>免許・資格。</sentence>
+<sentence>特技・得意な学科。</sentence>
+<sentence>趣味・スポーツ。</sentence>
+<sentence>健康状態。</sentence>
+<sentence>志望の動機。</sentence>
+<sentence>希望職種・希望勤務地。</sentence>
+<sentence>家族の現住所・氏名・年齢、本人との続き柄、扶養義務の有無。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">身上書１の例（１）　〔就職の場合の一般的な用紙〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次ページ参照。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">身上書１の例（２）　〔全国高等学校統一用紙〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　五六五ページ参照。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">身上書２</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>▽本人の身上に関する事柄を記載した文書（縁談用）。</sentence>
+<sentence>▽縁談を依頼するに当たっては、本人の写真とともに自筆の身上書を渡すことが多い。</sentence>
+<sentence>▽要点　本人の氏名・生年月日。</sentence>
+<sentence>筆頭者との続き柄。</sentence>
+<sentence>本籍（都道府県名）・現住所。</sentence>
+<sentence>学歴・職歴。</sentence>
+<sentence>身長・体重。</sentence>
+<sentence>健康状態。</sentence>
+<sentence>趣味・特技・免許。</sentence>
+<sentence>宗教。</sentence>
+<sentence>家族または親族の氏名・続き柄等。</sentence>
+<br type="automatic_original" />
+<sentence>▽注意　家族・親族については、<noteMarker text="＊" />家族書・<noteMarker text="＊" />親族書として独立させることもある。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">身上書２の例　〔縁談依頼に用いる場合〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi"><ruby rubyText="しん">申</ruby><ruby rubyText="せい">請</ruby><ruby rubyText="しょ">書</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>▽国または地方公共団体から<noteMarker text="＊" />許可・<noteMarker text="＊" />認可・<noteMarker text="＊" />交付等を受けたいときに提出する文書。</sentence>
+<sentence>▽国や地方公共団体から許可・認可や、<noteMarker text="＊" />証明書等の交付を受けたいときは、監督官公庁・関係機関・市区町村役場等に申請書を提出する。</sentence>
+<sentence>▽申請書を提出したときにすぐ許可や交付を受けられるものと、一定の日時を要するものとがあるから、十分に日数を見ておくことが必要である。</sentence>
+<sentence>▽<noteMarker text="＊" />登記・<noteMarker text="＊" />登録などにも<sampling type="end" />申請書が用いられる。</sentence>
+</article>
+</sample>

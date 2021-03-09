@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00005" version="1.0" type="fixedLength">
+<article articleID="LBs5_00005_F001">
+<paragraph>
+<sentence>太字など、クラス<sampling type="start" />ごとに個別に指定したい部分にはそのＣＳＳを指定します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">【補足】リンクをクラス分けすることもできる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リンク自体をクラスで分けることができます。</sentence>
+<sentence>この場合は、次のようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　ＣＳＳは次のようにして対応を取ります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">リンクを反応させる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リンクの部分にマウスを乗せたとき、リンク部分の背景色を変えるなど、その場で反応させるようにＣＳＳで指定できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲閲覧しているだけの状態</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲リンクにカーソルを乗せると背景色が変わる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　このようにリンクを反応させる指定には、次のような疑似要素を利用します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　通常、文字だけのリンクの場合は、ａ：ａｃｔｉｖｅを指定する意味はあまりありませんが、ボタンふうなデザインの場合は面白い効果が出ます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　既クリック状態のリンク（ａ：ｖｉｓｉｔｅｄ）は、一度でもそのリンクをクリックしたという痕跡を示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　リンクの状態を指定する場合は、必ずこの順序で指定するようにします。</sentence>
+<sentence>ａ：ｈｏｖｅｒの次にａ：ｌｉｎｋという指定は好ましくありません。</sentence>
+<sentence>ただし、ａ：ｌｉｎｋとａ：ｖｉｓｉｔｅｄをカンマでまとめて指定することはできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次の例では、こうした反応をｔｅｘｔクラスのｄｉｖ要素でまとめた部分内のリンクだけ反応するように指定しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼リンクを反応させる指定</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【補足】既クリック状態のデザインもあるといい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本文中のリンクの場合は、読みながらリンクをすることが多いので、複数のリンクが文中に埋まっていても、どこまでクリックしたかは思い出しやすいものです。</sentence>
+<sentence>しかし、リストになっているリンクの場合、どこまでクリックしたかはわかりづらいので、こうした状態をわかりやすくするために、既クリック状態のリンク（ａ：ｖｉｓｉｔｅｄ）にも色が変わるなどデザインを指定しておくといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">リンクに解説を付ける</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リンクは閲覧者を不安にさせることがあります。</sentence>
+<sentence>リンク先にどのような情報が含まれているのかわからないためです。</sentence>
+<sentence>こうした不安を除き、リンク部分をクリックする前に閲覧者にリンク先の情報を知らせるには、ａ要素のｔｉｔｌｅ属性で解説文を書いておくといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲リンクに解説をつける</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　こうしたｔｉｔｌｅ属性による解説ポップアップの機能は、たいていのブラウザーに装備されています。</sentence>
+<sentence>ただし、どのようにポップアップを表示させるかは、ブラウザーごとに違うので、あまり長い解説文は書かないほうがいいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ｔｉｔｌｅ属性の指定は、ＷｅｂページのＨＴＭＬソースの、該当部分のリンクを示すａ要素に加えます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼リンクの解説をしたＨＴＭＬの例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">リンクで音を出す（ＩＥのみ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｉｎｔｅｒ<sampling type="end" />ｎｅｔ　Ｅｘｐｌｏｒｅｒに限定されますが、リンクにカーソルが乗ったら、用意しておいた短い音を出すというトリックができます。</sentence>
+</paragraph>
+</article>
+</sample>

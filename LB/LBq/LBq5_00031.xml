@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00031" version="1.0" type="fixedLength">
+<article articleID="LBq5_00031_F001">
+<sentence type="quasi">●真空装置には、バ<sampling type="start" />ルブ、電気の導入端子、ガスの導入バルブ、水の導入器、機械力の導入機などたくさんの部品が必要</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">真空装置のための部品</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（アネルバ（株）提供）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">用語解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＩＣＦフランジ：Ｉｎｔｅｒｎａｔｉｏｎａｌ　Ｃｏｎｆｌａｔ　Ｆｌａｎｇｅ。</sentence>
+<sentence>単にコンフラットフランジともいう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">真空容器は不完全</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">真空容器にはもれがある</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ガスの放出がある</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　ポンプ、真空計、部品も揃い、いよいよ真空装置の製作にとりかかる。</sentence>
+<sentence>と、その前に、知っておかなければならないことがあります。</sentence>
+<sentence>それは、真空容器は不完全だということです。</sentence>
+<sentence>真空容器には、図の（１）に示すように、常にガスが流れこんでいます。</sentence>
+<sentence>このガスと真空ポンプがしのぎ合って、均衡したところが到達真空です。</sentence>
+<sentence>よい真空装置を作るためには、このガスの有無を検知し、減らす必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もれ（リーク）は、１０００万分の１ミリメートル単位の気体分子が、ごく小さな孔を通って真空容器の中に入ってくることです。</sentence>
+<sentence>容器を作っている材質上の欠陥やその接合部の欠陥などが原因と考えられます。</sentence>
+<sentence>もれは全力で止めなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　透過ガスは、大気中のガスが真空容器に外面から溶けこみ、内面に達して容器内に出てくるガスです。</sentence>
+<sentence>容器が金属の場合あまり心配はありませんが、ガラスの場合はわずかですがヘリウムが透過します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　内部の吸蔵ガスは、材料の精錬時に溶けこんだガス、主に水素が少しずつ放出されるもので、材料を真空中で溶解したものにすると激減できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表面の吸着ガスは、内部が大気にさらされたときに吸着した水などの気体が再放出されるものです。</sentence>
+<sentence>錆や油から内面を防御し、表面の細かい凹凸がなくなるように研磨しておくなど、対策が重要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　吸着ガスは排気していると減少します（図の（２））。</sentence>
+<sentence>金属なら１時間後、流量５×１０<superScript>−７</superScript>ｐａ・ｌ／ｃｍ<superScript>２</superScript>・分を放出します。</sentence>
+<sentence>たとえば直径４０センチメートル長さ４０センチメートルの真空容器なら、内表面積は７５００平方センチメートルで、全放出ガスは両者の積３・８×１０<superScript>−３</superScript>ｐａ・ｌ／分です。</sentence>
+<sentence>それを１０００ｌ／分のポンプで排気すると、これを１０００で割って３・８×１０<superScript>−６</superScript>Ｐａが得られる圧力です。</sentence>
+<sentence>実際には真空容器の中には部品、電極、仕事をする仕掛けなど内部機構があり、この表面積も加えると２〜３倍になります。</sentence>
+<sentence>ガス放出は材料（ＣｕかＯＦＨＣか）、表面状態（そのままか研磨か）、さらされる気体（湿か乾か）によっても大きく違います（図の（３））。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">要点ＢＯＸ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">●真空容器内には常にガスが流れこんでいる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●もれは全力で止める必要がある</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●よい真空をつくるためには放出ガスを減らす</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（１）真空容器の不完全さ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（２）有機物と金属</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">（３）ＣｕとＡｌ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">流入ガ<sampling type="end" />スと圧力の方程式</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

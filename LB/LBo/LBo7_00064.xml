@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo7_00064" version="1.0" type="fixedLength">
+<article articleID="LBo7_00064_F001">
+<paragraph>
+<sentence>　人間の場合、数百億個の神経細胞（ニューロン）（Ｐ．１７０図１１）が複雑に絡み合って<sampling type="start" />この三つの機能を円滑に遂行している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">神経系の構造</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　神経系は、中枢神経と末梢神経とに分けられる。</sentence>
+<sentence>（表５）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>■中枢神経―おもな役割は、視覚、聴覚、皮膚感覚をはじめ、筋の固有感覚器などから送られてくる情報を受け取り、それらを統合して判断を下し、必要な命令を筋その他の末梢器官に送ることである。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>■末梢神経―感覚器からの情報を中枢に伝える感覚神経と、中枢の命令を末梢器官に伝える運動神経、および自律神経とからなっている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　運動に関係する中枢神経には、<ruby rubyText="すい">錐</ruby><ruby rubyText="たい">体</ruby><ruby rubyText="ろ">路</ruby>系と錐体外路系の２つがある。</sentence>
+<sentence>前者が意識的に運動を支配しているのに対し、後者は無意識的に関与して、運動が円滑かつ協調的に行なわれるように微妙な調節を受け持っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表５　神経系の分類</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（真島，１９８１）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ニューロン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　筋を直接支配するのは、ニューロンという神経の最小単位である（図１１）。</sentence>
+<sentence>ニューロンは神経細胞と神経線維からなり、ニューロンからのインパルスは、軸策を通って筋その他の末梢組織、あるいは他のニューロンに伝えられる。</sentence>
+<sentence>神経線維をインパルスが伝導する速さは線維の太さと関係があり、一般に線維が太いほど速く伝わる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１１　運動ニューロンの模型図</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">勝田茂：第２版運動生理学２０講，朝倉書店，１９９９より</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">運動単位</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　脊髄にある運動神経細胞（α細胞）は、筋を直接支配する神経である。</sentence>
+<sentence>この細胞から出る神経線維（軸策）は、脊髄から末梢神経となって骨格筋に至る。</sentence>
+<sentence>その先端は何本かに分岐し、それぞれの枝が一つの筋線維と連結している。</sentence>
+<sentence>ようするに１個のα細胞が何本かの筋線維を支配しており、これを運動単位と呼ぶ（図１２）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一個の運動単位に含まれる筋線維の数は、運動の調節性と関係がある。</sentence>
+<sentence>その数が多いと粗雑な調節しかできないが、数が少ないほど細かい動きの調節が可能となる。</sentence>
+<sentence>手先や眼球を動かす筋は最も繊細な動きを要する部分であり、一個の運動単位に含まれる筋線維の数が最も少ない。</sentence>
+<sentence>これに対し、背中や臀部の運動単位は筋線維の数が多いため、微妙な調節が難しい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１２　運動単位の模式図</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">池上晴夫：運動生理学，朝倉書店，１９９８より</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">筋力調整</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　筋力調節は、運動単位の動員数と、個々の発火頻度（インパルスの発射頻度）の調節で行なわれている。</sentence>
+<sentence>基本的に、小さい運動ニューロンから大きな運動ニューロンへと順に動員が起こることが確認されており、これを<quote>「サイズの原理」</quote>と言う。</sentence>
+<sentence>たとえば下肢筋においては、起立や姿勢維持などの強度の低い運動では、収縮速度が遅く疲労に強いタイプが選択的に動員され、走行やジャンプなどと運動強度が高まるにつれて、収縮速度が速く疲労に弱いタイプが順次動員される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　速<sampling type="end" />筋線維は筋線維が太く、運動神経細胞も大きいため、神経刺激に対する感度が低く、強い刺激でないと活動しない。</sentence>
+</paragraph>
+</article>
+</sample>

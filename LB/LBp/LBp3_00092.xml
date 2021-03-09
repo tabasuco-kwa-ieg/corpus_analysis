@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00092" version="1.0" type="fixedLength">
+<article articleID="LBp3_00092_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">わかさ<sampling type="start" />ぎの天ぷら</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　わかさぎに塩、こしょうで下味をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　卵、水、小麦粉で衣を作り、刻みパセリも加える。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　<enclosedCharacter description="○">１</enclosedCharacter>に<enclosedCharacter description="○">２</enclosedCharacter>の衣をつけて、１７０℃の油で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>骨ごと食べられる魚は、そしゃく力をつけるためにも大切です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ししゃもの天ぷら</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　卵、水、小麦粉で衣を作る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ししゃもに<enclosedCharacter description="○">１</enclosedCharacter>の衣をつけ、揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>骨ごと食べられる魚は、そしゃく力をつけるためにも大切です。</sentence>
+<sentence>苦手な子どもには、焼きししゃもより天ぷらにした方が食べやすいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">白身魚のカレー天ぷら</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　おひょうに塩、こしょうで下味をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　卵、水、小麦粉、カレー粉で衣を作り、刻んだパセリも混ぜる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　<enclosedCharacter description="○">１</enclosedCharacter>に<enclosedCharacter description="○">２</enclosedCharacter>の衣をつけて、１７０〜１８０℃の油で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>天ぷらの衣に、子どもの好きなカレー味をつけました。</sentence>
+<sentence>下味とカレーの風味で、このままでおいしく食べられます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">まぐろカツ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　かじきまぐろにしょうゆ、みりんで下味をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　小麦粉、溶き卵、ごまを混ぜたパン粉の順に衣をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　中温の油（１７０〜１８０℃）で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">おひょうのマリネ風</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　魚にかたくり粉をまぶして、油で揚げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　三温糖、しょうゆ、酢、だし汁を煮立て、<enclosedCharacter description="○">１</enclosedCharacter>の魚を入れて煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>作りおきのできる１品です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">焼きもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１６</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">かじきの照焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　みりん、しょうゆを合わせ、かじきを漬ける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ごまは炒っておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　油をしいた天板に魚を並べ、ごまをふって１８０〜２００℃で２０〜３０分焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>※家庭では、魚用の網を使って焼いてもよいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●お弁当のおかずにもむいています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●かじきの他、生鮭やさわらでもよいでしょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●組み合わせのおすすめ●</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ごはんのおかずにする時は、豚汁やけんちん汁など野菜たっぷりの汁ものをそえるとよいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１７</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">生鮭の照焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　みりん、しょうゆを合わせ、生鮭を漬ける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　油をしいた天板に魚を並べ、１８０〜２００℃で２０〜３０分焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●お弁当のおかずにもむいています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●保育園では、積極的に和風の献立も取り入れています。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●組み合わせのおすすめ●</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>具のたくさん入った汁ものと合わせる他、五目ごはんなどの炊き込みごはんや、枝豆ごはん、栗ごはんといった季節のごはんと組み合わせてもいいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１８</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">さわらの照焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　みりん、しょうゆを合わせ、さわらを漬ける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　油をしいた天板に魚を並べ１８０〜２００℃で２０〜３０分焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>お弁当のおかずにもむいています。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１９</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">焼きししゃも</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ししゃもは、さっと洗う。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　天板に並べ、２２０〜２５０℃のオーブンで１５分程度焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>※家庭では、焼き網で焼く方が表面がぱりっとして、よ<sampling type="end" />いでしょう。</sentence>
+<br type="automatic_original" />
+</article>
+</sample>

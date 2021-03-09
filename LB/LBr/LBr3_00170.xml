@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00170" version="1.0" type="fixedLength">
+<article articleID="LBr3_00170_F001">
+<quotation>
+<citation>
+<paragraph>
+<sentence>　次の（イ）〜（ヌ）は、内閣<sampling type="start" />総辞職の主な原因を簡単に説明したものである。</sentence>
+<sentence>これを読んで下記の問に答えよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（イ）米騒動に伴い社会不安が蔓延したため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ロ）摂政狙撃事件の責任をとったため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ハ）海軍青年将校のテロにより首相が暗殺されたため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ニ）同盟交渉を重ねてきたドイツと、日本と軍事衝突中のソ連とが不可侵協定を締結したため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ホ）張作霖爆殺事件の責任者処分をめぐり首相が天皇の<substitution x0213="1-47-52" unicode="20B9F">叱</substitution>責を受け信を失ったため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ヘ）海軍軍縮条約を攻撃する右翼青年によって狙撃された首相の病状が悪化したため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ト）２個師団増設問題をめぐり陸相が単独辞職し、その後任を得ることができなかったため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（チ）政府提案の台湾銀行救済緊急勅令案が枢密院によって否決されたため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（リ）与党の憲政会と政友会とが対立し閣内不一致をきたしたため。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（ヌ）武器購入をめぐる海軍瀆職事件の責任を追及されたため。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">（問１、問２は略）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>問３（ロ）の摂政狙撃事件は一般に何と呼ばれるか、答えよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>問４（ハ）の海軍青年将校によるテロ事件は一般に何と呼ばれるか、答えよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>問５（ニ）の日ソの軍事衝突は一般に何と呼ばれるか、答えよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>問６（ヌ）の海軍瀆職事件は一般に何と呼ばれるか、答えよ。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<source>
+<sentence type="quasi">（’０１年・防衛大学）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　そういう時代だったと言ってしまえばそれまでだが、よくもまあ、キナ臭い事件ばっかり集めたものだ。</sentence>
+<sentence>将来、自衛隊の幹部となるべき若者たちにこういう問題を出すのは、クーデターでも起こして軍事政権を樹立させるための暗示か…な〜んて、考えすぎだとは思うけど、そういう勘繰りもしたくなるような出題であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　もうひとつ気になるのは、身体検査。</sentence>
+<sentence>防衛大のＨＰによれば、男子の場合の合格基準は、以下のようなものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">●身長　１５５ｃｍ以上</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●胸囲・体重　身長と均衡を保っているもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●肺活量　３０００ｃｃ以上</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●視力　両眼とも裸眼視力が０・６以上、又は両眼とも裸眼視力が０・１以上で矯正視力が０・８以上のもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●色覚　色盲又は強度の色弱でないもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●聴力　秒時計法で両側とも１ｍ以上で聞きわけるもの、聴力計法で１０００Ｈｚ、４０００Ｈｚにおいてそれぞれ一側が３０ｄＢ以下、他側が５０ｄＢ以下で聞き分けるもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●歯　多数のウ歯・欠損歯（<sentence>治療を完了したものを除く。</sentence>
+）のないもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●疾病等　身体健全で伝染性疾患、慢性疾患及び四肢関節等に異常のないもの</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●その他　隊務（教育・訓練等）を支障なく遂行し得る体力を有すると認められたもの</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　ということは、裸眼視力が０・１以下の私は、防衛大には入れないな。</sentence>
+<sentence>まあ、別に入りたくもないわけだが、なんでもかんでも平等平等と<ruby rubyText="かまびす">喧</ruby>しい時代に、身体的能力による選別をここまではっきり謳っているのは、ある意味、すがすがしい。</sentence>
+<sentence>こういうところを見て<sampling type="end" />も、やはり自衛隊は軍隊なのだなあ、とあらためて納得させられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

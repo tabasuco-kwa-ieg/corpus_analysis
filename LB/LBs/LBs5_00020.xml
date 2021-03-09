@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs5_00020" version="1.0" type="fixedLength">
+<article articleID="LBs5_00020_F001">
+<paragraph>
+<sentence>　筆者のパソコンスクールでも、将来プログラマになりたいという中学<sampling type="start" />生がプログラミングの学習に通ってきていますが、プログラミングを勉強するのに年齢が早すぎるとか遅すぎるというのはないように思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プログラミングでいちばん大切なのは、自分で考える力です。</sentence>
+<sentence>学習書を買ってきても、その本に書かれていることしかやらないのではプログラミングは身につきません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プログラミングの入門書を手に入れたら、その本に載っている小さなプログラムを作ってみることです。</sentence>
+<sentence>そして、そのプログラムを何度もアレンジしてみることです。</sentence>
+<sentence>同じような小さなプログラムをたくさん考えて、たくさん作ってみることです。</sentence>
+<sentence>こういう根気のいる学習方法は、興味を持つと集中力を示す子どものほうが向いているのかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プログラミング言語は、有料のもの、無料で使えるもの、いろいろな種類があります。</sentence>
+<sentence>でも最初は、特別なソフトを買わなくてもできるものを選ぶのがいいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、Ｍｉｃｒｏｓｏｆｔ　ＯｆｆｉｃｅやＥｘｃｅｌといったソフトを持っているなら、ＶＢＡという作業を自動化したり機能を拡張できるプログラミング言語が付属しているので、これを使う方法があります。</sentence>
+<sentence>おまけみたいな感じがしますが、ＶｉｓｕａｌＢａｓｉｃ　ｆｏｒ　Ａｐｐｌｉｃａｔｉｏｎｓという立派なプログラミング言語です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　他にもＷｅｂブラウザがあれば実行できるＪａｖａＳｃｒｉｐｔや、厳密にはプログラミング言語ではありませんが、ホームページを記述するときに使用するＨＴＭＬを専用のソフトを使わずに書いてみるだけでもプログラミング言語の雰囲気みたいなものは理解できるかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＶＢＡやＪａｖａＳｃｒｉｐｔに関するプログラミングの入門書を購入する場合は、学校の先生や書店の店員さん、コンピュータ書をたくさん出版している出版社に相談して、できるだけわかりやすいものを選ぶようにしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「華ちゃんはまだ子どもだから、プログラミングは無理だよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「すぐに飽きちゃうんじゃないの？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「プログラミングなんてホントにヤル気あるの？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　こんな心配をする必要はありませんね。</sentence>
+<sentence>飽きたら飽きたでいいじゃないですか。</sentence>
+<sentence>何と言っても子どもは好奇心と可能性の固まりなのですから！</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　とても簡単なプログラムを作ってみましょう！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「子どもでも理解できるプログラミングの入門書なんて見つからないわ…。</sentence>
+<sentence type="quasi">やっぱりもう少し大きくなるまで我慢してもらおう」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　入門書といえども、ほとんどの本は大人向けに書かれていますし、それでなくてもコンピュータ関連の書籍は書かれている言葉がむずかしいですよね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、子どもにと<sampling type="end" />りあえずプログラミングを体験してもらえるサンプルをここに２つだけ紹介しておきましょう。</sentence>
+</paragraph>
+</article>
+</sample>

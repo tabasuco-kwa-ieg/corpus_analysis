@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00012" version="1.0" type="fixedLength">
+<article articleID="LBk5_00012_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">カメラの種<sampling type="start" />類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　カメラの分類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　カメラというものが世に出てからすでに１世紀半、この間に無数のカメラが出現しては消えていった。</sentence>
+<sentence>そしてそれらの中で特に人気を博したカメラ、一つの典型を作ったカメラ等が時代を超えて今日にその名を残している。</sentence>
+<sentence>これらのいわばカメラの本道から外れたところにキラ星のごとく、いくつかのユニークなカメラが存在する。</sentence>
+<sentence>それらの多くは設計者の独善が勝ち過ぎたためか、それとも時期尚早であったためか短命で、それだけに現代のわれわれに教訓を残すところが多く、ここで十把一からげに分類してしまうには忍びない気がする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、これらのカメラについて個々に説明を加えるのが本書の目的ではないので、簡単にカメラの分類について概観しておきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般に、われわれがあるカメラの種別を言う場合には知らず知らずのうちに種々の観点からそのカメラを眺めていることになる。</sentence>
+<sentence type="quasi">例えば<quote>「３５ｍｍフォーカルプレーン一眼レフカメラ」</quote>という場合には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　使用フィルムと画面サイズを表す<quote>「３５ｍｍ」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　シャッターの形式を表す<quote>「フォーカルプレーン」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　ファインダーおよび距離合わせの形式を表す<quote>「一眼レフ」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>と三つの方向から、一つのカメラを規定しているわけである（図１‐１（ａ））。</sentence>
+<sentence type="quasi">同様に<quote>「セミ判スプリングカメラ」</quote>という場合には、</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　使用フィルムと画面サイズを表す<quote>「セミ判」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　形態上の特徴を表す<quote>「スプリングカメラ」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>との二つから、このカメラを表現している（図１‐１（ｂ））。</sentence>
+<sentence type="quasi">このようにカメラの種類を言い表すには、</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　使用フィルムと画面サイズ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　機構上あるいは形態上の特徴</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　以上の二つの面から言い表すのが通常である。</sentence>
+<sentence>それはまず、使用フィルムと画面サイズの面からみてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐１（ａ）　３５ｍｍフォーカルプレーン一眼レフ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１‐１（ｂ）　セミ判スプリングカメラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２　使用フィルムと画面サイズによる分類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ・ロールフィルム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ロールフィルムはその名の通りスプールに巻かれた状態で供給される細長いフィルムの総称である。</sentence>
+<sentence>カメラに装塡されると、もう一方のスプールに一定量ずつ巻き取られながら１コマずつ写真を撮影してゆく。</sentence>
+<sentence>遮光用の裏紙やリーダーペーパーを持つものと、パトローネという遮光用の容器に入ったものがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このロールフィルムや次に説明するカセットフィルムの種別を表すのに、１３５とか１２０等の３ケタの数字を用いており、フィルムの箱にも印刷されている。</sentence>
+<sentence>この数字の意味、由来についてよく質問される。</sentence>
+<sentence>６×６判１２枚撮りだから１２０だとか、フィルム幅が３５ｍｍなので１３５なのだろうとかいろいろ憶測はできるが、それでは１１０は？</sentence>
+<sentence>　１２７<sampling type="end" />は？</sentence>
+</paragraph>
+</article>
+</sample>

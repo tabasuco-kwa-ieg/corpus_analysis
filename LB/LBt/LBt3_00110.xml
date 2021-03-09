@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00110" version="1.0" type="fixedLength">
+<article articleID="LBt3_00110_F001">
+<paragraph>
+<sentence>　なお、通常は<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダにいくつかサブ・フォルダが作られ、削除されたデータはサブ・フォルダ<sampling type="start" />内に保存されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ごみ箱の正体<quote>「ＲＥＣＹＣＬＥＲフォルダ」</quote></sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダはＷｉｎｄｏｗｓのシステム・フォルダで、マイコンピュータでは利用できるアクションに制限があり、フォルダ内のアイテムに対して実行可能なのは<quote>「ファイルの復元」</quote>その他の限定的なアクションだけです。</sentence>
+<sentence>つまり、フォルダ内のプログラムを直接実行したり、画像ファイルを表示するようなことはできないわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　しかし、この制限はあくまでＷｉｎｄｏｗｓ上だけのもので、ＭＳ‐ＤＯＳなどＷｉｎｄｏｗｓ以外のシステムでコンピュータを起動すれば通常のフォルダと同様にフォルダ内のアイテムを操作できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＭＳ‐ＤＯＳ上では通常のフォルダと同様に扱える</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>ｃｈｅｃｋ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダは<quote>「隠しフォルダ」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダはＭＳ‐ＤＯＳ上では通常のフォルダと同様に扱えますが、<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダおよびその内部のサブ・フォルダは<quote>「隠しフォルダ」</quote>になっています。</sentence>
+<sentence>ですから、フォルダ内のアイテムを表示するには<quote>「ｄｉｒ」</quote>コマンドに<quote>「／Ａ：Ｈ」</quote>オプションを付加し<quote>「ｄｉｒ／Ａ：Ｈ」</quote>を実行する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダの表示方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダは<quote>「隠し」</quote>属性が付加されたＷｉｎｄｏｗｓのシステム・フォルダで、Ｗｉｎｄｏｗｓのデフォルト設定ではマイコンピュータ上で表示されません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表示するには以下の方法で隠しフォルダを表示する必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>フォルダ・オプション</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「マイコンピュータ」</quote>のメニューから<quote>「ツール」</quote>→<quote>「フォルダ・オプション」</quote>を選択し、<quote>「フォルダ・オプション」</quote>画面を表示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter><quote>「表示」</quote>タブ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「フォルダ・オプション」</quote>画面で<quote>「表示」</quote>タブを表示します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>ファイル／フォルダ表示設定の変更</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「表示」</quote>タブの<quote>「詳細設定」</quote>欄で<quote>「ファイルとフォルダの表示」</quote>を<quote>「すべてのファイルとフォルダを表示する」</quote>に変更し、<quote>「保護されたオペレーティング　システム　ファイルを表示しない」</quote>のチェックをＯＦＦにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter><quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダの表示</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　以上の設定変更を行なうと、マイコンピュータ上で<quote>「ＲＥＣＹＣＬＥＲ」</quote>フォルダが表示されるようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●<quote>「ごみ箱」</quote>のカスタマイズ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「ごみ箱」</quote>は、<quote>「ごみ箱」</quote>に割り当てられた領域をオーバーするまで削除されたデータを保存しておく機能で、<quote>「削除」</quote>機能であると同時に<quote>「バックアップ」</quote>機能としての側面ももちます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして、<quote>「ごみ箱」</quote>の割り当て領域のサイズは、ユーザーが自由にカスタマイズできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「ごみ箱」</quote>のカスタマイズ方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「ごみ箱」</quote>のカスタマイズは以下の手順で行ないます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter><quote>「ごみ箱」</quote>の<quote>「プロパティ」</quote>の表示</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　デスクトップ上の<quote>「ごみ箱」</quote>アイコンを<quote>「右クリッ<sampling type="end" />ク」</quote>し、<quote>「プロパティ」</quote>を選択します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

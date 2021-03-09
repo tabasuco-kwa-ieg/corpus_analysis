@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00052" version="1.0" type="fixedLength">
+<article articleID="LBl4_00052_F001">
+<paragraph>
+<sentence>これは、ろうそくから脱出したフロギストンが容器内に充満し、それ以上、空気中にフロギストンが入り込む余地がなくなったため、燃焼<sampling type="start" />が止まってしまうものと解釈されていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フロギストン説は多分に現象論的ではあったものの、かなり広い範囲にわたって燃焼の問題を巧みに説明することが可能であった。</sentence>
+<sentence>今から振り返れば、それはすべて、<ruby rubyText="つじ">辻</ruby><ruby rubyText="つま">褄</ruby>合わせの理屈づけにすぎなかったわけであるが、精度の高い定量的な実験技術が確立されていなかった十八世紀中葉、フロギストン説は立派に通用していたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、燃焼の話をしていながら、それにあずかる酸素について、いままでまったく触れられていないことを、あるいは<ruby rubyText="いぶか">訝</ruby>しく感じられたかもしれない。</sentence>
+<sentence>しかし、肝心の酸素はまだ発見されていなかった（だからこそ、フロギストンという実体のない“元素”を導入したわけであるが）。</sentence>
+<sentence>また、空気と他の気体の区別すら、必ずしも明確には認識されていなかったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうした化学の状況（発展段階）は、天文学や物理学にたとえてみれば、“天動説”の域を出ていなかったといえる。</sentence>
+<sentence>“地動説”への転換、つまり、錬金術から脱皮して近代化学が生まれてくるのは、十八世紀の末になってからのことになる。</sentence>
+<sentence>酸素が発見され、正しい燃焼理論が打ち立てられるのも、そのときを待たねばならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">呼吸と燃焼</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　燃焼の原理を解明するための第一歩は、一七七四年、イギリスのプリーストリーが行った水銀の燃焼実験に見ることができる。</sentence>
+<sentence>プリーストリーは、大型の集光レンズ―虫メガネの親分のような<ruby rubyText="しろ">代</ruby><ruby rubyText="もの">物</ruby>を想像していただければよいと思う―によって集束した太陽光線を酸化水銀（当時の用語に従えば水銀灰）に当てて加熱すると、燃焼力の強い気体が発生することに気付いた。</sentence>
+<sentence>この気体の中では、空気中よりも物が激しく燃えるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、空気を密閉した容器の中にネズミを入れておくと、やがて窒息して死んでしまうが、酸化水銀から発生した気体を詰めた容器内では、ネズミはより長く呼吸をすることができることも指摘された。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プリーストリーは、こうした性質をもつ新しい気体に、<quote>「脱フロギストン空気」</quote>という名前をつけた。</sentence>
+<sentence>フロギストンが脱け出してしまった空気には、フロギストンを受け入れるキャパシティーが大であるため、その中では物がよく燃えると解釈したからである。</sentence>
+<sentence>要するに、プリーストリーは酸素を発見していたのだが、フロギストン説に<ruby rubyText="こ">固</ruby><ruby rubyText="しつ">執</ruby>していたため、新元素を発見したという認識に至らなかったわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　後から振り返れば、せっかく実験そのものには成功していながら、プリーストリーは誤った解釈を下し惜しいことをしたという印象を受ける。</sentence>
+<sentence>だがそれほど、時代を通して支配的であった理論の束縛から抜け出すことは難しいのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　束<sampling type="end" />縛から抜け出したのは、フランスの化学者ラヴォアジエであった。</sentence>
+</paragraph>
+</article>
+</sample>

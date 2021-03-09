@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBgn_00010" version="1.0" type="fixedLength">
+<article articleID="LBgn_00010_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">縄文時代の食生活（小林達雄氏作<sampling type="start" />図）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ６　縄文時代の人びとは、どんなところに住んでいたのですか。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ａ６　住居は丘の上や山のふもとに、土地を円形や長方形に一メートル近く掘った<ruby rubyText="たて">竪</ruby><ruby rubyText="あな">穴</ruby>住居で、共同の広場を中心に円形やＣ字形に五、六戸ほどたっているのがふつうでした。</sentence>
+<sentence>縄文時代の初めには集団は小さく、一か所に住みつくこともあまりありませんでしたが、気候があたたかくなり食べ物がゆたかになってくると、人びとは一か所に住みつくようになり、むらも大きくなっていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　住居の中心には、<ruby rubyText="ろ">炉</ruby>があります。</sentence>
+<sentence>共同の広場には、たき火のあとや、木の実をすりつぶす大きな石皿が発見されています。</sentence>
+<sentence>ここは年長で経験ゆたかな長老を中心に、共同して狩りや漁の計画をたて、えものをわけあったり、<ruby rubyText="まつ">祭</ruby>りをしたりする場だったと思われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>Ｑ７　何<ruby rubyText="さい">歳</ruby>ぐらいまで生きたのですか。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ａ７　縄文時代の成人の人骨から、平均死亡<ruby rubyText="ねん">年</ruby><ruby rubyText="れい">齢</ruby>をしらべてみると、男性が三一・一歳、女性が三一・三歳です。</sentence>
+<sentence>とくに乳幼児の死亡率が高く、当時の人びとの<ruby rubyText="じゅ">寿</ruby><ruby rubyText="みょう">命</ruby>は、現代の日本人の半分以下で、おどろくほど短命でした。</sentence>
+<sentence>気候が悪いと木の実がなくなり、えものがとれないと<ruby rubyText="う">飢</ruby>えにおびやかされることも多かったのでしょう。</sentence>
+<sentence>人びとは女性をかたどった<ruby rubyText="ど">土</ruby><ruby rubyText="ぐう">偶</ruby>をつくって、収穫の多いことや家族の<ruby rubyText="はん">繁</ruby><ruby rubyText="えい">栄</ruby>を祈りました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">土偶</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">稲作のはじまり―弥生時代</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　<ruby rubyText="やよ">弥</ruby><ruby rubyText="い">生</ruby>時代は、紀元前三世紀から紀元後三世紀までの約六〇〇年間です。</sentence>
+<sentence>稲作は<ruby rubyText="じょう">縄</ruby><ruby rubyText="もん">文</ruby>時代の終りごろ、北九州に伝わったあと日本列島を北上し、一〇〇年もたたないあいだに東北地方にまで広がっていきました。</sentence>
+<sentence>稲作によって人びとの生活はぐんとゆたかになってきました。</sentence>
+<sentence>鉄器や<ruby rubyText="せい">青</ruby><ruby rubyText="どう">銅</ruby>器（<ruby rubyText="どう">銅</ruby><ruby rubyText="けん">剣</ruby>や<noteMarker text="＊" /><ruby rubyText="どう">銅</ruby><ruby rubyText="たく">鐸</ruby>など）も伝わり、いろいろな道具を使って土地をたがやしたり、<ruby rubyText="いし">石</ruby><ruby rubyText="ぼう">包</ruby><ruby rubyText="ちょう">丁</ruby>で稲を収穫したりしました。</sentence>
+<sentence>この時代の土器（弥生土器）は形もすっきりし、焼きもかたくなっています。</sentence>
+<sentence>やがて、各地に<ruby rubyText="ごう">豪</ruby><ruby rubyText="ぞく">族</ruby>や王も生まれ、社会のようすも大きく変わっていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊銅鐸…弥生時代の青銅器の一つで、つりがねのような形をしている。</sentence>
+<sentence>祭りの道具として用いられたらしい。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</abstract>
+<titleBlock>
+<title>
+<sentence>Ｑ１　縄文時代と弥生時代は、土器の形がちがうだけですか。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ａ１　土器の形もちがいますが、それよりも生活がまったく変わりました。</sentence>
+<sentence>縄文時代は<ruby rubyText="しゅ">狩</ruby><ruby rubyText="りょう">猟</ruby>と<ruby rubyText="さい">採</ruby><ruby rubyText="しゅう">集</ruby>の生活ですが、弥生時代には<ruby rubyText="のう">農</ruby><ruby rubyText="こう">耕</ruby>の生活がはじまります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　弥生土器がはじめて発見されたのは一八八四年のことです。</sentence>
+<sentence>東京大学の北、文京区弥生町でみつかったので弥生土器と名づけられました。</sentence>
+<sentence>この弥生土器が使われていた時代が、縄文時代とはちがう稲作の時代であることをあきらかにしたのは、<ruby rubyText="もり">森</ruby><ruby rubyText="もと">本</ruby><ruby rubyText="ろく">六</ruby><ruby rubyText="じ">爾</ruby>という人です。</sentence>
+<sentence>この人の学歴は旧制中学卒<sampling type="end" />業だけですが、中学生のころから田畑やみぞでひろった石器や土器に興味をもちはじめ、小学校の教員をしながら考古学の勉強をしていました。</sentence>
+</paragraph>
+</article>
+</sample>

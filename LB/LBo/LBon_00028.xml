@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBon_00028" version="1.0" type="fixedLength">
+<article articleID="LBon_00028_F001">
+<paragraph>
+<sentence>最近でも，火力発電，原子力発電を問わず電気を得るためには，結局蒸気タービンを回して発電するのであるから，<sampling type="start" />水蒸気の重要性はきわめて大きい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　植物は，水と二酸化炭素ＣＯ<subScript>２</subScript>から炭水化物を光合成しながら成長する．</sentence>
+<sentence>水は森林の維持，農業，牧畜など地球上の生物の生命のもとである．</sentence>
+<sentence>火星など，ほかの天体にも水が発見されてはいるが，これほど豊富な水の存在は，酸素ガスとともに今のところ地球という惑星にのみ見られることである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水は溶媒として最も広範に使用され，多くの親水性物質を溶解する．</sentence>
+<sentence>とくに塩化ナトリウムＮａＣｌのようなイオン結合による化合物の溶解度が大きく，解離したイオンが水和した形で分散している（図）．</sentence>
+<sentence>水は多くの物質を溶かすことで，すべてを洗い流す．</sentence>
+<sentence>身のまわりをきれいにするのはよいのだが，ご存じのように，工業廃水，生活排水が深刻な環境汚染を引き起こして，動植物，人類の生存を脅かしている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水素のかわりに重水素Ｄ（あるいは<superScript>２</superScript>Ｈ）からなる化合物Ｄ<subScript>２</subScript>Ｏが重水である．</sentence>
+<sentence>原子炉で減速材として多量に使用される．</sentence>
+<sentence>重水は，水の中に０．０１５６％含まれるので，電気分解などで分離する．</sentence>
+<sentence>重水素と水素は同位体であるので，化学的性質はひじょうに似ているが，ほかの元素の同位体と異なり，原子量が約２倍もあるので，物理的性質の差は相当大きい．</sentence>
+<sentence>たとえば，水の融点，沸点は０℃と１００℃であるが，重水では３．８１℃と１０１．４２℃である．</sentence>
+<sentence>また，２５℃での密度も水が０．９９７０ｇ／ｃｍ<superScript>３</superScript>，重水が１．１０４４ｇ／ｃｍ<superScript>３</superScript>である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">水分子</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">免疫抑制剤</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ｉｍｍｕｎｏｓｕｐｐｒｅｓｓｉｖｅ　ｄｒｕｇ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　免疫とは，細菌やウイルスなどの病原体が体内に侵入したり，がん細胞が発生することを監視し，それらを排除して生体を維持する防御システムである．</sentence>
+<sentence>この免疫を抑制する薬が免疫抑制剤である．</sentence>
+<sentence>自分の身体と異物，すなわち自己と非自己を厳密に識別することが免疫の特徴である．</sentence>
+<sentence>免疫の異常により起こる膠（こう）原病などの自己免疫疾患の治療や，異物といえる他人の臓器を移植する場合に免疫抑制剤が使用される．</sentence>
+<sentence>近年，臓器移植が可能になったのはシクロスポリンＡやタクロリムス（ＦＫ５０６）といった強力な免疫抑制剤が見出されたことも一つの要因である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　シクロスポリンＡは，１９７０年にノルウェーの土壌から採取された真菌の代謝産物である．</sentence>
+<sentence>１１個のアミノ酸が環状につながった分子量１２０２の化合物である．</sentence>
+<sentence>一方，タクロリムスは，１９８４年に筑波山麓の土壌から採取された放線菌の代謝産物であり，分子量８２２の化合物である．</sentence>
+<sentence>構造がまったく異なるにもかかわらず（図），二つの薬はひじょうによく似た免疫抑制作用を示す．</sentence>
+<sentence>シクロスポリンＡはシクロフィリンＡというタンパク質と，タクロ<sampling type="end" />リムスはＦＫ５０６結合タンパク質１２（ＦＫＢＰ１２）と細胞内で結合する．</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn0_00011" version="1.0" type="fixedLength">
+<article articleID="LBn0_00011_F001">
+<paragraph>
+<sentence>　これで、Ｆｏｒｍ１で［Ａｒｅａ］‐［Ｅｄｉｔ］を実行すると、そのときに選択されている領域<sampling type="start" />のデータを記入した状態でＦｏｒｍ２が開くようになりました。</sentence>
+<sentence>ＬＩＳＴ１の<quote>「´＊＊」</quote>を削除して、実行してみてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＬＩＳＴ１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＬＩＳＴ２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＬＩＳＴ３</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">領域の形を変更する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　次に、領域の形を変更できるようにしましょう。</sentence>
+<sentence>Ｃｏｍｂｏ１をクリックすると、図３のようにリストがドロップダウンします。</sentence>
+<sentence>ここで選んだものに合わせて領域の形を変えられるようにします。</sentence>
+<sentence>これがＬＩＳＴ４です。</sentence>
+<sentence>こちらもＦｏｒｍ２に追加してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＣｏｍｂｏＢｏｘコントロールをドロップダウンリストとして使うときには注意が必要です。</sentence>
+<sentence>ドロップダウンリストでは、ＣｏｍｂｏＢｏｘの表示内容が変化してもＣｈａｎｇｅイベントは発生しません。</sentence>
+<sentence>ドロップダウンしたリストの中から何かを選んだときに発生するＣｌｉｃｋイベントを使って処理を行います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プログラムは、まず最初に大域変数ｉｎＩｎｉｔをチェックし、それがＴｒｕｅなら何も処理をせずに終了します。</sentence>
+<sentence>これは、ドロップダウンリストではＬｉｓｔＩｎｄｅｘプロパティを変化させたときにも、Ｃｌｉｃｋイベントが発生してしまうからです（まさにｓｅｔＰａｒａｍプロシージャでやっていることです）。</sentence>
+<sentence>ｓｅｔＰａｒａｍで領域の情報を設定しているときには、Ｃｌｉｃｋイベントが発生しても何もしないように、大域変数ｉｎＩｎｉｔを使って処理を分けているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　情報を設定中でないときには、Ｃｏｍｂｏ１のＬｉｓｔＩｎｄｅｘによって処理を分けます。</sentence>
+<sentence>ここでは、［Ｃａｎｃｅｌ］ボタンがクリックされた場合に備えて、まだ領域の形を変更せずにおき、ＣＯＯＲＤＳ情報の変更のみ行います。</sentence>
+<sentence>すでにＦｏｒｍ１に、現在の領域の位置と形から座標データを生成するｍａｋｅＣｏｏｒｄｓ関数を作ってありますので、これを使うのが簡単です。</sentence>
+<sentence>ＣＯＯＲＤＳ情報は次の手順で得ます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">１）対象となるＳｈａｐｅコントロールの形を保存</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２）一時的に指示された形に変更</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３）その状態で座標データを得る</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４）Ｓｈａｐｅコントロールの形を元に戻す</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　Ｓｈａｐｅコントロールは形（Ｓｈａｐｅプロパティ）を変えても位置とサイズ（Ｌｅｆｔ、Ｔｏｐ、Ｗｉｄｔｈ、Ｈｅｉｇｈｔプロパティ）は変わりません。</sentence>
+<sentence>ここでパタパタ形を切り替えても、元の形に戻せば元の座標が再現されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　領域の位置とサイズは、ＣＯＯＲＤＳ欄のデータを直接書き換えても変更することができます。</sentence>
+<sentence>半径５０ピクセルの円にしたいとか、決めた座標にぴったり長方形を置きたいという場合には、この方法が便利です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これで領域の形を変更できるようになりましたので、次に［ＯＫ］ボタンのプロ<sampling type="end" />グラムを作り、設定を領域に反映できるようにしてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

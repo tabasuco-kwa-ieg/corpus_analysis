@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo7_00021" version="1.0" type="fixedLength">
+<article articleID="LBo7_00021_F001">
+<paragraph>
+<sentence>　黒<image description="囲碁マーク" no="1" />のサガリがある形では、黒１以下７までコウ<sampling type="start" />ではなく無条件。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【参考図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第１０問</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">黒先コウ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">攻め合いは早い者勝ちだが</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒント　身を捨ててこそ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　普通は黒１のトビがバランスよい形に見える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自身の安定と相手への攻めの中間というわけだが、白２のワリ込みの手筋が早く失敗案。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">正解起手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一見早過ぎて危険な感じの黒１のツケが、身を捨ててこそ浮上のチャンスありの緊急手筋。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解起手図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">正解進行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　白１、３の出切りはこの一手だが、黒４のアテは隅の特殊性を生かした反撃の手筋で黒６までの二段コウ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解進行図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">変化図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　白１のサガリには当然黒２でコウ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかしこのコウは一手で解決。</sentence>
+<sentence>白は前図進行が有利。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【変化図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第１１問</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">黒先コウ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">完全な生き形に見えるが、烈手あり</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒント　石の下</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　常識的な黒１のハネ攻めは不成功。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白２と広さ確保の守り、続いて黒３、５とナカ手攻めにも白４以下正しく応じられてうまくいかない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">正解起手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１ツケが起手。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　鬼手の表現がピッタリのすごいねらいを秘めた読み満載手筋。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解起手図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">正解進行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　結論から言えば、白１のオサエに黒２でコウに。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白１と妥協しなければならないのが鬼手のゆえん。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解進行図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　白１のさえぎりには、黒２からの攻めが強烈で白９の四子取りの跡に黒６の点に石の下の手筋が飛ぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【参考図】　<enclosedCharacter description="●">１０</enclosedCharacter>（６）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第１２問</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">黒先コウ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ただ生きは無理ならコウねばり</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒント　やや狭めて</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　黒１のカケツギはこの形では成立しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白２、４で簡単に取られてしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　右側の白の封鎖にダメが空いていれば黒１が正解手。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">正解起手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１とやや狭めのカケツギがねばりの好手。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　タダ生きなしと判断すればこの手に到達するはず。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解起手図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">正解進行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　白１のアテ攻めにはもちろん黒２でコウはじき。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ白はコウ争い中、一度ａにツぐ余裕がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解進行図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">失敗図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１と広げて生きようというのは虫がよすぎる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白２が白先黒死の手筋で白６までウッテガエシに。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【失敗図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第１３問</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">黒先コウ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">簡単に考えると妙手にギャッ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒント　へこみ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　黒１でよしと簡単に即断は読み不足。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　白２を利かされ、続いて白４の妙手にギャッとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　死活に限らないが、相手の手筋への対応は怠りなく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">正解起手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１のマゲがネバリある好手。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対し白もまた好手で応じ、結果はコウ争い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解起手図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">正解進行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　白１の切りがオイオトシの筋を消す手筋。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　黒２を待って白３のツケからコウ争い開始。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【正解進行図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">失敗図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　黒１の拡大策でよしと見えそうだが、白２の切りから白４のツケ、６のアテの連携手筋でアウト。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【失敗図】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第１４問</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">黒先コウ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">隅は一眼、辺で必死の事件画策</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ヒント　ホウリコミとハネ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">参考図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　何かありそうと衝動的に黒１とホウリコミ<sampling type="end" />さらに３とアテても事件の気配なし。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

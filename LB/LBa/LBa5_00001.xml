@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa5_00001" version="1.0" type="fixedLength">
+<article articleID="LBa5_00001_F001">
+<figureBlock>
+<caption>
+<paragraph>
+<sentence>　８連装のＡＳＲＯＣ（アスロ<sampling type="start" />ック）対潜ミサイル発射機。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">レーダー／ソナー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　艦艇の目となり耳となるレーダー、ソナーなどのセンサー類は水上艦、潜水艦にとってきわめて重要な装備である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　駆逐艦以上の大型水上艦艇には遠距離捜索用の二次元対空レーダー、高度測定用の三次元レーダー、水上目標捜索、航海用の対水上レーダー、艦砲・ミサイルの目標捕捉、追尾用の射撃指揮レーダーが装備されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　遠距離捜索用の二次元レーダーは指向性の強い電子ビームを全周三六〇度走査し、目標の方位、距離を測定するもので、大型艦艇に搭載されている大出力レーダーの探知距離は一、〇〇〇キロメートルに達するといわれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　三次元レーダーは目標の方位、距離、高度を測定するもので、垂直面走査に高速の電子式周彼数走査を採用し、水平面の走査は、二次元レーダーと同じくアンテナ全体を垂直軸周りに機械的に回転させ、方向角三六〇度全周を走査するもので、目標探知のみをなす。</sentence>
+<sentence>自艦の発射した対空ミサイルの追尾も可能であり、対空ミサイル搭載艦にとって不可欠の装備となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最も進歩した対空レーダーは、フェーズド・アレイ・レーダーで米海軍の最新ミサイル巡洋艦タイコンデロガ級に装備されている。</sentence>
+<sentence>このレーダーは多目的位相配列型レーダーとも呼ばれており、縦方向に扇状ビームを形成させ、横方向に電波位相をずらせて電子走査するもので、艦橋構造物の四面に巨大なフェーズド・アレイ・レーダーアンテナを装着し、一面で九〇度の方位角を分割走査する事により三六〇度の走査を行なう事が出来る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　タイコンデロガ級に装備されたフェーズド・アレイ・レーダーは米海軍のイージス・システム用に開発されたもので、このシステムは同時に一〇〇個以上の空中目標の探知、敵味方識別が可能であり、複数の対空ミサイルの目標誘導、追尾も可能な多機能レーダーである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水上艦艇用のソナーは、潜水艦をできるだけ遠距離から探知するため、大出力アクティブ／パッシブ・ソナーが一般的に使われており、自艦の発生するノイズの影響を極力少なくするため、近年バウ（船首）ソナーが広く採用されている。</sentence>
+<sentence>曳航可変深度ソナーＶＤＳも広く対潜艦艇に装備されているが、最近ＶＤＳのかわりにハイドロフォン・アレイを装着曳航する、パッシブ式の戦術曳航ソナーＴＡＳＳの開発装備が進められている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">艦艇研究家　梅野和夫</sentence>
+<br type="automatic_original" />
+</authorsData>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>スタンダード対空ミサイルの誘導レーダーＳＰＧ‐５１。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBa5_00001_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">１３　世界の水上艦艇</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">各国海軍現用艦の全容</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>大洋の王者・攻撃空母、威風堂々と四囲を威圧する戦艦／巡洋戦艦―。</sentence>
+<sentence>これらはむろん大洋艦隊の花形である。</sentence>
+<sentence>しかし、現代海軍で圧<sampling type="end" />倒的に多数を占める戦闘艦は、巡洋艦、駆逐艦、フリゲートなどと呼ばれる艦種だ。</sentence>
+</abstract>
+</article>
+</sample>

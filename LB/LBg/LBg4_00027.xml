@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00027" version="1.0" type="fixedLength">
+<article articleID="LBg4_00027_F001">
+<paragraph>
+<sentence>　ここで<sampling type="start" />問題になるのは，光合成による光エネルギー利用の効率である．</sentence>
+<sentence>これを求めるには，次式の光量子数ｎを知る必要がある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>二酸化炭素と水からグルコースが生成されるときのΔＧ°´は６８６ｋｃａｌである．</sentence>
+<sentence>この１／６の１１４ｋｃａｌが，１分子のＣＯ<subScript>２</subScript>を（ＣＨ<subScript>２</subScript>Ｏ）に還元するのに必要なエネルギー量である．</sentence>
+<sentence>７００ｎｍの波長の光のエネルギー量である．</sentence>
+<sentence>７００ｎｍの波長の光のエネルギーは，１ｍｏｌあたり４２ｋｃａｌであるので，効率が１００％とすると，ｎ＝３となる．</sentence>
+<sentence>光合成のさいに利用される光の測定が技術的に困難なため正確な値はわかっていないが，実験的にはｎ＝８が妥当と考えられている．</sentence>
+<sentence>すると，効率は３８％となり，かなりの高い効率である．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　光合成の最終産物であるブドウ糖など炭素化合物の合成は，次節で述べるような，ストロマ中で進行する暗反応によってなされる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">６‐５　光合成の暗反応</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　光合成の暗反応とは，明反応で生成されたＮＡＤＰＨとＡＴＰを用いて，二酸化炭素を固定し炭素化合物（有機物）を合成する過程である．</sentence>
+<sentence>炭酸固定ともいわれる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　暗反応の複雑な一連の反応系は還元的ペントースリン酸回路といわれ，発見者カルビン（１９１１―）の名をとってカルビン回路ともよばれる．</sentence>
+<sentence>単細胞藻類の緑藻に放射性重炭酸塩を加え，数秒光を照射する実験から，二酸化炭素から最初にできる産物は３‐ホスホグリセリン酸であることがわかった．</sentence>
+<sentence>これは解糖の中間体の一種類である（→図５‐２）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　二酸化炭素からブドウ糖（Ｄ‐グルコース）が合成される経路は複雑である（図６‐９）．</sentence>
+<sentence>カルビン回路の主役を演ずる酵素はリブロース‐１，５‐二リン酸カルボキシラーゼであり，これは葉緑体の全タンパク質の１６％を占めている．</sentence>
+<sentence>次のような反応を触媒する酵素で，クエン酸回路でのクエン酸シンターゼの役割に匹敵する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>五炭糖（炭素原子を５個もつ糖）１分子に二酸化炭素１分子が結合し，生成物は加水分解されて三炭素化合物２分子が生ずる．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　３‐ホスホグリセリン酸はグリセルアルデヒド‐３‐リン酸に変えられ，葉緑体膜から細胞質ゾル中に出されてからフルクトース‐１，６‐二リン酸になり，グルコースがつくられる．</sentence>
+<sentence>フルクトース‐１，６‐二リン酸はホスファターゼによってフルクトース‐６‐リン酸となり，これがグルコース‐６‐リン酸に変えられる．</sentence>
+<sentence>さらにこれはホスファターゼによってグルコースとなる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　６分子の二酸化炭素と６分子のリブロース‐１，５‐二リン酸から出発して，１サイクルののち１分子のグルコースと６分子のリブロース‐１，５‐二リン酸を生ずる．</sentence>
+<sentence>そのさい，１８分子のＡＴＰと１２分子のＮＡＤＰＨを消費する．</sentence>
+<sentence>この過程<sampling type="end" />にリブロース‐１，５‐二リン酸カルボキシラーゼをはじめ，１４種類の酵素が関与する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

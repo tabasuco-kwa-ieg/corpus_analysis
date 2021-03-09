@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00008" version="1.0" type="fixedLength">
+<article articleID="LBn5_00008_F001">
+<noteBody>
+<sentence type="quasi">６．ドイツ・特<sampling type="start" />許６２０，５３８（１９３２）</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　物体空間で半画角が９０度までのレンズの場合、９０度の光束に対しては入射瞳（絞りの像＝訳注：絞りの前にあるエレメントによる絞りの像）を傾けなければ光がそのレンズに入らないことになる。</sentence>
+<sentence>図１０．５のミヤモトのレンズにおいても、光軸から４５度と９０度の光束に対する入射瞳の位置を図示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　タル型の歪曲のため、画像の周辺部において像が重なり照度があがる。</sentence>
+<sentence>一般に像面の照度分布に関係するファクターは四つある。</sentence>
+<sentence type="quasi">すなわち、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（ａ）口径食：レンズの口径により斜めの光束の周辺部が削られる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｂ）コサイン４乗の法則：像面の周辺のほうが中央よりもレンズから遠い</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｃ）絞りの歪曲：斜めな光束に対して入射瞳がある場合には小さくなり、ある場合には大きくなる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（ｄ）像面の歪曲：糸巻き型では像面の周辺部が暗くなり，タル型では明るくなる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　他の影響がなければ像高が次式のサイン則に従う場合、像面照度は一定である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　その他の場合は像面歪曲が照度分布に影響を与えるが、タル型の歪曲は常に上述の三つの欠点を補うほどの力がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　魚眼レンズは焦点距離が短いので被写界深度は非常に深い。</sentence>
+<sentence>例えば８ｍｍＦ２．８のレンズの入射瞳直径は僅か３ｍｍで、カメラを被写体にかなり近づけてもピントは大丈夫である。</sentence>
+<sentence>また、魚眼レンズの遠近感は特別で普通の室内を撮影しても写真では非常に奥行きのある部屋に見える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二次大戦中に、ツァイス社はプレオン（Ｐｌｅｏｎ）という航空カメラ用の広角レンズを開発した（図１０．８、原注７）。</sentence>
+<sentence>画角は±６５度で、タル型歪曲が相当あり、それを除くためにネガをプリントするとき、特殊な歪んだプリンターを使ったとガードナー（Ｇａｒｄｎｅｒ）が語っている（原注８）。</sentence>
+<sentence>事実、プレオンの像高はサイン則によらず魚眼則に従っているため、照度は必ずしも一定ではないが、歪曲がなくなるのであればそのほうが良いであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">７．ドイツ・特許７２２，５１９、アメリカ・特許２，２４７，０６８（１９３８）</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence type="quasi">８．Ｉ．Ｃ．ガードナー及びＦ．Ｅ．ウォッシャー『航空地図作成用の超広角レンズ』米国規格標準局研究報４０号、９５ページ、及び同資料１８５８ページ　Ｉ．Ｃ．Ｇａｒｄｎｅｒ　ａｎｄ　Ｆ．Ｅ．Ｗａｓｈｅｒ“Ｌｅｎｓｅｓ　ｏｆ　Ｅｘｔｒｅｍｅ　Ｗｉｄｅ　Ａｎｇｌｅｆｏｒ　Ａｉｒｐｌａｎｅ　Ｍａｐｐｉｎｇ”Ｊ．Ｒｅｓ．ＮＢＳ４０，９５（１９４８），Ｒｅｓ．Ｐａｐｅｒ１８５８</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１０．５　１９６４年のＫ．ミヤモトの設計、傾いた入射瞳も示す</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１０．６　ヒルのスカイ・レンズ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１０．７　ＡＥＧの魚眼レンズ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１０．８　ツァイスの航空写真用プレオン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅲ．ビオゴン型</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第二次大戦後の新型レンズ<sampling type="end" />に関する最も重要な発明の一つは、逆望遠を２個背中合わせにしたようなレンズで、中央に小型の凸の部品を置き、両端に１個または複数の大型凹メニスカスを置いてほぼ対称型になっている。</sentence>
+</paragraph>
+</article>
+</sample>

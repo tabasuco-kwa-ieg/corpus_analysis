@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs7_00005" version="1.0" type="fixedLength">
+<article articleID="LBs7_00005_F001">
+<titleBlock>
+<sentence>筋肉のエネルギー源を急速チャ<sampling type="start" />ージ！</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">６</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">試合の直前期　後半のメニュー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">炭水化物はたっぷりと、タンパク質は<quote>「少量多品目」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　いよいよグリコーゲンローディングの後半期。</sentence>
+<sentence>グリコーゲンの元である炭水化物をたっぷり摂りたい時期です。</sentence>
+<sentence>調理法や味つけなどにも工夫をして、ごはんが進むおかずを考えてみました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この時期は、摂取できるタンパク質の量が少なくなります。</sentence>
+<sentence>そのため食材の種類が少なくなりがちですが、全体量が少なくても、<quote>「さまざまな食材からタンパク質を摂る」</quote>ことは、心がけておきたいものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　炭水化物を多く摂る際には、柑橘系の果物や梅干をいっしょに摂ると、クエン酸の働きでグリコーゲンの貯蔵を促進してくれるのでおすすめです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">材料はすべて１人分</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">主食</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">雑穀入りごはん</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+</listItem>
+<listItem>
+<sentence type="quasi">主菜</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">バーベキューポークコールスロー敷き</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">［レシピ］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>豚肉は軽く塩・こしょうをして下味をつけ、漬けダレをすり込み、数時間冷蔵庫で漬け込む。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>皮付き<correction originalText="き" type="excess"></correction><correction originalText="き" type="excess"></correction>ポテトはトースターでこんがり焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>キャベツ、ニンジン、ピーマンは千切りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>フライパンで油を熱し、豚肉を焼き、そこに皮付きポテト、漬けダレを加え、全体をからめる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>器に野菜を混ぜ合わせたものを敷いて、その上に炒めたものを盛る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">副菜</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">マグロの青ノリパン粉焼き</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">［材料＆レシピは次ページに］</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">副々菜</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">コマツナと鶏肉のお浸し</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">［レシピ］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>コマツナは湯でゆでて、流水にとって絞り、５ｃｍ幅に切る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>ササミは筋をとり、耐熱皿に乗せて酒をふり、加熱する。</sentence>
+<sentence>粗熱が取れたら、細かくほぐす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>コマツナと鶏肉を合わせ、だし、醤油、みりんで和える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">汁もの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">根菜味噌汁</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">［レシピ］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>サツマイモとニンジンはいちょう切り。</sentence>
+<sentence>レンコンとゴボウは乱切りにして酢水につける。</sentence>
+<sentence>干しシイタケはたっぷりの水で戻し、スライスする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>鍋にレンコン、ゴボウ、ニンジン、だし、シイタケの戻し汁を入れて火にかけ、沸騰したら、シイタケ、サツマイモ、大豆を加えて、あくを取る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>最後に味噌を加え、器に盛り、アサツキを散らす。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">フルーツ…グレープフルーツ１００ｇ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">副菜</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">マグロの青ノリパン粉焼きのレシピ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>トレイのなかは、薄力粉、小麦胚芽、パン粉。</sentence>
+<sentence>青ノリ、チーズのほかに、チリパウダー（上の写真の赤い粉）を混ぜてもよい。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>衣の材料（<enclosedCharacter description="○">１</enclosedCharacter>）を混ぜ合わせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>マグロは１ｃｍ程の厚さに切る。</sentence>
+<sentence>水気をしっかり拭き取ったあと、軽く塩・こしょうをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>次に卵液をつけてから、<enclosedCharacter description="○">２</enclosedCharacter>を全面にしっかりつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>フライパンでこんがり焼いたら、器に盛り、くし型に切ったレモンを添える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">７</sentence>
+<br type="automatic_original" />
+<sentence>ダメージを受けたカラダを回復させよう！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">試合後のメニュー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">疲れたカラダでもしっかり食べられる工夫を</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　試合が終わったあとは、解放感や疲労感から<sampling type="end" />、きちんとした食事を摂りそびれてしまいがちです。</sentence>
+</paragraph>
+</article>
+</sample>

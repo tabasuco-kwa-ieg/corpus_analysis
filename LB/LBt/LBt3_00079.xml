@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00079" version="1.0" type="fixedLength">
+<article articleID="LBt3_00079_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　１種類の製品を製造する場<sampling type="start" />合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　木製の机を製造している会社がある。</sentence>
+<sentence>経営者は，中間生産物である塗装前の机を販売するか，あるいは，さらに加工（塗装）するかどうかを決定しなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この例では，<quote>「やすりがけと塗装」</quote>を行うために，追加費用が２，４００円かかると予想されている。</sentence>
+<sentence>製品としては，塗装後販売されるべきであるが，塗装前に販売する場合には，販売価格，貢献利益とも小さくなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　結合生産物を製造する場合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　共通する投入から，同時に２種類以上の生産物が生産される場合，これらの生産物を結合生産物という。</sentence>
+<sentence>たとえば，原油から抽出される灯油，ガソリン，軽油などが結合生産物の例である。</sentence>
+<sentence>結合生産物の分離点以前の段階で発生する結合原価は埋没原価である。</sentence>
+<sentence>これは結合生産物を販売するか，さらに加工するかという決定に無関連の原価である。</sentence>
+<sentence>分離点以降に発生する代替的コストが関連原価である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">限られた資源の利用</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　組織目標を達成するために，マネジャーは，資源の有効な配分を考える。</sentence>
+<sentence>小売店の棚の面積，工場の機械運転時間や労働者の労働時間は，限られた資源の例である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　利益を追求する組織は，限られた資源の単位当たり貢献を最大化するようなやり方で資源を配分すべきである。</sentence>
+<sentence>以下の事例では，Ａ，Ｂ，Ｃという３つの製品を生産している会社で，週１２０時間までしか使用できない機械１台を使用して製品を生産する場合を想定している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表３‐４のように，単位販売価格はＡが最大である。</sentence>
+<sentence>貢献利益はＢが最大である。</sentence>
+<sentence>表３‐５のように，機械運転時間当たり貢献利益は，Ｃが最大である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いま，制約要因となっているのは時間である。</sentence>
+<sentence>時間当たり貢献利益を最大化するというルールに従えば，Ｃを選択することになるだろう。</sentence>
+<sentence>なぜならば，表３‐６の計算のように，１週間の貢献利益の総額はＣが最大になるからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，話はこれで終わりではない。</sentence>
+<sentence>たしかに短期的利益を極大化するためには，これでよいかもしれない。</sentence>
+<sentence>しかし，マネジャーは，貢献利益の最大化だけで意思決定するとは限らない。</sentence>
+<sentence>長期的に利益を上げ続けるためには，数人のお得意様に継続的に製品を買い続けてもらわなければならない。</sentence>
+<sentence>そのためには，彼らが欲しがる薄利の製品ＡやＢもつくるほうがよいと判断するかもしれないからである。</sentence>
+<sentence>また，品揃えの多いほうが顧客が来る可能性があり，長期的には，Ｃだけ生産する場合よりは，Ａ，Ｂの売上個数が増えたり，貢献利益の高いＣの売上個数も将来的に増える可能性があるからである。</sentence>
+<sentence>もちろん，それらの需要に応えるためには，新たな設備投資をする必要があるかもしれない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａの貢献利益は１２０，０００円であり<sampling type="end" />，Ａだけを生産する場合には，Ｃの貢献利益６００，０００円を失うことになり，これが機会原価である。</sentence>
+</paragraph>
+</article>
+</sample>

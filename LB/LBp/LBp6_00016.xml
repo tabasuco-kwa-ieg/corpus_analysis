@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp6_00016" version="1.0" type="fixedLength">
+<article articleID="LBp6_00016_F001">
+<abstract>
+<sentence>ワープロ、表計算、グラフィック、ホームページ作成ソフトの中で<sampling type="start" />も、身近なソフトを使ってホームページを作成する手順を解説します。</sentence>
+<sentence>基本的なホームページなら、これだけで作成可能です。</sentence>
+<br type="automatic_original" />
+</abstract>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワードでホームページを作る</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">ワープロで作成した文章をＨＴＭＬで保存する</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ホームページはワープロでも作成できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ワープロは紙への印字が目的と前述しましたが、紙にしか印字できないという意味ではありません。</sentence>
+<sentence>画面内に紙の印象があるだけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ワープロも含め、コンピュータの技術は、急速に進歩しています。</sentence>
+<sentence>視点を変えれば、ワープロソフトのほとんどは、ホームページ作成機能を備えています。</sentence>
+<sentence>インターネットへ印刷（出力）するとも考えられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　誰もがワープロぐらい使えると考えています。</sentence>
+<sentence>言葉や文章を入力するだけと考えれば、当然できると思うのです。</sentence>
+<sentence>しかし、インターネットに出力する場合、文字だけのページでは、物足りません。</sentence>
+<sentence>ここでは、画像も含めた処理の手順を解説します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">日本語ワープロの凄さと悲しさ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ローマ字やカナで入力された文章を、漢字に変換する日本語ワープロは、かなり進んだコンピュータ技術です。</sentence>
+<sentence>アルファベット文化圏では、カナの意味を解析して変換する必要はありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように優れた変換プログラムがあるばかりに、日本語ワープロは、文字入力と変換を中心とした清書マシンのように扱われてきました。</sentence>
+<sentence>現在でも、豊富な機能を持つワープロソフトで文字入力主体の人も大勢います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大半の機能は使わないと豪語する人もいます。</sentence>
+<sentence>ただし、多くは利用法がわからないというのも本音でしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ワープロとインターネットショップの位置は似ている</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インターネットショップを始めるなら、思い込みに対しては、客観的に別の視点で捉える習慣をつけると、ビジネスチャンスも広がります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ワープロを文字入力だけのもと思い込まないことは、インターネットもメール交換やホームページ閲覧が主体ではないという考えにつながります。</sentence>
+<sentence>ここから様々なアイディアも生み出せます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　インターネットの中には、無限のビジネスチャンスがあります。</sentence>
+<sentence>思い込みは、好機を逸します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ワープロソフトの特徴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　Ｗｅｂレイアウト表示でブラウザに近い状態で文書を作成する</sentence>
+<br type="automatic_original" />
+<sentence>ワープロソフトは、文字入力や文書作成を主体としたソフトだが、作成段階からブラウザに近い状態で、文書を作成することもできる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　文字のサイズや色、書体を変えて文書の体裁を整える</sentence>
+<br type="automatic_original" />
+<sentence>文字サイズや文字の色・書体の変更・罫線処理・背景の色などを設定して、文書の体裁を整えることができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　画像データを文書内に挿入する</sentence>
+<br type="automatic_original" />
+<sentence>文字データの処理だけでなく、インターネットショップで利用する<sampling type="end" />画像テータを文書内に挿入することもできる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00088" version="1.0" type="fixedLength">
+<article articleID="LBq3_00088_F001">
+<paragraph>
+<sentence>　この式の意味<sampling type="start" />は、資本市場線上のポートフォリオの期待収益率は、リスクの量に応じて決められるということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここまで説明した分散、標準偏差、相関係数、ポートフォリオなどの考え方が、ＣＡＰＭを学ぶための基礎的な知識です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図表３‐７　資本市場線</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＡＰＭとベータを理解する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　複数の証券に分散投資を行うことによって、リスクを低減できることが明らかになりましたが、実際の投資では、どのように分散投資を行おうとも、低減できないリスクが残ります。</sentence>
+<sentence>これは、完全に負の相関の証券は市場にはなく、どのようなポートフォリオを組もうとも、分散できないリスクがあるためです。</sentence>
+<sentence>この分散できないリスクはシステマティック・リスク（ｓｙｓｔｅｍａｔｉｃ　ｒｉｓｋ）と呼ばれます。</sentence>
+<sentence>これに対し、分散投資によって消去できるリスクはアンシステマティック・リスク（ｕｎｓｙｓｔｅｍａｔｉｃ　ｒｉｓｋ）と呼ばれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ポートフォリオ理論の<ruby rubyText="いしずえ">礎</ruby>を築いたマーコビッツとともに、一九九〇年にノーベル経済学賞を受けたシャープ（Ｗｉｌｌｉａｍ　Ｆ．Ｓｈａｒｐｅ）は、個別証券のリターンは市況全体の動きと何らかの関係を持って決まる部分と、固有の要因で決まる部分の二つに分けられると考えました。</sentence>
+<sentence>この市況全体の動きは前項のマーケットポートフォリオになりますが、これは証券全体からなるポートフォリオを想定するもので、実際には、日経平均や東証株価指数などの指数が代用されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ある証券のリターンをＲ<subScript>ｉ</subScript>とすると、このリターンはマーケットポートフォリオと関連して決まる部分と、証券固有の要因で決まる部分に分けられます。</sentence>
+<sentence>簡単に式で表せば次のようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　Ｒ<subScript>ｍ</subScript>はマーケットポートフォリオのリターンを、β<subScript>ｉ</subScript>はマーケットポートフォリオの変動に対して、当該証券がどのように変化するかを示す指数です。</sentence>
+<sentence>α<subScript>ｉ</subScript>は固有の要因で決まる数字です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マーケットポートフォリオのリターンは、市場というシステムによって作りだされるものです。</sentence>
+<sentence>このシステムが作りだすリスクは、分散投資をいかに行おうとも消すことはできません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、固有の要因で決まる部分は、完全に正の相関にあることはまずないでしょうから、分散投資によってリスクを軽減することが可能です。</sentence>
+<sentence>つまりアンシステマティック・リスクといえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マーケットポートフォリオでは分散投資が行われますので、固有の要因で決まるリスクは消去されます。</sentence>
+<sentence>つまり、分散投資を行っても消去できないリスクであるベータ（β）値が、各証券のリスクを表し、マーケットポートフォリオのリスクを構成していることになります。</sentence>
+<sentence>では、この個別証券の<sampling type="end" />リスクはどのようにして求めるのでしょうか。</sentence>
+</paragraph>
+</article>
+</sample>

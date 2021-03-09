@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq8_00011" version="1.0" type="fixedLength">
+<article articleID="LBq8_00011_F001">
+<paragraph>
+<sentence>　（１）　ジキルはジキルだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>という文（の表現する意義・思想）をタカシが真とみなし（承認し・判断し），主張するならば，われわれはタカシに次のような信念文を帰属で<sampling type="start" />きる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　（１ｂ）　ジキルはジキルだ，とタカシは信じる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　フッサールに先だってフレーゲは，言語的表現の意味（Ｂｅｄｅｕｔｕｎｇ）と意義（Ｓｉｎｎ）を区別し，また文法的には間接話法の形式をとる心的態度を表すさまざまな文脈について，先駆的な意味論的分析を与えている。</sentence>
+<sentence type="quasi">さてタカシが，次の文（２）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　（２）　ジキルはハイドだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>を真とみなさない，つまりジキルとハイドとが同一人物と知らないなら，次の（２ｂ）は偽である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　（２ｂ）　ジキルはハイドだ，とタカシは信じる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　だが，（２）が真である限り，外延的論理の同一性に関する次の公理（ライプニッツの<quote>「同一者不可識別の原理」</quote>ないし<quote>「代入則」</quote>），</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　（ＳＩ）　ａ＝ｂでａがＦならば，ｂもＦである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>により，（１ｂ）が真の場合には（２ｂ）も真のはずである。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　フレーゲは，通常の文脈での文の意味Ｂを真理値真または偽とみなしたから，（１）・（２）はともに真で，その通常の意味Ｂは同じである。</sentence>
+<sentence>にもかかわらず，（１ｂ）は真で（２ｂ）は偽だとすると，信念文のような心的態度に関わる文脈では，代入則が成り立たないように見える。</sentence>
+<sentence>これがフレーゲ・パズルである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対するフレーゲの回答は以下のごとくである。</sentence>
+<sentence>こうした間接話法的な文脈は，通常の文脈ではなく<quote>「間接的な（ｕｎｇｅｒａｄｅ）」</quote>文脈であり，（１）・（２）のような文が（１ｂ）・（２ｂ）のような間接的な文脈に従属節として埋め込まれると，（１）・（２）も<quote>「間接的な意味」</quote>をもつことになる。</sentence>
+<sentence>そして<quote>「信じる」</quote>のような動詞の場合には，その従属節の間接的な意味は，真理値ではなく，その通常の意義・思想と同一視される。</sentence>
+<sentence>（１）・（２）中の<quote>「ジキル」</quote>と<quote>「ハイド」</quote>は，通常の意味Ｂ（表示対象）は客観的には同一でも，タカシに与えられる仕方・意義が異なるので，タカシには同一人物とは信じられない。</sentence>
+<sentence>それゆえ，（１）・（２）の文の表す意義・思想は異なり，つまりは（１ｂ）・（２ｂ）中の<quote>「ジキル」</quote>と<quote>「ハイド」</quote>の間接的意味は互いに異なるから，（１ｂ）・（２ｂ）の真理値が変動しても，代入則には抵触しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このフレーゲの意味論的分析に現れているのは，<quote>「信じる」</quote>のような心的態度が，（表現の）意義・思想を介して（その表現の）通常の意味Ｂ（表示対象・真理値）へと関係するという，フッサールと類似の図式である。</sentence>
+<sentence><quote>「ジキル」</quote>や<quote>「ハイド」</quote>は現実の人物を表示しないから，（１）・（２）は真理値をもたないとみなされると，（１）・（２）は真偽いずれかであるようなフレーゲ的な〈思想〉を表現しない。</sentence>
+<sentence>しかしフレーゲは，それらが見かけ上の思想・意義は表現し，したがって信念文脈では間接的な意味をもち，（１ｂ）・（２ｂ）のような信念文も真理値をもつ，とみなした。</sentence>
+<sentence>しかし<sampling type="end" />フレーゲが取り上げたのは，もっぱら<quote>「言表についての信念」</quote>であって，<quote>「事象についての信念」</quote>をどう扱うかは触れられていない。</sentence>
+</paragraph>
+</article>
+</sample>

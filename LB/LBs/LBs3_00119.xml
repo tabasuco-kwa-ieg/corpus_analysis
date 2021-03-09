@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00119" version="1.0" type="fixedLength">
+<article articleID="LBs3_00119_F001">
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">第六二六条　寄託物ノ<sampling type="start" />滅失又ハ毀損ニ因リテ生シタル倉庫営業者ノ責任ハ出庫ノ日ヨリ一年ヲ経過シタルトキハ時効ニ因リテ消滅ス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　前項ノ期間ハ寄託物ノ全部滅失ノ場合ニ於テハ倉庫営業者カ預証券ノ所持人、若シ其所持人カ知レサルトキハ寄託者ニ対シテ其滅失ノ通知ヲ発シタル日ヨリ之ヲ起算ス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　前二項ノ規定ハ倉庫営業者ニ悪意アリタル場合ニハ之ヲ適用セス</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">注解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本条は、倉庫営業者の責任についての特別短期時効を定めている。</sentence>
+<sentence>商行為の特質からしてその期間は一年となっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、二項はこの時効の起算点を明確にするために滅失の通知を出した翌日から時効期間が始まることを規定する。</sentence>
+<sentence>この短期時効は悪意の倉庫業者には適用がない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">六二七条</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔倉荷証券について〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　倉庫営業者は、寄託者の請求があるときは、預かり証券および質入れ証券の代わりに、倉荷証券を交付しなければならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　倉荷証券については、預かり証券についての規定を読みかえて適用する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">第六二七条　倉庫営業者ハ寄託者ノ請求アルトキハ預証券及ヒ質入証券ニ代ヘテ倉荷証券ヲ交付スルコトヲ要ス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　倉荷証券ニハ預証券ニ関スル規定ヲ準用ス</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">注解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　五九八条　注解参照。</sentence>
+<sentence>なお、実際界においては、倉庫証券のほかに荷渡し指し図書（荷渡し依頼書・出荷指し図書等ともいわれる）が利用されているが、これには種々のものがあり法的性質も一様ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">六二八条</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔倉荷証券による一部返還〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　寄託者が倉荷証券によって寄託物の質入れをしたときには、債権者の承諾があれば、寄託者は債権の弁済期前でも寄託物の一部の返還を請求することができる。</sentence>
+<sentence>この場合には、倉庫営業者は、返還した物の種類、品質、数量を倉荷証券に記載したうえで、そのことを帳簿に記載しておかなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence type="quasi">第六二八条　倉荷証券ヲ以テ質権ノ目的ト為シタル場合ニ於テ質権者ノ承諾アルトキハ寄託者ハ債権ノ弁済期前ト雖モ寄託物ノ一部ノ返還ヲ請求スルコトヲ得此場合ニ於テ倉庫営業者ハ返還シタル寄託物ノ種類、品質及ヒ数量ヲ倉荷証券ニ記載シ且其旨ヲ帳簿ニ記載スルコトヲ要ス</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">注解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　寄託物全部の返還を求める場合には、質権者に債務の全部を弁済し倉荷証券の返還を受け、それによって全部返還を倉庫営業者に求めることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第一〇章　保険</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　人間の生活は、種々の偶然な事故によって常に脅かされており、これに対する不安が人間生活を暗いものにしている。</sentence>
+<sentence>これに対処する方法の一つとして、保険制度が存在する。</sentence>
+<sentence>つまり、保険に入ることによって、事故があっても経済的な損害をうめてもらえるという安心感を買うとともに、現実に損害が生じた<sampling type="end" />ならばこれをうめてもらえるというものである。</sentence>
+</paragraph>
+</article>
+</sample>

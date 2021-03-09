@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc1_00014" version="1.0" type="fixedLength">
+<article articleID="LBc1_00014_F001">
+<paragraph>
+<sentence>彼は四三二万を<quote>「『大気』『空』『虚空』『空虚』『ふたご』『ラーマ』『ヴェー<sampling type="start" />ダ』」</quote>と書いている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　七世紀には現代とほとんど同じゼロの概念がインドで固まっていたことは、バスカラと並ぶ高名な数学者・天文学者であるブラフマグプタの書物『ブラーフマ・シッダーンタ』（六二八年）をみれば明らかである<noteMarker text="（９）" />。</sentence>
+<sentence type="quasi">彼はこのなかで、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>どんな数にゼロをかけても結果はゼロである。</sentence>
+<br type="automatic_original" />
+<sentence>どんな数にゼロを加えたり引いたりしても結果は変わらない。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<sentence>といったよく知られたゼロの性質について語っている。</sentence>
+<sentence>ただし、彼は<quote>「ゼロをゼロで割ってもゼロである」</quote>とも、述べているが、これだけは間違いである。</sentence>
+<sentence>ゼロ割るゼロは<quote>「不定形」</quote>とよばれ、これはどんな数も表さない。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ゼロ言葉が登場した時期と、碑名からみたゼロの出現とは、三〇〇年ほどのずれがある。</sentence>
+<sentence>しかし、石碑などに書かれたゼロは、インドよりも一世紀ほど早い七世紀初めにインドの周辺地方ですでに現れている。</sentence>
+<sentence>たとえば、カンボジアではシャカ暦六〇五年（西暦紀元六八三年）と書かれた石碑がみつかっている。</sentence>
+<sentence>スマトラでもシャカ暦六〇五年、同六〇六年、同六〇八年と書かれた三枚の石碑がみつかっている<noteMarker text="（１）" /><noteMarker text="（９）" /><noteMarker text="（１０）" />。</sentence>
+<sentence>ただし、スマトラのゼロは、現代とおなじ丸い形をしているが、カンボジアのゼロはただの点である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『中国の科学と文明』のニーダムは、インドの周辺部で先にゼロが登場していることを重視して、ゼロの導入はインドと中国との文化的な交流の結果が生み出したものではないか、と示唆してこう言っている<noteMarker text="（１２）" /><noteMarker text="（１３）" />。</sentence>
+<sentence type="quasi"><quote><sentence>「インドの空（くう）の概念と、中国の道教の無の概念がゼロの発見にともに貢献したのかもしれない。</sentence>
+<sentence>ゼロがインド文化圏と中国文化圏との境界線上で最初に出現したということは、偶然の一致とは思えない。」</sentence>
+</quote></sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　中国ではインドより早く、すくなくとも紀元前三世紀の漢時代には十進法による位取り記数法が使われている<noteMarker text="（１）" />。</sentence>
+<sentence>中国では棒を位ごとに動かして計算する算板があって、この棒数字をそのまま筆記したのである。</sentence>
+<sentence>バビロニアと同じく、ゼロにあたる部分は空白をあけて区別されたが、混同は避けられなかったようだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　紀元前三〇〇年ごろは、中国はインドにとって拡大鏡の輸出国だった<noteMarker text="（９）" />。</sentence>
+<sentence>紀元二世紀のなかごろから五世紀になるとインドから中国を訪れる仏教徒の数が急増し、多くの仏典が翻訳されている。</sentence>
+<sentence><quote>「空」</quote>の概念を体系化した中観派の『中論』も五世紀前半の四〇九年に翻訳されている。</sentence>
+<sentence>逆に四〇五年から四一〇年には、中国側から法顕がインドとセイロンを旅行するなど、両国の交流は頻繁だった。</sentence>
+<sentence>ニーダムは、中国の算盤の空の桁からゼロ記号が工夫されたのだろうか、と推理している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし中国に関しては、インド出身の仏教徒で天文学者でもある瞿雲悉達が、西暦<sampling type="end" />七一八年から七二九年にかけて編集した天文学の本『開元占経』の記述が最も古いゼロの記録である。</sentence>
+</paragraph>
+</article>
+</sample>

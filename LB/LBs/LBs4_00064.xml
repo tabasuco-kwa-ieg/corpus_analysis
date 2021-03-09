@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs4_00064" version="1.0" type="fixedLength">
+<article articleID="LBs4_00064_F001">
+<list>
+<listItem>
+<sentence type="quasi">こしょう（<sampling type="start" />黒・白）　こしょうの実　チリペッパーフレーク　ピクルス　レリッシュ　シュカナット（甘味料）　マスタード（小麦と酢がはいっているもの）　チリパウダー〈○〉　ウインターグリーン（冬緑油）〈○〉</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">基本的な栄養補給のための食品</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">普通に食べてよいもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">オールスパイス　アーモンドエキス　アップルペクチン　キャラウェイ　ベルガモット　キャロブ（いなご豆）　アロールート　バジル　ベイリーフ　カルダモン　タマリンド　チョコレート　シナモン　クローブ　コリアンダー　クリームオブターター　チャイブ　カレー粉　メープルシロップ蜂蜜　ディル　ダルス（海藻）　フルクトース　ガラナ　スペアミント　セージ　サフラン　サラダドレッシング（体に合う材料を使ったもの）　ローズマリー　ナツメグ　オレガノ　マジョラム　かんぞうの根（リコリスルート）　マスタード（小麦入り・酢なし、小麦なし・酢入り）　クミン　ペパーミント　ジャム・ジェリー（体に合う材料を使ったもの）　セイバリー　バニラ　海塩　タイム　アニス　パプリカ　メイス　ステビア（甘味料）　タラゴン　醸造酵母〈◎〉　イースト（パン酵母）〈◎〉　砂糖（白・ブラウン）〈×〉　コーンシロップ〈×〉　コーンスターチ〈×〉　ライスシロップ〈×〉　マルトデキシトリン〈×〉　デキストロース〈×〉</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">各種飲料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ａ型で非分泌型の人は食事のときにはときどきワインを飲んでもかまいません。</sentence>
+<sentence>適量であれば心肺機能の向上にワインはとてもよいからです。</sentence>
+<sentence>緑茶は健康のために毎日飲むようにしましょう。</sentence>
+<sentence>Ａ型でカフェインに過敏に反応する人以外は、コーヒーを毎日一杯なら飲んでもかまいません。</sentence>
+<sentence>免疫系の機能をより効率的にする大豆に含まれる各種酵素がコーヒーにもはいっているからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<sentence>＊非分泌型の方の場合、食材の下の記号に従ってください。</sentence>
+<sentence>〈◎〉＝体によいもの、〈○〉＝普通に食べてよいもの、〈×〉＝避けたほうがよいもの、記号のないものは分泌型・非分泌型共通です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">プラン１（健康増進）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">体によいもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">緑茶　赤ワイン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">避けたほうがよいもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">炭酸飲料　蒸留酒　紅茶（カフェイン入り・カフェインなし）　セルツァー（気泡性天然硬水）〈○〉　クラブソーダ〈○〉</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">プラン２（病気克服）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">体によいもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">コーヒー（カフェイン入り・カフェインなし）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">避けたほうがよいもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ビール〈○〉</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">基本的な栄養補給のための食品</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">普通に飲んでよいもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">白ワイン〈◎〉</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ型の慢性疾患の療法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　各血液型にはかかりやすい病気があります。</sentence>
+<sentence>これからＡ型の病気、治療法、食事法の補足などについてお話ししていきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ａ型がかかりやすい消化器系の病気</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">バレット食道</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　バレット食道は胃食道逆流症（ＧＥＲＤ）が進展したものでがんになる可能性もあります。</sentence>
+<sentence>ＧＥＲＤそのものはＯ型によくみられるのですが、Ａ型がこの症状になると、リスクがずっと高くなります、慢性的なＧＥＲＤの患者の二〇パーセ<sampling type="end" />ントくらいがバレット食道になり、そのうち一〇パーセントくらいの人が食道がんや胃がんへと進行していく可能性があります。</sentence>
+</paragraph>
+</article>
+</sample>

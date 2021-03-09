@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00048" version="1.0" type="fixedLength">
+<article articleID="LBq5_00048_F001">
+<paragraph>
+<sentence>　日本が開発して提供するモジュール（ＪＥＭ：Ｊａｐａｎｅｓｅ　Ｅｘｐｅｒｉｍｅｎｔ　Ｍｏｄｕｌｅ）は<quote>「き<sampling type="start" />ぼう」</quote>と名付けられた（図１．１４）<noteMarker text="＊６" />．</sentence>
+<sentence>ＩＳＳは図１．１２に示す状態でｚ軸を地球の方向に向け，<quote>「きぼう」</quote>と欧州実験モジュールが先頭になってｘ軸方向に飛行する（<quote>「きぼう」</quote>は側面を進行方向に向けて地球表面に平行な状態で飛行する）．</sentence>
+<sentence>この状態をＬＶＬＨ（Ｌｏｃａｌ　Ｖｅｒｔｉｃａｌ　Ｌｏｃａｌ　Ｈｏｒｉｚｏｎｔａｌ）といい，ＩＳＳ飛行の基準状態である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊６　日本が開発して提供するものとして他に，生命科学実験施設，宇宙ステーション補給機（ＨＴＶ）もある．</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ＩＳＳは概括的には，トラス（ｔｒｕｓｓ）を中心として，中央部に米・日・欧の開発担当したモジュール群，後方にロシアのセグメントがあり，トラスの両端にちょうど翼を広げたような形で太陽電池アレイが，またその内側にラジェータが配置されている．</sentence>
+<sentence>トラスに沿ってカナダが開発担当した遠隔マニピュレータシステムが走行できるようになっている．</sentence>
+<sentence>１９９９年１１月２０日のコントロールモジュール（ＦＧＢ）打ち上げに始まり，２００６年４月までの間，米国スペースシャトル，ロシアのプロトンと合わせて５０回のフライトによって組み立てられる（２００１年１０月現在の計画で，その後の変更はありうる）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＩＳＳの主な構成要素の機能を表１．２に示し，図１．１２と関連させて以下に簡単な解説を加える．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ａ）トラス，太陽電池アレイ，ラジェータ（図１．１２の<enclosedCharacter description="○">１</enclosedCharacter><enclosedCharacter description="○">１３</enclosedCharacter><enclosedCharacter description="○">１４</enclosedCharacter><enclosedCharacter description="○">１５</enclosedCharacter>）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　トラス（ｔｒｕｓｓ）はＩＳＳの背骨に当たり，ＩＳＳ組み立て過程の中で順次長さを伸ばし，最終的には長さ１０８ｍとなる．</sentence>
+<sentence>トラスは右舷（ｓｔａｒｂｏａｒｄ）はＳ，左舷（ｐｏｒｔｓｉｄｅ）はＰ，鉛直方向はｚと記号で識別され，さらに，組み立て上の都合からいくつかの部位に分け，各部位は識別のため内側から番号がふられ，Ｓ１，Ｐ３，Ｚ１等の名称が付けられている（図１．１５参照）．</sentence>
+<sentence>ＩＳＳの１１０ｋＷの電力は，太陽光を太陽電池により電気に変換してまかなうが，太陽電池を取り付けた太陽電池アレイ（<enclosedCharacter description="○">１３</enclosedCharacter>）ならびに太陽電池用ラジェータ（<enclosedCharacter description="○">１４</enclosedCharacter>）がトラスに取り付けられる（番号は図１．１２に対応）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）ロシア・セグメント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ロシア・セグメントは，宇宙ステーション<quote>「ミール」</quote>の中核であったミール本体と同型のサービスモジュール（<enclosedCharacter description="○">２</enclosedCharacter>）を中心に，独立の電力システム（太陽電池アレイ；<enclosedCharacter description="○">４</enclosedCharacter>）をもち，ＩＳＳ組立中の作業員の居住区となる．</sentence>
+<sentence>ＩＳＳ完成後は，資材貯蔵所，科学研究施設となるが，ＩＳＳ制御機能の一部も受けもつ．</sentence>
+<sentence>ロシアの要素へは貨物輸送機プログレス（прогресс：“進歩”，“発展”を意味する），宇宙飛行士の輸送機ソユーズが資材，人員の輸送のためにドッキングできるようになっており，ソユーズはまた緊急避難の目的でも用<sampling type="end" />いられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

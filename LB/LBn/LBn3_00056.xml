@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn3_00056" version="1.0" type="fixedLength">
+<article articleID="LBn3_00056_F001">
+<paragraph>
+<sentence>カードを普及させるためのインフラ構築（加盟店端末の設置など）の負担を誰がするのかという問題や、利用者があまり魅力を感じていないという問題がよく<sampling type="start" />議論されるが、このような基本的な問題を残したままでスキームを推進していいのだろうか。</sentence>
+<sentence>そのコストやリスクの負担が最終的に消費者に回ってくるなら、それこそ消費者にとって迷惑な話である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　海外にも導入失敗事例は多い。</sentence>
+<sentence>これらの事例も参考に、例えばリアルでの普及にはインフラ作りにコストがかかり過ぎるのなら、バーチャル活用を優先させて確立する等、個人決済インフラの再構築という大仕事をしているという認識のもと、運用主体者はビジョンと責任を持ってプロジェクトを遂行していってほしい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（田渕文美、原田昌和）</sentence>
+<br type="automatic_original" />
+</authorsData>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">「電子マネーおよびデビットカードの広域型スキーム／実験の概要（その１）」</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">「電子マネーおよびデビットカードの広域型スキーム／実験の概要（その２）」</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+<article articleID="LBn3_00056_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">❖ＣＲＭ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">データベースの活用で金融機関のサービスは向上する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　大手金融機関は、ＣＲＭと呼ばれるマーケティング手法を導入し、顧客満足度の向上へ向けた取り組みを本格化させる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　これは、利用者が良い金融機関と出会えれば、少ない労力で必要かつ高度な金融サービスを利用できる可能性を意味する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　当面、過剰な効果の期待は禁物であるが、二〇〇〇年はＣＲＭ離陸の年となろう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　あなたが<quote>「そろそろ車を買い替えようか」</quote>と思いはじめたちょうどその時に、メインに利用している銀行から<quote>「金利優遇自動車ローンのご案内」</quote>などというダイレクト・メール（ＤＭ）が届いた場合、どのような感想を抱かれるであろうか。</sentence>
+<sentence>これが一度ならず、場合によっては自分自身が何かが欲しいと気づくよりも前に。</sentence>
+<sentence>営業担当者が定期的に訪問するような資産家にとっては、従来からこのような対応は当たり前のことであったかもしれないが、多くの人は驚き、場合によってはいささか気味悪い思いもされることであろう。</sentence>
+<sentence>大手金融機関が本格的に取り組みはじめたＣＲＭというマーケティング手法は、一般の利用者に対してこのような時宜を得たサービスを提供しよう、という試みである。</sentence>
+<sentence>もちろん、小口の利用者おのおのに対して営業の担当者を設け、非定型情報を収集するのは非現実的である。</sentence>
+<sentence>ＣＲＭ実現の鍵はコンピュータ上に構築された巨大データベースの活用にあり、これにはあなたの<quote>「財布の中身」</quote>どころか<quote>「出し入れ」</quote>の詳細までもが、適切に要約されて記録されている。</sentence>
+<sentence>これを使ってさまざまな分析をほどこせば、あなたが今、何を求めているのかがみえてきてしまう、という仕組みだ。</sentence>
+<sentence>多くの金融機関が開発の意向を示している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">●ＣＲＭ（Ｃｏｎｔｉｎｕｏｕｓ／Ｃｕｓｔｏｍｅｒ　Ｒｅｌａｔｉｏｎｓｈｉｐ　Ｍａｎａｇｅｍｅｎｔ／Ｍａｒｋ<sampling type="end" />ｅｔｉｎｇ）</sentence>
+</noteBody>
+</article>
+</sample>

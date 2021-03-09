@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00043" version="1.0" type="fixedLength">
+<article articleID="LBr5_00043_F001">
+<paragraph>
+<sentence>印刷所で出力できるフ<sampling type="start" />ォントを選択しておく必要があるからです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ｉ　基本版面の組方を設定する５　余白</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本は開いたときの左右のページ（合わせて“見開（みひら）き”という）を設定の単位としますので，“見開き”で設定できるようにします．</sentence>
+<sentence>“余白”は，“設定するための準備２”で計算した値を入力します．</sentence>
+<sentence>これにより基本版面のサイズが決まります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　［ページ設定］ダイアログボックス→［余白］タブ（図３・９）</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３・９</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　“複数ページの印刷設定”で“見開きページ”を選択</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">＊“複数ページの印刷設定”が“標準”の場合，余白は“左”“右”ですが，“見開きページ”を選択すると“内側”“外側”に変わります</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　“とじしろ”は“０ｍｍ”のまま変更しない</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　“上”“下”は各“２２．４ｍｍ”と選択または入力</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　“内側”“外側”は各“２０ｍｍ”と選択または入力</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">＊数値は小数点第１位まで入力可能です</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">＊ここではまだ“ＯＫ”ボタンはクリックせず，次の設定をします</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ｊ　基本版面の組方を設定する６　文字数と行数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　基本版面のサイズは決まっていますから，設定したフォントサイズで文字数を指定すればフォントサイズと同じ字送り（ベタ組）になります．</sentence>
+<sentence>行数と行送りも同様に，【設定条件】の行数にすれば，行送りが【設定条件】の値になります．</sentence>
+<sentence type="quasi">　→ＰＯＩＮＴ　１</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　［ページ設定］ダイアログボックス→［文字数と行数］タブ（図３・６）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　“文字数と行数を指定する”をオン</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">＊“文字数”“字送り”および“行数”“行送り”が入力可能になります</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　“文字数”は【設定条件】に従い“５２”字と選択または入力，“字送り”が【設定条件】の“９ｐｔ”となっているか確認　→ＰＯＩＮＴ　２，３</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　“行数”は【設定条件】に従い“１８”行と選択または入力，“行送り”が【設定条件】の“１７ｐｔ”（行間８ｐｔ）となっているか確認　→ＰＯＩＮＴ　４</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　“ＯＫ”ボタンをクリックし，［ページ設定］ダイアログボックスを閉じ，文書にもどる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　［ファイル］メニュー→［上書き保存］を選択，文書を保存　→ＰＯＩＮＴ　５</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　以上によりページと基本版面のサイズ，その中に配置する文字の基本的な組方が設定され，文字を読み込む準備ができたことになります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すでに作成した文書でも，同様な方法で設定を変えることもできます．</sentence>
+<sentence>ただし，この場合は，すでに配置されている文字の書式などを変更しなければならないこともあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　行数・行送りが希望通りにならない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　計算した値のとおりに余白の設定をしても，値に誤差がでて文字数・字送り，行数・行送りが希望通りにならない場合があります．</sentence>
+<sentence>その場合は，余白をやや小さくするなどの調整をします．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　文字数と字送りの設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文字数と字送りの設定は連動しています．</sentence>
+<sentence>そこで，字送りの数値を先に書き換えて文字数に反映してもよいのですが，この場合には，文字数は整数ですから計算違いなどがあって半端が<sampling type="end" />でてもわからないことがあります．</sentence>
+</paragraph>
+</article>
+</sample>

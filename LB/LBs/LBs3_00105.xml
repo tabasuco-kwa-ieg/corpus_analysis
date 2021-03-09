@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00105" version="1.0" type="fixedLength">
+<article articleID="LBs3_00105_F001">
+<figureBlock>
+<figure>
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">顧客リスト（守秘義務条項などで転売等が禁止されている場合を除く），契約外の顧客との関<sampling type="start" />係</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">文化および芸能関連の無形資産</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔契約上の権利およびその他法律上の権利〕</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">演劇・オペラ・バレーの権利，本・雑誌・新聞およびその他の著述関連の権利，作詞・作曲およびコマーシャルのジャンルなどの音楽作品に関する権利，絵画および写真に関する権利，映画・音楽ビデオおよびテレビ番組などの映像および視聴覚関連の権利</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">契約に基づく無形資産</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔契約上の権利およびその他法律上の権利〕</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ライセンス契約，ロイヤリティ契約，現状維持契約，広告宣伝，建設マネジメント，その他サービス提供および商品提供に関する契約，リース契約，建設許可，フランチャイズ契約，放映権，利用権（採掘・水利・空気・鉱物・通行などに関する権利），サービス契約（不動産担保貸付金の管理サービスなど），雇用契約</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">技術関連の無形資産</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">〔契約上の権利およびその他法律上の権利〕</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">特許権つき技術，ソフトウェアおよび半導体チップ上のマスクワーク，業務秘密（秘密の配合，プロセス，レシピなど）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">〔分離可能な無形資産〕</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">特許権のない技術，データベース（タイトル・プラントなど）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">▲研究開発目的資産</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　被買収会社の買収コストの中には，特定の研究開発プロジェクトのために使用されている有形および無形資産に配分された金額があります。</sentence>
+<sentence>こうした有形および無形資産で，ほかに代替的な利用ができない場合については，それらの資産に配分された金額は買収時の費用となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，被買収会社に仕掛かり中の研究開発（Ｉｎ‐ｐｒｏｃｅｓｓ　Ｒｅｓｅａｒｃｈ　ａｎｄ　Ｄｅｖｅｌｏｐｍｅｎｔ）が含まれている場合には，買収コストに含まれている当該研究開発の公正価値が，買収時に費用として処理されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>７４　買収価格のうち，有形資産，無形資産および負債に配分されなかった残余の投資額は，営業権（Ｇｏｏｄｗｉｌｌ）として会計処理される。</sentence>
+<sentence type="quasi">一方，公正価値による配分額が買収価格を上回る場合には，消極的営業権として処理される</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>Ｑ　米国法人である当社は，ある食品会社を買収し，買収コストを取得した資産および負債に配分しましたが，相当な金額が配分されずに残ってしまいました。</sentence>
+<sentence>これは，当社が買収によって取得した食品部門と従来からある商事部門とのシナジー効果に対して支払った営業権に対するものです。</sentence>
+<sentence>こうした営業権は，会計上どのように計算し，認識されるのでしょうか。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　被買収会社の買収コストのうち，取得した資産および負債に配分されなかった残余の金額は，営業権（Ｇｏｏｄｗｉｌｌ）として会計処理されます。</sentence>
+<sentence>一方，取得した資産および負債に配分された金額が被買収会社の買収コストを上回る場合には，消極的営業権として処理されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　消極<sampling type="end" />的営業権については，次の資産を除く，すべての買収された資産に比例配分され，その取得原価を減額させます。</sentence>
+</paragraph>
+</article>
+</sample>

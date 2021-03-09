@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00007" version="1.0" type="fixedLength">
+<article articleID="LBl8_00007_F001">
+<paragraph>
+<sentence>そして、私の夢は急に現実味を帯びて来たので<sampling type="start" />す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、今回、読者（この辞典は引くことより読むことを期待していますから）の手に、この辞典をお届けできることになりましたが、その動機は上のようなことだったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この辞典には、たった二文字のものから最長は五百四十七字を使ったものまで、二千三百種に近い回文をあげてあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　回文、それは言葉の宝石であり、均整な形式を追求した言葉の芸術でもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この本を手に取られたあなたは、恐らく関心のあったところの、目についた文の読みを、仮名で確認しながら、逆に読んでいただけたのではないでしょうか。</sentence>
+<sentence>そのとき、あなたは、奇跡とも言える言葉の構成に、溜め息をつきたい興奮を感じたことでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この本はそういった知的な面白さをぎっしりと詰め込んだ、何ともユニークな辞典であるはずです。</sentence>
+<sentence>私は協力してくださった島村さんとともにあなたに言いたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この辞典をさらに、読むの、頼むよ！</sentence>
+<sentence>（よむのたのむよ）…何故、このことを改めて記したのでしょうか。</sentence>
+<sentence>その真意は、拾い読みで良いから、この本のいろいろなページを開くことによって、きっと感じとって頂けたことでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">上野富美夫</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBl8_00007_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一　回文の定義</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　回文は、上から読んでも下から読んでも同音となる成句のことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ある言語の表音文字によって構成された成句または文が、末尾より逆の順に読んでも元の成句や文と同じになる場合、それを回文（もとは廻文）と呼ぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同様にある単語が通常の記述と逆の方向から読んでも同じになる場合、正確にはそれは回文語であるが、多く回文に含めている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　近世のわが国においては、回文歌、回文狂歌、回文<ruby rubyText="はい">俳</ruby><ruby rubyText="かい">諧</ruby>が多く作られたが、いずれも略して回文の中に含めた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">二　回文の条件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本語の表記が現代仮名遣いによってなされるようになる以前は、当然すべてが歴史的仮名遣いであった。</sentence>
+<sentence>従ってその時代に作られた回文はすべてが歴史的仮名遣いによるものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例示すれば<quote>「塀のあるあの家」</quote>は、歴史的仮名遣いでは<quote>「へいのあるあのいへ」</quote>で回文として成立し、現代仮名遣いでは<quote>「家＝いえ」</quote>のため不成立となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　短歌、俳句等で、歴史的仮名遣いで記されたものはそれによるものとするが、昭和二十四年以後の回文は、現代仮名遣いによって正順・逆順が一致するものを回文としたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また日本語の音の表記では、<ruby rubyText="だく">濁</ruby><ruby rubyText="おん">音</ruby>・<ruby rubyText="はん">半</ruby><ruby rubyText="だく">濁</ruby><ruby rubyText="おん">音</ruby>は清音と別な文字を用いる習慣がなく、清音に濁点・半濁点をつけることによって表した。</sentence>
+<sentence>この記述の方法では、連続して文字を書き続ける場合、濁点や半濁点は文字から一度筆を離して打つ必要があり、<ruby rubyText="はん">煩</ruby><ruby rubyText="さ">瑣</ruby>であったことから、活字による印刷が普及するようになる明治以前は、濁音については、濁点を打た<sampling type="end" />なくても、文の流れの上でそれを補い、推察して読むのが普通となっていた。</sentence>
+</paragraph>
+</article>
+</sample>

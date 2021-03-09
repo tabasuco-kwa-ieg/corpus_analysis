@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00180" version="1.0" type="fixedLength">
+<article articleID="LBt3_00180_F001">
+<paragraph>
+<sentence>　江戸に幕府を開いた徳川政権は、国土経営の一環として積極的な交<sampling type="start" />通政策を展開した。</sentence>
+<sentence>物資輸送は主に舟運で行われたが、政治都市として成長した江戸には、やがて全国の物資が集まるようになる。</sentence>
+<sentence>それは主として沿岸海運によって行われ、寛文一一（一六七一）年には北太平洋側の東廻航路、翌年には西廻航路が河村瑞賢によって整備されて江戸経済を支えた。</sentence>
+<sentence>次に道路について詳しく見ていこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　江戸幕府開設以前は京都・大阪を中心にして道路が整備されてきた。</sentence>
+<sentence>大阪に根拠地を置いた豊臣秀吉は、政権を握るとともに<ruby rubyText="ひら">枚</ruby><ruby rubyText="かた">方</ruby>から<ruby rubyText="ながら">長柄</ruby>までの淀川左岸に連続した<ruby rubyText="ぶん">文</ruby><ruby rubyText="ろく">禄</ruby>堤を築いた。</sentence>
+<sentence>築堤はそれ以前にあったものの増強だろうが、その堤防上はまた大阪と京都を結ぶ京街道としても利用された。</sentence>
+<sentence>治水と交通路の整備という二つの目的で秀吉は、堤防を築いたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先に荒川付替は中山道の整備を目的とし、また赤堀川開削を中心とする利根川東遷も日光街道の安全が重要な目的であると述べた。</sentence>
+<sentence>徳川政権は、陸上交通の整備に熱心に取り組んだのである。</sentence>
+<sentence>江戸を新たに日本の政治の中心地とするため五街道を基軸として、新しい陸路体制を造っていった。</sentence>
+<sentence>寛永一二（一六三五）年に最終的に制度として確立した<quote>「参勤交代制」</quote>が、この陸路交通体系整備に対して大きな推進力となったのはいうまでもない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし一般的には、徳川時代の陸路政策は消極的なものであったといわれる。</sentence>
+<sentence>その根拠として、河川に橋を人為的に架けず交通路を分断させる施策を行ったことが挙げられ、それが江戸幕府体制の防備をなすもの、封建体制維持をなすものといわれている<noteMarker text="＊３２" />。</sentence>
+<sentence>特に大井川は江戸防衛のため、軍事的必要から渡し船も置かなかったといわれる。</sentence>
+<sentence>しかし果たしてそうであるのだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊３２：例えば、東海道に関して見るならば、<ruby rubyText="ろく">六</ruby><ruby rubyText="ごう">郷</ruby>川、<ruby rubyText="ば">馬</ruby><ruby rubyText="にゅう">入</ruby>川、富士川、天竜川は渡し船で越し、安倍川、大井川は渡し船もなく歩行越え、馬越え、連台越えで行った。</sentence>
+<sentence>また<ruby rubyText="おきつ">興津</ruby>川、<ruby rubyText="さこう">酒匂</ruby>川は冬には仮橋で往来したが、夏は歩行越え、馬越えであった。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　結論的にいうと、橋を架けないことを積極的に押し進めたような政策はなかったと考えている。</sentence>
+<sentence>これらのことが言われ出したのは江戸体制が確立した後であり、徳川政権創設期には、開放的な陸路政策が採られていた。</sentence>
+<sentence>橋梁が用いられなかったのは、別の理由、技術的な理由である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、文禄元（一五九二）年、秀吉は淀川で長さ一八〇間（約三三〇メートル）、幅五間（約九．一メートル）、橋柱一三八本という大規模な山崎橋を修理したが、<ruby rubyText="いく">幾</ruby><ruby rubyText="ばく">許</ruby>もなく流出した。</sentence>
+<sentence>これに見るように、時の土木技術にとって、年々生じる洪水に対し、安全な橋は架けられなかったのである。</sentence>
+<sentence>橋を架け、年々修復するより、むしろ渡し船等の方が<sampling type="end" />より合理的であったと思われる。</sentence>
+</paragraph>
+</article>
+</sample>

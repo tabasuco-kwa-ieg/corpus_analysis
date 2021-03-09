@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00018" version="1.0" type="fixedLength">
+<article articleID="LBd5_00018_F001">
+<sentence type="quasi">ζ<subScript>１</subScript><sampling type="start" />とζ<subScript>２</subScript>の重心が原点で不動点になっていることを考慮すると，この式は｜ζ<subScript>１</subScript>｜＝ｃｏｎｓｔ．かつ｜ζ<subScript>２</subScript>｜＝ｃｏｎｓｔ．を意味し，ｚ平面に置き直せば</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>が成立する．</sentence>
+<sentence>これは不動点から渦までの距離が不変であることをいっている．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　（５．１６．４）の第二式およびｒ＝ｃｏｎｓｔ．より</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となる．</sentence>
+<sentence>これはＡ<subScript>１</subScript>Ａ<subScript>２</subScript>の回転角速度が一定であることを示す．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　以上より，束縛されていない渦糸Ａ<subScript>１</subScript>，Ａ<subScript>２</subScript>は互いの誘起速度により，図５．１６．１に示すように，不動点ｚ<subScript>Ｇ</subScript>まわりに一定の半径および角速度で回転する．</sentence>
+<sentence>たとえば，近くに２個の台風があり，偏西風などの影響がないとすると，お互いに回転しあうような迷走台風の進路になる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また図５．１６．２のような同じ大きさながら回転方向の逆な渦糸があると，回転せずに，同一速度で互いに正方向に進む．</sentence>
+<sentence>渦輪とよばれるドーナツ状の渦，たとえば煙突から断続的に煙を吐き出したときにできる渦は，１個の同心円の渦が互いに干渉し合いながらひとりでに前進することになる．</sentence>
+<sentence>さらに，２個の渦輪があると渦輪同士で追いかけっこをするといった面白い現象も現れる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５．１６．１　３個の渦糸の運動</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５．１６．２　渦輪の自己前進運動</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６章　管路の流れ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６．１　円管内の流れ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６．１．１　円管入口下流の流れ，助走区間</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図６．１．１のように，大きな容器に真直な円管が接続され，円管の入口は十分まるみを持つ場合，容器から円管に流入する流れは，入口ではほぼ一様な速度分布で，圧力Ｐ<subScript>１</subScript>はρｕ<subScript>ｍ</subScript><superScript>２</superScript>／２だけ容器内の圧力Ｐ<subScript>０</subScript>より低くなる．</sentence>
+<sentence>ただし，ｕ<subScript>ｍ</subScript>は管断面の平均速度，ρは密度である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　粘性流体では壁面で速度は零となるので，管壁付近の速度は小さくなり，一定速度は管中心付近に限られる．</sentence>
+<sentence>下流に行くに従い，拡散により減速領域が拡大し，ついには中心まで粘性の影響が及び，速度一定の領域はなくなる．</sentence>
+<sentence>管入口からこのようになるまでの区間を助走区間，その長さを助走距離とよぶ．</sentence>
+<sentence>これから下流では速度分布は管入口からの距離ｘに無関係で一定となる．</sentence>
+<sentence>この流れを十分発達した流れという．</sentence>
+<sentence>流線は管軸に平行で，圧力は管軸に直角な断面上では一定であるが，下流に行くに従い下がって行く．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　助走区間の長さｌは実験と理論両面から求められていて，層流の場合は次式で与えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　ただし，ｄは管の直径，Ｒｅはレイノルズ数でＲｅ＝ｕ<subScript>ｍ</subScript>ｄ／ν，ｕ<subScript>ｍ</subScript>は管断面の平均速度である．</sentence>
+<sentence>乱流の場合は次式で与えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　助走区間は，その下流よりも，壁面における速度勾配が大きく，したがって壁面剪断応力が大きく，圧力勾配が大きい．</sentence>
+<sentence>助走区間では，その下流よりも圧力降下Δｐが，層流の場合（２．１６〜２．７）ｐｕ<subScript>ｍ</subScript><superScript>２</superScript>／２増加し，乱流の場合（１．０<sampling type="end" />６〜１．４）ｐｕ<subScript>ｍ</subScript><superScript>２</superScript>／２増加する．</sentence>
+</paragraph>
+</article>
+</sample>

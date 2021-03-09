@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb4_00019" version="1.0" type="fixedLength">
+<article articleID="LBb4_00019_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　「シリウスＢのような白色矮星がどうしてできるのかをお話ししましょう。シリウスＢも、かつては立派な恒星だったはずです。そのころはシリウスＢは、現在のシリウス主星よりももっと大きな星でした。一体、大きくて重い星は、<ruby rubyText="じゅ">寿</ruby><ruby rubyText="みょう">命</ruby>が短いのです。ほら、あそこに輝くシリウスは、重さが太陽の二倍ちょっとしかないのに、太陽<sampling type="start" />の二〇倍以上の光を放射しつづけているでしょう。だから、非常に簡単に考えても、寿命は太陽の一〇分の一くらいしかないことになるでしょう。星は自分自身を燃やして光っているのですからね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　詳しい話はさておき、シリウスよりもさらに重くて大きかったシリウスＢは、どんどん燃料を燃やして、とうとう燃えつきてしまったのです。</sentence>
+<sentence>星の内部で<ruby rubyText="かく">核</ruby><ruby rubyText="ゆう">融</ruby><ruby rubyText="ごう">合</ruby>反応の燃料がなくなれば、もう内部でエネルギーは発生しません。</sentence>
+<sentence>そもそも、星という存在は、内部にエネルギー源があってこそ安定に存在していられるのです。</sentence>
+<sentence>本来、星が生れたのは、ガスの固まりが自分自身の重力でひっぱりあい、収縮してきた結果ですね。</sentence>
+<sentence>縮めば縮むほど、自分自身の重力の<ruby rubyText="そく">束</ruby><ruby rubyText="ばく">縛</ruby>は強くなって、もっと激しく縮もうとします。</sentence>
+<sentence>もしこれを内側から支える何らかの庄力が働かなければ、どこまでも縮んでいってしまうはずです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地球のような惑星の場合、重力を支えているのは、岩石など固体の強さ、言いかえれば、原子間の電気的な結合力と反発力であるといえます。</sentence>
+<sentence>しかし恒星はガスですから、そういう力はありません。</sentence>
+<sentence>恒星は、中心部での熱核反応で生じる熱エネルギーによって、重力を支えているのです。</sentence>
+<sentence>熱核反応によって中心部は高温となり、さらに熱を外へ伝えて、高い圧力を作りだし、重力を支え、また星を光らせているわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ですから、内部の水素がすべてヘリウムになり、ヘリウムがさらに燃えて炭素や酸素を作りだしている間は星は生きているのです。</sentence>
+<sentence>それが、ついにもう燃える材料がなくなったとき、自己重力を支えることのできなくなった星はつぶれはじめます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi"><sentence>　おそろしい重力は、原子をおしつぶし、原子核と電子ははなればなれになります。</sentence>
+<sentence>そして、<ruby rubyText="はだか">裸</ruby>で飛びまわっている電子ガスの密度が高くなって、その強い圧力で重力を支えるまで、この収縮はつづくのです。</sentence>
+<sentence>内部にはエネルギー源がなくとも、つぶれる時の重力エネルギーによって、星は白熱して輝きます。</sentence>
+<sentence type="quasi">こうして生れた白色矮星は、もとの星の何十万倍もの高密度の星になっているというわけです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">シリウス星系でおきた爆発…</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence><quote><sentence>　「すると、白色矮星は、“死んだ星”ということになるんですか？</sentence>
+」</quote>と、陽介君。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　大神さんはうなずいて、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　「そう。白色矮星は、もう死んだも同然の星といえます。あとに待っているのは、次第に冷えて、暗くなり、やがてまったく光を放つことのない、小さくておそろしく重い“黒色矮星”になることだけですから。とはいえ、これは、星の“死にかた”としてはずいぶん静かな方なのですよ。―そうそう、もとは太陽の何倍も重かったはずのシリウスＢが、なぜ太陽くらいの重さになってしまったのかをお<sampling type="end" />話ししませんでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

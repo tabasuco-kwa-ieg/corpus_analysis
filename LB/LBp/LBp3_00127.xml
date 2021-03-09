@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00127" version="1.0" type="fixedLength">
+<article articleID="LBp3_00127_F001">
+<titleBlock>
+<sentence type="quasi">昭和２１<sampling type="start" />年４月１日以前生まれの女性</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">タイプ１の基本的な年金</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　６０歳から従来どおりの<quote>「比例＋定額＋加給」</quote>が受給できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　６５歳からの本来支給の老齢厚生年金は、<quote>「比例」</quote>の年金額です。</sentence>
+<sentence>一方、６０歳からの特別支給の老齢厚生年金も、いまは原則として<quote>「比例」</quote>の年金額です。</sentence>
+<sentence>平成６年の改正前は<quote>「比例＋定額」</quote>の年金額でしたが、改正によって部分年金が導入されて<quote>「比例」</quote>しかもらえないことに変わってしまったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただしその改正のときに、すでに年金をもらえる年齢に近かった人には、制度変更による影響を与えないために、従来どおりの<quote>「比例＋定額」</quote>の年金を支給する経過措置が残されました。</sentence>
+<sentence>それがこのタイプ１の生年月日の人たちです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの人は６０歳になったときに、老齢年金を受給するための必要な加入年数を満たしていて、かつ１年以上の厚生年金の加入があれば、その厚生年金の年数分の<quote>「比例＋定額」</quote>の年金が受給できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらにその年数が２０年以上であって、一定の配偶者や子供を扶養している場合には、<quote>「比例＋定額」</quote>の額に<quote>「加給」</quote>が加わることになっているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">タイプ１の年金額の計算例</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">→昭和１６年４月１日生まれの男性・加給対象の妻あり</sentence>
+<br type="automatic_original" />
+<sentence>＊年金額は年額、平成１２年度価格、１２年度の物価スライド率は<quote>「１．０００」</quote>。</sentence>
+<sentence>比例部分の額は、実際には従前保障額と比較して、高い方が支給される。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２　厚生年金基金の加入分の<quote>「比例」</quote>は基金から受給する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　厚生年金は国の年金制度ですから、当然、国に保険料を納めて国から年金をもらいます。</sentence>
+<sentence>一方<quote>「厚生年金基金」</quote>は、簡単にいってしまえば企業の退職年金制度です。</sentence>
+<sentence>ただし国の厚生年金の<quote>「比例」</quote>の一部を、国に代わって支給するしくみになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　基金の加入員であった期間、つまり基金のある会社に勤めていた期間については、厚生年金の保険料のうち<quote>「比例」</quote>の分は基金に納めます。</sentence>
+<sentence>そして、その期間分の<quote>「比例」</quote>の年金は、基金からもらうことになるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし<quote>「比例」</quote>のすべての額を、基金が代行しているわけではありません。</sentence>
+<sentence>むかしの賃金をいまの水準に置き換える再評価や、その再評価率の賃金スライド、さらには物価スライドの分は国から支給されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本来は国が支払うべき<quote>「比例部分」</quote>のうち、基金が代わって支給する分を<quote>「代行部分」</quote>といいます。</sentence>
+<sentence><quote>「代行部分」</quote>の額はその基金に加入した期間の、再評価をしない実際の賃金の平均額に、国の厚生年金と同じ給付乗率と、その基金の加入期間をカケて求めます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この場合の国からの<quote>「比例」</quote>の額は、まず、すべての期間を国の厚生年金に加入したものとして、つまり基金に加入しなかったものとして<quote>「比例」</quote>の額を求めます。</sentence>
+<sentence>その額から<quote>「代行部分」</quote>の額を除いた残りが<sampling type="end" />、国からの<quote>「比例」</quote>の額になるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

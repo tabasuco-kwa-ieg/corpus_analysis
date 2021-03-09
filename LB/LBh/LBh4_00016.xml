@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00016" version="1.0" type="fixedLength">
+<article articleID="LBh4_00016_F001">
+<paragraph>
+<sentence>　三叉神経痛は顔面、頭部に広く枝別れして分布してい<sampling type="start" />る三叉神経に起こる神経痛です。</sentence>
+<sentence>冷たいものを食べるなどの出来事が引金となって起こる激しい神経痛です。</sentence>
+<sentence>三叉神経の第１枝は目の周囲、第２枝は上顎、第３枝は下顎の部分に分布しています。</sentence>
+<sentence>虫歯などと関係あるものと、脳幹に入るところで、この神経が動脈によっておさえられて興奮するために、痛みが起こるものとがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><ruby rubyText="さん">三</ruby><ruby rubyText="さ">叉</ruby>神経</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">脳コンピュータ内部の異常、精神病</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>脳での神経伝達物質のかたよりによって、１人１人の気質の違いが現れる。</sentence>
+<sentence>それが高じれば精神病。</sentence>
+<sentence>大脳の異常で起こる病気もある。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">●人それぞれに気質がある</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　コンピュータは精密機械ですから、故障することもあります。</sentence>
+<sentence>人間の脳もコンピュータですから、同様に故障することがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　故障の中でも根本的なのは、コンピュータの設計図の異常です。</sentence>
+<sentence>脳の場合には、遺伝情報を持った遺伝子の異常にあたり、精神病も遺伝病の１つといえます。</sentence>
+<sentence>これについては、３章で少し詳しく説明しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこまで決定的ではなくても、誰でもそのような傾向はあり、１人１人が違った精神的な特徴（気質）を持っているのです。</sentence>
+<sentence>精神的にまったく正常な人を探すことは難しいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような違いは人間の脳内分子、中でも神経から分泌され、他の神経に刺激を伝える“神経伝達物質”のかたよりによることが多いのです。</sentence>
+<sentence>多少のかたよりは、かえって天才を生む可能性もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>人それぞれ気質がある。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●神経伝達物質の働きが原因で起こる病気</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このようなかたよりは、神経伝達物質の活動が中心となって機能しているアナログ型コンピュータの部分、つまり脳幹で起こりやすく、ここで生じる人間の感情と深い関係があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　“精神分裂病”という精神病は、現実逃避的になったり、自閉的になったり、妄想や幻覚を生じる病気ですが、神経伝達物質の１つであるドーパミンの過剰活動によると考えられています（５４ページ）。</sentence>
+<sentence>また“<ruby rubyText="そう">躁</ruby>うつ<ruby rubyText="びょう">病</ruby>”は神経伝達物質の過剰活動で躁に、その活動がおさえられてうつになることがわかっています。</sentence>
+<sentence>“てんかん”は、神経伝達物質の分泌が抑制できなくなって起こるといわれています（５８ページ）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●大脳の障害で起こる病気</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　進化したほうの脳、デジタル型コンピュータの大脳の異常によって起こる病気もあります。</sentence>
+<sentence>デジタル型コンピュータは脳の中に多数、それぞれの役割を持って分布していますから、その１つが故障したり、脱落することによって、その働きが失われてしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば言語をつかさどるコンピュータが脳出血などでこわれてしまえば“失語症”になります。</sentence>
+<sentence>老化によって記憶や判断のコンピュータがこわれれば“痴呆（アルツ<sampling type="end" />ハイマー型痴呆）”が起こります（６０ページ）。</sentence>
+</paragraph>
+</article>
+</sample>

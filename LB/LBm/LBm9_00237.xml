@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm9_00237" version="1.0" type="fixedLength">
+<article articleID="LBm9_00237_F001">
+<sentence>止まった車から奈緒が駆け出してく<sampling type="start" />る。</sentence>
+<sentence>楯夫が追いかけてくるが、さほど慌ててはいない。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（彼方でくるりと振り返り）結婚なんて、やめます！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「おいおいおい（うんざり気味）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「逃げます、私！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「そんな勇気はないよ、君には」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「大丈夫、一人じゃないから」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「…どういう意味だ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「楯夫さんが一緒だから」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「俺が、君と一緒に？</sentence>
+<sentence type="quasi">（失笑）」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「駆け落ちします」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「何言ってんだ、俺にはさらさらそんな気は…」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>奈緒が彼方へ走り出した。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「おい、こら、どこへ行く」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>仕方なく追いかける。</sentence>
+<br type="automatic_original" />
+<sentence>線路をゆっくり走り出した貨物列車めがけて奈緒はどうやら走っている。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（だんだん顔色が変わる）おい、何する気だ、待て、止まれ！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>貨物列車に追いついた奈緒は、手すりを摑み、開いていた扉に身をくぐらせた。</sentence>
+<br type="automatic_original" />
+<sentence>乗ってしまった。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（真剣な顔で追い）何するんだ、馬鹿、降りろ、早く！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（手を差し伸べて）早く！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「早く降りろ！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「早く乗って！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>楯夫はとにかく追いつこうと走る。</sentence>
+<sentence type="quasi">奈緒が差し伸べている手に、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「降りろ！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「乗って！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「早く！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「早く！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>楯夫、奈緒の手に辿りついた。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">走る貨物列車の車両</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>楯夫が飛び乗って、干し草の散らばる床に転がる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「やった！</sentence>
+<sentence type="quasi">（子供のようにはしゃぐ）」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（ぜいぜい）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「すごい、映画みたい、どきどきした！」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「…（睨む）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「もう少し運動した方が、いいですよ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「どうするんだ、これ…」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>貨物列車は速度を上げている。</sentence>
+<sentence>もう降りられなくなっている。</sentence>
+<br type="automatic_original" />
+<sentence>奈緒はあっけらかんとしている。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">篠田家の居間</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>壁にかかっているウェディング・ドレス。</sentence>
+<br type="automatic_original" />
+<sentence>寛治が見上げながら、一人で酒を飲んでいる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">寛治</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「苦しんでるのか…？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">寛治</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「なら」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">寛治</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「苦しんでやるから、一緒に」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>花嫁の父が、遠くの娘に呟きかけている。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">夜のしじまを突っ切る深夜の貨物列車</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>関東平野を北へ、北へと―。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ガタコト揺れる車両の中</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>閉めた扉から、夜の明かりが時折差しこむ。</sentence>
+<br type="automatic_original" />
+<sentence>飼い葉か何かを運ぶ車両なのか、奈緒と楯夫の間には干し草の散らばる空間がある。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（ぽつり）…どこまで行くんだろう、この列車」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「怖くなったか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「全然…行き着く所まで行こうって気分です」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「（溜め息）結婚式から逃げて、家族を裏切って、みんなから後ろ指差されて…その先にはどんな生活が待ってると思うんだ？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「そうですね…（と無邪気に夢を語る）北国の町。</sentence>
+<sentence>私は漁協の事務員をやるんです。</sentence>
+<sentence>楯夫さんはアパートで小説を書いて下さい。</sentence>
+<sentence type="quasi">本が売れなくても、楯夫さん一人ぐらい私が養えますから」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">楯夫</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi">　「…（苦笑で聞く）」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">奈緒</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence type="quasi"><sentence>　「原稿はファックスで送ればいいんです。</sentence>
+<sentence>私たちの住所を秘密にしてくれる編集者がちゃんといるんです。</sentence>
+<sentence>それが無理ならペンネームで書けばいい。</sentence>
+<sentence>ミステリー新人賞に応募した時のように、初心に帰ってコンクールを勝ち抜くんです。</sentence>
+<sentence>そして彗星の如く文壇に現われた覆<sampling type="end" />面作家！</sentence>
+<sentence>　いいと思いません？」</sentence>
+</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

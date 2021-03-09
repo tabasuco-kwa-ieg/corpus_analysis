@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj2_00074" version="1.0" type="fixedLength">
+<article articleID="LBj2_00074_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">太上天皇―もう一人の<quote>「<sampling type="start" />天皇」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　もう少し詳しくこの日本の<quote>「平出条」</quote>と唐の<quote>「平闕之式」</quote>を見てみよう。</sentence>
+<sentence><quote>「平出条」</quote>は皇祖から始まっている。</sentence>
+<sentence>皇祖とは天皇の祖先という意と、天皇の亡祖父に対する敬称という意と二通りあると言われるが、<quote>「養老令」</quote>では明らかに皇祖は<quote>「亡祖父」</quote>の意である。</sentence>
+<sentence>なぜならば、その次に続く皇祖妣は天皇の<quote>「亡祖母」</quote>であり、この二つの名称は一対をなしている。</sentence>
+<sentence>そしてその後にも皇考と皇妣、天皇の<ruby rubyText="な">亡</ruby>き父母が一対として並べられているからである。</sentence>
+<sentence>天皇の亡祖父母、亡父母は敬われている。</sentence>
+<sentence>また次に先帝がくるが、先帝は必ずしも天皇の亡父ではない。</sentence>
+<sentence>養老二年の<quote>「養老令」</quote>の時をとれば先帝は元明上皇、現天皇・元正天皇の母に当たる。</sentence>
+<sentence>先后の規定が省かれているのはそのためであろうか。</sentence>
+<sentence>しかしやはりこの<quote>「平出条」</quote>でも唐と大きく異なるのは、<quote>「太上天皇」</quote>の存在である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「太上天皇」</quote>とはいかなる存在か。</sentence>
+<sentence>それは帝位を一度退いた存在である。</sentence>
+<sentence>とすると、普通に考えれば<quote>「太上天皇」</quote>は隠居の身であるから、実際的権力は持っていないということになる。</sentence>
+<sentence>にも<ruby rubyText="かかわ">拘</ruby>らず、<quote>「養老令」</quote>を見る限りでは、<quote>「太上天皇」</quote>なるものには時の天皇と全く同じほどの尊敬が払われ、従って太上天皇は天皇と同じほどの“力”を持っているように思われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　律令制度というのはピラミッド型の国家体制を作るものである。</sentence>
+<sentence>ピラミッドの頂上に二人の権力者がいるということは普通考えられない。</sentence>
+<sentence>ピラミッドの頂上の権力者は一人でなくてはならない。</sentence>
+<sentence>そうしないとピラミッドそのものが成立しない。</sentence>
+<sentence>しかし、ここではピラミッドの頂上に二人の人間が、天皇と上皇がいるというのである。</sentence>
+<sentence>これは一体、どういう訳か。</sentence>
+<sentence>瀧川政次郎氏はこのことについて、次のように説明する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>吾人の注目を索く第一の差異は、我が令が唐禮に無い太上天皇の尊號を定めてゐることである。</sentence>
+<sentence>これ支那にあっては、皇帝の位は全く公のものであって、皇帝の父祖と雖も一度帝位を退けば凡人となるが、我が国の天皇は国家の元首たる公の地位と皇族の族長<noteMarker text="（２）" />たる私の地位とを兼ね有するものであるから、天皇の父祖は讓位の後と雖も皇族の族長たる地位を保有する。</sentence>
+<sentence>故に我が國に於いては、天皇が上皇に對して朝覲の禮を執り、院政<noteMarker text="（３）" />といふものさへ後には行はれるに至つたのである。</sentence>
+<sentence>されば本條が讓位の帝に對して特に太上天皇の尊號を定めてゐることは、實に我が國體の特性を語るものである。</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（『律令の研究』一九三一）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<noteBody>
+<sentence>（２）　族長　族長は自ら神を祀る存在であった。</sentence>
+<sentence>それは専業の神職を設けていなかった時代のことである。</sentence>
+<sentence>神が、ある土地に<ruby rubyText="ふ">降</ruby>ると、土地の人は<ruby rubyText="あも">天降</ruby>った神を<ruby rubyText="うぶ">産</ruby><ruby rubyText="すな">土</ruby><ruby rubyText="がみ">神</ruby>として祀った。</sentence>
+<sentence>その中心を為すのが族長である。</sentence>
+<sentence>多く族長は富<sampling type="end" />裕であったから、その屋敷が社の役割を担った。</sentence>
+</noteBody>
+</article>
+</sample>

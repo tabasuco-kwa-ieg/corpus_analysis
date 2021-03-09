@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00017" version="1.0" type="fixedLength">
+<article articleID="LBf3_00017_F001">
+<paragraph>
+<sentence>会社の資金調達の方法として、新株の発行、銀行等の借入金による方法があるが、新株の発行は、旧株主の利益配当に影響を及ぼし、会社の内部事情から、不利な場合があ<sampling type="start" />る。</sentence>
+<sentence>そこで、公衆から多額に長期にわたり会社の利益配当率より低利で発行することができる利点がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　社債と株式の異同</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　社債は、会社に対する債権である。</sentence>
+<sentence>したがって、これを有する者は、社債権者といい、社債券は、純然たる債権を表章するのに対し、株式は、株主権ないし株主たる地位を表章する。</sentence>
+<sentence>その結果、社債と株式との差異は、社債権者は株主のように株主総会に参加する権利（議決権など）を有しない。</sentence>
+<sentence>また、社債は償還期限がくると、償還金額の支払をうけるが、株式は原則として償還（株金の払戻）は認められない。</sentence>
+<sentence>さらに株式の配当率は会社の利益の有無によって変動するが、社債の利率は一定している。</sentence>
+<sentence>したがって、投資としても株式より社債の方が安定性がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対し、株式と社債の類似点は、会社側からみると、いずれも資金調達の方法であり、投資者側からみると投資の対象となる。</sentence>
+<sentence>本来株式と社債とは異なった制度であるが、近時株式と社債との接近がみられる。</sentence>
+<sentence>株式の社債化現象として、議決権のない株式（二四二条）、償還株式（二二二条）などがあり、反対に社債の株式化現象として、転換社債（三四一条ノ二以下）、新株引受権附社債（三四一条ノ八以下）がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">二　社債契約の法的性質</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　社債を成立させる原因行為、すなわち社債契約の法的性質について学説が分れる。</sentence>
+<sentence>社債契約は、原則として消費貸借類似の無名契約と解し、ただ売出発行の場合（長銀二条三項）にかぎり、債券の売買と解する説（田中誠・下九七七頁、服部・一六〇頁、鈴木＝竹内・四四六頁）が有力であるが、すべて社債券の売買と解する説もある（石井・社債法二〇頁、松田・二九〇頁）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">三　社債の発行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　社債発行の制限</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（イ）　総額の制限</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　従来、社債の総額は、会社の資本および法定準備金の総額を超えて募集することはできない。</sentence>
+<sentence>また最終の貸借対照表によって会社に現存する純資産額が、資本および法定準備金の総額にみたないときは、社債はその資本額を超えて募集することができないと定めていた（旧二九七条一項二項）。</sentence>
+<sentence>この制限は、社債権者保護のために、会社の現存の資力以上の負担を抑制するためである。</sentence>
+<sentence>しかし、経済界では、会社の需要に応ずることはできないとして、社債発行限度の緩和または廃止を要望していた。</sentence>
+<sentence>平成二年改正法は、社債は、最終の貸借対照表により会社に現存する純資産額をこえて募集することができないとし（二九七条一項）、資本及び法定準備金による制限を廃止した。</sentence>
+<sentence>なお、この制限は、募集のときが標準となるから、その後、資本または準備金を減少しても既発行の社債には影響しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上の制限に違反してなされた社債の発行も無効となることはなく、ただ<sampling type="end" />取締役の責任が生じ（二六六条一項五号）、また過料の制裁をうけるにすぎない（四九八条一項二二号）。</sentence>
+</paragraph>
+</article>
+</sample>

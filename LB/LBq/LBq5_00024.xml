@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00024" version="1.0" type="fixedLength">
+<article articleID="LBq5_00024_F001">
+<sentence>◆写真をＧＩ<sampling type="start" />Ｆで扱う必要がある場合もあります。</sentence>
+<sentence>この場合、同系色で構成されている写真なら、かなり減色しても表現にあまり差がありません。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２．画像を取り込む</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＰｈｏｔｏＣＤがお勧め／撮影するならデジカメ／簡単綺麗はスキャナー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｗｅｂで使用する画像をコンピューターに取り込む方法はいくつかあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１．スキャナーを使用してスキャニングする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>平面のものであれば、写真でもイラストでも、一番簡単にきれいに取り込めます。</sentence>
+<sentence>自分でスキャニングする方法は一番安価ですみます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２．デジタルカメラで撮影する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>これから撮影をするのであれば、なんといってもデジタルカメラです。</sentence>
+<sentence>２００万画素クラスのものなら充分な品質の画像が得られます。</sentence>
+<sentence>撮影した画像はケーブルで繋ぐか、メディアからも簡単にパソコンに取り込めます。</sentence>
+<sentence>撮影してすぐにＷｅｂ用の画像として使えるのが、なんといっても最大の魅力です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">３．撮影したフィルムからＰｈｏｔｏＣＤに焼く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>撮影したフィルムがすでにあるならＰｈｏｔｏＣＤに焼いてもらうのがお勧めです。</sentence>
+<sentence>クオリティが高く比較的低価格です。</sentence>
+<sentence>Ｗｅｂ用に限らず、写真をストック管理するのにたいへん便利です。</sentence>
+<sentence>１枚のＣＤに１００コマまで焼くことができ、プリントアウトサービスもあります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">４．クリップアートを使用する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>もっと簡単にＷｅｂ用の画像を手に入れたい時は、Ｗｅｂサイトで提供されていたり、ソフトや雑誌の付録のＣＤに入っているクリップアートを使うという方法もあります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｒａｃｔｉｃｅ　画像を取り込む方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｒａｃｔｉｃｅ　画像処理の流れ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●画像の入力</sentence>
+<br type="automatic_original" />
+<sentence>スキャナーで画像を入力する時に決めなければいけないのは、解像度と大きさです。</sentence>
+<sentence>Ｗｅｂで使用する画像の解像度は７２ｄｐｉです。</sentence>
+<sentence>スキャナー付属のソフトによって指定の仕方はさまざまですが、このソフトでは<quote>「ｓｃｒｅｅｎ」</quote>を選ぶと７２ｄｐｉになります。</sentence>
+<sentence>大きさは、使用するサイズより少し大きめに取り込みます。</sentence>
+<sentence>後の変更に備えるためです。</sentence>
+<sentence>ここでは約４×３インチで取り込み、ファイルサイズは１９９Ｋになります。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●色調の補正</sentence>
+<br type="automatic_original" />
+<sentence>取り込んだ画像は必ず色調の補正をしましょう。</sentence>
+<sentence>スキャナで取り込む場合は、ソフトが自動的に補正してくれることが多いですが、デジタルカメラや、場合によってはフリー素材の中にも、補正が必要なことがあります。</sentence>
+<sentence>Ａｄｏｂｅ　Ｐｈｏｔｏｓｈｏｐを例にすると、少し明るくするために<quote>「トーンカーブ」</quote>でグラフの線をつまんで上へずらしました（補正の詳しい方法は１７８ページ参照）。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●サイズを調整する</sentence>
+<br type="automatic_original" />
+<sentence>Ｗｅｂページで使用するサイズが決まったら、大きさを調整しま<sampling type="end" />す。</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

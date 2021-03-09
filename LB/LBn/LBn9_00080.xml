@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn9_00080" version="1.0" type="fixedLength">
+<article articleID="LBn9_00080_F001">
+<paragraph>
+<sentence>　アマンダはあごのあたりをこわばらせ<sampling type="start" />た。</sentence>
+<sentence>ステルス・テクノロジーは、向こうからやってくるレーダー波を吸収したり、不規則に広い範囲に反射させたりして、鮮明な反射波、いわゆる“エコー”が相手の受波器にもどらないようにすることで、目標にされたこちらのレーダー画像を減衰させようという構想にもとづいている。</sentence>
+<sentence>“デューク”のウェットボール金属ポリマー塗装と角張ったところのないなめらかなデザインは、そのためのものだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、そうした防護策は、バイスタティック・レーダーによって打ち破られる可能性があった。</sentence>
+<sentence>すなわち、複数の強力なレーダー・システムが、同一の周波数と走査速度によって、同一の区域を探査するのである。</sentence>
+<sentence>その区域になにかあれば、いくつかの異なるレーダー波がすこしだけちがう角度から同時にその物体にぶつかり、その結果、単一のレーダー波による探索よりもずっと多くの断片的な反射波が生じることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　複数のレーダー受波器がそれらの反射波を拾えば、単一の受波器によるよりも、これまたずっと多くのものが捉えられるわけだ。</sentence>
+<sentence>それぞれのシステムが捉えたデータを一カ所に集めてコンピューターで分析し、サイパネティック・ジグソーパズルともいうべき断片を再構築していけば、やがて実体を反映した合成画像ができあがる。</sentence>
+<sentence>送波器が強力で、受波器の感度がよく、コンピューター処理が迅速におこなわれるならば、ステルス物体を捉えられる可能性があるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ミスター・マッケルシー、かれらはこちらからの反射波をすでに捉えていますか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「<ruby rubyText="ネガティヴ">いいえ</ruby>。</sentence>
+<sentence>むこうのレーダー波の強さはこちらの許容限界をまだ下まわっています。</sentence>
+<sentence type="quasi">しかし、急速に出力をあげています」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「われわれを、波による干渉エコーと同期させることはできますか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「やってみますが、いまの海の状態はここ何日もなかったほど静かですので、利用できそうな大波がありません」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「できるだけやりなさい」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　アルゼンチンは、このシステムのためのソフトウエアを作りあげるのに、ベネズエラより南にいるハッカーを二十四時間体制で総動員したにちがいない。</sentence>
+<sentence>問題は、それにどう対処すべきかということだ。</sentence>
+<sentence>いま一戦まじえるべきか、それとも、つぎはぎだらけの外套に身をつつんで隠れているべきか。</sentence>
+<sentence>アマンダはゆっくりと、考え込むように、右の人差し指の爪先で艦長席のプラスチックの肘掛けを三回たたいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「操舵手、前進微速。</sentence>
+<sentence type="quasi">速度五ノット」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「アイアイ、マーム。</sentence>
+<sentence>前進微速。</sentence>
+<sentence type="quasi">速度五ノット」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「とり舵」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「アイアイ。</sentence>
+<sentence type="quasi">とり舵」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　アマンダはやや声を大きくして、ＣＩＣ全体に聞こえるように言った。</sentence>
+<sentence type="quasi"><quote><sentence>「これより回避を試みる。</sentence>
+<sentence type="quasi">イージス・オペレーター、戦術用オーバーレイを操舵手の航行ディス<sampling type="end" />プレーに重ねなさい」</sentence>
+</quote></sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

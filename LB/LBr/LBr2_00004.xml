@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr2_00004" version="1.0" type="fixedLength">
+<article articleID="LBr2_00004_F001">
+<quotation>
+<citation>
+<sentence>南国<ruby rubyText="ふく">𠬝</ruby><ruby rubyText="し">子</ruby><sampling type="start" />はわが領土に侵攻し、王は征伐して至り、その都を伐たれた。</sentence>
+<sentence>𠬝子は和平を求め、来たり迎えて王に見えた。</sentence>
+<sentence>南夷・東夷のともに見えたものは、二六邦であった。</sentence>
+<sentence>…われは天上の先王を嗣いで、宗周の鐘を作り、鳴り響く鐘の音で先王を地上にお導きする。</sentence>
+<sentence>先王は天上に居られて、われに多福を降され、わが子孫を嘉せられ、長寿を極めしめられんことを。</sentence>
+<sentence>㝬よ、それ万年までも、永く四国を保たんことを。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　南国𠬝子の率いる反乱を征討した周王の行動は、銘文冒頭において<quote>「王は文王・武王の経営されし疆土を通省された」</quote>と総括されており、そこにみえる<quote>「文王・武王の経営されし疆土」</quote>とは、西周前期の大盂鼎銘において<quote>「先王の授けられたまいし民と授けられたまいし疆土（先王授民授疆土）」</quote>とも表現された王朝の支配領域のことであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　周王朝の支配領域が王朝の開祖である文王・武王にかけて語られていたことは、周王に仕えた記録官であった<ruby rubyText="し">史</ruby><ruby rubyText="しょう">牆</ruby>の作器にかかる西周中期の史牆盤銘</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>文王は初めて<ruby rubyText="まつりごと">政</ruby>を治め整えられた。</sentence>
+<sentence>上帝は大いなる徳を降してこれを護られ、上下を保ち、万邦を受けしめられた（合受万邦）。</sentence>
+<sentence>武王は四方を<ruby rubyText="きっ"><missingCharacter attribute="HanIdeograph" unicode="U+9079" daikanwa="M39129" description="しんにょう＋矞">〓</missingCharacter></ruby><ruby rubyText="せい">正</ruby>（征）し（<missingCharacter attribute="HanIdeograph" unicode="U+9079" daikanwa="M39129" description="しんにょう＋矞">〓</missingCharacter>正四方）、殷の民を伐ちはらい、永遠に恐れがないようにされた。</sentence>
+<sentence>（以下、省略）。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<sentence>の一文からも知ることができる。</sentence>
+<sentence>歴代周王の事績を回顧するという特異な内容で知られる史牆盤銘において、<quote>「万邦」</quote>の領有は文王にかけられ、<quote>「四方」</quote>という領域観念は武王にかけて回顧されているのである<noteMarker text="（７）" />。</sentence>
+<sentence type="quasi">そして文王・武王を嗣ぐ歴代の周王たちもまた、この<quote>「万邦」</quote><quote>「四方」</quote>を領有する支配者として、たとえば西周中期の<ruby rubyText="れい"><missingCharacter attribute="HanIdeograph" unicode="U+76E0" daikanwa="M23028" description="彖の下に皿">〓</missingCharacter></ruby><ruby rubyText="ほう">方</ruby><ruby rubyText="い">彜</ruby>（方尊）銘</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>天子よ、万年もわが万邦を保たれますように（万年保我万邦）。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<sentence type="quasi">や、後期の南宮乎鐘銘</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>天子よ、万年眉寿にして、永く四方を保たれますように（<missingCharacter attribute="HanIdeograph" unicode="U+3F59" daikanwa="M21786" description="田＋允">〓</missingCharacter>永保四方）。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<sentence>などのように、その臣下たちからの言祝ぎを受け続けたのであった。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>（７）史牆の一代後の<missingCharacter attribute="HanIdeograph" unicode="U+FFFD" daikanwa="M99999" description="やまいだれに興">〓</missingCharacter>が作った<missingCharacter attribute="HanIdeograph" unicode="U+FFFD" daikanwa="M99999" description="やまいだれに興">〓</missingCharacter>鐘銘には<quote>「<sentence>文王は初めて<ruby rubyText="まつりごと">政</ruby>を治め整えられた。</sentence>
+<sentence type="quasi">上帝は大いなる徳を降してこれを護られ、四方を保ち、万邦を受けしめられた（匍有四方、合受万邦）</sentence>
+」</quote>とあり、<quote>「四方」</quote><quote>「万邦」</quote>の両観念とも文王にかけて回想されている。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　開祖たる文王・武王にかけて言説化された周王朝の支配領域は、時に<quote>「四方」</quote>と呼ばれ、時に<quote>「万邦」</quote>と呼ばれたのであるが、そのうち東方・南方・西方・北方からなる<quote>「四方」</quote>は、後に述べるように殷代から引き継いだ領域観念であった。</sentence>
+<sentence>一方の<quote>「万邦」</quote>は王朝の支配領域を構成していた邦国の修辞的総称であり、先にみた宗周鐘銘に<quote>「南夷・東夷のともに見えたものは、二六邦であった」</quote>とあったように、いわゆる夷荻の邦国をも含む観念であったと考えられる。</sentence>
+<sentence>そしてさらに、<quote>「万年もわが万邦を保たれますよう<sampling type="end" />に」</quote><quote>「永く四方を保たれますように」</quote>といった<ruby rubyText="こと">言</ruby><ruby rubyText="ほ">祝</ruby>ぎの言葉を参照するならば、宗周鐘銘<quote>「㝬よ、それ万年までも、永く四国を保たんことを」</quote>にみえる<quote>「四国」</quote>、すなわち東国・南国・西国・北国もまた王朝の支配領域を指し示す言葉であったと考えることができるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

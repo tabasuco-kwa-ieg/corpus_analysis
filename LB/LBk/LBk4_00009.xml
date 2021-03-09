@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk4_00009" version="1.0" type="fixedLength">
+<article articleID="LBk4_00009_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />図２‐７　脱臭処理の方式</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　活性炭吸着が最も多く６４％、ついでオゾン脱臭が３２％であった。</sentence>
+<sentence>活性炭以外の吸着剤やその他の脱臭方式を採用しているメーカーはそれぞれ２割前後である。</sentence>
+<sentence>活性炭も粒状のものだけではなく、繊維状のものや、ハニカム活性炭素繊維、ウレタンフォームに活性炭を添着したもの、さらに活性炭に他の物質を添着させたものなどが使用されている。</sentence>
+<sentence>それ以外の吸着剤としては、ゼオライト、マンガン触媒、酸性ガス吸着剤、化学吸着剤などの回答がある。</sentence>
+<sentence>そのほか、オゾンと活性炭の併用などの回答もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">６‐１　脱臭処理の方式を選択した理由について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐８　脱臭処理方式の選択理由</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　脱臭効果を第１に上げたメーカーが最も多く、全体の９割近くに達している。</sentence>
+<sentence>ついでメンテナンスの容易さ、安価、寿命が長いの順である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７　脱臭フィルターの寿命について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐９　脱臭フィルターの寿命</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　脱臭フィルターの寿命は６か月程度と答えたメーカーが全体の半数を占め最も多く、ついで１年程度、３ヶ月程度である。</sentence>
+<sentence>長いものでは３―５年との回答もある。</sentence>
+<sentence>なお、オゾン脱臭方式はフィルターを使用しないので、この図中には含まれていない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">８　脱臭フィルターの価格について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１０　脱臭フィルターの価格</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　１，０００〜５，０００円程度と答えたメーカーが半数近くを占め、最も多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">９　集じん装置の集じん方式について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１１　集じん方式</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　集じん方式としては電気集じん式がもっとも多く、７割近いメーカーで採用されている。</sentence>
+<sentence>ついで静電フィルター、エアフィルターの順である。</sentence>
+<sentence>このほか、ポリウレタンや活性炭による吸着、エアフィルターと電気集じん式の併用あるいはファンなしイオン式と電気集じん式の併用などの回答もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">９‐１　集じん装置の選定に当たっての選定理由について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１２　集じん装置を選定した理由</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　集じん装置の選定基準としては、集じん効果を第一にあげたメーカーが８６％と最も多い。</sentence>
+<sentence>ついでメンテナンスの容易さであり、価格や寿命で選定したメーカーは少ない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１０　集じんフィルターの寿命について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１３　集じんフィルターの寿命</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　集じんフィルターの寿命は機器によってばらつきが見られたが、３ヶ月程度が最も多い。</sentence>
+<sentence>その他の中には、数十回の繰り返し洗浄が可能な形式のもので５年から１０年、集じんユニット形式のもので５年から１０年程度との答えがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１１　集じんフィルターの価格について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐１４　集じんフィルターの価格</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　集じんフィルターの価格は脱臭フィルターの価格と同様、１，０００円から５，０００円程度と答えたメーカーが多かったが、一般に脱臭フィルターよ<sampling type="end" />りも高く、１００，０００円以上と答えたメーカーも２社ある。</sentence>
+</paragraph>
+</article>
+</sample>

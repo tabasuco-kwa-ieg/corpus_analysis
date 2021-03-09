@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00024" version="1.0" type="fixedLength">
+<article articleID="LBt3_00024_F001">
+<paragraph>
+<sentence>イオカードでもストアードフ<sampling type="start" />ェアシステムとして<quote>「カードが切符になる」</quote>という条件は満たしていた。</sentence>
+<sentence>その当時のＩＣカードの実用化には技術的な問題が数多く残されており、それを解決するにはまだ時間がかかるとみられたために、ＪＲ東日本の経営陣は、より確実な磁気方式を採用したのであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「たしかに実用化に踏み切る段階にはなっていませんでしたが、正直いって磁気に取られてしまったという思いでいっぱいでした。</sentence>
+<sentence>改札機など設備の減価償却を考えると、それから１０年は磁気式でいくことになり、ＩＣカードの実用化は遠い将来になってしまったわけです。</sentence>
+<sentence type="quasi">それはショックでした</sentence>
+」</quote>と三木は振り返っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それでも三木をはじめ研究所のスタッフたちは、諦めることなく、より完成度の高いＩＣカードをめざして開発に邁進する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ＩＣカード実用化に立ちはだかった壁</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　数年たって、そのチャンスが巡ってきた。</sentence>
+<sentence>あとでくわしく述べるが、９３年ごろからイオカードに続く媒体として、ＩＣカードの導入がＪＲ東日本社内で、本格的に検討され出したのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　その際の条件として、研究者たちが考えたのは、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　定期券をパスケースから出さずに通る</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　歩きながら処理できる</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>の二点だったと三木は指摘する。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「磁気方式の定期券では、いったんパスケースから取り出して投入しなければなりません。</sentence>
+<sentence>しかし、定期券はもともと駅員にみせて通っていたものですから、パスケースから出さずに通過する方法をもう一度探ろうではないかと考えました。</sentence>
+<sentence>もうひとつが、鉄道用のＩＣカードの必須条件は移動しながら処理ができることです。</sentence>
+<sentence>立ち止まって処理していたのではラッシュ時に追いつかなくなる。</sentence>
+<sentence type="quasi">それらを解決するにはやはり非接触型ＩＣカードしかなかったのです」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　非接触型ＩＣカードなら改札機にカードを入れることなく、ふれるだけで通過できる。</sentence>
+<sentence>立ち止まって処理することもない。</sentence>
+<sentence>そのため、乗車券にＩＣカードを組み込もうと開発を進めた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで、このころの開発コンセプトは、<quote>「利用者が手に<ruby rubyText="さ">提</ruby>げた鞄のなかにＩＣカードを入れても利用できるようにしよう」</quote>というものであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのためにＩＣカードは、自動改札機と３０センチ程度の距離で通信が行なえることが条件となっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうしたことから、読取機の識別電波は、遠くまで届く波長の短い準マイクロ波（３００メガヘルツ〜３ギガヘルツ）と短波（３〜３０メガヘルツ）の採用が検討されていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　鉄道総研は、８８年には<quote>「タッチレス・カード」</quote>を開発している。</sentence>
+<sentence>このカードは、幅８センチ、長さ１１センチ、厚さ１センチのＩＣ内蔵カードで、読取機のほうは、幅２０センチ、長さ４０センチ、厚さ<sampling type="end" />１０センチとかなり大きかった。</sentence>
+</paragraph>
+</article>
+</sample>

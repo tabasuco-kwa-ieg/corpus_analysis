@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00042" version="1.0" type="fixedLength">
+<article articleID="LBt3_00042_F001">
+<quotation>
+<citation>
+<paragraph>
+<sentence>この結果、０４年３月末段階のコクドの持ち株比率を当初記載の４３．１<sampling type="start" />６％から６４．８３％に、プリンスホテル分を０．９８％から４．２％にそれぞれ訂正。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　東証では、上位１０位までの大株主と役員の持ち株比率の合計が８０％を超えた状態で１年以上経過すると上場廃止となる。</sentence>
+<sentence>西武鉄道は長期にわたり、この基準に抵触し続けていた可能性がある。</sentence>
+<sentence>西武鉄道は０４年９月末段階では７４．９％まで引き下げたとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<source>
+<sentence type="quasi">（<quote>「朝日新聞」</quote>２００４年１０月１４日付け）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　とりあえず、この記事が出ることによって<quote>「西武鉄道株」</quote>が急落する、ということはすぐに予想できましたか？</sentence>
+<sentence><quote>「<ruby rubyText="じょう">上</ruby><ruby rubyText="じょう">場</ruby><ruby rubyText="はい">廃</ruby><ruby rubyText="し">止</ruby>」</quote>についてはＯｎｅ　Ｐｏｉｎｔ　Ｌｅｓｓｏｎ（Ｐ．７０）で詳しく解説しますが、もしも実際に<quote>「<ruby rubyText="じょう">上</ruby><ruby rubyText="じょう">場</ruby><ruby rubyText="はい">廃</ruby><ruby rubyText="し">止</ruby>」</quote>になってしまったら、（株を持っていても自由に売買することができなくなったり）とても不便になってしまうので、“株を持っていたい人”が確実に減ることになります。</sentence>
+<sentence>そのため、<quote>「西武鉄道株」</quote>はものすごい<ruby rubyText="いきお">勢</ruby>いで大量に売りに出されると想像できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、ではこの日にどのくらい株価が下がったのでしょうか？</sentence>
+<sentence>株価がどんどん下がっていくのは当然のことなのですが、実は、基本的に株価には<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>というものがあって、１日で株価が下がるのには限度があるのです。</sentence>
+<sentence>例えば今回のように市場に大きなショックを与える報道が出ると、<quote>「<sentence>とにかく早めに売ってしまえ！！</sentence>
+」</quote>という感じでみんながパニックに<ruby rubyText="おちい">陥</ruby>って、いっせいに株を売りに出してしまうような状況になったりするので、（もしも<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限がないと）異常なまでに株価が下がってしまったりします。</sentence>
+<sentence>そこで、市場に“冷静に判断してもらえるように”<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>という<quote>「１日の株価の上下制限」</quote>をつくっているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ　４．１〈<sentence><ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限とは？〉</sentence>
+</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>とは、市場で株価が急激な変化をしたときに、投資家に（必要以上の）損害を与えないように設定されている<quote>「１日の株価の上下制限」</quote>のことで、株価によって“<ruby rubyText="はば">幅</ruby>”が異なる。</sentence>
+<sentence>また、株価がその日の<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>いっぱいまで上がった場合を<quote>「ストップ<ruby rubyText="だか">高</ruby>」</quote>といい、株価がその日の<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>いっぱいまで下がった場合を<quote>「ストップ<ruby rubyText="やす">安</ruby>」</quote>という。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>◀例えば当時の<quote>「西武鉄道株」</quote>は株価が１０００円〜１５００円なので<quote>「<ruby rubyText="ね">値</ruby><ruby rubyText="はば">幅</ruby>制限」</quote>は、（前日の<ruby rubyText="おわり">終</ruby><ruby rubyText="ね">値</ruby>から）上下に２００円！</sentence>
+<sentence type="quasi">【株価が５００円〜１０００円なら上下に１００円】</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　さて、通常の場合は、１日が<ruby rubyText="た">経</ruby>って冷静に考えてみると、<quote>「“ストップ<ruby rubyText="やす">安</ruby>”は下がりすぎだな」</quote>と考える人が出てきて、次の日に株価は上がることも少なくないのですが、さすがに今回の<quote>「西武鉄道株」</quote>については、そうはいきませんでした。</sentence>
+<sentence>１日が<ruby rubyText="た">経</ruby>って冷静に考えてみても、<quote>「やはり問題は<ruby rubyText="しん">深</ruby><ruby rubyText="こく">刻</ruby>すぎる」</quote>と考える人が圧倒的に多くて、次のチャートを見れば分かるように、この報道<ruby rubyText="い">以</ruby><ruby rubyText="こう">降</ruby>、も<sampling type="end" />のすごい勢いで<quote>「西武鉄道株」</quote>は下がり続けていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00050" version="1.0" type="fixedLength">
+<article articleID="LBn5_00050_F001">
+<sentence>そんな<sampling type="start" />ときには、Ｗｏｒｄの文字方向を変更すれば、編集画面で縦書きによる文字の編集ができます。</sentence>
+<br type="automatic_original" />
+<sentence>また、文書全体ではなく、部分的な縦書きを効果的に使いたいときには、縦書きテキストボックスを活用してもいいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">レッスン７４</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">目次を作成するには</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">見出しの設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ｗｏｒｄでは、見出しに設定された目次項目を抜き出して、ページ番号を文書の中に目次として挿入する機能が用意されています。</sentence>
+<sentence>この目次の挿入機能を使えば、論文や解説書などの長文で、目次を簡単に作成できます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence type="quasi">１　見出しを設定する文書を用意する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　語句を選択する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　［見出し１］をクリック</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　見出しが設定された</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　<image description="段落番号ボタン（数字と罫線の絵）" no="12" />ボタンをクリックする</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">６　段落番号が設定された</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">７　続けて［見出し２］を設定する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">８　［見出し２］をクリックする</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">９　続けて見出しを設定する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０　目次を作成する場所をクリックする</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１　［索引と目次］をクリックする</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１２　目次の種類を指定する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１３　目次が作成される</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">目次の書式を設定するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>目次の書式は、［書式］‐［スタイル］‐［文字／段落スタイルの設定］からあらかじめ用意されているスタイルを選ぶことができます。</sentence>
+<sentence>また、［変更］ボタンを使えば、任意の書式を設定することもできます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence>間違った場合は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>間違った文字に見出しを設定してしまったときには、<image description="アンドゥ（矢印）ボタン" no="13" />ボタンをクリックして設定し直します。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アウトラインのレベルを設定するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>目次を作成するときに、アウトラインのレベルは、最大で９まで設定できます。</sentence>
+<sentence>また、［オプション］をクリックして、目次オプションを開けば、目次レベルに対応するスタイルの対応も設定できます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">目次の挿入で正確な目次を作ろう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>Ｗｏｒｄで複数のページに及ぶ長い文章を作るときに、後で目次として抜き出しておきたい文章に対して、［見出し］というスタイルを設定しておくと、目次作成の機能を使って、自動的に文字列の抜き出しと、該当するページ番号の計算が行われます。</sentence>
+<sentence>目次作成で作られた目次番号は、後から文章を編集して、ページが上下しても、自動的に更新されるので、一度設定してしまえば、常に正確な目次が表示されます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">レッスン７５</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">索引を作成するには</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">索引の登録</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ｗｏｒｄには、［索引］に設定した文字列を、後からまとめて探し出して、そのページ番号を計算し、五十音順に並べ替えた索引として編集する機能が装備されています。</sentence>
+<sentence>この［索引］の挿入機能を使えば、長い文書の索引も簡単に作れます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１　索引を設定する文書を用意する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　索引に登録する語句を選択する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ショートカットキー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi"><image description="Ａｌｔ＋Ｓｈｉｆｔ＋Ｘ　キー" no="14" />　索引登録</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　語句を登録する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　索引フィールドが表示される</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">５　続けて語句を登録する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">６　［索引<sampling type="end" />と目次］をクリックする</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

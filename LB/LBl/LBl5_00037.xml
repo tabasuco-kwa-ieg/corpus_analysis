@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00037" version="1.0" type="fixedLength">
+<article articleID="LBl5_00037_F001">
+<list>
+<listItem>
+<sentence>３　写真のようになっ<sampling type="start" />たら残りの砂糖を数回に分けて加え（写真ｃ）、泡立てます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>４　<ruby rubyText="つの">角</ruby>が立たず、卵白が流れ落ちているようでは、まだ泡立てがたりません（写真ｄ）。</sentence>
+<sentence>もう少し泡立て続けましょう。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>５　静かに全体を混ぜて、きめをそろえ、なめらかにします（写真ｅ）。</sentence>
+<sentence>泡立て器を持ち上げ、泡立ち具合を見ます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>６　<ruby rubyText="つの">角</ruby>が立った状態（写真ｆ）。</sentence>
+<sentence>しっかりとしてつやがあります。</sentence>
+<sentence>泡立てすぎると、もろもろになり、きめが<ruby rubyText="あら">粗</ruby>くなるので注意します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ミルクティーのレアチーズケーキ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ミルクティーをプラスした、柔らかいレアチーズケーキです。</sentence>
+<sentence>オレンジとシナモンの風味がよく合います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲このチーズで作ります</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">クリームチーズ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］５人分</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">［準備しておくこと］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●クリームチーズは室温において柔らかくします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●<enclosedCharacter description="○">Ａ</enclosedCharacter>は小鍋に入れ、しばらくおいておきます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●ゼラチンは分量の水にふり入れてふやかします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">［作り方］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　ボールに卵黄を入れてほぐし、砂糖を加え、泡立て器で白っぽくなるまですり混ぜます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　準備した<enclosedCharacter description="○">Ａ</enclosedCharacter>を火にかけ、沸騰したら火からおろし、１に加え混ぜます。</sentence>
+<sentence>鍋に戻して弱火にかけ、ゴムべらで混ぜながら、ゆるいとろみがつくまで煮ます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　２をボールにこし入れ（写真Ａ）、バニラビーンズの種をさやから出して加えます（５０頁参照）。</sentence>
+<sentence>ふやかしたゼラチンを湯せんにかけて溶かし、加えます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>４　３の<ruby rubyText="あら">粗</ruby><ruby rubyText="ねつ">熱</ruby>が取れたら、柔らかくしたクリームチーズに少しずつ加え混ぜます（写真Ｂ）。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>５　生クリームを、氷水をあてて泡立て、ラム酒も加えて<ruby rubyText="ろく">六</ruby><ruby rubyText="ぶ">分</ruby>立てにします（４３頁参照）。</sentence>
+<sentence>４に加え混ぜ（写真Ｃ）、氷水をあて、ゴムべらで混ぜながらとろみをつけます（写真Ｄ）。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>６　オレンジソースを作ります。</sentence>
+<sentence>オレンジソースのすべての材料を鍋に入れて火にかけ、混ぜながら煮ます（写真Ｅ）。</sentence>
+<sentence>とろみがついたら火を止め、冷まします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>７　グラスに５と６を交互に入れ、シナモンをふります。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">イタリアンシフォンケーキ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　チーズ、バジル、オリーブ油で風味よく仕上げたシフォンケーキ。</sentence>
+<sentence>ワインにも合うおいしさです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲このチーズで作ります</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">パルミジャーノ・レッジャーノ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">［材料］直径１８センチのシフォン型１個分</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">［準備しておくこと］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●パルミジャーノ・レッジャーノはすりおろします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●薄力粉はふるいます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●オーブンを１６０度Ｃにセットし、温めておきます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">［作り方］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１　卵黄をほぐし、牛乳、オリーブ油、バジルを加えて、泡立て器でよく混ぜます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　準備したパルミジャーノを加え（写真Ａ）、薄力粉も加えて、なめらかになるまで混ぜます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence>３　別のボールで卵白に氷水をあてながら泡立て、砂糖を数回に分けて加え、しっかりしたメレンゲを作ります（１９頁参照）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>４　メレンゲの１／３量を２に加え、なめらかになるまで混ぜ合わせます（写真Ｂ）。</sentence>
+<sentence>残りのメレ<sampling type="end" />ンゲも加え、泡をつぶさないように、手早く混ぜ合わせます（写真Ｃ）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00036" version="1.0" type="fixedLength">
+<article articleID="LBo4_00036_F001">
+<profile>
+<list>
+<listItem>
+<sentence type="quasi">大塚恭男氏→北里研究所東洋医学総合研究所名誉所<sampling type="start" />長・修琴堂大塚医院（東京都新宿区）院長</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</profile>
+<titleBlock>
+<title>
+<sentence type="quasi">第２８話　小品方と傷寒論</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">生薬の扱い細かに　現代に通じる内容</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　漢方医学は、中国医書の古典にもとづき、改良を加えた日本独特の伝統医学である。</sentence>
+<sentence>その原点は、中国・後漢（二五―二二〇年）の名医、<ruby rubyText="ちょう">張</ruby><ruby rubyText="ちゅう">仲</ruby><ruby rubyText="けい">景</ruby>の『<ruby rubyText="しょう">傷</ruby><ruby rubyText="かん">寒</ruby><ruby rubyText="ざつ">雑</ruby><ruby rubyText="びょう">病</ruby><ruby rubyText="ろん">論</ruby>』とされる。</sentence>
+<sentence>残念なことにこの人物についての記録が乏しく、<quote>「架空の人物」</quote>と見る歴史学者さえあった。</sentence>
+<sentence>ところが、一九八四年暮れ、張仲景に言及している“幻の名著”が日本で見つかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「ぼくの一生でもおそらくは最大の発見でしょう。</sentence>
+<sentence type="quasi">漢方医学の研究に欠かせない国宝級の文書です</sentence>
+」</quote>と、北里研究所付属東洋医学総合研究所（東京都港区）歴史文献研究室長の<ruby rubyText="こ">小</ruby><ruby rubyText="そ">曽</ruby><ruby rubyText="と">戸</ruby><ruby rubyText="ひろし">洋</ruby>さんは今も興奮を隠さない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　小曽戸さんは、加賀の前田家に伝わる鎌倉時代の医書に興味を持った。</sentence>
+<sentence>財団法人前田育徳会<ruby rubyText="そん">尊</ruby><ruby rubyText="けい">経</ruby><ruby rubyText="かく">閣</ruby>文庫（東京都目黒区）に頼んで、マイクロフィルムから焼きつけた写真を送ってもらった。</sentence>
+<sentence>最初の二行ほどが欠け、正確な書名が分からなくなっていたが、資料の引用文を比べて、それが中国にも残っていない『<ruby rubyText="しょう">小</ruby><ruby rubyText="ひん">品</ruby><ruby rubyText="ほう">方</ruby>』の写本だと気づいた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『小品方』は後漢に続く六朝時代の作で著者は<ruby rubyText="ちん">陳</ruby><ruby rubyText="えん">延</ruby><ruby rubyText="し">之</ruby>。</sentence>
+<sentence>隋・唐やその影響を受けた日本の飛鳥・奈良・平安時代の代表的な医学教科書で、大宝律令にも定められている。</sentence>
+<sentence>見つかったのは、全部で一二巻あるうちの第一巻。</sentence>
+<sentence>序文と薬の使い方の総論、全巻のタイトル、そして、参考にした『傷寒論』なじ一八種の文献が挙げてある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず序文には、陳延之の編集の意図が記されている。</sentence>
+<sentence>一口にいえば、膨大な医書のエッセンスをまとめ、実用的でコンパクトな小品にした、というのだ。</sentence>
+<sentence>さらに、巻二以下一二までの各巻の処方内容の目録が書かれている。</sentence>
+<sentence>たとえば、巻五は丸剤や散剤など剤型について、巻六は急性病、巻七は婦人病、巻八は小児病、巻一二はお灸のツボ、という具合だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「内容が分かったうえ、これらの文献から『小品方』は四五四年から四七三年の間にできたことがはっきりしました」</quote>と小曽戸さん。</sentence>
+<sentence>日本より中国で大きな話題となった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　注目の序文には<quote>「<sentence>漢末に張仲景なる者あり。</sentence>
+<sentence>意思精密、よく旧効を<ruby rubyText="つまびら">詳</ruby>かにし、往古に通ぜり。</sentence>
+<sentence type="quasi">これより以来、未だ勝りたる者を聞かず</sentence>
+」</quote>と述べられている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　張仲景は三世紀初めごろ、揚子江（長江）の南、長沙の<ruby rubyText="たい">太</ruby><ruby rubyText="しゅ">守</ruby>（知事）だったらしい。</sentence>
+<sentence>その張仲景がそれまでの伝統医学を整理してまとめた『傷寒雑病論』は、後に急性病の具体的治療を記した『傷寒論』と、慢性病を扱った『<ruby rubyText="きん">金</ruby><ruby rubyText="き">匱</ruby><ruby rubyText="よう">要</ruby><ruby rubyText="りゃく">略</ruby>』の二つに分かれ、漢方医学の最も重要な古典となった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　葛根湯（かっこんとう）や小柴胡湯（しょうさいことう）などの漢方薬は、すでに『傷寒論』に出ている。</sentence>
+<sentence>生薬の扱いや、せんじ方の指示も細かい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　張仲景の指摘は現代<sampling type="end" />にも通じる。</sentence>
+</paragraph>
+</article>
+</sample>

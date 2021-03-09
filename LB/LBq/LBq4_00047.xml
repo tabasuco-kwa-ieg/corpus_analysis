@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00047" version="1.0" type="fixedLength">
+<article articleID="LBq4_00047_F001">
+<paragraph>
+<sentence>　もちろん、エネルギーの高い方が、原子核が衝突する確率は高いが、融合した後、多くのエネルギーが残って<sampling type="start" />しまう（できあがった原子核の温度が高くなる）。</sentence>
+<sentence>そのため、一瞬融合したかのように見える原子核も、分解してしまう確率が高くなる。</sentence>
+<sentence>実際、ほとんどのものが、また分裂してしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、低いエネルギーの衝突では、クーロン障壁のため原子核どうしが触れ合う確率は小さくなるが、いったん融合すると、余剰エネルギーが少ない（低温である）ため、再び分解する確率は小さくなる。</sentence>
+<sentence>このように、どちらにも一長一短があって、どちらがよいとは言えないため、手法の違いとして両方が使われている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第５章　核構造の理論</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">殻模型</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　原子核の構造を記述する理論には、いくつかの異なったタイプがある。</sentence>
+<sentence>これらの異なった理論は核模型と呼ばれ、各々が原子核構造の異なった側面をとらえている。</sentence>
+<sentence>原子核構造の面白みの一つは、いろいろな側面があることである。</sentence>
+<sentence>例えば、原子核の中では、核子が自由に軌道を描いて運動しているとする殻模型（シェルモデル）と、原子核は核子どうしが強く相互作用して、全体として液体のように振る舞うという液滴模型は、全く異なった仮定の下に作られた模型であるが、どちらも原子核の重要な一面をとらえている。</sentence>
+<sentence>しかし、最近の不安定核の研究では、このような別々の模型では説明できない現象がいくつも見つかってきた。</sentence>
+<sentence>ここでは、いくつかのモデルについてその基本的な考えを述べて、第６章以降で紹介する新現象の理解の準備をしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第３章で示したように、原子にはマジックナンバーが現れる。</sentence>
+<sentence>原子の中では電子が決まった軌道を運動しているので、その軌道には決まった数以上の電子は入れない。</sentence>
+<sentence>そのため、電子の軌道は何重にも重なった殻の構造をもつことになり、原子には２、１０、１８、３６、５４、８６といったマジックナンバーが現れる。</sentence>
+<sentence>元素名で言うと、それぞれＨｅ、Ｎｅ、Ａｒ、Ｋｒ、Ｘｅ、Ｒｎという希ガスである。</sentence>
+<sentence>マジックナンバーで電子の軌道が満たされたこれらの元素は、化学反応性がないというのが特徴である。</sentence>
+<sentence>原子核にマジックナンバーが存在するということは、これと同じような構造を原子核がもっていることを示唆している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">球対称のポテンシャル</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　原子の場合、質量のほとんどを占める原子核が中心にあり、それに引きつけられた軽い電子が軌道を描いて運動しているので、殻構造をもっていると考えられる。</sentence>
+<sentence>しかし、原子核の場合、ほとんど同じ質量をもつ陽子と中性子がお互いに力をおよぼしながら運動をしているため、各々の核子は中心がどこにあるかは知らないと言ってよい。</sentence>
+<sentence>それでは、殻のような構造をどう考えればいいのだろうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マジックナンバーがあるのだから、粒子がある力<sampling type="end" />の場（ポテンシャル）の中を回転運動しているという描像は間違ってはいないはずだと考えて、理論モデルを作ったのがメイヤーとイェンゼンである。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi5_00004" version="1.0" type="fixedLength">
+<article articleID="LBi5_00004_F001">
+<paragraph>
+<sentence>　以上から、金型、切削、プレス、板金、およ<sampling type="start" />び（やや認識を異にするが）プラスチック成形は主としてＭＥ化により熟練技術の設備代替が進んだ加工機能であるといえよう。</sentence>
+<sentence>他方、鋳造、鍛造、メッキ、熱処理、および塗装は熟練技術の設備代替が進んでいない加工機能、そして製品組立は入手作業の設備代替が進んでいない加工機能と位置づけられよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの結果と先の熟練形成に要する時間との関係について考えてみよう。</sentence>
+<sentence>まず、熟練形成に時間を要する加工機能のうち、鋳造、鍛造および塗装では熟練の設備代替が進んでいない。</sentence>
+<sentence>他方、板金、切削、金型においては熟練形成に時間は要するが熟練の設備代替も進んでいる。</sentence>
+<sentence>熟練形成時間では中間的位置づけにあったプラスチック成形とプレスとにおいては設備代替は進展しており、メッキと熱処理ではこれが進展していない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　熟練の設備代替が進んでいない加工機能で熟練形成に時間を要することは容易に想像がつく。</sentence>
+<sentence>また、設備代替が進んだところでは熟練形成に時間をあまり要しないという命題も納得がゆく。</sentence>
+<sentence>いずれも熟練の設備代替が進めば熟練形成時間は縮小し、進まなければ長くなる、という因果関係である。</sentence>
+<sentence>問題は設備代替が進んでいる加工機能で熟練形成に時間を要するところがあるということである。</sentence>
+<sentence>すなわち、板金、切削、金型がこれに該当する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、これらの加工機能で設備機械のＭＥ化の進展した作業はどのようなものであるかを見ると、例えば、板金では折曲げや穴明けがＮＣベンダーやＮＣターレットパンチプレスで行われるようになった。</sentence>
+<sentence>切削では旋盤加工やフライス加工がＮＣ化された。</sentence>
+<sentence>金型でもワイヤカットや放電加工がＮＣ化されている。</sentence>
+<sentence>考えられることは、まず第一に、これらＭＥ化された工程以外にも熟練を要する工程があるということである。</sentence>
+<sentence>例えば、板金や金型では設計にも熟練を要する。</sentence>
+<sentence>切削においては、ＢＴＡや大型旋盤などＭＥ化されていない設備を主体にしているところも多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二に、ＭＥ化自体が従来とは異なったかたちの熟練を要請しているということであろう。</sentence>
+<sentence>ＭＥ化された設備が普及した段階では各社の技術は平準化する傾向にあり、他との技術差を出すにはＭＥ化設備に対応した熟練を追求する必要があるのかもしれない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上をまとめると、設備機械のＭＥ化が加工機能別に偏りをもって進展したことは、まず第一に、ＭＥ化が進展していない加工機能を相対的に不利な状況におくことになった。</sentence>
+<sentence>周知のように鋳造、鍛造、メッキ、熱処理、塗装といった設備代替の進展していない加工機能における労働作業はかなりの過酷さを伴う。</sentence>
+<sentence>しかも、熟練形成に時間を<sampling type="end" />要するものも多い。</sentence>
+</paragraph>
+</article>
+</sample>

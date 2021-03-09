@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00041" version="1.0" type="fixedLength">
+<article articleID="LBt5_00041_F001">
+<sentence>耐震診断の結果から、壁量不足もさることなが<sampling type="start" />ら、壁の配置バランスが悪いということだった。</sentence>
+<sentence>狭小間口のために開口部をふさいで壁にすることが困難だという指摘だが、隣家との距離が近いこともあり、鉄骨フレームを用いた補強方法を提案してもらって工事を実施した。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">診断結果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>南面に壁が極端に少なく、その結果として剛心が北側に大きく偏ってしまっている上、全体的に壁量が不足していることから、偏心率の改善と壁量の充足を目的とした補強が必要である。</sentence>
+<sentence>また、漏水による土台劣化も評点を下げる原因となっている。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">補強前の評点　０．４１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">改修のポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>リビング内へ壁を新設したり、南面の開口をふさぐという補強が現実的にむずかしいことから、鉄骨フレームを組む補強を行うこととした。</sentence>
+<sentence>これにより剛心位置を重心に近づけることができ、バランスの良い建物になった。</sentence>
+<sentence>水回りの改善とともに一部の壁を補強した。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">補強後の評点　１．２５</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">補強工事内容詳細　改修工事（工期１０日）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>独立基礎の配筋中。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鉄骨門型フレームの接合状況（ボルト本締め前）。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鉄骨門型フレームの接合本締め作業中。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>建物南西側接合箇所。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鉄骨フレーム建て方完了。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鉄骨フレームを住宅と接合。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■工事代金</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第４章　<quote>「地震と住宅」</quote>に関するＱ＆Ａ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ１　耐震補強の工事費用はどのくらいなのでしょうか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ａ　一概にはいえませんが、平均工事費用は約１２０万円となっています。</sentence>
+<br type="automatic_original" />
+</abstract>
+<paragraph>
+<sentence>　耐震補強にかかる工事費用は、補強箇所や補強内容などによってかなりの差があります。</sentence>
+<sentence>一般的には、少ない費用で最大の効果が出る補強工事が理想です。</sentence>
+<sentence>そのためには、第３章で紹介したように補強の種類と優先順位（図表３‐９、１１５ページ）を参考にして、自分の家に合致した補強対策を講じることが大事です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでは、木耐協（日本木造住宅耐震補強事業者協同組合）が実際に行った耐震補強の工事費用（図表４‐１）とアンケート調査による希望費用（図表４‐２）を紹介しておきますので、参考にしてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際の工事費用で最も多いのは<quote>「５０万円以上〜１００万円未満」</quote>で、４４．８％を占めています。</sentence>
+<sentence>次いで、<quote>「１００万円以上〜２００万円未満」</quote>が３１．５％、<quote>「５０万円未満」</quote>が１２．１％となっています。</sentence>
+<sentence>このアンケート調査では、工事費用の平均は１２０万３，２３７円となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　希望予算で一番多いのは<quote>「５０万円以上〜１００万円未満」</quote>で、４０．０％を占めています。</sentence>
+<sentence>次いで、<quote>「５０万円未満」</quote>が３０．１％、<quote>「１００万円以上〜２００万円未満」</quote>が１４．７％となっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　約１２０万円程度の補強ですと、壁の補強が２〜３箇所、壁の補強に伴うホールダウン金物の設置が４〜６箇所、外付けのホールダウン金物の設置が４〜５箇所、基礎のひび割れの補修程度が最も多い<sampling type="end" />補強のケースです。</sentence>
+</paragraph>
+</article>
+</sample>

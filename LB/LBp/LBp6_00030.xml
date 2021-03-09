@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp6_00030" version="1.0" type="fixedLength">
+<article articleID="LBp6_00030_F001">
+<paragraph>
+<sentence>これらは、その自動車の運行支配または運行利益が<sampling type="start" />認められないという理由で、運行供用者ではないとされます。</sentence>
+<sentence>しかし、キーを差し込んだまま路上駐車して無断運転された場合には、所有者等に保管上の過失があるという理由で、運行供用者責任を問うことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次に、所有者等でないのに運行供用者となる例は、修理や保管を託された修理業者、名義を貸すことによって実質的な利益を得または運行支配を及ぼしている名義貸与者などです。</sentence>
+<sentence>これらは、その自動車の運行支配または運行利益が認められるので、所有者等でなくとも運行供用者であるとされます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお、自動車の登録名義人（<quote>「所有者」</quote>欄または<quote>「使用者」</quote>欄に記載されている人）は、とりあえずはその自動車の所有者等であると考えられますが、必ずしも所有者に当たるとは限りません。</sentence>
+<sentence>例えば、自動車を売却したがなお名義が残っていた場合の名義人は、所有者等でもなく、また運行供用者でもありません（通説・判例）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">運行供用者に生じる責任</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　運行供用者は、自動車事故によって生じた人身損害について、無過失責任に近い重い責任（過失責任と無過失責任の中間的責任）が負わされています（自賠法三条）。</sentence>
+<sentence>つまり、過失の有無についての立証責任が運行供用者側に転換されており、運行供用者は、次の三つの事項を立証しない限り、被害者に対する賠償責任を免れないことになっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　自分および運転者が自動車の運行に関し注意を怠らなかったこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　被害者または運転者以外の第三者に故意または過失があったこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　自動車の構造上の欠陥または機能の障害がなかったこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また、この運行供用者責任は、損害賠償の対象が人身損害に限られますが、使用者責任の場合とは異なり、運転者との間の使用関係や使用者の業務の執行についてなされたことを必要としません。</sentence>
+<sentence>このように、運行供用者が加害運転手とともにしかもそれよりも重い責任を負い、また使用者責任よりも適用範囲が広いのは、被害者に生じた損害を公平に分担させようとする狙いがあるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">運転手が運行供用者でない場合、運行供用者にも請求できる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">加害者の使用者またはその代理監督者</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">使用者責任とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　最近、自動車事故の損害賠償請求事件で、被害者が、加害運転者を雇っている会社と、その会社の役員や幹部社員を相手方とする訴えが多くなっているといわれています。</sentence>
+<sentence>この場合、会社やその会社の役員らが負う損害賠償責任を使用者責任と呼びます（民七一五条一項、二項）。</sentence>
+<sentence>なぜ使用者責任を問題にするかというと、加害運転者が従業員など雇われている人である場合には賠償能力、つまり資力が十分でないことが多いからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　使用者<sampling type="end" />とは、加害者を実質的に指揮監督して仕事をさせる者であり、通常は加害者を雇っている会社などがこれに当たります。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00152" version="1.0" type="fixedLength">
+<article articleID="LBq3_00152_F001">
+<paragraph>
+<sentence>アメリカ国内にあるアメリカの銀行に預金をすれば、<sampling type="start" />アメリカの預金保険制度が適用される、といったこともありますが、これは稀なケースでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし外貨預金は、預け先の銀行がつぶれた場合、預金保険機構に預金の買い取りをしてもらえます。</sentence>
+<sentence>つまり定期預金などで１０００万円を超えた分の扱いと同じように扱われるわけです。</sentence>
+<sentence>これは<quote>「概算払い」</quote>といって、たとえば４０％の払い戻し率ならば、１０００万円の外貨預金につき、４００万円が戻ってくることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　為替の変動を考えると、外貨預金はとてもリスクの高い商品です。</sentence>
+<sentence>預金保険の対象外であるだけでなく、リスクの高い預金だということも覚えておきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>ここに注目！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>外貨預金はペイオフ対象外。</sentence>
+<br type="automatic_original" />
+<sentence>でも預金の買い取りには応じてもらえる！</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■外貨預金払い戻しのしくみ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ２２　満期前の定期預金はどうなるの？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ａ　保護されますが、合算するときに優先順位が低くなります。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">●１０００万円を超えると満期が影響することも</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　定期預金はペイオフの対象です。</sentence>
+<sentence>したがって、預け先がつぶれた際には、満期前でも預金保険から保険金を受け取れます。</sentence>
+<sentence>ほかの銀行に引き継がれる場合も、預金の合計額が１０００万円以内であればそのまま引き継がれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１０００万円を超えてしまうと、どうでしょうか。</sentence>
+<sentence>口座が１つだけならば、単純に１０００万円を超えた額がカットされます。</sentence>
+<sentence>いくつかの口座があり、その合計が１０００万円を超えるときには、満期によって優先順位をつけられ、満期が遠いものからカットされます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　満期前だという理由でペイオフの対象からはずれることはありませんが、優先順位をつけるときに、満期がまだ先の預金からカットされるわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>ここに注目！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ペイオフの対象であれば、基本的に満期に関係なく保険金はもらえる！</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｑ２３　ビッグが保護されて、ヒットが保護されないのはなぜ？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ａ　ビッグは元本が保証されているので、保護対象になっています。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">●違いは元本補てん契約</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ビッグとヒットは、いずれも信託銀行で取り扱われている<ruby rubyText="きん">金</ruby><ruby rubyText="せん">銭</ruby><ruby rubyText="しん">信</ruby><ruby rubyText="たく">託</ruby>です。</sentence>
+<sentence>両者を分けるキーワードは<quote>「元本補てん契約」</quote>。</sentence>
+<sentence>元本補てんとは、元本が保証されるということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　預金保険のしくみを定めた預金保険法では、<quote>「預金等」</quote>として<quote>「元本補てん契約のある金銭信託」</quote>を含めています。</sentence>
+<sentence>ビッグはこれに当てはまる商品なので、保護の対象となります。</sentence>
+<sentence>逆にヒットには、元本補てん契約がないため保護されません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>もっと知りたい　信託とは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>信託銀行の業務には、銀行としての仕事のほかに、財産を預かって管理・運用する<quote>「信託」</quote>があります。</sentence>
+<sentence>不動産や有価証券、動産なども預かりますが、貸作信託など金銭を預かるものが中心です。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence>Ｑ２４　銀行が危な<sampling type="end" />いという噂を聞いたらどうすればいいの？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00036" version="1.0" type="fixedLength">
+<article articleID="LBl4_00036_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">■甲状腺の位<sampling type="start" />置</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">甲状腺機能低下症</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　甲状腺ホルモンの分泌が不足することで起こる病気。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全身の<ruby rubyText="けん">倦</ruby><ruby rubyText="たい">怠</ruby>感、手足の冷え、皮膚が乾燥してカサカサする、汗が出ない、毛がもろくて抜けやすい、月経過多になったり、さらにひどくなると無月経になるといった症状が出る。</sentence>
+<sentence>そして、最も特徴のある症状は、顔のむくみ。</sentence>
+<sentence>まぶたや唇が厚くはれ、鼻が広くなり、独特なぼんやりした顔つきになってしまうというもの。</sentence>
+<sentence>さらに、動作やしゃべり方まで遅くなるので、周囲の人にもわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　甲状腺ホルモン剤をのめば、こういった症状も、すっかりよくなる。</sentence>
+<sentence>ただし、この薬は一生のみつづけていなければ普通の日常生活が送れないので、大変。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　年齢に関係なく、男よりもおんなに多い病気だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">慢性甲状腺炎（橋本病）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　甲状腺が大きくはれたうえに、かたくなる病気。</sentence>
+<sentence>これ以外に、症状らしい症状がないために、首をさわったときに気づいたり、他人からいわれて気づくというケースが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　中年以降のおんなに多いといわれてきたのだけれど、最近、単純性甲状<ruby rubyText="せん">腺</ruby><ruby rubyText="しゅ">腫</ruby>と診断された若い人の中に、この病気の人がかなり含まれているということが、わかってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　炎症に甲状腺の大部分が侵されると、甲状腺機能低下症の症状も出てくるようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは、甲状腺の組織が破壊されるため、甲状腺ホルモンが出にくくなるから。</sentence>
+<sentence>出にくくなった甲状腺ホルモンを促そうとして、甲状腺刺激ホルモン（ＴＳＨ）はふえるため、甲状腺が刺激されて大きくはれるというわけね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　甲状腺ホルモン剤を投与すれば、甲状腺のはれはひいて、小さくなり、症状も消えてしまう。</sentence>
+<sentence>甲状腺ホルモン剤での治療は、長期にわたって服用することになるのが特徴。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">単純性甲状腺腫</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　甲状腺がはれる病気で、はれぐあいは慢性甲状腺炎のものよりも、やわらかいのが特徴。</sentence>
+<sentence>どちらも、症状ははれるだけで、バセドウ病や甲状腺機能低下症のような症状はみられない。</sentence>
+<sentence>とても似ているから、単純性甲状腺腫なのか、慢性甲状腺炎なのか、診断しにくい場合もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　単純性甲状腺腫の原因は、甲状腺ホルモンの分泌が低下したため。</sentence>
+<sentence>で、なぜ低下するのかというと、食塩の過剰摂取、また、甲状腺ホルモンをつくり出すのをじゃまする物質を含んでいる食物を多くとったりすると起こる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　甲状腺でホルモンをつくるのを妨げられると、甲状腺ホルモンの分泌が減少し、下垂体から甲状腺刺激ホルモンの分泌が増加。</sentence>
+<sentence>これが甲状腺を刺激するために、大きくはれることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　治療は、やはり甲状腺ホルモン剤の服用。</sentence>
+<sentence>甲状腺ホルモン剤を投与すると下垂体からの甲状腺刺激ホルモン（ＴＳＨ）の分泌が減少する。</sentence>
+<sentence>そのため、甲状腺への刺激もなくなって、はれが<sampling type="end" />ひいていくという仕組み。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00063" version="1.0" type="fixedLength">
+<article articleID="LBp5_00063_F001">
+<titleBlock>
+<title>
+<sentence>こんな料理にオスス<sampling type="start" />メ！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆ラザニア</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">▲作り方▲</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　鍋にたっぷりの湯をわかして塩少々を入れ、ラザニアパスタ４枚を入れてゆでます。</sentence>
+<sentence>モッツァレラチーズ２５０ｇは１センチの厚さに切り、グリエールチーズ８０ｇはすりおろします。</sentence>
+<sentence>耐熱容器にサラダ油を薄く塗り、ミートソースの１／３の量をしいてパスタ２枚を並べてのせ、モッツァレラチーズの１／２の量をのせます。</sentence>
+<sentence>さらにミートソース１／３の量、パスタ２枚、残りのモッツァレラチーズと残りのミートソース、最後にグリエールチーズをのせ２５０℃のオーブンで７〜８分焼きます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆スパゲッティ・ミートソース</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">▲作り方▲</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スパゲッティ１６０ｇ（２人分）をゆで、ゆで汁を切って器にもり、温めたミートソースの基本の量をかけ、パセリのみじん切りを散らします。</sentence>
+<sentence>お好みでたっぷり粉チーズをかけて召し上がれ！</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<sentence type="quasi">えびをまるごと使った</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">アメリカンソース</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>えびを頭の先からしっぽ、殻まで、まるごと使って作るソース。</sentence>
+<sentence>えびを炒めてだしやうまみが出たら、今度はトマトと白ワインで煮込んで、さらに味に深みを加えます。</sentence>
+<sentence>ほたて貝や魚料理にをかけるとおいしいごちそうになりますが、海外ではアメリカンソースの料理を食べた後、パンを皿につけてソースをぬぐいながらきれいに食べる姿をよくみかけるほど、美味しいソースです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　えびの頭と殻をはずす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　熱した鍋にサラダ油を入れ、えびの頭と殻を強火で炒める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　色が赤くなったらみじん切りにしたにんにく、玉ねぎ、にんじんを入れて炒める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<enclosedCharacter description="○">３</enclosedCharacter>に水煮のトマトホール（缶詰）を加え、ワインを入れて軽く蒸す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　<enclosedCharacter description="○">４</enclosedCharacter>に水１／２カップと固形スープの素を入れて２０分煮つめる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>　トマトペーストを加え、カイエンヌペッパーと塩、こしょうで味をととのえ、裏ごしする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">えびと野菜を炒める</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">煮込んで裏ごしする</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>こんな料理にオススメ！</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆えびのワイン蒸し</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">▲作り方▲</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　えびの身は背わたを除いてひと口大に切り、軽く塩、こしょうし、バター大さじ１で炒めたあと、白ワイン大さじ２をふって蒸します。</sentence>
+<sentence>蒸し汁はそのままソースに加えます。</sentence>
+<sentence>玉ねぎやマッシュルームを炒め、えびを加えてソテーし、蒸し煮にしてもおいしくなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<sentence type="quasi">なめらかでホットなおいしさ</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">マスタードクリームソース</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>マスタードの刺激が食欲をそそるソース。</sentence>
+<sentence>しかも生クリームがツンとくる刺激をなめらかにしていますので、子供にもＯＫ。</sentence>
+<sentence>こくがあり、彩りもきれいですから、おしゃれなもりつけで楽しみたいソースです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ボウルに生クリームを入れ、氷水で冷やしながら、トロトロになるまで泡立てる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<enclosedCharacter description="○">１</enclosedCharacter>にマスタードと塩、レモン汁を加え、よくまぜる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">マスタードクリームソー<sampling type="end" />スに合う料理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+</article>
+</sample>

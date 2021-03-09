@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm3_00114" version="1.0" type="fixedLength">
+<article articleID="LBm3_00114_F001">
+<paragraph>
+<sentence>　四号は、二号の場合と異なり、その旨を記載するだけでなく、貸借対照表<sampling type="start" />または損益計算書のどの部分にどのような法令または定款違反があって、その結果会社の財産や損益がどのように誤って表示されているかの具体的な内容を記載する必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　五号は、みだりに会計方針を変更してはならないという企業会計原則上のいわゆる継続性の原則の派生形態ともいうべきものである。</sentence>
+<sentence>継続性の原則に関する明文規定ではないけれども、この規定により、監査報告書に意見書が記載されるため、不当な目的のための変更やみだりな会計処理基準の変更は抑止されることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　六号に基づいて、営業報告書についても、単に内容が真実であるか否かのみならず、貸借対照表および損益計算書と同様に、記載すべき事項が記載されているかどうか、かつその記載が会社の状況を正しく示しているかどうかについても記載しなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">〔一般会社の計算書類等の作成・提出手順〕（<sentence>監査特例法適用会社を除く。）</sentence>
+</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">二八二条</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔決算書類の備え付け公示〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　取締役は定時総会の開催日の二週間前から、監査役の監査を受けた決算書類と、決算書類に対する監査役の報告書とを五年間本店に、またその謄本を三年間支店に、それぞれ備え付けておかなければならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　株主、会社の債権者は、会社の営業時間内ならばいつでも、これらの決算書類、監査役の報告書の閲覧を求めることができ、会社が定めた料金を支払えば、その謄本または抄本の交付を請求することができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence type="quasi">第二八二条　取締役ハ定時総会ノ会日ノ二週間前ヨリ第二百八十一条第一項ノ書類及監査報告書ヲ五年間本店ニ、其ノ謄本ヲ三年間支店ニ備置クコトヲ要ス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　株主及会社ノ債権者ハ営業時間内何時ニテモ前項ニ掲グル書類ノ閲覧ヲ求メ又ハ会社ノ定メタル費用ヲ支払ヒテ其ノ謄本若ハ抄本ノ交付ヲ求ムルコトヲ得</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">注解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　計算書類、その付属明細書および監査報告書については、会社の業務および財務内容の開示の強化という点からみれば、早く公示することが望ましいため、本条一項では、定時総会の二週間前から備え置きをすることが求められている。</sentence>
+<sentence>備え置きの期間は、会日の二週間前から五年間であって、総会の日から五年間ではない。</sentence>
+<sentence>支店に備え置かれるのは、謄本をもって足りるとされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">二八三条</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔決算書類に対する総会の承認〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　代表取締役は、計算書類を定時総会に提出したうえで、営業報告書についてはその内容を報告し、貸借対照表と損益計算書と利益金処分案または損失金処理案については総会の承認を求めなければならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　定時総会の招集通知には、前項の決算書類と監査役の監査報告書の謄本を添付しなけ<sampling type="end" />ればならない。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

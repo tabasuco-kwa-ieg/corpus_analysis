@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf8_00001" version="1.0" type="fixedLength">
+<article articleID="LBf8_00001_F001">
+<paragraph>
+<sentence>　わたしは，本書<sampling type="start" />において，スペイン語の美しさと，スペインのすぐれた文化―全人類のために新しい世界を築いた輝かしい歴史とについて，さらに詳しくいいたかった点を多々逸したように思う．</sentence>
+<sentence>じっさい，スペインは，最高のヨーロッパ文化と偉大な東洋文化とのアマルガムである．</sentence>
+<sentence>この『スペイン語入門』によって，みなさんに，そのようなスペインを背景とした，深奥な，また異質な世界を多少とも理解していただけたなら幸いである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<sentence>つぎの文章を読んで下さい．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｌｉｍａ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<quotation>
+<citation>
+<paragraph>
+<sentence>　ちょっと見たところは，リマは近代都市である．</sentence>
+<sentence>タクシーに乗ってまわってみると，運転手はアルマス広場やそのあとでインキシシオン広場にわれわれを案内し，そこから，花でおおわれた正面が南カリフォルニアのそれを思わせる明るい家々のまえの，並木を植えた広い大通りを案内するだろう．</sentence>
+<sentence>まったく２０世紀的な感じがする．</sentence>
+<sentence>だが，これらの大通りから左にでも右にでもそれるならば，アンダルシアを思わせるバルコニーや美しい格子窓のある，二階建ての家のならぶ，せまい通りがある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今日のリマは，インカ帝国の征服者フランシスコ・ピサロによって計画されたとそっくりそのままの，首都である．</sentence>
+<sentence>そのもとの区劃や広場や通りを，４世紀の間（リマは）守りとおしてきた．</sentence>
+<sentence>しかもそれは，１６回の地震があったにもかかわらずである！</sentence>
+<sentence>　どこでもまっすぐなその通りや主要な広場は，偶然や変化の結果（できあがったもの）ではなく，ある強固な意志，すなわちピサロの意志の結果であった<correction originalText="。" type="erratum">．</correction></sentence>
+<sentence>ピサロは３年間にわたってペルーを踏査したあげく，かれの首都を，近づきがたい，海賊や敵をよせつけない場所ではなく，ヨーロッパのひとびとや思想が近づきやすい場所に建てることにきめたのだった．</sentence>
+<sentence>気候は健康的に思われ，水も，よい土地も，建設のためのおおくの木や石もあった．</sentence>
+<sentence><quote>「これで住民以外のものはなにひとつ必要でない」</quote>とピサロはいった．</sentence>
+<sentence>そして，ただちに他の町に住んでいた５０家族にたいし，リマック川の肥沃な谷のえらばれた場所に移り住むよう命令した．</sentence>
+<sentence>首都リマの建設は，１５３５年１月６日に祝われた．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｃｏｓｔａ　Ｒｉｃａ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="foreign" />
+<quotation>
+<citation>
+<paragraph>
+<sentence>　小さい民主的なコスタリカ共和国は，中央アメリカの地峡の，最も幅のせまい部分に位置している．</sentence>
+<sentence>北方ではニカラグヮに接し，南ではパナマに接する．</sentence>
+<sentence>東方ではカリブ海と大西洋に，また西では太平洋に接する．</sentence>
+<sentence>その面積は約５１，０１１平方キロメートルあり，中央部の不規則な地形と，両海岸地方の広い平地によって特徴づけられている．</sentence>
+<sentence>気候はさまざまで，平均気温は３０℃である．</sentence>
+<sentence>大西洋の湿気の多い熱帯性の地帯と，おだやかな気候の山間の中央部と<sampling type="end" />，乾期と雨期がはっきりと分かれる太平洋の熱帯地方の３つの気候帯に分けられる．</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

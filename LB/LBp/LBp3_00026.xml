@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00026" version="1.0" type="fixedLength">
+<article articleID="LBp3_00026_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">各種法人の代表者と確認<sampling type="start" />方法</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>１４　会社が契約する場合の署名とは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence type="quasi">代表取締役が署名押印するとき注意する点</sentence>
+<br type="automatic_original" />
+</abstract>
+<paragraph>
+<sentence>　会社が契約するには、代表機関たる人間（代表取締役）に行動してもらわざるを得ません。</sentence>
+<sentence>となると、代表取締役が行った契約が、代表取締役自身の個人の契約なのか、会社の代表機関としての契約なのかの区別を明確にする必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　代表取締役が会社の代表機関として行為をするときは、次の三つを必ず記載しなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>会社の名称</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>代表取締役である旨の表示</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>代表取締役の氏名</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　住所も記載したほうがよく、そのときの住所は会社の所在地を記載します。</sentence>
+<sentence>共同代表の場合なら、共同代表者全員が自分の氏名を署名押印します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　会社以外の法人の場合にも、次のことを記載します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>法人の名称</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>代表資格（理事など）の表示</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>代表者の氏名</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　逆に、個人として契約するときは、絶対にこの<enclosedCharacter description="○">１</enclosedCharacter><enclosedCharacter description="○">２</enclosedCharacter>を記載してはいけません。</sentence>
+<sentence>たとえ会社の代表取締役であっても、個人として契約する場合は、そのような肩書は一切つけてはならないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たまに、会社名だけ記載し、その後に社判や代表者印が押してあることがありますが、形式としては適切とはいえません。</sentence>
+<sentence>結果的に正規の代表者がこれらの印を押印したと立証できれば、契約は有効となるとはいえ、このような記載では実際の契約行為をした者が誰であるかを特定するのが困難になるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">代表取締役が会社の代表として契約する場合の署名押印の例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>１５　専務・常務・部長・課長などが署名したときの効力は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence type="quasi">名称より実態で判断される</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）専務・常務が署名したとき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　会社の代表機関は代表取締役です。</sentence>
+<sentence>専務取締役に代表権があれば、代表取締役と表示して署名すべきです。</sentence>
+<sentence>単なる専務として署名するのは、代表資格の表示として適当ではありません。</sentence>
+<sentence>ただし、その専務が真実、代表取締役としての権限、代表権をもっていれば、代表取締役が会社のために署名したとみることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　専務が代表権をもっていない場合には、その契約は会社に対し効力を生じません。</sentence>
+<sentence>ただし、相手方がその専務なり、常務なりを代表取締役と信じた場合には、契約の効力が生じます（表見代表取締役、一二六頁参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）支店長・営業所長名で契約をしたとき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　支店長・営業所長は法律上の支配人と考えられます。</sentence>
+<sentence>法律上の支配人は<quote>「その営業に関する一切の裁判上又は裁判外の行為をなす権限を有す」</quote>（商法三八条一項）と定められており、その支店・営業所における一切の法律行為ができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、実際には支配人でないのに、支配人のような名称を付された者の行為については相手方がこの者を正当な支配人と信じた<sampling type="end" />場合にのみ、契約の効力が生じます（表見支配人）。</sentence>
+</paragraph>
+</article>
+</sample>

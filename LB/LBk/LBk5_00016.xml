@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00016" version="1.0" type="fixedLength">
+<article articleID="LBk5_00016_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">図１．２．４　フロアレスポ<sampling type="start" />ンス</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．２．５　床免震システム</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．２．６　応答速度スペクトルの傾向</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．２．７　応答変位スペクトルの傾向</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真１．２．１　鉄骨外壁等の被害</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１．２．２　免震構造の利点</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　上記のような各種の地震応答の低減という免震構造の効果を踏まえて，免震構造を設計者や建築物を所有したり居住したりする者から見た利点を考えてみよう．</sentence>
+<sentence>次の４点にまとめられるだろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">ａ）安全性の向上と財産の保護</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｂ）計画性の向上</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｃ）機能の維持</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｄ）居住性の向上</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これまでの解説との重複もあるが，以下にこれらの４つの利点について若干の解説をしてみよう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ａ）安全性の向上と財産の保護</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　安全性の向上が免震構造の第一の利点と言ってよいであろう．</sentence>
+<sentence>免震構造とすることによって応答が低減するので，構造躯体や非構造部材の破損，脱落，破壊，さらに，機器・什器の移動・転倒等の危険性を低減することが期待できるのである．</sentence>
+<sentence>それらの転倒，破壊等による居住者への危害の危険性の低減が期待できるから，直接的に人命の安全性を向上させるわけである．</sentence>
+<sentence>こうした免震構造とすることによる安全性の向上は，あらゆる用途の建築物にとって，大きな利点となる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，危険な化学物質や放射性物質を扱っている施設などでは，地震時に被害が生じた場合に，それらの物質が周辺へ流出する恐れがある．</sentence>
+<sentence>したがって，これらの施設では，非常に高い耐震安全性が求められる．</sentence>
+<sentence>免震は，こうした被害の防止への期待にも応えることができる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在までのところ，わが国では原子力発電所の施設に免震構造を採用している例はまだないが，フランスのクラウス原子力発電所やフランスの技術による南アフリカのケーベルグ原子力発電所には，大規模な免震構造が採用されている．</sentence>
+<sentence>一方，わが国の原子力発電所では，通常の建築物の３倍の大きさの地震力によって耐震設計がされている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　人命への安全と同時に，そもそも構造骨組みや内部の機器・什器の被害が少なくなるので，財産としての建築物自体の保全にもつながる．</sentence>
+<sentence>また，高価な美術品などを展示，保管している美術館などでは，美術品などが転倒して破壊しては大変である．</sentence>
+<sentence>そうした財産を守ることができるという利点もある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ｂ）計画性の向上</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　計画性の向上とは，自由な設計がしやすくなることを示している．</sentence>
+<sentence>構造骨組みや非構造部材，それらの接合部に要求される強度と変形追随性が低くてもすむ．</sentence>
+<sentence>そのため，構造骨組みの部材断面を大きくしないですんだりする．</sentence>
+<sentence>また，耐震壁などの量が少なくてもすむことなどから，広い空間をとることも楽になるだろう．</sentence>
+<sentence>また，違う見方をすると，非常に地震危険度の高い地域などで，従来型<sampling type="end" />の構造では安全確保のためには多くのコストのかかるような立地条件の敷地にも，免震構造を採用することで建築が可能になるということも期待できよう．</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00014" version="1.0" type="fixedLength">
+<article articleID="LBr5_00014_F001">
+<paragraph>
+<sentence><sampling type="start" />地震力をうけた場合、２本の壁柱が別々に抵抗すると、片持ち棒としての曲げ変形が大きくなり、地震力に対する効果が低下してしまいます。</sentence>
+<sentence>そのため、最上階の機械室の塔屋を壁で固めて、２本の壁柱にまたがる形に載せて、それらを一体化しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いずれにしても、この建物は、耐震壁を長辺方向は分散配置、短辺方向は集中配置にして、耐震壁の配置の手本ともいうべき構造になっています。</sentence>
+<sentence>それはまた超高層建築の新しい設計を提案したものといえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６．９（ａ）（ｂ）　ピン接合架構における筋交の効果</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６．１０（ａ）（ｂ）　Ｘ字形と菱形筋交</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６．１１　早稲田大学理工学部</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真６．３（ａ）（ｂ）　早稲田大学理工学部の正面と側面の全景</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">６．３　シェルの建物</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　シェルが建築家の創造力をかきたてるのは、そのダイナミックな形態にありますが、それが建物として最も強力な印象を与えるのは、屋根の形態に用いられた場合です。</sentence>
+<sentence>建物が天空を<ruby rubyText="き">截</ruby>ってその存在を示すものは、やはり屋根の稜線です。</sentence>
+<sentence>そのためシェルは屋根として、自重を支持するものとしてのみ考えられてきた嫌いがあります。</sentence>
+<sentence>シェルにはより幅広い利用法があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この節では、シェルの幅広い利用という観点から、屋根としての鉄骨シェルと、屋根と同時に壁でもある鉄筋コンクリートシェルの二つの例を取り上げてみます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">東京国際貿易センター２号館―天空を思わせる最も完全な幾何学的形態のドーム</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">（設計：村田政真、構造：坪井善勝１９５９年）</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<paragraph>
+<sentence>　晴海にあったこのドームは、東京に建つシェル構造の先駆的建物でした。</sentence>
+<sentence>現在この建物は取り壊され、その跡地には清掃工場が設置されています。</sentence>
+<sentence>構造設計は坪井善勝で、それ迄に愛媛県民会館や駿府会館でシェルを手がけてきました。</sentence>
+<sentence>それらが鉄筋コンクリート造だったのに対し、晴海のこの建物は鉄骨シェル構造で、規模も大きいものでした。</sentence>
+<sentence>直径１２０ｍの球形シェルで、鉄骨の三角格子で構成されています。</sentence>
+<sentence>図６．１２に示すように、正面部は球形シェルの１／３を裁断し、アーチで支持し、残りのシェルの脚部には鉄筋コンクリート造リングを回し、そのリングをＶ字柱で支持して、球の閉塞感を救っているところにこの建物の特徴があるといえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　球形シェルといっても半球形の場合と浅い球形シェルでは、事情がちょっと違います。</sentence>
+<sentence>半球形の場合、脚部での球面は鉛直方向になって経線も鉛直方向になります。</sentence>
+<sentence>したがって、経線のアーチの圧縮力は鉛直方向の力となりますから、外向きのスラスト（１３１ページ）を起しません。</sentence>
+<sentence>しかし、この建物のように浅い球形シェルでは、シェル脚部の球面は鉛直方向とならず、その経線は鉛直方向<sampling type="end" />とある傾きをなします。</sentence>
+</paragraph>
+</article>
+</sample>

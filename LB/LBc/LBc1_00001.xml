@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc1_00001" version="1.0" type="fixedLength">
+<article articleID="LBc1_00001_F001">
+<paragraph>
+<sentence>霧をとおし、現代社会の実態を見抜き、社会進歩の潮流に参加して<sampling type="start" />いく有力な武器は社会科学の学習である、と私は思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBc1_00001_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅱ　<quote>「現代観念論の混迷」</quote>をつらぬくもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">―『新・岩波講座哲学』を論ず―</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">はじめに</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　『新・岩波講座　哲学』（全一六巻）が完結した。</sentence>
+<sentence>この講座については、第１巻が刊行された時点で、すでに、鰺坂真氏が批判論文<quote>「現代観念論の混迷」</quote>（『科学と思想』誌、第六一号、一九八六年七月）を発表している。</sentence>
+<sentence>このなかで、鰺坂氏は、（１）近代合理主義批判をつうじての非合理主義・反科学主義の提唱、（２）社会科学的分析の欠如、（３）唯物論・マルクス主義哲学の意図的排除、などをこの講座の特徴として挙げて、まさに<quote>「現代観念論の混迷」</quote>ぶりを論じている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全巻の刊行を機会に全体を概観してみると、鰺坂氏の指摘は大体においてあたっていると思われるが、他方、<quote>「混迷」</quote>をつらぬいている一定の明白な傾向を見てとることもできるのである。</sentence>
+<sentence>ここでは<quote>「一定の傾向」</quote>を探り出してみようと思う。</sentence>
+<sentence>全一六巻は、各巻につけられた<quote>「まえがき」</quote>によれば、次のような構成になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence><quote><sentence>　「この講座は全一六巻をもって構成され、大別して五つのグループにわけられる。</sentence>
+<sentence>第１巻は総論あるいは序論にあたる。</sentence>
+<sentence>第２巻から第４巻までは、かつて認識論と存在論といわれた領域を扱い、第５巻から第８巻までは、いわば自然哲学的な問題を、第９巻から第１３巻までの五つの巻では、心身、行為、社会、文化、超越といった人間の問題を扱う。</sentence>
+<sentence type="quasi">最後の第１４巻から第１６巻までは、哲学史概念の再検討をふまえつつ哲学の歴史を考究する<noteMarker text="（１）" /></sentence>
+」</quote>。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<noteBody>
+<sentence>（１）　参考のために各巻の題目を紹介しておくことにしよう。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">第１巻　いま哲学とは</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第２巻　経験　言語　認識</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第３巻　記号　論理　メタファー</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第４巻　世界と意味</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第５巻　自然とコスモス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第６巻　物質　生命　人間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第７巻　トポス　空間　時間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第８巻　技術　魔術　科学</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第９巻　身体　感覚　精神</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１０巻　行為　他我　自由</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１１巻　社会と歴史</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１２巻　文化のダイナミックス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１３巻　超越と創造</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１４巻　哲学の原型と発展</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１５巻　哲学の展開</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">第１６巻　哲学的諸問題の現在</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</noteBody>
+<paragraph>
+<sentence>　この論文では、<quote>「いわば自然哲学的な問題」</quote>を取りあつかった第５巻『自然とコスモス』および第７巻『トポス　空間　時間』を中心に全体をつらぬいてあらわれている傾向を追求していくことにするが、それをはじめるまえに、鰺坂真氏の諸々の指摘をまとめておこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現代観念論の配置を見てみると、大別して二つの流れとして整理することができる、と鰺坂氏は主張する。</sentence>
+<sentence>一つは非合理主義的な生の哲学、現象学あるいは実存主義などと呼ばれる潮流であり、他の一つは分析哲学、論理実証主義などとも呼ばれる新実証主義の潮流である。</sentence>
+<sentence>今回の『講座』の主要な柱もこの二つの潮流であり、さらにはこの潮流の亜流ある<sampling type="end" />いは鬼子である記号論やポストモダニズムなどの潮流である、と分析されている。</sentence>
+</paragraph>
+</article>
+</sample>

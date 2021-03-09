@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc9_00126" version="1.0" type="fixedLength">
+<article articleID="LBc9_00126_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　いつもの白い絹の小袖<sampling type="start" />で。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　<ruby rubyText="え">得</ruby><ruby rubyText="もの">物</ruby>は得意の<ruby rubyText="こ">小</ruby><ruby rubyText="なぎ">長</ruby><ruby rubyText="なた">刀</ruby>。</sentence>
+<sentence>違うか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いえ、仰せの通りで。</sentence>
+<sentence>五七の桐の御紋を金で散らした<ruby rubyText="くろ">黒</ruby><ruby rubyText="うるし">漆</ruby><ruby rubyText="ぬ">塗</ruby>りの小長刀、その<ruby rubyText="え">柄</ruby>を<ruby rubyText="ゆん">左</ruby><ruby rubyText="で">手</ruby>に摑んで倒れておいでになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　白い絹の小袖に五七の桐の紋の小長刀！</sentence>
+<sentence>　だれが見てもここの<ruby rubyText="あるじ">主人</ruby>と分るはずではないか。</sentence>
+<sentence>年恰好からも、これが近頃吉良の家督をついだ若主人とぴんとくるはずではないか。</sentence>
+<sentence>ましてや赤穂にとって左兵衛督は仇の片割れ。</sentence>
+<sentence>いやいや、上野介が隠居いたした今では、左兵衛督こそ吉良の当主。</sentence>
+<sentence>その吉良の当主に大石はなぜ止めを刺さぬのだ？</sentence>
+<sentence>　大石はなぜその首を取らぬのだ？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">一学</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　殿、暗やみが若殿にお味方したのではありますまいか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">平左</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（頷いて）暗いために赤穂には白い絹の小袖が見えなかったのではありませんか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">治部</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　若殿の相手の赤穂が粗忽者であったとも考えられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　暗くて見えぬということは有り得ません。</sentence>
+<sentence>赤穂には蠟燭を背に負って御屋敷<ruby rubyText="うち">内</ruby>を歩き回る者が少くありません。</sentence>
+<sentence>その連中には、倒れておいでの若殿の、白い絹の小袖がはっきりと見えたはずです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">一学</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　蠟燭を背負うだと？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">平左</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　どうやって？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">治部</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　われらはカチカチ山の話をしているのではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　竹の棒を背中にさしているのです。</sentence>
+<sentence>その竹の先に百匁蠟燭をねじ込んで、のし歩いています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">新助</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　両手が思いのままに使えるってわけだ。</sentence>
+<sentence>なるほど、考えやがったね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　茶がはじまっている。</sentence>
+<sentence>お吟、立てた茶を上野介の前へ。</sentence>
+<sentence type="quasi">上野介、茶碗を手に何か考えていたが、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　春斎、赤穂はなぜ湯などわかしていたのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それがやはり茶を立てるためで。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　だれだ、その茶人は。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　大石です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　またも大石か。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　作法もなにもない<ruby rubyText="や">野</ruby><ruby rubyText="ぼ">暮</ruby><ruby rubyText="ちゃ">茶</ruby>でした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　見たのか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　若殿の御血をお止め申したあと、ふと気になって、例の表御広間の破れ障子から赤穂の本陣を窺ってみました。</sentence>
+<sentence>大石は副将格の家来二人と茶碗を回して薄茶のがぶ飲み。</sentence>
+<sentence>焼米を喰いすぎてよほど<ruby rubyText="のど">咽喉</ruby>が乾いていたのでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　で、その茶碗は？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　御料理之間の棚に並んでおりました只の唐津茶碗でございました。</sentence>
+<sentence>大石は茶碗をしげしげと見て、<quote>「上野介どのは、天下で一、二を争う茶の名人、今利休とさえうたわれるお方、この茶碗なども、さぞかし由緒のあるものでござろうな」</quote>と<ruby rubyText="しか">鹿</ruby><ruby rubyText="つめ">爪</ruby>らしく申します。</sentence>
+<sentence>あれには思わず吹き出してしまいました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">上野介</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ほかに何を申していた？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">春斎</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そういえば気になることをひとつ。</sentence>
+<sentence><quote><sentence>「先刻、吉良の家中を二、三人、わざと門外に逃がしてやったが、伊達修理どのにも津軽采女どのにも一向に加勢を繰り出してくる気配がない。</sentence>
+<sentence type="quasi">これは弱った</sentence>
+」</quote>…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　上野介、じっと眼前一尺の空を見詰めている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">新助</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　なんでえ、するとこの<sampling type="end" />新助の出番がなくなったってわけか。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

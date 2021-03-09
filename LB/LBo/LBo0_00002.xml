@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo0_00002" version="1.0" type="fixedLength">
+<article articleID="LBo0_00002_F001">
+<paragraph>
+<sentence>また，見たい内容を音声で指示すれば，テロップ認識と照合して，関連するニュースを見ることもできるであろう（テロップの代わりに，３．２節（ａ）で見たように，音声認識を用いる<sampling type="start" />こともできる）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　映画を見ていて，よく似たシーンを以前見たが，どこで見たか思い出せないといった場合に，類似したシーンやショットを検索したい場合もある．</sentence>
+<sentence>少し内容に立ち入って，人間が１人でいるシーンや，２人で対話しているシーン，多くの人が集まっているシーン，ある場所のシーンなど，特定のシーンを検索したいといった要求もある．</sentence>
+<sentence>これができれば，飛行機が離陸するシーン，パリのエッフェル塔近辺のシーン，ルーブル美術館のシーンなどを検索して繋ぐと，自分なりのドラマが作れるかもしれない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに，映画やドキュメント番組の中で，<quote>「鳥が巣箱から飛び立つシーンを見たい」</quote>とか，<quote>「カーチェイスをしているシーンを見たい」</quote>といった，内容に基づく検索要求も生じて来るであろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　上に述べてきた検索要求をまとめると，次のようになる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・関心のあるシーンやショット，フレームの検索</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・テロップの検出と内容検索</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・特定の動作の検索</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・サッカーのゴールシーンといったイベント検索</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・複雑な状況に対する内容検索（これについては第２章参照）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>この節では，これらの検索要求を実現する手法について，実例をもとに考察していくことにする．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　シーンの検索</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　類似したシーンやショットを検索するにはどうしたらよいであろうか．</sentence>
+<sentence>これには，３．２節（ｅ）（２）で述べた音響信号の検索方式が使える．</sentence>
+<sentence>音響も映像も，フレームの時系列として表現されている．</sentence>
+<sentence>そこで，今聞いている音響信号や，今見ている映像信号から，フレームを単位としてヒストグラムを作りだせる．</sentence>
+<sentence>これをもとにデータベースを検索するのである．</sentence>
+<sentence>検索する際の参照信号としては，カット検出によって切り出されたショットや，ショット連鎖を使うことができる．</sentence>
+<sentence>参照信号がはっきり決められず，漠然とこのようなシーンという場合には，本節（ａ）（３）で述べた共通区間の検出方法も利用することができる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　特定のカメラワークを含んでいるショットやシーンが，重要な情報を持っている場合もある．</sentence>
+<sentence>例えば，ニュースのような映像では，いきなり事故現場などが出てくるわけではなく，周りの状況や様子を先に知らせるために，パンをしてその後にズームする場合が多い．</sentence>
+<sentence>重要な場面は，このようなカメラワークによってとらえることもできる．</sentence>
+<sentence>カメラワークを持つショットを検索するには，本節（ａ）（４）で述べたカメラワークの検出結果を用いることができる．</sentence>
+<sentence>野球のホームランシーンなどは，本来，投手の投球，バッターのスウィング，ボールの動き，スタンドといった映像の流れの中で理解できるものであるが，カメラワークだけでも，ホームランのシーンを検索できることが報告<sampling type="end" />されている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg1_00008" version="1.0" type="fixedLength">
+<article articleID="LBg1_00008_F001">
+<paragraph>
+<sentence>　この非連続運動変化という点で刹那仮説は量子論に極めて近縁であるが、尚その上その近縁<sampling type="start" />を更に強める事情がある。</sentence>
+<sentence>それは観測問題として知られる量子論解釈上の難所である。</sentence>
+<sentence>よく知られているように、ある物理系のある物理量を観測することによってその系の状態を表現する状態関数がその量の固有関数の一つにこれまた非連続的に移行する、いわゆる<quote>「波束の収縮」</quote>を起こすという理解に苦しむ現象である。</sentence>
+<sentence>日本の学者（並木、牧氏等）を含む多くの物理学者の努力にもかかわらず観測問題は未だにしぶとく立ちはだかっている。</sentence>
+<sentence>しかしもし刹那仮説をこの観測問題に適用するならば、この頑強な難所を消滅させることができるのではないかと思われる。</sentence>
+<sentence>なぜならば、ある物理量を観測できるのはその物理系がこの世界に出現している刹那においてである、と考えるのは自然であろう。</sentence>
+<sentence>その系が滅してこの世界に存在しない期間には観測などは土台問題にならないからである。</sentence>
+<sentence>そうであれば観測とは古典論通りにただ系のその出現刹那における物理量を観測するだけのことであって、それによる波束の収縮といった客観的変化が起こるなどと考える必要はない。</sentence>
+<sentence>観測の問題はあとかたなしに消失するのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この観測問題解消のやり方の一番疑わしい点は、それが余りに安直容易な解消だということにある。</sentence>
+<sentence>あれほど人を悩ませてきた問題がそんなに簡単に解けるはずがない。</sentence>
+<sentence>だからこの解決の仕方はどこかおかしい、と人は感じるだろうし、私もまたそう感じている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし一体どうおかしいのかが明白にならない限りは、このどこかおかしい疑念を封印して、少しもおかしい所などないような顔をして刹那仮説を考察することも許されるだろう。</sentence>
+<sentence>特にそれは単に一つの仮定にすぎず、またその考察も一つの試行にすぎぬとすればである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">二　アキレスの運動</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アキレスと亀のゼノンによるパラドックスの原形は、亀を追うアキレスは亀に追いつくにはまず先刻亀のいた地点に到達せねばならないがそこに到達したときには亀は既に若干前進をしているのだから、かくして亀は常にアキレスに先行していることとなる、つまりアキレスは亀に追いつくことはない、というものである。</sentence>
+<sentence>これを少し変形して、亀と全く同じ動きをする平面を考えてゼノンの話をこの平面の上に移してみよう。</sentence>
+<sentence>簡単に言えば、亀を座標原点とする座標系をとるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すると亀は常にこの原点に静止しているのだからアキレスはこの原点に到達することはできない、ということになる。</sentence>
+<sentence>アキレスの出発点がこの座標系での座標軸上のＡ点だとすれば、アキレスであれ何であれＡから原点Ｏに達することは不可能、つまりＡ→Ｏと<sampling type="end" />いう運動は不可能、したがって一般に運動は不可能ということになる。</sentence>
+</paragraph>
+</article>
+</sample>

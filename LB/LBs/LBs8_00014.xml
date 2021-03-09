@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs8_00014" version="1.0" type="fixedLength">
+<article articleID="LBs8_00014_F001">
+<paragraph>
+<sentence>代名詞を名詞と分けて一品詞として立てる学説がありますが、この体系と性質の独自性が、代名詞を名詞とは別立て<sampling type="start" />にする理由の一つなのです。</sentence>
+<sentence>辞書においても、学校教科書においても、代名詞を名詞に含めるもの、別に一品詞として立てるものと、その扱いはまちまちです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅱ　副詞</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">菊の花互みにたべて湖を見る<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">岡井　省二</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">落葉松は雪をとどめずさらさら鳴る<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">大野　林火</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｃ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">老幹にいとゞ雨しみ花ひらく<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">皆吉　爽雨</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">夕月に甚だ長し馭者の鞭<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">高野　素十</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｅ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">柿接ぐや遠白波の唯一度<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi"><ruby rubyText="おお">大</ruby><ruby rubyText="みね">峯</ruby>あきら</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<rejectedBlock type="old" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　副詞は連用修飾語として使われます。</sentence>
+<sentence><sentence>（Ｅの<quote>「唯一度」</quote>のように名詞（体言）を修飾する場合も例外的にあります。</sentence>
+）擬態語・擬声語も副詞に分類されますが、『岩波古語辞典』のように名詞に分類する辞書もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　Ａの<quote>「互みに」</quote>は、<quote>「形見」</quote>の意ではなく、<quote>「互いに」</quote><quote>「代わる代わる」</quote>の意です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｃの<quote>「いとゞ」</quote>は<quote>「いよいよ」</quote><quote>「ますます」</quote>の意。</sentence>
+<sentence><quote>「いとど」</quote>は<quote>「いと」</quote>（同じく副詞で<quote>「非常に」</quote><quote>「大変」</quote>の意）とは別の語ですので、混同しないようにしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ〜Ｅの副詞は<ruby rubyText="じょう">情</ruby><ruby rubyText="たい">態</ruby>の副詞・程度の副詞のいずれかに分類されますが、副詞にはもう一種類、<ruby rubyText="ちん">陳</ruby><ruby rubyText="じゅつ">述</ruby>の副詞というものがあり、Ｆがそれにあたります。</sentence>
+<sentence>述語に対して、一定の言い方で結ぶ（呼応する）ことを求める働きを持っていますので、呼応の副詞とも言います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　この句は、<quote>「尼寿貞が身まかりけるときゝて」</quote>と前書きのある句。</sentence>
+<sentence>上五中七は亡き寿貞に対して<quote>「とるにたらぬ身だなどと思わないでくれ」</quote>とよびかけるもの。</sentence>
+<sentence><quote>「な」</quote>は助詞<quote>「そ」</quote>と呼応して禁止の意を表します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅲ　連体詞</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">ある寺の障子ほそめに花御堂<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">高野　素十</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　連体詞は他の品詞から転成し、連体修飾語として固定化した語です。</sentence>
+<sentence>数も多くありません。</sentence>
+<sentence>俳句に使われそうな語の例をあげましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">ある＝動詞<quote>「あり」</quote>連体形から</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">いはゆる＝動詞<quote>「言ふ」</quote>未然形＋助動詞<quote>「ゆ」</quote>連体形から　（<quote>「ゆ」</quote>は上代の助動詞）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">さしたる＝副詞<quote>「さ」</quote>＋動詞<quote>「す」</quote>連用形＋助動詞<quote>「たり」</quote>連体形から</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　素十の句の<quote>「ある」</quote>は、<quote>「存在する」</quote>という動詞本来の意味を失い、はっきり分からない事物を指し示す、または分かっている事物をぼかして指し示す使われ方をしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先に代名詞の項で、<quote>「<ruby rubyText="そ">其</ruby>の」</quote><quote>「<ruby rubyText="わ">我</ruby>が」</quote>などは口語文法では連体詞に属すると書きました。</sentence>
+<sentence>口語では<quote>「<ruby rubyText="そ">其</ruby>」</quote><quote>「<ruby rubyText="わ">我</ruby>」</quote>を一語で使うことはないため、<quote>「其の」</quote><quote>「我が」</quote>を固定化した一語と考えるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅳ　接続詞</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">炎天こそすなはち<ruby rubyText="とは">永遠</ruby>の草田男忌<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi"><ruby rubyText="かぎ">鍵</ruby><ruby rubyText="わ">和</ruby><ruby rubyText="だ">田</ruby><ruby rubyText="ゆう">秞</ruby><ruby rubyText="こ">子</ruby></sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<rejectedBlock type="old" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｃ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">凍てきびしされども空に冬日厳<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">高浜　虚子</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｄ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">燕飛ぶしかれども飛ぶあらしかな<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi"><ruby rubyText="さい">齋</ruby><ruby rubyText="とう">藤</ruby>　玄</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｅ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">山又山山桜又山桜<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">阿波野青畝</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｆ</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<verse>
+<sentence type="verse">狂へるは世かはた我か雪無限<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi"><ruby rubyText="め">目</ruby><ruby rubyText="さく">迫</ruby>　<ruby rubyText="ちち">秩</ruby><ruby rubyText="ぶ">父</ruby></sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+</list>
+<paragraph>
+<sentence>　接続詞には、順接（<quote>「すなはち」</quote><quote>「されば」</quote><quote>「しかうして」</quote>など）・逆接（<quote>「さりながら」</quote><quote>「されども」</quote><quote>「しかれども」</quote><quote>「しかるに」</quote>など）・並列（<quote>「また」</quote><quote>「および」</quote><quote>「ならびに」</quote>など）・添加（<quote>「かつ」</quote><quote>「しかも」</quote><quote>「なほ」</quote>など）・選択（<quote>「はた」</quote><quote>「または」</quote><quote>「もしくは」</quote>など）・転換（<quote>「さて」</quote><quote>「さるほどに」</quote><quote>「そもそも」</quote>など）などの働きが<sampling type="end" />あります。</sentence>
+</paragraph>
+</article>
+</sample>

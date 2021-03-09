@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00128" version="1.0" type="fixedLength">
+<article articleID="LBs3_00128_F001">
+<paragraph>
+<sentence>なぜなら，ｘ時間よりも少ない消費量では，利用の限界効用が利用料金を上回るので，費用と便益の比較によって利用しようと決めるのに対して，ｘ時間を超える消費量では逆の関係が成り立つので利用を取りやめることとなり，結局，価格と限界効用とが一致する<sampling type="start" />水準で利用時間が決まるのです。</sentence>
+<sentence>すると，図７．２の限界効用曲線は，縦軸に市場価格を与えたときの消費者の需要量を示しており，需要曲線であると解することもできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように，各人の限界効用曲線で表される個人需要曲線を水平に足し合わせると，市場全体での需要量と市場価格との関係を表す市場需要曲線が導かれます。</sentence>
+<sentence>個人需要曲線が右下がりですから，これを水平に足した市場需要曲線もまた，右下がりの曲線となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７．１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７．２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">サービスの供給と限界費用</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　レンタカーのサービスを供給する会社は，営業を始めるに当たって，まず最初にサービス供給のための費用構造を考えるでしょう。</sentence>
+<sentence>営業開始に当たって必要な固定費用は，すでに支払済みで回収不可能であるとします。</sentence>
+<sentence>すると，これから必要な費用は，従業員への給料や車体の減耗費などの可変費用です。</sentence>
+<sentence>操業時間とサービスの供給量が増えるほど，これらの費用は増加していきます（図７．３）。</sentence>
+<sentence>また，サービスの供給１単位に対してかかる限界費用も，供給量とともに増加するとしましょう。</sentence>
+<sentence>会社の固定的なキャパシティが一定とすると，供給を増やすほど，追加的に多くの可変費を投入することになると考えられるからです（図７．４）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここで，消費者の場合と同様に，企業の側も市場で成立するレンタカーの料金が一定であると考えて行動するものとします。</sentence>
+<sentence>これは，消費者のケースと比べるとはるかに強い仮定です。</sentence>
+<sentence>消費者の場合，レンタカー会社を利用する人の数はきわめて多くなりますが，いかにレンタカー業界が競争的であったとしても，会社の数は消費者の数よりはずっと少ないのが普通です。</sentence>
+<sentence>たとえば，１つの町にレンタカー会社が５社あったとしますと，その中の１社がどのような料金を設定し，どれだけのサービス供給を行うかは，この町のレンタカーの市場価格に無視できない影響を与えるでしょう。</sentence>
+<sentence>この点は，後ほど詳しく触れることにして，ここでは，レンタカー会社が十分多く存在する市場を想定し，各会社は，市場における料金が一定と考えて，サービス供給量を決めるものとします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　再び，図７．４で，市場価格がｐで与えられているケースを考えましょう。</sentence>
+<sentence>このとき，レンタカー会社は，ｙ時間のサービスを供給します。</sentence>
+<sentence>なぜなら，ｙよりも供給量が少ないときは，サービス価格が限界費用を上回るために，供給の増加によって利潤がさらに増加し，逆にｙよりも供給量が多くなると反対の関係が成立するため，供給を減少させる方が利潤が増えるので，市場価格と限界費用が一致する供給量ｙが，利潤極大の供給量となるわけです。</sentence>
+<sentence>したがって，図７．４<sampling type="end" />の限界費用曲線は，縦軸に市場価格をプロットすれば，価格と供給量との関係を表す供給曲線であると解釈することもできます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

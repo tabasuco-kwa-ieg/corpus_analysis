@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo8_00013" version="1.0" type="fixedLength">
+<article articleID="LBo8_00013_F001">
+<paragraph>
+<sentence>私たち日本人からすると、<quote>「〜するのはむずかしい」</quote>という意味の時には、Ｉｔ　ｉｓ　ｄｉｆｆｉｃｕｌｔ　ｔｏ…なんていう英文をすぐ思い出すのが普通で、ｔｏｕｇｈなんていう単語は<quote>「タフだ、丈夫だ」</quote>なんていう意味のほうをよく知<sampling type="start" />っているわけですから、<quote>「ｔｏｕｇｈ移動」</quote>じゃなくて<quote>「ｄｉｆｆｉｃｕｌｔ移動」</quote>とかなんとか言ってほしいところです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　とにかく、構造は違っていても、表す意味が同じだと考えられる二つの文について、どうして意味が同じなのかということを、深層構造が同じだからだよと説明するやり方だと、<noteMarker text="＊" />それぞれのタイプに応じて、やはりそれぞれ性質の違う変形規則が必要だったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>能動態と受動態とか数量詞の位置の違いなどです。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　もちろん、さっきの　Ｆｌｙｉｎｇ　ｐｌａｎｅｓ　ｃａｎ　ｂｅ　ｄａｎｇｅｒｏｕｓ．みたいな、意味が二つある文のことを説明するのにも、二つの深層構造から一つの表層構造を作り出すために、異なった変形規則が必要でしたよね。</sentence>
+<sentence>他にも、最初にあげたｗｈ―移動とか名詞句―助動詞倒置なんていう変形規則もありました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">変形が多すぎる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　深層と表層という二つの構造を変形規則でつなぐという方式を使えば、あんまり細かいことを気にしなければ何でも説明できるような感じもしてしまいます。</sentence>
+<sentence>たとえば、（英語ばかり使うと生成文法は英語の文法みたいですから―実はそういうところ大なのですが―日本語の例も使っておきましょう）<quote>「<noteMarker text="＊" />私はあなたに部屋を掃除するように命令する」</quote>という文の意味と<quote>「この部屋を掃除しろ」</quote>という命令文の意味は、一方は<quote>「命令する」</quote>という動詞があるのだし、もう一方は<quote>「命令文」</quote>なのですから、まあ同じだと考えてもいいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>私なんかこれまでの一生のうちで、本当に誰かに掃除させるために、こんな文を使ったことは一度もありません。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　そうすると、この二つの文の深層構造は同じで、<quote>「私はあなたに〜命令する」</quote>という形を深層構造として、<quote>「〜しろ」</quote>という表層構造を作り出す<quote>「命令変形」</quote>なんて規則を考えることができそうです。</sentence>
+<sentence>これで、今の二つの文の意味が同じなんだよということが説明できたということになりまーす。</sentence>
+<sentence>命令変形によって、<quote>「私はあなたにご飯を食べるように命令する」</quote>から<quote>「ご飯を食べろ」</quote>が出てくるし、<quote>「私はあなたに死ぬように命令する」</quote>から<quote>「死ね」</quote>が生成されるということになるでしょうね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それから、<quote>「子供が生まれたことはよかった」</quote>という文と<quote>「子供の誕生はよかった」</quote>という文は、やっぱり意味が同じといえば同じですから、<quote>「子供が生まれたこと」</quote>という<quote>「文＋こと」</quote>の構造を、<quote>「子供の誕生」</quote>という<quote>「名詞句＋の＋抽象名詞句」</quote>に変える<quote>「抽象名詞化変形」</quote>だって、考えていけないということもないはずです。</sentence>
+<sentence>抽象名詞化変形を使えば、<quote>「日本がアメリカと戦争したこと」</quote>から<quote>「日本とアメリカの戦争」</quote>が作れますし、<quote>「キヨが坊ちゃんを愛していること」</quote>から<quote>「<noteMarker text="＊" />キヨの坊ちゃんへの愛」</quote>を導き出すことがで<sampling type="end" />きることになりまーす。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh3_00101" version="1.0" type="fixedLength">
+<article articleID="LBh3_00101_F001">
+<paragraph>
+<sentence>　第１の目標となる変数とは，コ<sampling type="start" />ントロールの対象にする仕事や人の成果を測定しようとする変数のことである．</sentence>
+<sentence>予算管理では，事業部利益とか売上高とか製造費用，あるいは利益率，成長率，改善率，などとなる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第２のパラメターは，その変数の測定法の決定である．</sentence>
+<sentence>たとえば利益といっても，部門の利益をどう計算したらいいかは，簡単な問題ではない．</sentence>
+<sentence>その利益計算にどんな項目が含まれるかどうかで，コントロールの対象になる人々の行動に変化が出てくることは，管理会計の大きな問題となっている．</sentence>
+<sentence>利益のみならず，測定が簡単でない変数は多い．</sentence>
+<sentence>たとえば，<quote>「品質」</quote>というのを一体何で測るのか．</sentence>
+<sentence>あるいは<quote>「人材の育成」</quote>という責任変数をどう測定しようとするのか．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　こうした難しい測定の場合，客観的な数値による測定ができないことも多い．</sentence>
+<sentence>そういうときには，主観的な観察，あるいは<quote>「目による測定」</quote>というのがあってもいい．</sentence>
+<sentence>その難しい観察をするのが管理者の役割の一つであるはずである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そうした測定は適時行われ，その測定結果を何らかの基準と比較して<quote>「異常の感知」</quote>をするのがふつうである．</sentence>
+<sentence>つまりフィードバックはつねになにかとの差をフィードバックするのである．</sentence>
+<sentence>たとえば，ある工場長が工場を見回って，みずからの目による観察によって異常を感知するとしよう．</sentence>
+<sentence>彼の観察が測定にあたるのだが，その観察は彼の頭の中にある<quote>「正常な状態の工場のあり方」</quote>という基準との比較でフィードバック情報となっている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのフィードバックのためには，事前になんらかの意味で基準値を決めておく必要がある．</sentence>
+<sentence>その決定の方式をコントロールシステムは定める必要がある．</sentence>
+<sentence>上の工場長によるコントロールの例では，<quote>「彼の頭の中にある正常状態の感覚」</quote>を基準値とする，と決められている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　目標管理での目標の自己申告制度では，その基準値を部下の自己申告にもとづく上司との話し合いで決める，という方式をとっている．</sentence>
+<sentence>あるいは，過去の実績値を基準値とするという決定方式もよくとられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　計画のシステムでつくられる計画の一部は，じつはこの基準値を含んでいる必要がある．</sentence>
+<sentence>つまり，計画システムのアウトプットとして目標変数の事前の基準値を決めるのである．</sentence>
+<sentence>そうならなければ，事前につくる計画が人々の制御活動に意味をもつ指針にならなくなってしまう．</sentence>
+<sentence>ここで計画システムとコントロールシステムとの接点が一つ生まれる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　測定された成果は，基準値と比較されてフィードバック情報となるが，その情報はたんに生まれるだけでは意味はない．</sentence>
+<sentence>制御としてのコントロールを行う人々，影響としてのコントロールを行う人々に何らかの形で伝わ<sampling type="end" />らなければ，意味がない．</sentence>
+</paragraph>
+</article>
+</sample>

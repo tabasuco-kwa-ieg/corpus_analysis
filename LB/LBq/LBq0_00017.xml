@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq0_00017" version="1.0" type="fixedLength">
+<article articleID="LBq0_00017_F001">
+<list>
+<listItem>
+<sentence>ＯＮＥ　Ｐｏｉｎｔ　項目軸、系列軸についても▼ボタンをクリックすると、表示するアイテムを変更で<sampling type="start" />きます。</sentence>
+<br type="automatic_original" />
+<sentence>！</sentence>
+<sentence>　変更したアイテムの表示は、元のピボットテーブルにも反映されます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼ワークシート</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">グラフのフィールドを追加、移動、削除するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ピボットグラフは、ピボットテーブルと同様にフィールドを自由に追加、移動、削除することができます。</sentence>
+<sentence>ここでは、<quote>「メディア」</quote>のフィールドを項目軸に追加してみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ピボットテーブルのフィールドリストから<quote>「メディア」</quote>を項目軸にドラッグ＆ドロップします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ピボットテーブルの項目軸に<quote>「メディア」</quote>のフィールドが追加されました。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼ワークシート</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<sentence>ＯＮＥ　Ｐｏｉｎｔ　ピボットテーブルと同様にフィールド名をドラッグ＆ドロップすると、自由にフィールドを追加、移動、削除することができます。</sentence>
+<br type="automatic_original" />
+<sentence>！</sentence>
+<sentence>　ピボットグラフで行ったフィールドの追加、移動、削除は、元のピボットテーブルにも反映されます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼ワークシート</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">９．５　ワークシートの統合</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　統合を使うと、複数のワークシートから合計や平均という集計作業を行うことができます。</sentence>
+<sentence>また、複数のワークシートにある表を統合して、ひとつの表を作成する場合にも活用できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">統合機能を使った集計について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　以下に示した３つの表は、１、２、３学期のテスト結果をそれぞれ別のワークシートにまとめたものです。</sentence>
+<sentence>１、２学期は<quote>「国語」</quote>、<quote>「算数」</quote>、<quote>「理科」</quote>、<quote>「社会」</quote>の４教科のテストを、３学期はこれらに加えて<quote>「体育」</quote>のテストを実施しています。</sentence>
+<sentence>また、３学期から<quote>「花山　幸信」</quote>が転出し、<quote>「奥田　大輔」</quote>が転入しています。</sentence>
+<sentence>これらの観点を踏まえた上、ここでは、この３つの表を統合し、平均値のリストを作成してみましょう。</sentence>
+<sentence>このように、全く同じ条件の表でなくとも表のデータを集計することができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">複数のワークシートを統合するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここでは、１学期のテスト結果（Ｓｈｅｅｔ１）、２学期のテスト結果（Ｓｈｅｅｔ２）、３学期のテスト結果（Ｓｈｅｅｔ３）を、統合用のワークシート（Ｓｈｅｅｔ４）に統合し、平均値のリストを作成してみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　挿入メニューからワークシートを選択します。</sentence>
+<br type="automatic_original" />
+<sentence>ＯＮＥ　Ｐｏｉｎｔ　この操作で統合用のワークシート（Ｓｈｅｅｔ４）が作成されます。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼挿入メニュー</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　Ｂ３にアクティブセルを移動し、データメニューから統合を選択します。</sentence>
+<br type="automatic_original" />
+<sentence>！</sentence>
+<sentence>　ここでアクティブセルとするセルには、統合された表を表示する先頭セルを選択します。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼データメニュー</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　集計の方法を選択します。</sentence>
+<sentence>ここでは、平均を求めるので平均を選択します。</sentence>
+<br type="automatic_original" />
+<sentence>ＯＮＥ　Ｐｏｉｎｔ　集計の方法には、合計／データの個数／平均／最大値／最小値／積／数値の個数／標本標準偏差／標準偏差／標本分散／分散の１１種類が用意されています。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼統合の設定ダイアログボックス</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　統合元の表の範囲を指定します。</sentence>
+<sentence>統合元範囲のテキスト<sampling type="end" />ボックスの右にあるダイアログ縮小ボタンをクリックします。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

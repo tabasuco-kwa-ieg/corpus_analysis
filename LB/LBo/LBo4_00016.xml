@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00016" version="1.0" type="fixedLength">
+<article articleID="LBo4_00016_F001">
+<paragraph>
+<sentence>ｐ２４抗原<sampling type="start" />検査はＨＩＶ抗体を結合したビーズやマイクロプレートを用いて、ＥＬＩＳＡにより検査します。</sentence>
+<sentence>抗体が産生される以前やエイズ期には検出されますが、無症候キャリア期には検出できません。</sentence>
+<sentence>したがって、ＨＩＶ感染者のスクリーニングには使えません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ウイルス培養はＨＩＶ感染者の血液からリンパ球を分離して、正常者のリンパ球と一緒に培養（コカルチャーという）するとＨＩＶが増殖してきます。</sentence>
+<sentence>ＨＩＶが培養できたかどうかは数個のリンパ球が融合して巨細胞が形成することを観察、ｐ２４抗原の検出、逆転写酵素の活性の測定、または電子顕微鏡でウイルスを観察するなどの方法があります。</sentence>
+<sentence>ウイルスが培養されれば感染の確かな証明になりますが、特別な実験室を使わなければならないこと、観察期間が長いこと、ある程度以上のウイルス量がないと培養できないことなどの問題点があります。</sentence>
+<sentence>感染初期とエイズが発症する頃からはウイルス量が増えるので分離率が上がります。</sentence>
+<sentence>培養の有無によりウイルス量の推定や無症候キャリア期かエイズ期かなどの判断材料になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">母子感染の診断</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　感染の診断はＨＩＶ抗体を検査しますが母子感染の早期診断には不適当です。</sentence>
+<sentence>なぜならば母親がＨＩＶに感染していると母親のＨＩＶのＩｇＧ抗体が胎盤を通して胎児に入ります。</sentence>
+<sentence>また、母乳にもＩｇＧは含まれています。</sentence>
+<sentence>胎児が感染していなくても生後ある一定期間はＨＩＶ抗体が検出されます。</sentence>
+<sentence>母親からの抗体を移行抗体と呼びます。</sentence>
+<sentence>移行抗体は長い例ですと一八ヶ月くらいまで検出されます。</sentence>
+<sentence>移行抗体はＨＩＶ抗体だけに限ったことではありません。</sentence>
+<sentence>麻疹は特に有名ですが乳幼児は生後数ヶ月間移行抗体があります。</sentence>
+<sentence>赤ちゃんは母親からもらった免疫で感染から守られているのです。</sentence>
+<sentence>ＨＩＶ抗体が感染を防御するとの報告もありますが、必ずしもＨＩＶ抗体が感染を防御できるとの確証もありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　母子感染の診断にはウイルスの培養やｐ２４抗原検査も使われますが、最近はＰＣＲなどの遺伝子検査が多く使われています。</sentence>
+<sentence>ウイルス培養は結果がでるまで数週間かかるため結果を早く知りたいときには不向きです。</sentence>
+<sentence>ｐ２４抗原検査はＥＬＩＳＡの設備があれば簡単に検査できますが検出感度が問題です。</sentence>
+<sentence>抗原抗体複合体を解離させたのち、ｐ２４抗原を検査すれば感度があがります。</sentence>
+<sentence>高感度な遺伝子検査法を用いても生後一週間以内の診断は約五〇％程度と低く、四週間以降ではほぼ一〇〇％の診断率となります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ウイルス量の測定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＨＩＶ感染者やエイズ患者に対しては血中のウイルス量の測定が<sampling type="end" />有用です。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa7_00021" version="1.0" type="fixedLength">
+<article articleID="LBa7_00021_F001">
+<paragraph>
+<sentence>初期のＬＰは、中断の多いＳＰマスターをつなぎ目なくきかせるために、技術者はすくなからぬ苦労をした（コロムビアのみ四〇年代のはじめから、ブロードキャスト・トランスクリプション・マスターと称する四〇センチの大型ラッカー盤に楽章別に中断なく録音を行っていたので、ＬＰへのマスターリングは他社より有利<sampling type="start" />であったといわれていた）。</sentence>
+<sentence>しかし、新しくＬＰの録音を行う場合には、ダイレクト・ディスク・レコーディングをしなければならないので、長時間の録音をミスなく行うということが、大きな問題となったのであった。</sentence>
+<sentence>その救世主がテープ・レコーダーであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　テープ・レコーダーの源泉はきわめてふるい。</sentence>
+<sentence>一八九八年十二月、デンマークの技術者ワルデマー・パウルセンが特許を得たテレグラフォンという磁気録音機が元祖である。</sentence>
+<sentence>それは音声信号の電流の強弱を磁性体である銅鉄線の磁気変化として記録し、その変化に応じた電気的な再生によって音声を復元できるという考案であった。</sentence>
+<sentence>パウルセンの発明は、アメリカとイギリスではワイヤー・レコーダーとして研究され、一九三〇年代の中頃、ルイス・ブラットナーが大型の磁気録音機をつくり、ＢＢＣが放送に使用したが音質はあまりよくなかった（この装置は戦前、日本の放送局にもはいっている）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、ドイツでは別な磁気録音のアプローチが行われていた。</sentence>
+<sentence>ワイヤーのかわりにスティール・リボンを使うもので、一九三〇年代中頃から実用化され、当時のヒトラーの演説の録音はこのシュタール・トーンマシーネと呼ばれる機械でなされていたという。</sentence>
+<sentence>しかし、本格的な技術的展開は、一九二七年にプフリュマーが紙（のちにプラスティック）テープに酸化鉄の磁性粉を塗布した、磁気録音テープの研究によってなされるようになった。</sentence>
+<sentence>テープの改良研究はＩＧ塗料の子会社であるバーディッシュ・アニリン（ＢＡＳＦ）社が、録音機の方はＡＥＧが担当し、一九三五年に最初のテープ・レコーダーの実用機がつくられ、“マグネトフォン”の名称のもとにその年のベルリンのラジオ・ショウに出品された。</sentence>
+<sentence>一九三六年十一月十六日、ドイツへ演奏旅行を行っていたトマス・ビーチャムとロンドン・フィルハーモニックが、ルートヴィヒスハーフェンのＩＧ工場で演奏を行ったときマグネトフォンで録音が行われて、音楽の本格的なテープ録音の世界最初という記録をとどめている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マグネトフォンとテープの改良は急速にすすみ、第二次大戦中に、連合軍側にたいする対敵謀略放送に重要な役割を果した。</sentence>
+<sentence>この放送を分析したイギリスの専門家はノイズの性格からディスクを使ったものではないと判断していたが、磁気蓄音器を使ったとは夢にも考えなかったという。</sentence>
+<sentence>彼等の知っているワイヤー・レコーダーの音質とはケタちがいに優れていたからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">戦時中ドイツで使用されていた放送用テープ・レコーダ　マグネトフォン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">パウルセンの最初の磁気録音器テレグラフォン（１９００年）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">テープ・レ<sampling type="end" />コーダーのもたらした録音革命</sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

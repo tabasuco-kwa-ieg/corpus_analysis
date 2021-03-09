@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBsn_00001" version="1.0" type="fixedLength">
+<article articleID="LBsn_00001_F001">
+<abstract>
+<sentence>必要ならば、簡単な設定でＷｉｎｄｏｗｓ　９８／ＳＥ／Ｍｅとほぼ同じデザイン<sampling type="start" />を表示することができます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>デスクトップを右クリックして［プロパティ］を選択します。</sentence>
+<sentence><quote>「画面のプロパティ」</quote>の<quote>「テーマ」</quote>タブで、リストから<quote>「Ｗｉｎｄｏｗｓ　クラシック」</quote>を選択します。</sentence>
+<sentence>これで、デスクトップとウィンドウの表示が、以前のデザインになります。</sentence>
+<sentence>［ＯＫ］をクリックすると設定内容が反映されます。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>次に、タスクバーを右クリックしメニューから<quote>「プロパティ」</quote>を選びます。</sentence>
+<sentence><quote>「［スタート］メニュー」</quote>のタブの、<quote>「クラシック［スタート］メニュー」</quote>を選び、［ＯＫ］をクリックします。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>１と２の設定で、画面がＷｉｎｄｏｗｓ９８／ＳＥ／Ｍｅとほぼ同じになりました。</sentence>
+<sentence>４のＷｉｎｄｏｗｓ　Ｍｅ画面と比べてみてください。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｔｉｐｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><quote>「マイコンピュータ」</quote>などのデスクトップアイコンを表示させる方法は４０６ページを参照してください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>こちらは、Ｗｉｎｄｏｗｓ　Ｍｅの画面です。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>テクニック！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＴＥＣＨＮＩＱＵＥ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">３３９</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">画面の解像度を変える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>画面の解像度とは、画面を縦横何ドットに分割して表示するか、という問題です。</sentence>
+<sentence>すなわち解像度が高いほど、１画面にたくさんの文字やアイコンを表示できるので、それだけ画面を広く使える事になります。</sentence>
+<sentence>そのかわり、画面の物理的サイズは同じ大きさなので、文字やアイコンの表示サイズは小さくなります。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>デスクトップを右クリックして［プロパティ］を選択します。</sentence>
+<sentence><quote>「画面のプロパティ」</quote>の<quote>「設定」</quote>タブで設定を行います。</sentence>
+<sentence>Ｗｉｎｄｏｗｓ　ＸＰの場合、最低で８００×６００となっています。</sentence>
+<sentence>最大は、そのパソコン（ビデオボード）の仕様次第です。</sentence>
+<sentence>設定がすんだら［ＯＫ］をクリックします。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｔｉｐｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>解像度を極端に上げると、搭載メモリが不足する関係で、自動的に色数が少ないモードに切り替わることがあります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>これは８００×６００の画面です。</sentence>
+<sentence>１５インチ程度のモニタで快適なサイズですが、ちょっと窮屈な感じがします。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>１２８０×１０２４の画面です。</sentence>
+<sentence>８００×６００と比べ、画面が格段に広くなっているのがわかります。</sentence>
+<sentence>ただしこの解像度だと、１７インチモニタでも、文学が小さくて見にくいかもしれません。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>テクニック！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＴＥＣＨＮＩＱＵＥ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">３４０</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">画面のリフレッシュレート（周波数）を設定する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>リフレッシュレートは、画面を書き換える速さのことで、これが遅いと目が疲れます。</sentence>
+<sentence>メモ帳など白紙の多いウィンドウを表示してみて、ちらついた感じがするようなら、リフレッシュレートの設定を確認しましょう。</sentence>
+<sentence>なおリフレッシュレートは、<quote>「モニタ」</quote>と<quote>「アダプタ」</quote>の、２箇所の設定が関連します。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>デスクトップを右クリックして<quote>「プロパティ」</quote>を選択します。</sentence>
+<sentence>リフレッシュレート関係の設定は<quote>「画面のプロパティ」</quote>の<quote>「設定」</quote>タブにある［詳<sampling type="end" />細設定（Ｖ）］で行います。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+</article>
+</sample>

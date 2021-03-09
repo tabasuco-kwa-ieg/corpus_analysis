@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00010" version="1.0" type="fixedLength">
+<article articleID="LBk3_00010_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　検察官は、大崎に対しても<quote>「君はなぜ三年前に虚偽の自白をしたのか」</quote>と聞いてるんですが、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　「被害者から、この人に間違いないといわれたし、それに警察官にいくら無実を訴えても取り上げてくれなかったら、どうしようもなく虚偽の自白をするようになった」</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　と<sampling type="start" />供述しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">陪審法廷における裁判官の役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">伊佐</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　論告と弁論のあとに、裁判官が陪審員に向かって説示をしますね。</sentence>
+<sentence>今回は渡部さんがされたわけですが、あの説示はアメリカ型とイギリス型の折衷をとられたようですね…<noteMarker text="（２）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">（２）　英米の陪審について、ショーン・エンライトほか『陪審裁判の将来』庭山英雄ほか訳（一九九一年）、ローク・Ｍ・リードほか『アメリカの刑事手続』（一九八七年）、大阪弁護士会編『陪審制度』（一九八九年）、丸田隆『陪審裁判を考える』（一九九〇年）、青木英五郎著作集三巻『陪審のすすめ』（一九八六年）、メルビン・Ｂ・ザーマン『陪審裁判への招待』篠倉満ほか訳（一九九〇年）</sentence>
+<br type="automatic_original" />
+</noteBody>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">渡部</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　裁判官が陪審員に対してどの程度まで詳しい説示ができるかは、国によって差異があります。</sentence>
+<sentence>共通して言えることは、陪審員に決定的な影響を与えるような説示は許されません。</sentence>
+<sentence>それは陪審員を支配することだからです。</sentence>
+<sentence>しかし、陪審員が適正な評決ができるように助力することは許されるし、望ましいことなわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この説示の内容は、いくつかに分類できます。</sentence>
+<sentence>一つは法律問題です。</sentence>
+<sentence>例えば、会社員が公務員に対してその令嬢の結婚祝いに三十万円も渡したために、贈賄罪で起訴されたとしましょう。</sentence>
+<sentence>そういう場合、賄賂罪というのはどういう事実が揃うと成立するかとか、また社交儀礼の範囲内なら犯罪は成立しないという原則がありますが、社交儀礼というのは一体どういうことかとか、そういう事柄は法律問題であり、こういう説示はどこの国でも許されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　二つ目は、証拠の要領です。</sentence>
+<sentence>この事件の法廷で皆さんの前でこれこれこういう証拠が調べられた。</sentence>
+<sentence>この証人は要するにこういうことを証言し、こういう点を強調し、こういう点について記憶がないと述べた。</sentence>
+<sentence>自白調書にはこういう点が書かれているが、こういう点は洩れている。</sentence>
+<sentence>また、こういう物証が提出されたが、こういう証拠は提出されていないと。</sentence>
+<sentence>こういう証拠の要領を説示してよいかどうかについては、国によって違いがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　三つ目は、証拠の信用性に関する説示です。</sentence>
+<sentence>もちろん有罪か無罪かを決定するのは陪審員ですから、具体的にＡの証言は信用できない、Ｂの証言は信用できるというような立ち入った説示はできません。</sentence>
+<sentence>しかし、こういう種類の証拠は危険であるとか、こういう状況証拠は一般的に考慮に値するものであるという程<sampling type="end" />度の説示をしてよいかどうか、これも国によって違いがあります。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

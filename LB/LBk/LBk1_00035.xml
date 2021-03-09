@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk1_00035" version="1.0" type="fixedLength">
+<article articleID="LBk1_00035_F001">
+<sentence>ニーチェのメッセージは、ぼくにはこんなふうに聞こえ<sampling type="start" />た。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><sentence>〈ただしい生き方がどこかにあるのではない。</sentence>
+<sentence type="quasi">人生にはここまでいかなければならない、というような義務などないのだ〉</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><sentence>〈神や義務があらかじめどこかに存在するのではなく、神や義務をもとめている君がいるだけだ。</sentence>
+<sentence>では、君のなかでそれをもとめさせているものは何なのか？〉</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">〈何が義務なのか、ではなく、何を君は欲するのか、どう生きることが君の生を肯定することになるのか、それだけが問題なのだ〉</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>ぼくはこれまでのじぶんの生きてきた過程を、なんどもふりかえって検討してみることをはじめた。</sentence>
+<sentence>そこでわかってきたのは、じぶんが世界をすごく憎んでいたという事実だった。</sentence>
+<br type="automatic_original" />
+<sentence>〈いい成績を取りつづけるようにして一定の<ruby rubyText="ひょう">評</ruby><ruby rubyText="か">価</ruby><ruby rubyText="き">基</ruby><ruby rubyText="じゅん">準</ruby>を満たさないかぎり、この世界はじぶんを受けいれてくれない〉、ぼくはそう思っていつも努力してきたけれど、この努力を強いられていることにすごく憎しみを抱いてもいた。</sentence>
+<sentence>ぼくはあれこれとスローガンをつくりながら、<quote>「世界がじぶんを認めてくれなくたってかまわない、おれは価値ある人間なのだ」</quote>とじぶんに言いきかせていた。</sentence>
+<sentence>しかし心のそこでは、じぶんが<quote>「そのままで」</quote>受容される場所をもとめていたのだ。</sentence>
+<br type="automatic_original" />
+<sentence>これがわかってきたとき、深くじぶんとつながったように感じたのを覚えている。</sentence>
+<sentence>ともあれ、ぼくは次のようにやってきた。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　いままでじぶんの生きてきた過程を、たんねんにふりかえってみる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　何をじぶんは欲するのか。</sentence>
+<sentence>何がじぶんに<ruby rubyText="よろこ">悦</ruby>びを与え、じぶんを深く肯定するのか。</sentence>
+<sentence>そこから、生き方をつくりなおすこと。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>もちろん、これが唯一の解決法だというつもりはない。</sentence>
+<sentence>みなさんは、どういう道を切り拓いていくのだろうか。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">じぶんを問うこと・普遍的に問うこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence type="quasi">美とは何か・真理とは何か、と一般的に問うてみてもぼくの生きることには何の関係もなさそうだ</sentence>
+<br type="automatic_original" />
+<sentence>だれでも認める<ruby rubyText="ふ">普</ruby><ruby rubyText="へん">遍</ruby><ruby rubyText="てき">的</ruby>な美とか真理などは存在しないのでは？</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">〈じぶんじしん〉に問いかける</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>何かが気にかかって不安でしかたのないときや、何かにとても困ったときに、人はあれこれ考えはじめる。</sentence>
+<sentence>でも、まわりを<ruby rubyText="うら">恨</ruby>んだりじぶんを責めたりしているだけで、真正面からじぶんにむかって問いかけることはしないことが多い。</sentence>
+<br type="automatic_original" />
+<sentence><quote><sentence>「どうしてオレはあんなことをしてしまったのか？</sentence>
+」</quote>と心のなかでいうけれど、ほんとうにそう問うてはいない。</sentence>
+<sentence><quote>「やってしまったじぶん」</quote>を裁いたり責めたりするだけで、<quote>「ほんとうのじぶん」</quote>はそんな人間ではないはずだ、とつぶやいている（やってしまったじぶんにも言い分はあるはずなのに、ね）。</sentence>
+<br type="automatic_original" />
+<sentence>心がひとつの感情に<ruby rubyText="こ">固</ruby><ruby rubyText="ちゃく">着</ruby>してしまって静かにじぶんを見つめることができないときには、考えるのをやめるのが大切だと思う<sampling type="end" />。</sentence>
+</article>
+</sample>

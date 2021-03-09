@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00008" version="1.0" type="fixedLength">
+<article articleID="LBm5_00008_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　にんに<sampling type="start" />くは薄切りにし、赤唐辛子は２つに切って種を抜きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　中華鍋に分量の油とにんにくを入れて香りよく熱し、にんにくを取り出します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　豚肉の汁けをふいて、片栗粉を薄くまぶして<enclosedCharacter description="○">３</enclosedCharacter>の鍋に入れ、両面を色よく焼きつけます。</sentence>
+<sentence>赤唐辛子を加えて炒め、酒をふってふたをし、火を弱めて５分ほど蒸し焼きして、砂糖としょうゆで調味して照りよく煮からめます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　器に盛り、<enclosedCharacter description="○">３</enclosedCharacter>のにんにくと香菜を添えます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">薄切り肉で</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>炒めものから煮ものまで、お総菜作りに欠かせません。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">豚肉と<ruby rubyText="チンゲンツァイ">青梗菜</ruby>のクリーム煮</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">豚バラ薄切り肉３００ｇ　青梗菜４株　しょうがの薄切り２枚　酒大さじ２　<enclosedCharacter>Ａ</enclosedCharacter>（水１カップ　中華<ruby rubyText="か">顆</ruby><ruby rubyText="りゅう">粒</ruby>スープ小さじ１／２）　牛乳１カップ　<enclosedCharacter>Ｂ</enclosedCharacter>（片栗粉大さじ２　水大さじ４）　油　塩　こしょう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　豚肉は長さ５ｃｍくらいに切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　青梗菜は縦４つ割りにして、根元に近い部分の葉の間の汚れを洗い落とします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　しょうがは５ｍｍ角に切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　油大さじ１／２を熱した中華鍋に、青梗菜と塩少々を入れて炒め、全体に油が回ったら熱湯１／３カップを注ぎます。</sentence>
+<sentence>ふたをして２分ほど蒸し煮にし、ザルにあけて水けをきります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　空いた中華鍋に油大さじ１／２としょうがを入れて香りよく熱し、豚肉を加えてほぐしながら炒めます。</sentence>
+<sentence>肉の色が変わったら酒をふり、<enclosedCharacter>Ａ</enclosedCharacter>の水を注いで、煮立ってきたら中華顆粒スープをふり、５分ほど煮てから牛乳を加えて、塩小さじ１／２とこしょう少々で調味します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　青梗菜の水けを絞って<enclosedCharacter description="○">５</enclosedCharacter>に加え、ひと煮して、<enclosedCharacter>Ｂ</enclosedCharacter>の水溶き片栗粉でとろみをつけます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">野菜の肉巻き焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">豚ロース（またはモモ）薄切り肉４００ｇ　グリーンアスパラガス１束　えのきだけ２パック　なす３個　レモン１／２個　油大さじ１　しょうゆ小さじ２　塩　こしょう</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　豚肉は広げて両面に軽く塩、こしょうをふります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　グリーンアスパラガスは根元の堅い皮をむき、長さを半分に切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　えのきだけは根元の色の変わった部分を切り落とします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　なすはヘタを切り落として、縦４〜６つ割りにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　レモンはくし形切りにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　豚肉を１枚ずつ広げ、<enclosedCharacter description="○">２</enclosedCharacter>〜<enclosedCharacter description="○">４</enclosedCharacter>の野菜を適宜にのせて端からくるくると巻きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">７</enclosedCharacter>　油を熱したフライパンに、<enclosedCharacter description="○">６</enclosedCharacter>の巻き終わりを下にして並べ、中火で全体を色よく焼きつけます。</sentence>
+<sentence>野菜がしんなりしたら、最後にしょうゆをふって香りをつけます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">８</enclosedCharacter>　器に<enclosedCharacter description="○">７</enclosedCharacter>を盛ってレモンを添え、レモン汁を絞って食べます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●肉豆腐</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　しょうゆの風味にほどよく甘味が加わった煮ものがあると、なぜかホッとくつろぐ気分になるから不思議です。</sentence>
+<sentence>まさにおふくろの味。</sentence>
+<sentence>日本の家庭料理の原点ともいえるでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　豚肉は肩ロ<sampling type="end" />ースの薄切り肉が最適。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00012" version="1.0" type="fixedLength">
+<article articleID="LBd5_00012_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence><sampling type="start" />それで初めてデータのつき合せができるわけです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　後は評価技術とか評価方法がいろいろありますが，まず最初に突破しなければいけないのは，接着作業をいかにばらつきのないように管理できるかということの標準化から始まると思います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　柳原さん，この評価の問題はいろいろ現場でお考えいただいていると思いますが．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">柳原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　今，永田さんからありましたように，現場の作業は作業者が替わると不良が増えるのが現状で，それぞれ工場で作業基準があることはあるんです．</sentence>
+<sentence>ところが作業基準書に書けないところがいっぱいありまして，そういうところで人が替わると不良が出るわけです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　評価については，現場のラインのなかでは小さな品物ですと実物の評価が多いのですが，それと一緒に接着剤自身についても評価しろということで，私どもでは特にエポキシについてはやっています．</sentence>
+<sentence>主に熱分析でガラス転移温度（Ｔｇ）をある程度の基準に管理する．</sentence>
+<sentence>それがいちばん多いです．</sentence>
+<sentence>後は日常，実物を破壊試験してある程度の強度範囲を確認する．</sentence>
+<sentence>設計の基準値から何％とるかというのはいろいろ問題があるかと思いますが，そのへんのところが一応大事だと思います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もう一つは耐久性の評価があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現状では接着剤は有機物ですので，耐熱性か耐湿性のどちらかをある程度試験して，この程度あれば大丈夫ではないかという基準を設けていますが，主に水に弱いところが泣き所ではないかと思います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もう一つは高温で接着強さが下がることから，クリープ破壊になりやすいところがいくつかあります．</sentence>
+<sentence>そういうところが実際に使ううえでは問題ではないかと思います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最近出てきています速硬化，短時間硬化のアクリル系接着剤がいくつかありますけれども，性能的にはやはりアクリルという限界があって、エポキシと置き換わることはまずできないのではないかと思っています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そういうかたちで実際にはラインから外へ出て評価しているわけですが，非破壊にいいものがあれば，ラインのなかで品質管理的に使えるところがいっぱい出てくるのではないかと思っています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小野</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　接着評価技術研究会などでいろいろご活躍いただいている長沢さん，評価の関連についてはいかがでしょうか．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">長沢</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　実際にメーカでやられている品質管理的なものと，今おっしゃったものは静的なもので見られますが，長期のものですと外部的な応力，また水とか熱といった環境的なものは，実際に実験室的にやられるときは小型のものではないかと思います．</sentence>
+<sentence>それを大きなものとどういうふうに対応させるかということが大切<sampling type="end" />なことではないでしょうか．</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

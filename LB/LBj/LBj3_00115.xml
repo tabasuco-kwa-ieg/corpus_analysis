@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj3_00115" version="1.0" type="fixedLength">
+<article articleID="LBj3_00115_F001">
+<sentence type="quasi">このときＦ（ｘ<subScript>ｍ</subScript>，…，ｘ<subScript>ｎ</subScript>）はｘ<superScript>０</superScript>の近傍で連続な偏導関数をもち（１<sampling type="start" />６）から</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>をみたす．</sentence>
+<sentence type="quasi">ここで，（２０）をｘ<subScript>ｍ</subScript>について偏微分すると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">となるが，この右辺の<rejectedSpan type="formula"></rejectedSpan>の列ベクトルのところへ（１９）の右辺のｘ<subScript>ｋ</subScript>＝ｘ<subScript>ｍ</subScript>の場合を代入すると</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>がえられる．</sentence>
+<sentence>ここで，最初に述べておいた補題を使う．</sentence>
+<sentence>上の式の右辺は補題の（８）の左辺と同じ形をしていることは容易に確認できる．</sentence>
+<sentence type="quasi">そこで（８）の関係をここで使うと</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>がえられる．</sentence>
+<sentence type="quasi">仮定により，この右辺はｘ<superScript>０</superScript>において０にならないから</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>である．</sentence>
+<sentence>したがって，関係式<rejectedSpan type="formula"></rejectedSpan>に対して，帰納法の前段のｍ＝１の場合の結論を適用することができる．</sentence>
+<sentence type="quasi">すなわち，点<rejectedSpan type="formula"></rejectedSpan>の近傍において，関係式</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>から，ｘ<subScript>ｍ</subScript>を<rejectedSpan type="formula"></rejectedSpan>の関数として一意的に確定することができる．</sentence>
+<sentence type="quasi">この関数を<rejectedSpan type="formula"></rejectedSpan></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">とおけば，<rejectedSpan type="formula"></rejectedSpan>は<rejectedSpan type="formula"></rejectedSpan>の近傍で連続な偏導関数をもち，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">をみたし，かつ，この点の近傍で恒等的に</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>をみたす．</sentence>
+<sentence type="quasi">そこで，ｊ＝１，２，…，ｍ−１に対して</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>とおく．</sentence>
+<sentence type="quasi">これらの<rejectedSpan type="formula"></rejectedSpan>もまた<rejectedSpan type="formula"></rejectedSpan>の近傍で連続な偏導関数をもち，（１６）と（２１）とから</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>が成立する．</sentence>
+<sentence type="quasi">さらに，（２０），（２２），（２３）から，この近傍で恒等的に</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence type="quasi">が成立し，（１７）と（２３）から，ｉ＝１，２，…，ｍ−１に対しても</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>が恒等的に成立する．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　次に<rejectedSpan type="formula"></rejectedSpan>のｘ<superScript>０</superScript>の近傍における一意性を見るために，ｘ<superScript>０</superScript>の近傍の２点</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence type="quasi">において</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>であったと仮定する．</sentence>
+<sentence type="quasi">このとき平均値の定理により，各ｉに対して</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>が成り立つ．</sentence>
+<sentence>ところで<rejectedSpan type="formula"></rejectedSpan>の連続性と（１０）とからｘ<superScript>０</superScript>の近傍のｘ＋θ<subScript>ｉ</subScript>（<missingCharacter attribute="Latin" unicode="U+FFFD" description="Xの上にTILDE">〓</missingCharacter>−ｘ）において<rejectedSpan type="formula"></rejectedSpan>の行列式は０ではない．</sentence>
+<sentence>よって，上記の関係式をみたす<missingCharacter attribute="Latin" unicode="U+FFFD" description="Xの上にTILDE">〓</missingCharacter><subScript>ｊ</subScript>−ｘ<subScript>ｊ</subScript>，ｊ＝１，２，…，ｍ，はすべて０，すなわち<missingCharacter attribute="Latin" unicode="U+FFFD" description="Xの上にTILDE">〓</missingCharacter>＝ｘでなくてはならない．</sentence>
+<sentence>このことは，ｘ<superScript>０</superScript>の近傍で（２５）をみたす<rejectedSpan type="formula"></rejectedSpan>は各<rejectedSpan type="formula"></rejectedSpan>に対して一意的に決まることを示している．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　各<rejectedSpan type="formula"></rejectedSpan>の偏導関数<rejectedSpan type="formula"></rejectedSpan>をｆ<subScript>ｉ</subScript>（ｘ）の偏導関数であらわすために，恒等式（２５）をｘ<subScript>ｋ</subScript>で偏微分すれば</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>がえられる．</sentence>
+<sentence type="quasi">これらを行列形でまとめてかけば</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となり，これから（１２）がえられる．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　（１２）の形から，各ｆ<subScript>ｉ</subScript>（ｘ）がｒ階までの連続な偏導関数をもてば（１２）の右辺の各成分はｒ−１回偏微分可能であり，偏微分の結果えられる関数は各ｆ<subScript>ｉ</subScript>（ｘ）の偏導関数の有理関数となり，分母に現われる関数は行列式<rejectedSpan type="formula"></rejectedSpan>の累乗である．</sentence>
+<sentence>そして，この分母の関数は（１０）の仮定により，ｘ<superScript>０</superScript>の近傍で０にはならない．</sentence>
+<sentence>よって，（１２）の右辺の各成分をｒ−１回偏微分してえられる関数は連続である．</sentence>
+<sentence>したがって，左辺の<rejectedSpan type="formula"></rejectedSpan>もｒ−１偏微分可能であり偏導関数は連続であるから，各ｇ<subScript>ｊ</subScript>はｒ階までの連続な偏導関数をもつ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上で定理の証明は完結した．</sentence>
+<sentence type="quasi">（終）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（コメント）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　定理３．１６は§３の３．２項で導入したベクトル，行列の形の微分演算記号を使うと，きわめて簡潔に表現でき，しかも，形式的には２変数の場合の定理３．１５とよく似た形になっていることがわかる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　行列記号による記述は記号の使い方に馴れればきわめて便利であり，理論構造も，行列記号を用い<sampling type="end" />る方がわかりやすい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk6_00001" version="1.0" type="fixedLength">
+<article articleID="LBk6_00001_F001">
+<paragraph>
+<sentence>　なお、免責されるためにパソコン通信事業者が取るべき措置には、違法な情報の削除以外に、発信者への警告、当事者間協議の場の設定等具体的状況に応<sampling type="start" />じた措置がありうる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、内容を積極的にコントロールする運営形態を取ると、内容に関する責任は重くなると言わざるを得ない。</sentence>
+<sentence>従って、情報内容を適正化しようと善意で努力した事業者の責任を緩和しようとすれば、新たな立法措置が必要になるとも考えられる。</sentence>
+<sentence>米国通信法（第２２３条）では、ネットワーク運営者に関して、自己の電気通信設備がわいせつな通信等に使用されるのを知りながら許容したものに刑事罰を課す反面、情報内容提供者（ｐｕｂｌｉｓｈｅｒ　ｏｒ　ｓｐｅａｋｅｒ）として扱われないことを明確にし、公序良俗に反すると判断した情報に対するアクセスを、善意により自主的に制限しても、その情報が憲法上保護されるものか否かに関わらず、責任を問われることはないとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【参考】関連法規</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●日本国憲法第２１条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　集会、結社、及び言論、出版その他一切の表現の自由は、これを保障する。</sentence>
+<sentence>検閲は、これをしてはならない。</sentence>
+<sentence>通信の秘密は、これを侵してはならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●電気通信事業法第４条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>電気通信事業者の取扱中に係る通信の秘密は、侵してはならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　電気通信事業に従事する者は、在職中電気通信事業者の取扱中に係る通信に関して知り得た他人の秘密を守らなければならない。</sentence>
+<sentence>その職を退いた後においても、同様とする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●同　第１０４条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>電気通信事業者の取扱中に係る通信（<sentence>第九十条第二項に規定する通信を含む。</sentence>
+）の秘密を侵した者は、一年以下の懲役又は三十万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　電気通信事業に従事する者が前項の行為をしたときは、二年以下の懲役又は五十万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３　前二項の未遂罪は、罰する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●電波法第１０６条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>自己著しくは他人に利益を与え、又は他人に損害を加える目的で、無線設備又は第百条第一項第一号の通信設備によって虚偽の通信を発した者は、三年以下の懲役又は百五十万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　略</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●同　第１０７条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　無線設備又は第百条第一項第一号の通信設備によって日本国憲法又はその下に成立した政府を暴力で破壊することを主張する通信を発した者は、五年以下の懲役又は禁こに処する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●同　第１０８条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　無線設備又は第百条第一項第一号の通信設備によってわいせつな通信を発した者は、二年以下の懲役又は百万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊<quote>「第百条第一項第一号の通信設備」</quote>とは、電線路に十キロヘルツ以上の高周波電流を通ずる電信、電話その他の通信設備を指す。</sentence>
+<sentence type="quasi">（高周波利用設備）</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">●同　第１０９条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>無線局の取扱中に係る無線通信の秘密を漏らし、又は<ruby rubyText="せつ">窃</ruby><ruby rubyText="よう">用</ruby>した者は、一年以下の懲役又は五十万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２　無線通信の業務に従事する者がその業<sampling type="end" />務に関し知り得た前項の秘密を漏らし、又は<ruby rubyText="せつ">窃</ruby><ruby rubyText="よう">用</ruby>したときは、二年以下の懲役又は百万円以下の罰金に処する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

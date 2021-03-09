@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl8_00013" version="1.0" type="fixedLength">
+<article articleID="LBl8_00013_F001">
+<list>
+<listItem>
+<sentence>２．　［ｓ］，［ｚ］，［∫］，［ʒ］，［ｔ∫］，［ｄʒ］で終るも<sampling type="start" />のには‐’，‐’ｓまたは‐ｅｓをつける．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">３）　称号＋固有名詞</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１．　異なった名前が２個（以上）あるときは，称号を複数形にする．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．　同名が２個（以上）あるときは，称号のほうを複数形にしてもよいが，固有名詞のほうを複数形にすることが多い．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">４）　文字・数字・略語・記号</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１．　ふつうは‐’ｓをつける．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．　‐ｓだけをつけることもある．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．　発音どおりに綴り直して，規則複数形にすることもある．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｄ．　複数形の注意すべき用法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　２種類の複数形</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　名詞の中には，互いに意味の異なる２種類の複数形を持つものがある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　複数形になると特殊な意味になるもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　常に複数形で用いられるもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｅ．　名詞の格</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　名詞または代名詞の，文中における他の語との文法的関係を示す語形変化を格と言う．</sentence>
+<sentence>格には，主格・所有格・目的格の３種がある．</sentence>
+<sentence>名詞の場合は，語幹と語形が変わるのは所有格だけで，主格と目的格は語幹と同形である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　主格</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　主として，主語・主格補語・呼びかけに用いられる（→ｐｐ．１，３）．</sentence>
+<sentence>準動詞の意味上の主語に用いられることもある（→ｐｐ．２４８―４９）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（背のいちばん高い男の子が列の先頭にいた）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（本は心の栄養だ）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（その種は夏には花になるだろう）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（スミスさんは，この学校の先生ですが，親切な紳士です）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（きみがいなくなると寂しいよ，トマス）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　目的格</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　主として，目的語・目的格補語に用いられる．</sentence>
+<sentence>また前置詞の目的語，副詞的修飾語として用いられることもある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（船乗りたちは，自分のバッグを船に運んだ）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（グライダーを操縦している女の子は，初の単独飛行をしている）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi"><sentence>（私たちは．</sentence>
+<sentence type="quasi">ビルがそのチームで最高の選手だと考えている）</sentence>
+</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（赤ん坊は午前中ずっと泣き通している）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（何時に戻って来ますか）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（会社とその従業員との特殊な関係のおかげで今日の日本ができたのである）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　所有格</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１）　つくりかた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>１．　一般には語尾に‐’ｓをつける．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．　‐（ｅ）ｓで終る複数形，およびｆｏｒ〜ｓａｋｅという慣用語法を形成する名詞には‐’のみをつける．</sentence>
+<sentence>ただし，英米人名には原則として‐’ｓをつけ，１音節の古典人名にも‐’ｓをつける．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．　複合名詞や１単位をなす語群は，末尾に‐’ｓをつける．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｎ．Ｂ．</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　‐’ｓの発音は規則複数形の‐（ｅ）ｓの発音に準じる（→ｐ．２３）．</sentence>
+<sentence>　<enclosedCharacter description="○">２</enclosedCharacter>　所有格を持つのは原則として生物を示す名詞だけで，無生物を示す名詞の所有関係は，ｔｈｅ　ｌｅｇｓ　ｏｆ　ｔｈｅ　ｔａｂｌｅ（テーブルの足）のように，前置詞ｏｆによって表す．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２）　用法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　主として名詞の修飾に用いられる．</sentence>
+<sentence>場所・建物・聖徒祭日を表したり，また<quote>「限定語＋名詞＋ｏｆ」</quote>の後で，独立的に用いられることもある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（ジョーンズの父は銀行家だ）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（ヒラリーの登頂はエバンズの登頂よりも長くかかった）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（昨日，歯医者に行った）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（塩はミッチェルさんの店で買えます）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（この父のオーバーは私によく合う）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">（そ<sampling type="end" />の大きな人種問題の傷口をふさぐためにアメリカが第１に努力すべきことは，遵法精神をもった黒人社会の大多数の信頼と積極的援助を獲得することでなければならない）</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+</article>
+</sample>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt0_00018" version="1.0" type="fixedLength">
+<article articleID="LBt0_00018_F001">
+<paragraph>
+<sentence>逆に、機密でもない、体裁に凝っているわ<sampling type="start" />けでもない、単なる文字だけの文章を添付ファイルにして送信している場合もある。</sentence>
+<sentence>ＨＴＭＬメールや機種依存の文字を使った電子メールが送られてきて、文字が化けて何を書いてあるわからないこともある。</sentence>
+<sentence>ＨＴＭＬメールは、自動実行ファイルを勝手に実行したり、スクリプトを実行したりするものもあるため、ＨＴＭＬメールの送受信は避けるべきである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　迷惑メール防止法が施行されているにもかかわらず、ｗｅｂｍａｓｔｅｒ＠ｘｘｘｘｘ．ｘｘ．ｊｐやｉｎｆｏ＠ｘｘｘｘｘ．ｘｘ．ｊｐといったウェブページに公開しているメールアドレスに対するスパムメールや、携帯電話メールに送られてくる迷惑メールはあとを絶たない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような、みんなで守りましょうと１０年以上も前からネチケットとして言われてきたことすら守られていないのが、インターネットの利用状況の実際である（<quote>「１‐３‐４　電子メールを送るとき」</quote>参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、メールサーバーの管理状況も改善の余地があることが多い。</sentence>
+<sentence>メールサーバーのＯＳレベルでのウイルスチェックは行っていても、メールサーバーのアプリケーションレベルのウイルスチェックツールを利用していない場合が多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電子メールのヘッダー情報には、通常、どのパソコン（ホスト）から電子メールが送信されたか表示されている（図２‐１４）。</sentence>
+<sentence>このパソコンの名前（ホスト名）を、安易にもネットワークに入るためのユーザーアカウントと同じものを設定していたため、そのユーザーアカウントを利用して会社のネットワークに侵入されてしまったという事例も聞く。</sentence>
+<sentence>そのユーザーが、パスワードをユーザーアカウントと同じに設定していたのであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　メールアドレスのパスワードを３〜６か月ごとに変更している会社もあるが、メールアドレスのパスワードの変更方法をシステム管理の担当者すら知らない場合もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上のような事態を解消するために、管理・運用をどのように行わなければならないか、システム責任者が内部規程として手順書などを明文化して、従業員に周知徹底する必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電子メールの利用は、内部規程に基づくシステム責任者の指示に従って適切に行う。</sentence>
+<sentence>電子メールを送信する前には、宛先および内容の適切性を再度確認する。</sentence>
+<sentence>宛先はＴｏ：、Ｃｃ：、Ｂｃｃ：を適切に使い分ける必要がある。</sentence>
+<sentence>しばしば新聞などで報道されているにもかかわらず、宛先の指定ミスによる個人情報の漏えいがあとを絶たないので、送信前に必ず注意しなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電子メールは配信経路で他人に覗き見される可能性が高いため、個人情報を電子メールで送信することは避け<sampling type="end" />ることが望ましい。</sentence>
+</paragraph>
+</article>
+</sample>

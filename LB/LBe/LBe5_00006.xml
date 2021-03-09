@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe5_00006" version="1.0" type="fixedLength">
+<article articleID="LBe5_00006_F001">
+<figureBlock>
+<caption>
+<paragraph>
+<sentence>ところが，はじめから針金状のところに電荷が集中しているために，取り出すことが非常に楽なので<sampling type="start" />す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">周波数が高くなると…</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　先ほども少しお話ししましたが，ＳＩサイリスタは直流を２０ｋＨｚぐらいまでの交流に９９％の効率で変換することができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際には１００ｋＨｚ，つまり１秒間に１０万回電流を入れたり切ったりすることができるまでになっています。</sentence>
+<sentence>さらに上等なものでは，１秒間に１００万回入れて切るということの繰り返しができるようなものまでできていますが，この辺になりますと効率がどうしても下がり，だいたい８０％ぐらいの効率になってきます。</sentence>
+<sentence>いずれにしても，非常に高い周波数まで直流からじかに交流を発生させることができるようになってきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで考えてみたいことが一つあります。</sentence>
+<sentence>それは今まで私たちは電力として５０サイクルや６０サイクルを使っていますが，それはなぜかということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一つは，電流が流れるたびに導線から周りに電磁波が出るわけですが，５０サイクルから６０サイクルの電磁波というのはあまりたくさん出ません。</sentence>
+<sentence>しかし，高い周波数ですと，相当に大きな電磁波が導線の周りから外に向かって出てきます。</sentence>
+<sentence>そうしますと，たとえばラジオの放送がその電波に邪魔されたりして大変困ったことになるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　二つめは，高い周波数を作る場合，発生効率が落ちるという点ですが，５０サイクルや６０サイクルの場合でも効率はそれほど高くありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば火力発電所で電気を作るときに，まず石油や石炭を燃やすことで，いわゆる水蒸気を発生させるのですが，このときの発生効率が実はあまりよくないのです。</sentence>
+<sentence>それは，３０％といわれています。</sentence>
+<sentence>この水蒸気によって発電機を回し，電気を作るのですが，ここの効率がやはり８０％以下です。</sentence>
+<sentence>そのために総合効率はずいぶん低いものになってしまうわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もっと高い周波数を出そうとしますと，この発生効率はそれ以上に下がってきますので，５０サイクルや６０サイクルを使うことになってしまうのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では，５０サイクルや６０サイクルを使うことにどのようなデメリットがあるかを考えてみたいと思います。</sentence>
+<sentence>コンデンサのインピーダンスは周波数が高くなりますと逆比例して下がってきます。</sentence>
+<sentence>つまり，周波数が高くなると同じ抵抗のコンデンサを作ろうと思えばコンデンサの値は小さくてすみますので，周波数が１０倍になればコンデンサの大きさは１０分の１，１００倍になれば１００分の１の大きさにすることができるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，チョーク・インダクタンスを考えてみましょう。</sentence>
+<sentence>チョーク・インダクタンスのインピーダンスは同じように周波数が１０倍になりますと１０倍に上<sampling type="end" />がり，１００倍になれば１００倍に上がります。</sentence>
+</paragraph>
+</article>
+</sample>

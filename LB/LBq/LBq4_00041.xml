@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00041" version="1.0" type="fixedLength">
+<article articleID="LBq4_00041_F001">
+<paragraph>
+<sentence>　光行差と光の速度に関係して，動く光源から放出される光の周波数につ<sampling type="start" />いて述べておく。</sentence>
+<sentence>光源として原子の発光を想定し，原子がある角周波数ｗ<subScript>１</subScript>の光を放出しながら観測者に速度ｖで近づく場合を考える。</sentence>
+<sentence>観測者に向かっての速度は，古典論的に考えてｃ−ｖとなり，速度が（１−ｖ／ｃ）だけ縮まったように見える。</sentence>
+<sentence type="quasi">そうすると，光の周波数は圧縮されたように見え</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>の光の角周波数が観測される。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　しかし，光の速度がからむ場合にはこの考え方は正しくない。</sentence>
+<sentence>すなわち，相対論的な補正が必要になる。</sentence>
+<sentence type="quasi">相対論的な補正をした角周波数は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>と書ける。</sentence>
+<sentence>ｗ<subScript>０</subScript>は原子の固有角周波数（原子の放出するエネルギーに相当する）である。</sentence>
+<sentence>このことから，原子が近づいたり遠ざかったり，あるいは観測者が運動する場合には周波数が本来のものとは違った値となることを示している。</sentence>
+<sentence>すなわち，原子が観測者から遠ざかるとき，その光の色は青側に移り（ブルーシフト），近づくときには赤側に移る（レッドシフト）ことがわかる。</sentence>
+<sentence>このような周波数のずれは，光のドップラー効果と呼ばれる。</sentence>
+<sentence>実際に，天体観測において星が遠ざ<correction originalText="か" type="excess"></correction>かっているか，近づいているかの判断などにも利用されている。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">７．９　エーテルとマイケルソン‐モーリーの実験</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　光は電磁波の一種であることはすでにみた。</sentence>
+<sentence>波が伝わるためにはなにかの媒質が必要である。</sentence>
+<sentence>たとえば，音波の伝搬には空気が必要であり，真空中では音は伝わらない。</sentence>
+<sentence>１８７３年マクスウェルによる光の電磁波説以後，電磁波である光にも伝搬に必要な媒質があるのではないかとの考え方から，光を伝える媒質について説明しようとする試みが盛んに行われた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この光を伝える媒質は，われわれの目には見えないが宇宙空間すべてを満たしている<quote>「なにか」</quote>であり，光を伝える役割を果たす媒質エーテルと名づけられた。</sentence>
+<sentence>このエーテルが振動することにより光が伝わると考えられたのである。</sentence>
+<sentence>エーテルの多寡，エーテルの運動などによりさまざまな電気，磁気の現象が説明できるものとされたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　古典的考え方に従えば，力を伝えるのになんらかの媒介物質があると考えるのはニュートン以来自然な考え方であった。</sentence>
+<sentence>この試みは失敗し，エーテル説は否定されることになるが，この研究の中から光とはなにかという本質的な考え方すなわち相対性理論が提出されることになる。</sentence>
+<sentence>ここでは，その後の物理学の発展にも大きく貢献することになるマイケルソン‐モーリーの実験と光の速度についてみることにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　マイケルソン（Ｍｉｃｈｅｌｓｏｎ），モーリー（Ｍｏｒｌｅｙ）は１８８７年，光の電磁波説から１０年ほどを経てエーテルの存在を確かめるために後世に残る実験を行った。</sentence>
+<sentence>彼らが考えたエーテ<sampling type="end" />ル検出のシナリオはこうである。</sentence>
+</paragraph>
+</article>
+</sample>

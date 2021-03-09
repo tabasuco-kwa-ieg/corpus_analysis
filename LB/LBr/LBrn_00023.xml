@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00023" version="1.0" type="fixedLength">
+<article articleID="LBrn_00023_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">スキャナで<sampling type="start" />写真や雑誌の切り抜きを取り込もう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>スキャナをパソコンとつないだら、身の回りにあるいろいろなものを取り込んでみましょう。</sentence>
+<br type="automatic_original" />
+<sentence>大切な写真や記事をパソコンに保存しておけば、いつでも参照することができて便利です。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">原稿をセットしよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>スキャナの接続とソフトウェアのインストールが終わったら、次に、スキャナの各部の名称と機能を確認して、原稿をセットするまでを学習しましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">スキャナ各部の名前と機能</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（エプソンＧＴ‐９３００ＵＦ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">スキャナ各部の名前と機能</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（キヤノンＣａｎｏＳｃａｎ８０００Ｆ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ひとくちメモ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">反射原稿と透過原稿</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>光を反射させて読み取る画像を反射原稿といいます。</sentence>
+<sentence>ネガやポジフィルムは、光を後ろから透過させて画像を読み取るので透過原稿と呼びます。</sentence>
+<sentence>本書で解説するスキャナには標準で透過原稿用の機器が付属していますが、別途オプションが必要になる場合があります。</sentence>
+<sentence>本書では透過原稿に関する操作は扱いません。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">原稿をセットする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>スキャナ各部の機能を確認したら、原稿をセットしましょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">→ｎｏｔｅｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>原稿をセットする前に、ガラス面に汚れやホコリがないか確認しましょう。</sentence>
+<sentence>糸くずのような小さなゴミが付着しているだけでも、読み込んだ画像には黒い影として現れます。</sentence>
+<sentence>手の油分も、ガラス面に付着しやすいので、なるべくガラス面に素手でふれないように注意してください。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">スキャナの電源を入れる</sentence>
+<br type="automatic_original" />
+<sentence>スキャナの電源を入れます。</sentence>
+<sentence>電源プラグをコンセントに接続するとスイッチが入り、蛍光ランプが点灯します。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">→ｎｏｔｅｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>本書で解説するスキャナには電源スイッチはありません。</sentence>
+<sentence>電源コンセントを抜くかＵＳＢケーブルを抜くと、電源が切れます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">原稿をセットする</sentence>
+<br type="automatic_original" />
+<sentence>原稿の角をスキャナの原稿マークに合わせてセットします。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">→ｎｏｔｅｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>原稿マークを挟んだ各辺からおよそ２ｍｍの範囲はスキャナに読み込まれませんので、注意してください。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">→ｎｏｔｅｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>雑誌などを広げてスキャンする場合、原稿が浮いているとその部分は歪んだ画像が読み込まれてしまいます。</sentence>
+<sentence>そんなときは、原稿台のカバーを上から手でしっかり押さえて、浮いている部分を少なくしてからスキャンしましょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">スキャンしよう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>原稿をセットしたら、実際に画像を読み込んでみましょう。</sentence>
+<sentence>読み込むにはＴＷＡＩＮ（トウェイン）という機能を利用します。</sentence>
+<br type="automatic_original" />
+<sentence>ＴＷＡＩＮとは、スキャナやカメラから画像を取り込むための標準の規格で、この機能に対応したスキャナとソフトウェアを使えばかんたんに画像を読み込むことができます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｗｏｒｄでスキャンする</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（エプソンＧＴ‐９３００ＵＦ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>Ｗｏｒ<sampling type="end" />ｄから<quote>「ＥＰＳＯＮＴＷＡＩＮ５」</quote>を起動して画像を読み込みましょう。</sentence>
+</article>
+</sample>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd8_00001" version="1.0" type="fixedLength">
+<article articleID="LBd8_00001_F001">
+<paragraph>
+<sentence>　束縛理論の３原則は以下のよう<sampling type="start" />である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">（１）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>Ａ．照応形はその束縛範疇内で束縛されなければならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｂ．代名詞形はその束縛範疇内で自由でなければならない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>Ｃ．Ｒ‐表現は自由である。</sentence>
+<sentence type="quasi">（<quote>「太郎」</quote><quote>「本」</quote>などの一般の名詞句）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　束縛範疇は以下のように定義される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>（２）βがαとαにとって接近可能な主語を含む最小範疇である場合のみ，βはαの束縛範疇である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　<quote>「接近可能」</quote>という概念は以下の定義に基づく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>（３）βがαの構成素統御領域に入っていて，（α，β）間の同一指標付与がｉの中のｉの条件に違反していない場合のみ，αはβにとって接近可能である。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><sentence>（<quote>「ｉの中のｉの条件」</quote>についての議論はここでは省く。</sentence>
+<sentence>『チョムスキー小事典』参照。）</sentence>
+</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　<quote>「構成素統御」</quote>の定義は以下のものを採用する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>（４）αを支配する最初の枝わかれ節点がβも支配している場合のみαはβを構成素統御する。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　最後に<quote>「束縛」</quote>の定義を下に挙げておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>（５）αがβを構成素統御し，αとβが同一の指標を付与されている場合のみαはβを束縛する。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">日本語の束縛理論</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　英語においては，動詞が主語に合わせて屈折変化する。</sentence>
+<sentence>これは屈折を担うＩＮＦＬという要素の中にＡＧＲという主語の素性をすべて写し取る鏡のようなものが含まれているためであると考えられている。</sentence>
+<sentence>束縛範疇の定義においては<quote>「主語」</quote>というものが重要な役割を担っている。</sentence>
+<sentence>束縛理論では３種類の主語，すなわち普通の主語，ＡＧＲという要素，そして所有格の名詞句，を仮定している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本語では，動詞が主語に合わせて屈折変化することはない。</sentence>
+<sentence>このことからも，日本語にはＡＧＲという要素が存在しないことは明らかである。</sentence>
+<sentence>束縛範疇を設定する場合には，接近可能な主語は普通の主語と所有格の名詞句の２種類だけとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">「お互い」</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「お互い」</quote>の照応関係は，束縛理論Ａに従う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">（６）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ａ．［太郎と花子］<subScript>ｉ</subScript>はお互い<subScript>ｉ</subScript>を批判した</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｂ．＊　彼ら<subScript>ｉ</subScript>は［Ｓ　太郎がお互い<subScript>ｉ</subScript>を陥れた］と言った</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｃ．彼ら<subScript>ｉ</subScript>は［Ｓ　お互い<subScript>ｉ</subScript>が敵同士だ］と思っている</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｄ．彼ら<subScript>ｉ</subScript>は［ＮＰ　お互い<subScript>ｉ</subScript>の写真］を見た</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｅ．＊　彼ら<subScript>ｉ</subScript>は［ＮＰ　太郎と花子のお互い<subScript>ｉ</subScript>に対する不平］を聞いた</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｆ．彼ら<subScript>ｉ</subScript>は［Ｓ　お互い<subScript>ｉ</subScript>が東京にいる間に］論文を書き上げた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｇ．＊　彼ら<subScript>ｉ</subScript>は［Ｓ　太郎がお互い<subScript>ｉ</subScript>を頼るので］うんざりした。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　（６ａ，ｄ）においては，束縛範疇は文全体である。</sentence>
+<sentence>その中で<quote>「お互い」</quote>は<quote>「彼ら」</quote>または<quote>「太郎と花子」</quote>によって束縛されている。</sentence>
+<sentence>よって文法的な文となる。</sentence>
+<sentence>ここでの議論はＶＰという節点が日本語に存在するという仮定に基づいている。</sentence>
+<sentence>たとえば，（６ａ）の句構造は下のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　もしＶＰという節点がなければ句構造は（６ａ´）のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　（６ａ´）では，<quote>「お互い」</quote>がＲ‐表現である<quote>「太郎と花子」</quote>を構成素統御してしまっている。</sentence>
+<sentence>これは束縛理論Ｃの違反であ<sampling type="end" />る。</sentence>
+</paragraph>
+</article>
+</sample>

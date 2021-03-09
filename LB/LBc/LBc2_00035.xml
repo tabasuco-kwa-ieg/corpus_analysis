@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc2_00035" version="1.0" type="fixedLength">
+<article articleID="LBc2_00035_F001">
+<paragraph>
+<sentence>これらの<quote>「之」</quote>字は奇用で<sampling type="start" />はあっても誤用ではないので、α群の編修者の添削を免れ、原資料の姿を伝えることになったのだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　逆に言えば、この<quote>「之」</quote>字の用例を通して、α群の原資料を摘出することが可能となるのである。</sentence>
+<sentence>たとえば、巻二四には百済の弔使の次のような言葉が載せられており、<quote>「之」</quote>字の特殊な用法が見られる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence type="quasi">　また、巻三〇・持統三年五月条には、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<sentence>とあって、この二例の<quote>「之」</quote>字もおそらく文末助字としての用法と考えられる。</sentence>
+<sentence>実はこれは詔勅の一部であり、<quote>「以清白心仕奉」</quote>のごとき宣命の常用句の直訳と覚しい文章もある（１５４ページ参照）。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　このように、α群に現れる<quote>「之」</quote>字の特殊な用法は、原資料の姿を残したものと考える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">α群の倭習と漢籍による潤色</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さて、日本語の語順に基づく誤用として、前節では否定詞の位置の誤りを一三例摘出したが、一例のみはα群に現れていた。</sentence>
+<sentence>その例外は巻一七<quote>「継体紀」</quote>の次の例であった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　これは、継体天皇の即位受諾を描いた文章である。</sentence>
+<sentence>しかし、<quote>「敢不」</quote>は反語表現なので、訓読すれば、<quote>「<ruby rubyText="あ">敢</ruby>へて<ruby rubyText="たが">乖</ruby>はざらんや」</quote>となり、即位を拒否する意味になってしまう。</sentence>
+<sentence>文脈にそって、<quote>「敢へて乖はじ」</quote>と訓ませたいのであれば、<quote>「不敢乖」</quote>という語順でなければならない。</sentence>
+<sentence><quote>「敢不乖」</quote>は日本語の語順に基づいた誤りである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　右の文章を含む継体天皇の即位の経緯を描いた一節は、α群の基本的編修が完了してから撰上までの間に、β群の編修者か第三者によって挿入されたものと私は推測する。</sentence>
+<sentence>実は、<quote>「継体紀」</quote>の即位記事は、全面的に漢籍を利用した作文なのである。</sentence>
+<sentence>典拠は、『史記』孝文本紀（<sentence>直接には『<ruby rubyText="かん">漢</ruby><ruby rubyText="しょ">書</ruby>』文帝紀による。</sentence>
+<sentence type="quasi">小島憲之氏『上代日本文学と中国文学』上、塙害房参照</sentence>
+）と『呉志』孫休伝の即位記事である。</sentence>
+<sentence>後者は、前掲の文章の典拠となったもので、次のとおりである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　<quote>「敢不」</quote>のところを訓読すれば、<quote>「敢へて璽じ<ruby rubyText="ふ">符</ruby>を承受せざらんや」</quote>となり、<quote>「継体紀」</quote>とは異なり、受諾の意が誤らず表されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　前者の文帝即位記事を典拠とする部分は長文なので掲出を控えるが、実は、興味深いことに、この文帝即位記事の文章は、『日本書紀』では<ruby rubyText="にん">仁</ruby><ruby rubyText="とく">徳</ruby>（巻一一）・<ruby rubyText="いん">允</ruby><ruby rubyText="ぎょう">恭</ruby>（巻一三）・<ruby rubyText="けい">継</ruby><ruby rubyText="たい">体</ruby>（巻一七）・<ruby rubyText="じょ">舒</ruby><ruby rubyText="めい">明</ruby>（巻二三）の各天皇の即位記事に利用されている。</sentence>
+<sentence>つまり、四回の利用のうち、<quote>「継体紀」</quote>以外の三回は、いずれもβ群に見られるのである。</sentence>
+<sentence><quote>「孫休伝」</quote>を利用しながら倭習が現れていたことを考え併せれば、この<quote>「継体紀」</quote>の即位記事は、α群の編修者の筆になるものではなく、後人の挿入であろうと推測されるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　漢籍を利用して潤色した個所には、他にもα群の述作者の筆録としては不可解な例がある。</sentence>
+<sentence>たとえば、巻一四の<ruby rubyText="ゆう">雄</ruby><ruby rubyText="りゃく">略</ruby>即位前紀には次のような文章がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　右の圏点の部分は、<ruby rubyText="かわ">河</ruby><ruby rubyText="むら">村</ruby><ruby rubyText="ひで">秀</ruby><ruby rubyText="ね">根</ruby>『<ruby rubyText="しょ">書</ruby><ruby rubyText="き">紀</ruby><ruby rubyText="しっ">集</ruby><ruby rubyText="かい">解</ruby>』が指摘するとおり、『<ruby rubyText="もん">文</ruby><ruby rubyText="ぜん">選</ruby>』の短<sampling type="end" />い語句を用いて潤色したのであろうが、ここに<quote>「<ruby rubyText="けい">兮</ruby>」</quote>字（二例）を用いるのは問題がある。</sentence>
+</paragraph>
+</article>
+</sample>

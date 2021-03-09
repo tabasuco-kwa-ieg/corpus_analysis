@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr6_00021" version="1.0" type="fixedLength">
+<article articleID="LBr6_00021_F001">
+<paragraph>
+<sentence>また、<sampling type="start" />モバイルを利用した人間や自動車の位置情報サービス、自動販売機の在庫管理、機械の遠隔操作などのサービスも導入され、<quote>「動くものすべて」</quote>を通信の対象とした、いわゆる<quote>「ユビキタス化」</quote>が始まっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＮＴＴドコモは<quote>「動くものすべてにワイヤレス機器をつける」</quote>という発想で事業領域の拡大を目指しており、これが現実になると、対象は人間、自動車、自転車、携帯ＰＣ、ペット、小包・宅配便など何億と存在し、需要は膨大なものとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　通信の<quote>「ユビキタス化」</quote>は、今後、移動通信分野での新しい利用シーンを生み出し、さまざまなビジネスモデルを創出していくだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第３節　インターネットとＩＴを活用したビジネス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●回線のフルライン戦略</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ディジタル化の完成によって、ＮＴＴは利用者が通信速度、料金、サービス内容、用途に応じて自由に選択できるインターネットアクセス回線のフルライン戦略を進めてきた（図２‐４）。</sentence>
+<sentence>これは、顧客の需要に応じて必要な商品をすべて提供していく姿勢であり、回線に関してすべてを任されてきた通信業界のリーダーとしてのＮＴＴの役割でもある。</sentence>
+<sentence>ある一部分に特化して日本のサービスレベルの低下を招くようなことはあってはならない。</sentence>
+<sentence>したがって、図２‐４にあるように６４ｋｂｐｓから１００Ｍｂｐｓの高速回線まで、ＩＳＤＮ、ＡＤＳＬ、光、無線ＬＡＮなどのアクセス回線や、ＯＣＮというインターネット接続サービスまで、あらゆる顧客のニーズに応えた商品をそろえている。</sentence>
+<sentence>また、料金は、高速になればなるほど速度あたりの料金を安く設定し、割安感を持ってより高速なサービスへの移行を可能としている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２‐４　インターネットアクセスサービスのフルライン戦略</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＯＣＮ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＯＣＮは、マルチメディア基本構想での共同利用実験から生まれたインターネット接続サービスである。</sentence>
+<sentence>この利用実験の参加企業からは、<quote>「データ・音声・映像などを複合的に取り扱い、大量の情報をさまざまな端末やネットワークの間で容易にやりとりしたい」</quote>、<quote>「つなぎっぱなしで使用しても、低廉な定額料金で済ませたい」</quote>などの要望が出された。</sentence>
+<sentence>これらの顧客ニーズを反映し、多様で利用しやすい、従来の電話ネットワークとは異なる新たなネットワークとしてオープンコンピュータネットワーク（ＯＣＮ）の構築に取り組み、１９９６年１２月に常時接続型の低速系サービスとダイヤルアップ接続サービスを一部区域において開始した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＯＣＮは全国にアクセスポイントを設け、インターネットに全国どこからでもアクセスでき、使いやすい料金とした。</sentence>
+<sentence>それまでは通信料、ＩＳＰ（インターネット・サービス・プロバイダ）料金と<sampling type="end" />もに高い料金が必要であったが、このことにより、ＮＣＣ（新電電）も同様なサービスを開始し、競争が激しくなった。</sentence>
+</paragraph>
+</article>
+</sample>

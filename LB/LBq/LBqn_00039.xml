@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBqn_00039" version="1.0" type="fixedLength">
+<article articleID="LBqn_00039_F001">
+<figureBlock>
+<caption>
+<sentence>全国の働く人の世<sampling type="start" />帯。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<info arg="sample_type" value="beginning" />
+</article>
+<article articleID="LBqn_00039_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">まえがき</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本のすがたは、小学生高学年から中学生を<ruby rubyText="たい">対</ruby><ruby rubyText="しょう">象</ruby>にして、最新のデータにもとづいて<ruby rubyText="へん">編</ruby><ruby rubyText="しゅう">集</ruby>された社会科の<ruby rubyText="し">資</ruby><ruby rubyText="りょう">料</ruby><ruby rubyText="しゅう">集</ruby>です。</sentence>
+<sentence>日本の産業・経済・社会について、それぞれの分野の基本的な成り立ちや現在のすがたを、できるだけわかりやすく説明したうえ、たくさんのグラフを使い、二色<ruby rubyText="ず">刷</ruby>りにし見やすくしています。</sentence>
+<sentence>一方、この本は、高校生以上を<ruby rubyText="たい">対</ruby><ruby rubyText="しょう">象</ruby>にした<ruby rubyText="に">日</ruby><ruby rubyText="ほん">本</ruby><ruby rubyText="こく">国</ruby><ruby rubyText="せい">勢</ruby><ruby rubyText="ず">図</ruby><ruby rubyText="え">会</ruby>がもとになっているために、少しむずかしい内容もありますが、知っているほうが良いと思われる、基本的なことがらについて取り上げています。</sentence>
+<sentence>そういう意味では、社会科のための参考資料として、みなさんが使われている教科書とあわせて使うことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大きく変化する社会の動きについて、いろいろ事実をもとにして考える社会科の勉強では、信頼できるたくさんの<ruby rubyText="とう">統</ruby><ruby rubyText="けい">計</ruby><ruby rubyText="し">資</ruby><ruby rubyText="りょう">料</ruby>を必要としています。</sentence>
+<sentence>この本は、そうした統計資料を使って、日本の国内の動きだけでなく、世界のなかにおける日本の地位もわかるようにしてあります。</sentence>
+<sentence>いよいよ２１世紀が始まって、社会生活の<ruby rubyText="じょう">情</ruby><ruby rubyText="ほう">報</ruby><ruby rubyText="か">化</ruby>がさらに進むと、この本に取り上げたような統計データが、これまで以上に求められると思われます。</sentence>
+<sentence>できるだけ多くの人にこの本を読んでいただいて、気づかれた点や<ruby rubyText="き">希</ruby><ruby rubyText="ぼう">望</ruby>など、ご意見をよせていただき、より良い本にしていきたいと考えています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">２００２年３月　財団法人　<ruby rubyText="や">矢</ruby><ruby rubyText="の">野</ruby><ruby rubyText="つね">恒</ruby><ruby rubyText="た">太</ruby>記念会</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">理事長　山口隆司</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBqn_00039_F003">
+<titleBlock>
+<title>
+<sentence type="quasi">第１章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">日本の国土と産業</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>全国各地で市町村の<ruby rubyText="がっ">合</ruby>ぺいの動きが<ruby rubyText="かっ">活</ruby><ruby rubyText="ぱつ">発</ruby>になっています。</sentence>
+<sentence>２００１年には、合ぺいにより東京都に西東京市、茨城県に<ruby rubyText="いた">潮</ruby><ruby rubyText="こ">来</ruby>市、埼玉県にさいたま市が<ruby rubyText="たん">誕</ruby><ruby rubyText="じょう">生</ruby>しました。</sentence>
+<sentence>市町村の合ぺいにより、行政にかかる<ruby rubyText="けい">経</ruby><ruby rubyText="ひ">費</ruby>が<ruby rubyText="せつ">節</ruby><ruby rubyText="やく">約</ruby>され、行政サービスが<ruby rubyText="こう">効</ruby><ruby rubyText="りつ">率</ruby><ruby rubyText="てき">的</ruby>に行われることなどが<ruby rubyText="き">期</ruby><ruby rubyText="たい">待</ruby>されています。</sentence>
+<sentence>写真は２００１年５月１日に誕生したさいたま市の<ruby rubyText="かい">開</ruby><ruby rubyText="ちょう">庁</ruby><ruby rubyText="しき">式</ruby>のもよう（共同通信社<ruby rubyText="てい">提</ruby><ruby rubyText="きょう">供</ruby>）。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">国土のありさま</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">日本の<ruby rubyText="い">位</ruby><ruby rubyText="ち">置</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　わが国は、ユーラシア大陸の東のふちにそって、<ruby rubyText="ゆみ">弓</ruby><ruby rubyText="がた">形</ruby>につらなった島国です。</sentence>
+<sentence>国土は<ruby rubyText="とう">東</ruby><ruby rubyText="けい">経</ruby>１２２度から１５４度、<ruby rubyText="ほく">北</ruby><ruby rubyText="い">緯</ruby>２０度から４６度の間に位置しています。</sentence>
+<sentence>国土の東<ruby rubyText="がわ">側</ruby>には太平洋が広がり、西側には、日本海、東シナ海をへだてて<ruby rubyText="ちょう">朝</ruby><ruby rubyText="せん">鮮</ruby>半島や中国があります。</sentence>
+<sentence>北にはオホーツク海やロシアの<ruby rubyText="りょう">領</ruby><ruby rubyText="ど">土</ruby>、南はフィリピンなどの国々があります。</sentence>
+<sentence>日本はどこの国とも陸でつながっていません。</sentence>
+<sentence>国土のまわりのすべてが海にかこまれています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">１　日本のまわり</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">面積と地方<ruby rubyText="く">区</ruby><ruby rubyText="ぶん">分</ruby></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本の面積は、<ruby rubyText="ほっ">北</ruby><ruby rubyText="ぽう">方</ruby><ruby rubyText="りょう">領</ruby><ruby rubyText="ど">土</ruby>（<ruby rubyText="えとろふ">択捉</ruby><ruby rubyText="とう">島</ruby>・<ruby rubyText="くな">国</ruby><ruby rubyText="しり">後</ruby><ruby rubyText="とう">島</ruby>、<ruby rubyText="しこ">色</ruby><ruby rubyText="たん">丹</ruby><ruby rubyText="とう">島</ruby>、<ruby rubyText="はぼまい">歯舞</ruby><ruby rubyText="しょ">諸</ruby><ruby rubyText="とう">島</ruby>）をふくめると、およそ３８万<ruby rubyText="へい">平</ruby><ruby rubyText="ほう">方</ruby>キロメートルです。</sentence>
+<sentence>これは世界でいちばん広いロシア<ruby rubyText="れん">連</ruby><ruby rubyText="ぽう">邦</ruby>の約４５分の１、アメリカ合衆国の約２５分の<sampling type="end" />１にあたります。</sentence>
+</paragraph>
+</article>
+</sample>

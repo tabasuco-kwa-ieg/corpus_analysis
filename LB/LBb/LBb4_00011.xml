@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb4_00011" version="1.0" type="fixedLength">
+<article articleID="LBb4_00011_F001">
+<sentence>ここで<sampling type="start" />Ａはセールの反射率で、セールが光をまったく反射しない場合は０、光を完全に反射する場合は１となる。</sentence>
+<sentence>（５・１・１）式の量は、セールの単位面積あたりに毎秒与えられる運動量でもある。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　さらに（５・１・１）式の量にセールの面積Ｓをかけたものが、セールにかかる全力（セールが毎秒もらう運動量）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>である。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　したがって、セールの運動方程式は、セールと有効荷重の総質量をｍ、加速度をａとすると</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>とかける。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　ところで（５・１・３）式の右辺にある量Ｓ×Ｆ［ジュール毎秒］は、セール全体に毎秒到達する輻射エネルギーだが、これはレーザー光の出力Ｐ［ジュール毎秒］と</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>なる関係がある。</sentence>
+<sentence>（５・１・４）式の右辺の因子ｆは、最初のレーザー光のうち、ちゃんとセールで受けることができたものの割合で、セールで最初の光をすべて捕えることができたなら１になる。</sentence>
+<sentence>星間空間の途中での損失や、セールの位置でレーザー光の断面がセールの大きさより大きくて受け<ruby rubyText="そこ">損</ruby>なった分などがあれば、ｆは１より小さい。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　（５・１・３）式の両辺をｍで割り、（５・１・４）式を考慮すると、最終的にセールの受ける加速度</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>が得られる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　以上、少し長い準備をしたが、いよいよプロメテウス号の加速減速を追試しよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図５‐５．　<ruby rubyText="ライトセール">光帆</ruby>への輻射圧。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">プロメテウス号の加速段階</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まずパラメーターの単位をそろえよう。</sentence>
+<sentence>加速段階において統合レーザーの出力Ｐは一三〇〇テラワットだった。</sentence>
+<sentence>テラは一〇の一二乗を表し、一ワットは一ジュール毎秒のことだから、出力Ｐは一・三かける一〇の一五乗ジュール毎秒となる。</sentence>
+<sentence>また総質量ｍは八万二〇〇〇トン（八・二かける一〇の七乗キログラム）である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　これらの値と光速ｃ（三かける一〇の七乗メートル毎秒）を（５・１・５）式の右辺に代入すると、加速度として</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>が得られる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　もしセールの材質が光子を完全に反射し（Ａ＝１、これはだいたいいいだろう）、レーザー光の損失がまったくなければ（ｆ＝１、一般にはもっと小さいだろう）、（５・１・６）式からセールの加速度は〇・〇一一Ｇとなる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　当然、フォワードは端数を切り捨てたのだと思うが、もし加速度がちょうど〇・〇一Ｇだとすれば（そして完全反射なら）、ｆが〇・九二七、すなわち七・三パーセントの損失があったことになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお第２章で述べたことから（五九ページ参照）、一定加速度〇・〇一Ｇで二年間加速すれば、最終速度は光速の二〇パーセントに達する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">減速段階ではどうなるか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図５‐４を見ると、減速段階は加速段階よりかなり複雑そうな感じがするかもしれないが、主セール（添え字１をつける）と有効荷重セール（添え字２）に分けて考えれば、加速段階と同じように計算できる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　必要なパラメーターは、出力Ｐ（一五〇〇テラワット＝一・五かける<sampling type="end" />一〇の一五乗ジュール毎秒）、主セールの質量ｍ<subScript>１</subScript>（七・二かける一〇の七乗キログラム）、有効荷重セールの質量ｍ<subScript>２</subScript>（一〇の七乗キログラム）である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

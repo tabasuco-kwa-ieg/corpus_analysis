@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00108" version="1.0" type="fixedLength">
+<article articleID="LBo3_00108_F001">
+<list>
+<listItem>
+<sentence type="quasi">・中国人の囁き（良いニュースは階層を上がり，悪いニュースは<sampling type="start" />階層を下がる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・バイアスに対する検証</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・カサンドラ情報（見逃してしまう重要なデータ）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・情報フロー</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・ベンチマーキング</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・情報過負担</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・優れた情報処理の習慣を身につける</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・デスクトップ型パソコンによる民主化</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・分析マヒ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">情報と知識</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　情報の問題を検討する前に１つの点を指摘しておくべきである．</sentence>
+<sentence>それは，情報は知識と同じではないということである．</sentence>
+<sentence>この点を考えるには，データや情報を人間の脳に送り込む原材料として，そして知識を頭脳プロセスで処理された情報の製品として考えるのがよい．</sentence>
+<sentence>もちろんこれは正確な定義ではないが，少なくとも両者を区別するのに役立つ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><sentence>　（科学者は現在でも知識を構成するのが何かについて正確に理解する努力を続けている．</sentence>
+<sentence>しかし，ほとんどの科学者は，データが有用な知識に変換されるには，いくつもの要素が働く必要があることを認めている．</sentence>
+<sentence>その要素の１つには経験が入るであろう．</sentence>
+<sentence>もう１つは，そのプロセスの中で個人が向けた関心と理解の程度である．</sentence>
+<sentence type="quasi">経営評論家の中には，今や<quote>「情報化時代」</quote>から<quote>「知識時代」</quote>へと社会が移行していると主張する者もいるが，この主張が本当は何を意味するかについては，ほとんど誰もが曖昧なのである</sentence>
+）．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBo3_00108_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">データのためのデータ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　決定の際に生じる最大の欠陥の１つは，効果的な決定を行うのにどれだけ多くの情報が必要であるかを識別できないことではなく，何が正しい情報となるかを識別できないことである．</sentence>
+<sentence>その結果，不十分なデータに基づいて決定を行う管理者のかたわらで，情報を集めすぎたり，誤った情報を集めている管理者が存在するという事態に陥るのである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このジレンマに対する容易な解決策は存在しない．</sentence>
+<sentence>ほとんどの場合に，それには意思決定者の判断が必要となる．</sentence>
+<sentence>しかし，優れた意思決定の習慣として，どの部分をどのように記述すべきかという率直な疑問が生じる．</sentence>
+<sentence>このような疑問の多くは非常に基本的であるがゆえに不必要にも思える．</sentence>
+<sentence>しかし，その最も基本的なポイントでさえ，多くは無視されているのがふつうなのである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　情報が意思決定プロセスにおいて中心的なインプットの１つであることを忘れるべきではない．</sentence>
+<sentence>インプットの良否はアウトプットの良否に直接的に影響する，あるいは情報処理の用語を借りれば，<quote>「ゴミを入れればゴミしか出てこない」</quote>ということである．</sentence>
+<sentence>世の中で最も困難なのは，豚の耳で絹の財布を作ろうとすることであろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">決定を行う際に正しい情報を持っているか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　意思決定者が自問すべき最初の質問の１つは，<quote>「この決定を行う際に，どのような情報が必要なのか」</quote>ということである．</sentence>
+<sentence>このことは自明<sampling type="end" />に聞こえるが，管理者は実際にはまったく異なった観点からこの問いかけを行いがちである．</sentence>
+</paragraph>
+</article>
+</sample>

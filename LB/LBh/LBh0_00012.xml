@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh0_00012" version="1.0" type="fixedLength">
+<article articleID="LBh0_00012_F001">
+<list>
+<listItem>
+<sentence type="quasi">５．グラフィッ<sampling type="start" />ク</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６．編集機能</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　オートダイヤル機能とは，各オンラインシステムの電話番号を登録しておき，画面上のメニューから接続したいオンラインシステムを選ぶと，自動的にダイヤルする機能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　オートリダイヤル機能は，オートダイヤル機能で自動的にダイヤルした際に，アクセスポイントの電話番号が通話中の時，いったん回線を切り一定時間後再びダイヤルする機能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　オートログオン機能とは，オンラインシステムとの接続に必要なパスワード，ユーザーＩＤなどを登録しておくと，オートダイヤルの後，これらを自動的に行ってくれる機能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アップロード機能とは，検索を実行する時に入力するコマンド，キーワードおよび検索式をあらかじめ登録しておき，オートログオンの後に順次必要なコマンドやキーワードなどを自動的に送信する機能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アップロード機能は検索中にコマンド，キーワードおよび検索式を入力する必要がないので，検索時間が大幅に短縮できる。</sentence>
+<sentence>また，キーワードの入力ミスをあらかじめ調べておくことができるので，間違ったキーワードを入力することが少なくなり，このことも検索時間の短縮につながる。</sentence>
+<sentence>さらに，検索式の作成も十二分に時間をかけて実施できるので，検索式番号の間違いがほとんどなくなる。</sentence>
+<sentence>したがって，検索用通信ソフトの各種の機能の中でも，アップロード機能が検索料金の節減に大きく役立っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ダウンロード機能とは，オンラインシステムから送信されるデータをフロッピーディスクに取り込むことである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ダウンロードは次の２つの目的で使用される。</sentence>
+<sentence>１つは，プリンタの速度が遅い場合に，ダウンロードでデータを一度保存し，後でゆっくりプリントアウトして読む場合である。</sentence>
+<sentence>もう１つは，データ編集機能を用いて再編集をしたり，プライベートデータベースとして用いたりする場合である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ダウンロードは，データベースによってはその使用を禁止しているものもあるので，データベースそれぞれについてそのことを調べておく必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　グラフィック機能とは，化学物質の構造式やスペクトル図を出力したり，マウス（ネズミに似た装置で表示画面上の座標位置の入力装置）を用いて図形を描ける機能である。</sentence>
+<sentence>したがって，化学物質を扱うＳＴＮのＲＥＧＩＳＴＲＹ（レジストリー）やＣＡＳＲＥＡＣＴ（キャスリアクト），ＪＯＩＳ‐Ｆ（ジョイスエフ）の化合物辞書データベース，商標のＴＲＡＤＭＡＲＫＳＣＡＮ（トレードマークスキャン，ＤＩＡＬＯＧ）などのデータベースを取り扱う場合に必要な機能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　編集機能とは，出力したデータを個人のデ<sampling type="end" />ータベース，論文または報告書の作成に利用したりする際に，データを編集する機能である。</sentence>
+</paragraph>
+</article>
+</sample>

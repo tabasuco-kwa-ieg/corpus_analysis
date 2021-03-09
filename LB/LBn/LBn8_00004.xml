@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn8_00004" version="1.0" type="fixedLength">
+<article articleID="LBn8_00004_F001">
+<paragraph>
+<sentence>　アイデアというもの<sampling type="start" />は、絶えず変形、発展していく。</sentence>
+<sentence>変形しない、発展しないアイデアというのは、<quote>「生きていない」</quote>アイデアかもしれない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【第２章】</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">伝えるための技術</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">文章技術の基本をもう一度見直す</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第１章では、文章を書くということそのものの意味を問い直してみたが、次はいよいよ<quote>「技術」</quote>の話に絞っていこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　伝えたいという情熱を持っていても、やはり技術が伴わない文章は説得力がない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いくつか実例を挙げながら、具体的な文章技術について述べてみたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まずは、こんな文例から。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　モバイルとは“移動する”という意味である。</sentence>
+<sentence>移動中にコンセントがないのは当然。</sentence>
+<sentence>だからモバイルは、電源コンセントから離れて自由に使えるものでなくてはならない、と僕は思っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、それにはバッテリーが十分機能しなければならない。</sentence>
+<sentence>だからこそ、僕は充電に興味をもったし、電池にも高い関心を払った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　僕はコンセントの代わりとなるエネルギーサプライシステムを模索し、思いついたのが、冒険家として長年使ってきた自転車だった。</sentence>
+<sentence>ライト発電用のダイナモを使うのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自転車の旅は、１日に何１０キロも移動する。</sentence>
+<sentence>だから充電可能な電池を自転車に接続し、前進するエネルギーを電気に変えて、電池に蓄電できないかと考えたのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<source>
+<sentence type="quasi">（<quote>「冒険家・九里徳泰のハードモバイラーへの道」</quote>週刊アスキー１９９９年６月２日号より）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　朴訥な文章で好感が持てるとも言えるが、やはり<quote>「うまい文章」</quote>とは言い難い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なぜ<quote>「下手」</quote>だと感じてしまうのだろうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この文章は、典型的な<quote>「小学生日記型」</quote>悪文なのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「ぼくは〜しました。</sentence>
+<sentence>それで〜だと思いました。</sentence>
+<sentence>だから〜だと思います。</sentence>
+<sentence type="quasi">うれしかったです…</sentence>
+」</quote>といった、頭に浮かんだことを順番に並べていくだけの文章。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自然と<quote>「僕は…（と思う）」</quote>という一人称主語入りのフレーズや、<quote>「だから」</quote><quote>「そして」</quote>などの順接の接続詞が頻出する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>その<quote>「僕は」</quote>は必要か？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　欧米の文章には、命令文などを除けば必ず主語が存在する。</sentence>
+<sentence>しかし、これをいちいち<quote>「○○は…」</quote>と訳していたら、うるさくてしょうがない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｉ　ｌｏｖｅ　ｙｏｕ．という文章を<quote>「私はあなたを愛している」</quote>と訳す翻訳家はまずいない。</sentence>
+<sentence>普通は<quote>「好きなんだ、きみのこと」</quote>くらいだろう。</sentence>
+<sentence>場合によっては、<quote>「好きだ」</quote><quote>「好きよ」</quote>だけで十分。</sentence>
+<sentence>つまり目的語さえ訳さない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　では、上の文章から<quote>「僕は〜」</quote>という部分を削除したらどうなるだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　モバイルとは<quote>「移動する」</quote>という意味である。</sentence>
+<sentence>移動中にコンセントがないのは当然。</sentence>
+<sentence>だからモバイルは、電源コンセントから離れて自由に使えるものでなくてはならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、それにはバッテリーが十分機能しなければならない。</sentence>
+<sentence>だからこそ、充電や電池にも高い関心を払わざるをえない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　コンセントの代わりとなるエネルギーサプ<sampling type="end" />ライシステムを模索していて思いついたのが、冒険家として長年使ってきた自転車だった。</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

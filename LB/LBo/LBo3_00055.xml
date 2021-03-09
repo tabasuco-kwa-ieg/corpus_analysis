@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00055" version="1.0" type="fixedLength">
+<article articleID="LBo3_00055_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">●召集通知の出し<sampling type="start" />方</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">１　居住していない組合員に召集通知を出すには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">（理事長）</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　集会の準備にあたり、今週中に集会の開催通知を、組合員の皆さんに出すことにします。</sentence>
+<sentence>集会の定足数は議決権の２分の１ですから、（全戸５００とした場合）委任状を含め２５０名の出席者が必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">（理事Ａ）</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　住んでいない組合員も議決権は同じですね。</sentence>
+<sentence>そうすると確実に開催通知が届かなくてはなりません。</sentence>
+<sentence>どこに通知をすればいいのかな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">（理事Ｂ）</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　住んでいない組合員は、現住所を管理組合に届け出ているのでしょう？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">（理事長）</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ええ。</sentence>
+<sentence>たしかに届け出の義務はあるのですが、実際には守らない人も多くて。</sentence>
+<sentence>届け出をしていないのに、事実上このマンションに居住していない、現在どこに住んでいるのかわからない、という人も多いのです。</sentence>
+<sentence type="quasi">（→回答）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">■招集通知はいつ・どこにすればよいか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　集会の招集通知は、会日（開催日）より少なくとも一週間前にしなければなりません。</sentence>
+<sentence>開催日が日曜日ならば、一週間前の土曜日に発送という具合です（発送であって到達でないことについては、後でふれます）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　招集通知には、会議の目的事項や集会の日時、場所を示して、各区分所有者全員に当てて発します。</sentence>
+<sentence>そうしなければ、適法に集会を開くことができません（区分所有法３５条１項）。</sentence>
+<sentence>通知自体は口頭でもかまわないのですが、後に争われた場合を考えると書面で行うのがよいでしょう。</sentence>
+<sentence>これが原則です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">【区分所有法３５条１項】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　集会の招集の通知は、会日より少なくとも一週間前に、会議の目的たる事項を示して、各区分所有者に発しなければならない。</sentence>
+<sentence>ただし、この期間は、規約で伸縮することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ただし、この原則をあまり厳密に考えると、多数の区分所有者が存在するような場合、集会を適法に開くことが難しくなってしまいます。</sentence>
+<sentence>そこで、法は、いろいろな例外を設けています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　発送（発信）で足りること：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まず、<quote>「発送で足りる」</quote>という意味は、ただ発送しさえすればよく、適法な宛名に発送すれば、万が一、届かなくてもかまわないという意味です。</sentence>
+<sentence>また、<quote>「一週間前までに」</quote>という制限も、規約で別の定めをすれば、これを伸ばしたり縮めたりすることが可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ですから、小さなマンションで区分所有者が実際にそこに住んでいるような場合には、これを短めにしてもよいのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、リゾートマンションの集会のように、集会期日まである程度の期間を設けて置かないと集会に人の集まりが悪いことが予想される場合には、これを一週間よりも長めに定めておけばよい、ということになるでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　宛先：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　宛先は、区分所有所有者が、管理者に対し<quote>「私に対する通知はここにしてくれ」</quote>という申出があった場合は、その場所にな<sampling type="end" />ります。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl0_00012" version="1.0" type="fixedLength">
+<article articleID="LBl0_00012_F001">
+<paragraph>
+<sentence>　インターネット閲覧ソフト大手の米ネットスケープ・コミュニケーションズは２６日、日本のソニー、任天堂などと共同し<sampling type="start" />て、情報家電向けソフトの開発に着手すると発表した。</sentence>
+<sentence>８月上旬にはＮＥＣが米ベンチャー、ディーバと組んで情報家電に進出することを決めたばかり。</sentence>
+<sentence>インターネットテレビなどに適した専用ソフトを開発した日本のベンチャー企業も現れた。</sentence>
+<sentence>新市場への期待を背景に今後、国境、企業規模を超えた合従連衡が進みそうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ネットスケープは情報家電向けソフトを開発する<quote>「ナビオ・コミュニケーションズ」</quote>という新会社を設立、来年中にも情報家電向けソフト技術を確立する。</sentence>
+<sentence>開発に際しソニー、任天堂、米ＩＢＭ、オラクルなど複数の情報関連企業と提携していく方針。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　オラクルの子会社ネットワーク・コンピューターのジェリー・ベーカー社長は<quote>「現状のパソコンは家庭に浸透するには複雑過ぎ、高価過ぎる」</quote>と指摘する。</sentence>
+<sentence>そのうえで、パソコンより操作の簡単なインターネット閲覧機能付きテレビ、ゲーム機、ネットワーク・コンピューターなどへのニーズが高まると読む。</sentence>
+<sentence>米調査会社ＩＤＣも<quote>「２０００年時点に世界で出荷されるインターネット接続可能な機器のうち、２１．７％はパソコン以外の装置になる」</quote>と予測する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＩＤＣの予測通りなら年間約２２４０万台の新市場が出現する。</sentence>
+<sentence>日本でも、情報家電に的を絞った企業が登場している。</sentence>
+<sentence>ベンチャー企業のアクセス（東京・千代田）は情報家電用ソフト<quote>「ネットフロント」</quote>を開発、大手家電メーカーに採用を働きかけている。</sentence>
+<sentence>第１弾として、三菱電機が１０月に同社の技術を導入、インターネット接続機能付きテレビを発売する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ、情報家電の具体像となると、模索段階の企業が多い。</sentence>
+<sentence>ソニーは<quote>「ネットスケープと話し合っているのは事実だが、具体的な製品像は未定」</quote>という。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「パソコンと情報家電の双方を視野に入れ、備えだけは固めておく」</quote>（国内電機メーカー幹部）。</sentence>
+<sentence>この言葉が象徴する市場トレンドの不透明感が、錯綜した提携関係の一要因とも言えそうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBl0_00012_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">■ネットスケープとアップル、外部ＤＢ利用簡単―ブラウザーに新版</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">８．２９　産業　１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">【シリコンバレー＝町田敏生】</sentence>
+<br type="automatic_original" />
+</authorsData>
+<paragraph>
+<sentence>　米ネットスケープ・コミュニケーションズとアップルコンピュータは高度なインターネット利用が可能になるブラウザー（閲覧ソフト）の新版を共同開発することで合意した。</sentence>
+<sentence>ブラウザー上で稼働するワープロなどのアプリケーション（適用業務）ソフトにリンク機能やマルチメディアデータを統合。</sentence>
+<sentence>アプリケーションソフトから直接、世界中のデータベースにアクセスして情報収集ができるようにする。</sentence>
+<sentence>アップルはＯＳ（基本ソフト）に組み込んで提供する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　新ブラウザーは<quote>「ナビゲーター・フォー・サイバードッグ」</quote>。</sentence>
+<sentence>ネットスケープのブラウザー製<sampling type="end" />品に、アップルが持つインターネットソフト技術<quote>「サイバードッグ」</quote>を加える計画。</sentence>
+</paragraph>
+</article>
+</sample>

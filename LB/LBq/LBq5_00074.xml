@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00074" version="1.0" type="fixedLength">
+<article articleID="LBq5_00074_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi"><sampling type="start" />テレイグジスタンス用スーパーコックピット内のオペレータ（写真提供製造科学技術研究センター）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">テレイグジスタンス実験風景（写真提供　製造科学技術研究センター）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">†アールキューブ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アールキューブ（Ｒ<superScript>３</superScript>）はネットワーク環境を利用したパーソナルなテレイグジスタンス社会をめざした研究開発構想とそのための基礎研究とに位置づけられる。</sentence>
+<sentence>Ｒｅａｌ‐ｔｉｍｅ　Ｒｅｍｏｔｅ　Ｒｏｂｏｔｉｃｓ（実時間遠隔制御ロボット技術）の頭文字をとってＲ<superScript>３</superScript>と表記して、これをアールキューブと読んでいる。</sentence>
+<sentence>情報のみが行き交う現在のネットワークを作業のともなうものとする試みともいえる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　東京大学と経済産業省（当時通産省）で策定されたこの構想は、一九九六年の一月に『アールキューブ』（通産省アールキューブ研究会編・日刊工業新聞社）として紹介された。</sentence>
+<sentence>その後、工業技術院の先導研究<quote>「フレンドリーネットワークロボティクス」</quote>や、前述の<quote>「人間協調・共存型ロボット（通称ＨＲＰ）」</quote>プロジェクトに代表される研究開発を通して、新しいネットワーク社会の構想を世に問いながらそれを実現するための基礎的な研究が指向されている。</sentence>
+<sentence>挿絵の図は、つい最近までは、いかにもＳＦ的であると思われがちであったが、本田技研工業により二足歩行ロボットが発表された現在（詳しくは『ロボット入門』を参照）、にわかにある種の現実味を帯びてきており、ＳＦ的と一笑に付すわけにはいかない状況にきている。</sentence>
+<sentence>事実、テレイグジスタンスを始めとして必要なテクノロジーの原形は、眼を凝らしてよく見れば、今でもすぐそこにあるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば二〇〇一年九月一一日のニューヨーク同時多発テロの直後、南カリフォルニア大学のＣＲＡＳＡＲ（Ｃｅｎｔｅｒ　ｆｏｒ　Ｒｏｂｏｔ‐Ａｓｓｉｓｔｅｄ　Ｓｅａｒｃｈ　ａｎｄ　Ｒｅｓｃｕｅ）のグループが六時間で現場にかけつけ、ロボットを用いた救助・探索活動を実際に行っているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このアールキューブが実現されれば、例えば、現在の家庭にあるパソコンがＶＲ入出力付のＶＲパソコンになり、それを用いてブロードバンドや光ファイバーなどのネットワークを介して世界中のサイトにテレイグジスタンスすることが可能となる。</sentence>
+<sentence>家庭内のパソコンにはパーソナルロボットがあたかもコンピュータの端末機器のように接続され、コンピュータの指令で制御されたり、テレイグジスタンスモードでは使用者の眼となり耳となったりして環境を認識し、使用者の意のままに分身のように行動する。</sentence>
+<sentence>　家庭だけではなく、オフィスや工場、病院、学校、図書館、美術館、公園、競技場、アミューズメントパーク<sampling type="end" />など、あらゆるところにテレイグジスタンスロボットが配置されて、人は家庭からでもオフィスからでも、あるいは公衆電話のような公衆アールキューブサイトからでも世界中のアールキューブロボットを自分の分身として利用できる。</sentence>
+</paragraph>
+</article>
+</sample>

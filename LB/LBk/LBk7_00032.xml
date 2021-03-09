@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk7_00032" version="1.0" type="fixedLength">
+<article articleID="LBk7_00032_F001">
+<paragraph>
+<sentence>プレーヤーにとっても半信半疑でトレーニングをするのとそうでないのとで<sampling type="start" />は，その効果にも大きく影響を及ぼします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すぐ次のゲームのためにも，また長期的な強化の過程でも常に実際のデータに基づいて対策をたてる。</sentence>
+<sentence>このことは，科学的にゲームを分析する大きな目的といえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１‐２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ゲーム分析の方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ゲームを分析する目的の一つは，チームの監督やコーチに実際のゲーム場面から得られた様々な情報を整理して提供することは，これまでに述べたことです。</sentence>
+<sentence>サッカーのようなネットを挟まないチームでのボールゲームでは，選手やボールの動きが複雑で，ある程度の役割分担が決まっているとはいえ，一つの試合で同じ動きは二度とない，といっても過言ではありません。</sentence>
+<sentence>２２名ものプレーヤーが広いピッチの中で，連続的に動き回るのですから，どんな情報をどのようにして集め，処理し，そして監督やコーチに提供するか，という作業を計画するだけでも大仕事なのです。</sentence>
+<sentence>古くから手作業で，ゲームを分析する方法がとられてきましたが，最近はＶＴＲやコンピュータの目覚ましい技術の発展のおかげで，分析の方法が飛躍的に進歩しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，いかにＶＴＲやコンピュータなどのハイテク機器を利用しようとしても，サッカーという種目の特徴をよく理解した上で，監督やコーチの指導現場からの要求や，この情報は必要だ，といった分析サイドからの主張をも基礎として計画をしなければ，無駄な努力をすることになってしまいます。</sentence>
+<sentence>ですからまずゲームを分析する上で，どのような情報をいかにしてとらえ処理するか，そして分析結果が現場の要求に答えられるものなのか，ということに注意しなければなりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図１・１はゲーム分析の全体像を整理したものです。</sentence>
+<sentence>実際の試合で起こる様々な情報は<quote>「いつ」</quote>，<quote>「どこで」</quote>，<quote>「だれが」</quote>，<quote>「なにを」</quote>という４項目に集約できます。</sentence>
+<sentence>また<quote>「だれが」</quote>を複数，<quote>「どこで」</quote>を三次元の空間座標と考えれば，ボールの位置を加えることによって理屈の上ではゲームの中で起こるすべての情報を数値データに置き換えることができることになります。</sentence>
+<sentence>つまり，２２名の選手とボールの位置を，競技場を平面とし，高さを加えた三次元空間座標の点として求め，保存し，解析するということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，現実的には実際のゲームからこれらすべての情報を得ることは技術的に困難です。</sentence>
+<sentence>また，これらすべての情報を監督やコーチに提供したとしても，すぐに役に立つとは限りません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すなわちゲームを分析する方法を検討する際に，現場のコーチや監督は<quote>「なに」</quote>を知りたいのか，また<quote>「どのように」</quote>その情報を利用するのか，という接点を充分に考慮する必要があるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらのことか<sampling type="end" />ら現場で必要な情報の処理過程をデータの収集，処理，結果の表示などに整理してみると，データ処理に要する時間やその役立て方から次の三つに分類することができます。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd2_00036" version="1.0" type="fixedLength">
+<article articleID="LBd2_00036_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">３　明における中国人に描か<sampling type="start" />れた日本地図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">『日本考略』の中の『日本地理図』</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　明人の日本に関する著作には日本地図を付けているものが多い。</sentence>
+<sentence>これは明代の日本研究書の一特色とも言えよう。</sentence>
+<sentence>比較検討の便宜上、特に本節に集めて述べたい。</sentence>
+<sentence>遅くとも宋代には中国人は日本地図を描くことができた。</sentence>
+<sentence>現在まで知られている日本に関する地図には、宋代の『石刻華夷図』『古今華夷区域総要図』『宋拓輿地図』や元代の『声教広被図』『広輿図』等があるが、ほとんどの地図は日本一国のみならず、国外に広く伝わっていない。</sentence>
+<sentence>正確さという点でも明人の著作中の地図と比較するとはるかに及ばない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　薛俊著の『日本考略』には『日本地理図』が一枚付いている。</sentence>
+<sentence>その描き方は上南・下北・左東・右西になっていて、現在の地図の描き方と正反対である。</sentence>
+<sentence>この地図にある日本国土の構成はだいたい正確と言える。</sentence>
+<sentence>本州・九州・四国三大島を描き、しかも本州の<quote>「東北から海へ行くこと一日、毛人国に達する」</quote>と特に記入している。</sentence>
+<sentence>今日の読者でも一見すれば分かるが、北海道を地図から外している。</sentence>
+<sentence>行政区画もほぼ正確である。</sentence>
+<sentence>余り厳密さを求めないならば、瀬戸内海・大阪湾・伊勢湾の様子が見分けられるが、地形に間違った所が少なくない。</sentence>
+<sentence>一例として、房総半島が離島になっており、安房・下総・上総三国からなるこの島が、常陸の隣になく、陸奥近くに書きいれている。</sentence>
+<sentence>志摩半島は切れて海中の孤島に描かれている。</sentence>
+<sentence><ruby rubyText="おき">隠岐</ruby>島の位置も違っていて、出雲・<ruby rubyText="ほうき">伯耆</ruby>の近くになく、越後・越中寄りにずれ、佐渡に近い所に飛んでいる。</sentence>
+<sentence>伊岐（壱岐）も九州から本州の<ruby rubyText="いわみ">石見</ruby>近辺に移り、四国は伊予・土佐・阿波だけがあり、讃岐を落とし、一国欠け、これでは四国が三国になってしまう。</sentence>
+<sentence>ほかの間違いもまだある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　『日本考略』に付いている『日本地理図』には、以上列挙したように間違いがあるが、中国人が見られる日本地図では、これが当時最高であった。</sentence>
+<sentence>この地図を通じて、より正確に科学的に日本を知ることができた。</sentence>
+<sentence>この地図一点で、『日本考略』の本の価値は大いに高まった。</sentence>
+<sentence>一六世紀の初期、中国人が日本へ行き実地調査をして地図を作ることはありえない。</sentence>
+<sentence>おそらく中国商人の手を通じて、日本人から買ったか模写したものであろう。</sentence>
+<sentence>この花弁形の地図はその後の江戸時代に流行った『行基図』によく似ており、ルーツをたどると同じものかも知れない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３３　薛俊『日本考略』に収載されている『日本地理図』（明刊本）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">『籌海図編』の中の『日本国図』</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　薛俊の『日本地理図』のあとに、鄭若曾はこの日本地理図を原本に新資料を補足して『日本国図』を画いた。</sentence>
+<sentence>最初は『日本図纂』に付け、また『籌海図編』にも付けた。</sentence>
+<sentence>鄭若曾が描いた『日本国図』は薛俊の『日本地理図』より非常に良くなった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず作図<sampling type="end" />の科学性が向上した。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi5_00008" version="1.0" type="fixedLength">
+<article articleID="LBi5_00008_F001">
+<list>
+<listItem>
+<sentence>たまねぎは薄切<sampling type="start" />りにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　トマトは缶から出してザク切りにし、缶汁は残しておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　フライパンにオリーブ油大さじ１を熱し、<enclosedCharacter description="○">１</enclosedCharacter>を入れて両面を焼き、香ばしい焼き色がついたら取り出す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　<enclosedCharacter description="○">４</enclosedCharacter>のフライパンにオリーブ油大さじ２を足してにんにくをいため、香りが立ったら<enclosedCharacter description="○">２</enclosedCharacter>を入れてよくいためる。</sentence>
+<sentence>全体に油が回り、しんなりしてきたら<enclosedCharacter description="○">３</enclosedCharacter>のトマトを加えて軽くいため、白ワインをふりかけ、煮立ててアルコール分をとばす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　<enclosedCharacter description="○">５</enclosedCharacter>に<enclosedCharacter description="○">３</enclosedCharacter>の缶汁、スープを注いで<enclosedCharacter description="○">４</enclosedCharacter>を戻し入れ、弱めの中火で７〜８分間煮込む。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">７</enclosedCharacter>　魚と野菜が柔らかく煮えたら塩、こしょう各少々で味を調え、バジルをふり、火を止める直前にバター大さじ１を落として溶かし、コクをつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<authorsData>
+<sentence type="quasi">（田口）</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">ガーデンパーティーの調理ポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　調理は、盛りつけまでを家の台所で完成させておきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　サラダなど、煮炊きの必要のないものは、大皿盛りに。</sentence>
+<sentence>シチューや汁物は、カセットコンロを用意して温めて、アツアツを取り分けます。</sentence>
+<sentence>ご飯やめん類は、冷めてもあまり味が変わらない、すし飯やおにぎり、つけだれなどを添えて食べられる冷やしめんがよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　飲み物は、あればクーラーボックスを用意し、冷やしておきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">海の幸のピリ辛スープ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">６７ｋｃａｌ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>具だくさんのタイ風激辛スープです。</sentence>
+<sentence>口なおしに冷たいお茶を添えてどうぞ。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料〈４人前〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<sentence>※マックルーはこぶみかん、レモングラスは葉や茎にレモンに似た香りを持つハーブ。</sentence>
+<sentence>タイ料理独特の酸味と香りを添える。</sentence>
+<sentence>ない場合はレモンを多めに使うとよい。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　シーフードミックスは冷水でサッと洗い、熱湯をかけて解凍する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　えびは頭、殻、背ワタを取り除き、熱湯にサッとくぐらせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　ふくろたけは半分に切る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　鶏ガラスープをなべに入れて強火にかけ、香菜の茎、赤とうがらし、マックルー、レモングラス、しょうがを加えて沸騰させ、さらに弱めの中火で５分間煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　<enclosedCharacter description="○">４</enclosedCharacter>にナムプラー、レモン汁、赤とうがらし粉を加えて味を調え、<enclosedCharacter description="○">１</enclosedCharacter>〜<enclosedCharacter description="○">３</enclosedCharacter>を入れて再び煮立て、火を止めて香菜の葉を散らす。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<authorsData>
+<sentence type="quasi">（戸田）</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">牛タンと野沢菜の冷やしそば</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">５４８ｋｃａｌ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>じっくり煮込んだ牛タンをぜいたくに使った変わり冷やしそば。</sentence>
+<sentence>食べる直前にたれをかけます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">材料〈４人前〉</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　深めのなべに水カップ７と牛タン、カッコ内の材料を入れて強火にかけ、煮立ったら弱火でアクを除き、約１時間半煮てそのまま冷まし、５ｍｍ厚さに切る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　中国めんは熱湯でゆで、水に取って水けをきり、サラダ油少々をまぶす。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　野沢菜漬けは水で洗って水けを絞る。</sentence>
+<sentence>器に<enclosedCharacter description="○">１</enclosedCharacter>、<enclosedCharacter description="○">２</enclosedCharacter>と盛り、たれを添える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">たれのスープのとり方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　鶏むね肉１枚に塩大さじ１をふって一晩おき、熱湯をくぐらせる。</sentence>
+<sentence>水カップ４〜５、酒大さ<sampling type="end" />じ１、鶏肉、たたいたねぎとしょうが各適量を煮立て、弱火でアクを除きながら半量まで煮詰めてこす。</sentence>
+</paragraph>
+</article>
+</sample>

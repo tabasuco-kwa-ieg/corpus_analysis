@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn0_00003" version="1.0" type="fixedLength">
+<article articleID="LBn0_00003_F001">
+<paragraph>
+<sentence>例え誤認識文字が文中に含まれて<sampling type="start" />いても、曖昧検索により類似語の扱いを受けるために検索対象を外れてしまう確率はきわめて少ないが、完全な文書情報が生成されたということにはならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようなときに、文書情報を常時修正が可能な状態にするために、ＳＧＭＬテキストデータとともに原本の画像データであるＰＤＦが表示されることで、校正作業の原本引き合わせといった作業を行うことができるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●<quote>「高品位ファクトリ」</quote>のコンセプト</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　デジタル化を期待されるのは、一般的な書籍ばかりではない。</sentence>
+<sentence>冊子になっていない古文書や美術品といったものもある。</sentence>
+<sentence>そうしたものの学術的な価値を考えると、より高度なデジタル化処理が必要なはずだ。</sentence>
+<sentence>例えば、絵画などの場合、保存状態によって汚れ、変色、傷みなどが生じる。</sentence>
+<sentence>絵画をデジタル化しておけば、経年変化のない状態を保持できるとともに、欠落した部分をデジタル画像上で補修することなどもできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私たちは、この解決策の一つとして、超高精細デジタルアーカイブシステム、つまり<quote>「高品位ファクトリ」</quote>を試作した（図３‐１０）。</sentence>
+<sentence>ＸＹステージに入力対象物をのせ、上部の高精細カメラにより撮影することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この試作システムでは、古文書、巻物、木片などの厚みの少ない資料標本を入力対象としている。</sentence>
+<sentence>博物館の研究活動に耐えうる高精細画像を一定品質で、しかも簡単な操作で入力することに重点をおいた。</sentence>
+<sentence>具体的には２５００ｄｐｉ以上の解像度で、ＲＧＢ（赤・緑・青）各々１２ｂｉｔ以上の色再現性を持つことである。</sentence>
+<sentence>また、巻物などの大型対象物や、被写体への接写による部分画像を合成した画像も生成できる（図３‐１１）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　特徴としては、任意の位置と範囲を、任意の解像度で撮影できることである。</sentence>
+<sentence>また、撮影環境データの蓄積により撮影環境を再現することもできる。</sentence>
+<sentence>撮影環境とは、カメラ位置やフォーカス、光源の光量、露出、色調などのことだ。</sentence>
+<sentence>これらはパソコンで制御されており、その設定値をデータベース化している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　高品位での画像処理に問題がないわけではない。</sentence>
+<sentence>入力対象を高解像度で撮影すると入力範囲は狭まり、画像合成の際に色調や画素にズレが生じやすい。</sentence>
+<sentence>また、入力作業にはまだまだ時間と手間がかかる。</sentence>
+<sentence>試作システムではリモート制御による環境設定を行っているが、対象サイズの自動測定や分割撮影の自動化など検討する必要があるだろう。</sentence>
+<sentence>ユーザインタフェースに関しては、入力手順をナビゲーションする工夫がもっと必要になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　入力作業の手順を図３‐１２に示しておく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１０　<quote>「高品位ファクトリ」</quote>の入力システム概観</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１１　接写画像の合成による画像の生成</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐１２<sampling type="end" />　入力手順</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

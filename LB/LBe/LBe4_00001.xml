@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe4_00001" version="1.0" type="fixedLength">
+<article articleID="LBe4_00001_F001">
+<paragraph>
+<sentence>なお両図とも同じエンマ<sampling type="start" />コオロギの呼び鳴きの例で、一節の始めから約二秒間だけの記録である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>〔ソナグラム〕　俗に声紋と呼ばれ、ヒトの音声研究に開発されたもの。</sentence>
+<sentence>横軸は音の出ている時間経過。</sentence>
+<sentence>縦軸は周波数範囲を示す。</sentence>
+<sentence>鳴き声の周波数範囲やその変化の様子がスペクトルのように示される。</sentence>
+<sentence>ただし強弱変化の様子は濃淡で示されるのでよくわからない。</sentence>
+<sentence>トリやカエルのように周波数が変化する鳴き声の記録にはよいが、虫の声のように周波数変化がほとんどなく、強弱変化が主な要素になっているものにはあまり適さない。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　図四‐一Ａの例で、この中の一つの波形（単位音という）を見ると、四キロヘルツを中心とし約三・六〜四・四キロヘルツの幅になっている。</sentence>
+<sentence>つまりこの一単位音にはそれだけの範囲の周波数成分を含んでいることが示されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence>〔オシログラム〕　音や物体振動の様子を振幅で記録したもの。</sentence>
+<sentence>横軸は時間経過、縦軸は振幅（強弱）比。</sentence>
+<sentence>虫の鳴き声や振動信号のリズム（強弱変化）を見るのに適する。</sentence>
+<sentence>ただし周波数は直接には記録されないから、別の方法で調べる必要がある。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　図四‐一Ｂは同Ａとまったく同じものをオシログラムで示したもので、鳴き声のリズムパターンがはっきりわかる。</sentence>
+<sentence>この図は横一目盛五〇ミリ秒としたものであるが、時間幅は必要に応じて任意に選べる。</sentence>
+<sentence>たとえば図二‐二、二‐三の例のように横一目盛〇・五秒とすれば、鳴き声の長い節回しなどを記録することができる。</sentence>
+<sentence>反対に図四‐七のように〇・一ミリ秒として記録すれば基本の波形を見ることもできる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお縦軸は振幅<quote>「比」</quote>、つまり音の強さの程度、強弱の様子を示す。</sentence>
+<sentence>したがって縦目盛は絶対値を表わしてはいない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<paragraph>
+<sentence>　ところで、ソナグラムでは音程<noteMarker text="注一" />や音色は推定できるが、音の強弱<noteMarker text="注二" />は濃淡で現われるので、それで判読することはむずかしい。</sentence>
+<sentence>また、オシログラムでは音の強弱変化は完全に表わせるが、周波数は直接的には記録されないから、音程や音色はまったくわからない。</sentence>
+<sentence>したがって両方のグラフを使わないと、鳴き声の全容を知ることができない。</sentence>
+<sentence>しかし虫の声では音程が変化する例は稀なので、基本周波数を別の方法で測ってさえおけば、虫の鳴き声の研究にはオシログラムだけで間にあう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>注一　音の高低をいう音楽用語。</sentence>
+<sentence>音の周波数の違い。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>注二　音の大きさ（強さ）程度のこと。</sentence>
+<sentence>日常会話で、よく<quote>「高い音、低い音」</quote>などと間違った呼びかたをされることが多い。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>４‐１　ソナグラムとオシログラム　エンマコオロギ，２４℃。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">鳴き声細部の呼びかた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　図四‐二は、虫の鳴き声について語る場合に必要な用語をパターン上に記してみたものである。</sentence>
+<sentence>なお、この図のような一連の波形が並んだものを<quote>「連鎖波形＝ｗａｖ<sampling type="end" />ｅ　ｔｒａｉｎ」</quote>と呼ぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

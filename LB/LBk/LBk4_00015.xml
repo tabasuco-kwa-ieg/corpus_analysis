@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk4_00015" version="1.0" type="fixedLength">
+<article articleID="LBk4_00015_F001">
+<paragraph>
+<sentence>それは、その後の場の理論の展開に大い<sampling type="start" />に活用され、ゲージ理論へとつながっていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、物理理論は屋上に屋を重ねるように、展開されていったのです。</sentence>
+<sentence>ゲージ不変性は、現代理論物理学の心臓的役割を担っていると言ってもいいでしょう（<sentence>ちなみに、別種ですが、筆者も自分の専門において、不変量の概念には大いにお世話になっています。</sentence>
+<sentence type="quasi">アインシュタイン様々です</sentence>
+）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、この座標変換不変性というものが、普遍的な物理上の要請なのかがはっきりしません。</sentence>
+<sentence>理論展開の便宜だけであるのなら、物理的にはそれほど重要では無くなるわけです。</sentence>
+<sentence>たとえば、例のニュートンの運動方程式（ｆ＝ｍα）はガリレー不変ですが、ローレンツ不変ではないのです（つまり、ローレンツ変換により表現形式が変わってしまう）。</sentence>
+<sentence>したがって、この運動方程式はＡの相対論では別形式で書かれることになります。</sentence>
+<sentence>Ｍ‐方程式にしても、参照する慣性系を取り替える、つまり座標変換のことは意識せずに創られたと思われ、ローレンツ不変であるということは後から分かったことで、ローレンツ不変性はあとから付加された制約なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、文献１でも述べたことですが、Ｍ‐方程式から導かれる電場波と磁場波の式は、たとえば水中や地中を伝わる弾性波の式と同形であります。</sentence>
+<sentence>媒質がはっきりしている水波や地震では媒質自体は静止しているものとしての表式となっており、波の伝播速さｖ<superScript>＊</superScript>は（媒質の弾性係数／媒質密度）の二乗根です。</sentence>
+<sentence>これはあくまでも媒質に対する伝播速さです。</sentence>
+<sentence>観測者が媒質に対して動けば、波の伝播速さの観測値はｖとは違ってきます。</sentence>
+<sentence>電磁波に関しても、媒質としてのエーテルの存在を認めれば、Ｍ‐方程式は媒質が静止しているとしての表式であることになり、観測者がエーテルに対して動くときは、電磁波の伝播速さｃ（つまり光速）の観測値も変わってきてよいことになります。</sentence>
+<sentence>すなわち、ローレンツ変換の意味、ローレンツ不変性の意味が大変あいまいなものになってしまいます。</sentence>
+<sentence>ローレンツ不変性はＡの相対論の守護神には決して成り得ません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ということは、ローレンツ変換、したがってＡの相対論そのものが、光ないし電磁波の媒質としてのエーテルの存在を否定することで成り立っているということです。</sentence>
+<sentence>光は何によって伝播するか、光は本当に波なのか、媒質の無い波動というものがあり得るのか、真空とは何か、空虚とは何か、エーテルは存在するのかしないのか、こういった問題が、光速不変の原理以前に存在していることが、これではっきりしたわけです。</sentence>
+<sentence>そして、アインシュタイン自身が一般相対性理論において真空にエーテルとしての役割を与<sampling type="end" />えたことを考えると、相対論自体にもジレンマが在ることが分かっていただけるでしょう。</sentence>
+</paragraph>
+</article>
+</sample>

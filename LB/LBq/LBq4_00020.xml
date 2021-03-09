@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00020" version="1.0" type="fixedLength">
+<article articleID="LBq4_00020_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">ＤＩＣＴＩＯＮＡＲＹ　ＯＦ　ＵＮＩＴ<sampling type="start" />Ｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　この部分は辞典です。</sentence>
+<sentence>体重<quote>「８００ポンド」</quote>の熊がどんな熊か，<quote>「１０ミル」</quote>の針金とはどんな太さか，というようなことから，法定の計量単位では何を使うのが望ましいか，などを知りたい人はすぐに引いて下さい。</sentence>
+<sentence>それから，<quote>「単位」</quote>を思いきり欲ばって広くとり，生活に登場するいろいろな数字をカバーしました。</sentence>
+<sentence><quote>「震度Ⅲ」</quote>の揺れ方はどんなものか，<quote>「風力５」</quote>の風は？</sentence>
+<sentence>　なんてこともどんどんこの辞典で調べてしまいましょう。</sentence>
+<sentence>対応するＳＩ単位のある非ＳＩ単位は，ＳＩ単位への換算を示しておきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　よく使う単位の換算表やＳＩ単位の表，通貨の換算表などは，本文のずい所に入っています。</sentence>
+<sentence>そのページを知りたい人は目次を見て下さい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>＊：辞典部分に項目としてとりあげてあることを示す。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>→ｐ．　：本文の参照すべきページを示す。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＩＳＯ感度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＩＳＯ　ｓｐｅｅｄ　ｎｕｍｂｅｒ　写真フィルムの感光度の指標。</sentence>
+<sentence>ＡＳＡ感度<noteBodyInline text="＊" />が広く用いられてきたが，現在は国際的に統一されたＩＳＯ表示を用いる。</sentence>
+<sentence>ふつうのフィルムにＩＳＯ　１００／２１°と書いてあるのは，ＡＳＡ（ＩＳＯ）が１００で，ＤＩＮ感度<noteBodyInline text="＊" />が２１°ということ。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＡＳＡ感度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＡＳＡ　ｓｐｅｅｄ　ｎｕｍｂｅｒ　写真フィルムの感光度の指標。</sentence>
+<sentence>ＡＳＡはアメリカの標準規格だが，国際的に用いられる。</sentence>
+<sentence>ＡＳＡ１００が標準で，数値に比例して感度が増す。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アト</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>記号ａｔ　工学気圧ともいう。</sentence>
+<sentence>１ｋｇの物体の重力が１ｃｍ<superScript>２</superScript>にかかる場合の圧力。</sentence>
+<sentence>１　ａｔ＝１　ｋｇｆ／ｃｍ<superScript>２</superScript>＝９８０６６．５Ｐａ（パスカル<noteBodyInline text="＊" />）。</sentence>
+<sentence>１標準大気圧<noteBodyInline text="＊" />（ａｔｍ）との違いに注意。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アト</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ａｔｔｏ‐，記号ａ　１０<superScript>−１８</superScript>を表わすＳＩ単位系の接頭語（→ｐ．６３）。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アボガドロ数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>Ａｖｏｇａｄｒｏ’ｓ　ｎｕｍｂｅｒ，記号Ｎ<subScript>Ａ</subScript><quote>「等しい温度と圧力の下では，すべての気体の同体積は同数の分子をふくむ」</quote>というアボガドロの法則に基づいて定められた物理定数で，１モル<noteBodyInline text="＊" />の物質中にふくまれる原子や分子の数に等しい。</sentence>
+<sentence type="quasi">Ｎ<subScript>Ａ</subScript>＝６．０２２１×１０<superScript>２３</superScript>ｍｏｌ<superScript>−１</superScript>（→ｐ．３８）</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アール</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ａｒｅ，記号ａ　面積の単位。</sentence>
+<sentence>メートル法の単位で１００ｍ<superScript>２</superScript>をいう。</sentence>
+<sentence>１０ｍ×１０ｍの四角い土地の面積と覚えておく。</sentence>
+<sentence>語源はラテン語のａｒｅａ，これは英語と同じで面積のこと。</sentence>
+<sentence>ＳＩ単位ではないが土地の面積を計る法定単位。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ｒｐｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ｒｅｖｏｌｕｔｉｏｎｓ　ｐｅｒ　ｓｅｃｏｎｄの略。</sentence>
+<sentence>回転速度の単位。</sentence>
+<sentence>１秒間に何回転するかということで，高速回転する物体に用いる。</sentence>
+<sentence>日本語では<quote>「回毎秒」</quote>となるが，これは回転でなくても回数を数えるものならなんでも使える。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ｒｐｍ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ｒｅｖｏｌｕｔｕｉｏｎｓ　ｐｅｒ　ｍｉｎｕｔｅの略。</sentence>
+<sentence>回転速度の単位。</sentence>
+<sentence>１分間の回転数を表わす。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">アルベド</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ａｌｂｅｄｏ　反射能力の単位。</sentence>
+<sentence>入射する光線などがある<sampling type="end" />物体で反射される割合を表わしたもの。</sentence>
+</article>
+</sample>

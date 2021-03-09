@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00034" version="1.0" type="fixedLength">
+<article articleID="LBo3_00034_F001">
+<paragraph>
+<sentence>　このように接見交通権は、憲法が基本的権利として認めた弁護人依頼権を背後で支える非常に大切な役割を果た<sampling type="start" />しているものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最高裁も、接見交通権が、<quote>「身体を拘束された被疑者が弁護人の援助を受けることができるための刑事手続上最も重要な権利に属するものであるとともに、弁護人からいえばその固有権の最も重要なものの一つである」</quote>ことを明らかにしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　刑事訴訟法は、このような接見交通権の重要性を考慮して、原則として、それを自由に行使できることを認めていると理解されています。</sentence>
+<sentence>つまり、いつでも被疑者は、看守等の立会人が置かれることなく、弁護人に自由に会えるわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●接見交通権の制約●</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　しかし、このような法の建前にかかわらず、実務では接見交通権の行使が大きく制約されている状況にあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その直接の原因は、３９条３項が、捜査の必要性がある場合には、接見交通に例外的に制限を加えることを認めているためです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　具体的には、<quote>「捜査のため必要があるとき」</quote>は、送致前の留置段階は司法警察職員が、送致後の留置及び勾留段階は検察官が、接見指定を行うことができるようになっているのです。</sentence>
+<sentence>たとえば、接見の日時・場所等を指定して、<quote>「この日でなければ弁護人は被疑者に会えない」</quote>と一方的に告げることができるようになっているわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この接見指定が法文の規定するように例外的な場合にのみ、すなわち本当に<quote>「捜査のため必要があるとき」</quote>にだけなされるのなら、特に問題はないでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、実務では、本当に捜査のために必要があるのかどうか疑わしいような場合にまで接見指定がなされることが少なくありません。</sentence>
+<sentence>極言すれば、弁護人と被疑者を遠ざけるための手段として接見指定が濫用されているのではないか、と不審を抱かせるような状況も一部にはみられるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現に、<quote>「接見交通権が捜査機関によって侵害された」</quote>として、弁護人から訴訟が起こされる例は後を絶ちません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように接見指定は、捜査機関の運用しだいでは、自由な接見交通権を大きく損ねるものです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、そもそも刑事訴訟法がこのような接見指定を定めていること自体が、憲法３４条の弁護人依頼権を侵害することにならないか、という問題も法廷で争われてきました。</sentence>
+<sentence>しかし、平成１１年に最高裁は、接見指定について規定した３９条３項は、憲法３４条に反しないとの判断を示しました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">〔憲法第３４条〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>何人も、理由を直ちに告げられ、且つ、直ちに弁護人に依頼する権利を与へられなければ、抑留又は拘禁されない。</sentence>
+<sentence>又、何人も、正当な理由がなければ、拘禁されず、要求があれば、その理由は、直ちに本人及びその弁護人の出席する公開の法廷で示されなければならない。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">〔刑事訴訟法第３９条〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　身体の拘束を受け<sampling type="end" />ている被告人又は被疑者は、弁護人又は弁護人を選任することができる者の依頼により弁護人になろうとする者（<sentence>弁護士でない者にあっては、第３１条第２項の許可があった後に限る。</sentence>
+）と立会人なくして接見し、又は書類若しくは物の授受をすることができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+</article>
+</sample>

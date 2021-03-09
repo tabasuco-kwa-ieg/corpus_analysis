@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd6_00009" version="1.0" type="fixedLength">
+<article articleID="LBd6_00009_F001">
+<sentence>で求められ，ａを葉（ｙ<subScript>Ｌ</subScript>）の同化率，Ｒを非同化部<sampling type="start" />分（ｙ<subScript>Ｃ</subScript>）の呼吸率というが，スギの場合ａは１．４ｔ／ｔ・年，Ｒは０．３２ｔ／ｔ・年程度である．</sentence>
+<sentence>しかし若いスギ林ではａ，Ｒともに大きくａ＝１．７，Ｒ＝０．１５，秋田スギの壮齢林ではａ＝１．０５，Ｒ＝０．０１２と低い値を示している．</sentence>
+<sentence>３０年以上の発達した林分でみると九州，吉野の高密度植栽林分でＲ＝７〜９ｔ／ｔ・年と疎植の秋田の４〜５ｔ／ｔ・年より大きい．</sentence>
+<sentence>林分葉量は壮齢林でほぼ一定になるが，過度に密植すると非同化部分の割合が高くなり，非同化部分の呼吸量が多くなり，Δｙが少なくなる．</sentence>
+<sentence>閉鎖直後の林分のΔｙは最も大きく，従って林分の収穫量を大きくするためには，いかにして間伐などにより，この状態を維持するかが問題となってくる．</sentence>
+<sentence>人工林の場合主として幹を収穫の対象とするが，その幹の年生長量（Δｙｓ）をみると生長初期は１０〜２０ｔ／ｈａ・年である．</sentence>
+<sentence>主伐期頃の４０〜５０年になると１０ｔ／ｈａ・年程度になることが多い．</sentence>
+<sentence>秋田では３０〜４０年で１２〜１３ｔ／ｈａ・年で，やや後期の幹生長量が大きい．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３．３４　秩父地域，古生層堆積岩山地（ａ）と北越地域（山北町）（ｂ）のスギ林地位指数（橋本ら，１９６９）（真下ら，未発表）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表３．１３　各部分林分生長量（四大学合同調査，１９６６）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）ヒノキ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スギとともにヒノキは，わが国の二大主要造林樹種で，全造林面積の３２％をしめている．</sentence>
+<sentence>ヒノキは，広く北海道から九州屋久島まで分布していたといわれているが，現在は天然分布も人工造林も，関東北部がその北限となっている．</sentence>
+<sentence>ヒノキは多雪地帯を好まず，またスギに比べて乾燥に耐えるので，太平洋側と内陸の寡雪地帯，夏雨冬乾燥地帯に分布し土壌はやや乾燥したＢｄ（ｄ）を好むという．</sentence>
+<sentence>ヒノキは針葉樹であるが，鱗状葉であり，スギやマツ類と比べ水分，光に対する反応のしかたが異なる．</sentence>
+<sentence>ヒノキは，スギに比べ耐陰性が強く表３．１４からもわかるようにクロマツ，スギに比べその値が高い．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最近の報告資料より，純生産量を推定したものを表３．１５に示した．</sentence>
+<sentence>新潟県のブナ人工林で純生産量（Δｙ）は１７〜１９ｔ／ｈａ・年，カラマツ人工林で１９ｔ／ｈａ・年前後，スギ幼齢林で１８〜２０ｔ／ｈａ・年，スギ壮齢林で１０ｔ／ｈａ・年であるのに対しヒノキは３０年生で１７〜１８ｔ／ｈａ・年，４０年生で１７〜２３ｔ／ｈａ・年で，壮齢林では比較的高い値を示している．</sentence>
+<sentence>ヒノキの物質生産量の各部分への配分率をみると，葉へ３０％前後で幹へは５０％強となっているが，樹種間で差が小さく，閉鎖林ではむしろ林齢や地位の差によるものが大きい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表３．１４　全処理期間の生長から算出した個体の補償点と生長に最適光度（川那辺，１９７１）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表３．１５　<quote>「積みあげ法」</quote>で推定した各種森林生態系の純生産量（根<sampling type="end" />量調査を行った林分）（斎藤，１９７４）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

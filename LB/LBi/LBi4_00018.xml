@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00018" version="1.0" type="fixedLength">
+<article articleID="LBi4_00018_F001">
+<paragraph>
+<sentence>これ<sampling type="start" />は二つの細胞を橋渡しするタンパク質でできた通路であり，そこを分子量１，０００ダルトン以下の低分子化合物やイオンが通過できる。</sentence>
+<sentence>ギャップ結合している細胞群は代謝的（代謝物による），あるいは電気的（イオンによる）に共役している。</sentence>
+<sentence>ギャップ結合による細胞間の電気的伝達は高速で，高確度である。</sentence>
+<sentence>このことは，多くの細胞が同期して運動する心筋（拍動）や腸の平滑筋（ゼン動）の細胞，同期した繊毛運動を行う気管や腸の表皮細胞で観察される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　化学的シナプスでは情報の送信側の細胞（シナプス前細胞）と受信側の細胞（シナプス後細胞）の間には２ｎｍ程度のシナプス間隙があり，直接的な連絡はない。</sentence>
+<sentence>シナプス前細胞のシナプスに面した側の細胞膜をシナプス前膜，シナプス後細胞の細胞膜をシナプス後膜という。</sentence>
+<sentence>シナプス前細胞の末端部には直径３０〜６０ｎｍのシナプス小胞があり，その中には神経伝達物質が含まれている。</sentence>
+<sentence>また末端部のＣａ<superScript>２＋</superScript>濃度はＣａ<superScript>２＋</superScript>ポンプにより低く保たれているが，情報を受け取って興奮すなわち膜電位の変化が起こると電位依存性のＣａ<superScript>２＋</superScript>チャンネルが開き，細胞内のＣａ<superScript>２＋</superScript>濃度が上昇する。</sentence>
+<sentence>Ｃａ<superScript>２＋</superScript>はシナプス小胞とシナプス前膜の融合（エキソサイトーシス）を促進し，シナプス間隙に神経伝達物質が放出される。</sentence>
+<sentence>神経伝達物質は拡散によってシナプス後膜に達し，リガンド依存性のイオンチャンネルを開く。</sentence>
+<sentence>そのようなイオンチャンネルの代表的なものがリガンド依存性Ｎａ<superScript>＋</superScript>チャンネルである。</sentence>
+<sentence>Ｎａ<superScript>＋</superScript>の流入にともないシナプス後膜の膜電位が変化し，情報はシナプス前細胞からシナプス後細胞へ伝達されたことになる（図１２‐６）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　神経伝達物質にはアセチルコリン，ノルアドレナリン，γ‐アミノ酪酸，エピネフリン，その他多くのものが知られている。</sentence>
+<sentence>それぞれ固有のリガンド依存性チャンネルタンパク質と結合するので，用途に応じて使い分けられている。</sentence>
+<sentence>アセチルコリンは興奮性の，γ‐アミノ酪酸は抑制性の伝達物質の代表的なものである。</sentence>
+<sentence>チャンネルタンパク質と結合した後は，これらの伝達物質は速やかに分解されるか，洗い流されるか，再吸収される。</sentence>
+<sentence>化学的シナプスはギャップ結合による電気的シナプスに比べて情報伝達速度が遅いが，情報伝達方向が決定されること，あるいは興奮性と抑制性シナプスを組み合わせることにより，高度の情報処理をすることが可能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１２‐６　化学的シナプスでの情報伝達</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１２‐３．神経細胞は情報を電気信号（活動電位）の頻度として伝導する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　受容器で受容器電位に変換された情報は，知覚神経によって脳や脊髄，すなわち中枢に運ばれて情報処<sampling type="end" />理された後，運動神経によって中枢から筋肉などの効果器に伝えられる。</sentence>
+</paragraph>
+</article>
+</sample>

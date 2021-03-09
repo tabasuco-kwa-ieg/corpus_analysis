@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr8_00014" version="1.0" type="fixedLength">
+<article articleID="LBr8_00014_F001">
+<list>
+<listItem>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「先生が書いた文章をたまたま新聞で見かけ、読んでみたら大変おもしろかっ<sampling type="start" />た。</sentence>
+<sentence>先日も新しい本が出版されているのを書店で見かけて買った。</sentence>
+<sentence>元気で活躍されているのが大変うれしい。</sentence>
+<sentence>ご無沙汰しているが、わたしも元気である。</sentence>
+<sentence type="quasi">先生の姿を見習ってがんばりたい」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　就職の志望動機書を書いています。</sentence>
+<sentence>まだ一部しか考えていませんが、いろいろなことが頭の中をよぎります。</sentence>
+<sentence>どう書けば失礼にならないでしょうか。</sentence>
+<sentence>適宜、取捨選択して文章にしてください。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「この業界は、構造不況の関係で落ち目だと思っていた。</sentence>
+<sentence>実際、倒産する会社も多いと聞く。</sentence>
+<sentence>しかし、この会社は小さいながらも大変バイタリティがありそうで、とくに社長はとても頭がよく、すばらしい戦略で業績をのばしている。</sentence>
+<sentence>自分は技術的なこともできる上、営業的な素養もあると思う。</sentence>
+<sentence type="quasi">きっとこの会社にとって必要とされると思う」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">第二章　<quote>「気配りのある文章」</quote>をどう書くか―言葉のあやで失敗しないために</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">この文章のどこがおかしいのか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>拝啓　いつもお世話になっております。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　お預かりしておりましたコピー機の修理が終了いたしましたので、別便でお送りしました。</sentence>
+<sentence>紙送りの不具合は、紙送りローラーのゴムの老朽化のためだったみたいです。</sentence>
+<sentence>私どもはローラーを交換した上に、全部品を点検いたしましたので、もう不具合は発生しないでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、液晶画面が見れなかったとおっしゃったのはよくわかりません。</sentence>
+<sentence>点検したところ、異常はなかったのですけれど、たぶん濃さを認節するダイヤルが薄いところに設定されていたからだと思います。</sentence>
+<sentence>もちろん、こちらも調整しておきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もしも何か問題がありましたら、どんなことでもいいですから、遠慮なくおっしゃってくださいね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　今後ともよろしくお願いいたします。</sentence>
+<sentence type="quasi">　敬具</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　この文章は、知り合いのサービスマンが口頭で言うのであれば、まあ、あまり問題がないと言えるかもしれません。</sentence>
+<sentence>しかし、ビジネスレターであれば、かなり問題のある表現が使われています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず第一に問題になるのは、ビジネスレター的な書き言葉になっていないという点です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「紙送りの不具合は、紙送りローラーのゴムの老朽化のためだったみたいです」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>の<quote>「みたいです」</quote>は、<quote>「ようです」</quote>に直したほうがいい。</sentence>
+<sentence type="quasi">さらに言えば、</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「紙送りの不具合は、紙送りローラーのゴムの老朽化によるものと見られます」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>とするほうがもっと適切です。</sentence>
+<sentence>また、<quote>「もう不具合は発生しないでしょう」</quote>も口語的ですから、<quote>「もう不具合は発生しないものと思われます」</quote>くらいに直しておくほうがいいと思われます。</sentence>
+<sentence>また、<quote>「たぶん」</quote><quote>「（どんなことでも）いいですから」</quote>なども改まった表現に修正して、<quote>「おそらく」</quote><quote>「結構でございますので」</quote>くらいにしたほうがいいでしょう。</sentence>
+<sentence>それから、<quote>「見れなかっ<sampling type="end" />た」</quote>という<quote>「ら抜き」</quote>は、現在の段階では、正式な文書では避けるべきです。</sentence>
+</article>
+</sample>

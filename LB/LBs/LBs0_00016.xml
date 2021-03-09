@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs0_00016" version="1.0" type="fixedLength">
+<article articleID="LBs0_00016_F001">
+<paragraph>
+<sentence><sampling type="start" />こうした趣旨のことを言ったと理解してほしい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ボイジャー社が開発した<quote>「エキスパンドブック」</quote>（英語ではエキスパンディットブック＝拡張された本）というビューアソフトは、随所に本のメタファーを取り入れた、非常に美しいものだった。</sentence>
+<sentence>デザインには本の持つ魅力が最大限に生かされ、またメモを書き込める、しおりを挟めるなど、現実の本と同じような仕様になっていた。</sentence>
+<sentence>そこには、本そのものを再現し、さらに、その機能を拡大していくのだという意気込みがこめられていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わたしはさっそくパワーブック１７０と、ボイジャー社のエキスパンドブック『不思議の国のアリス』を購入した。</sentence>
+<sentence>使ってみてあらためて、つくり手の趣味や理想、勇気や愛情といったものが<ruby rubyText="おう">横</ruby><ruby rubyText="いつ">溢</ruby>していることに驚いた。</sentence>
+<sentence>あたかも新しい出版社を創立したのだとでもいいたげな、<ruby rubyText="はつ">溌</ruby><ruby rubyText="らつ">剌</ruby>とした気分とこだわり、そしてエネルギーがある。</sentence>
+<sentence>マッキントッシュの新鮮さとあいまって、エキスパンドブックこそ電子出版の未来を切り拓く形だと感じた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このソフトを、ぜひ日本で普及させたい。</sentence>
+<sentence>当時、出版社に勤めていたわたしは、さっそくボイジャー社に提携を申し込むため、国際電話をかけた。</sentence>
+<sentence>しかし、スタイン氏とはなかなか連絡が取れなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　後年、ボイジャージャパンの社長である荻野正昭さんと会うたびに、その話が出た。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ちょうど僕が、アメリカのボイジャー社で事業提携の交渉をしているとき、『今、日本から電話がかかっているよ』と言われたんだ。</sentence>
+<sentence type="quasi">あれが鈴木さんだったんだね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　わたしは、荻野さんに一歩遅れていたのである。</sentence>
+<sentence>荻野さんはその後、日本でボイジャージャパンを立ち上げることになる。</sentence>
+<sentence>そして、ようやくボイジャー社と連絡が取れて、わたしの前に登場したのは、あこがれのボブ・スタインではなく、萩野さんだったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ちょうどこのころが、日本の電子出版の幕開けだった。</sentence>
+<sentence>電子出版を独自に開発するだけのビジョンも実力もなかった日本は、まずその先進国であるアメリカの後を見よう見まねで追いかけようとしたのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、そこにはさまざまな問題があった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そもそもコンピュータは、アメリカで開発されたものである。</sentence>
+<sentence>それを日本で使えるようにするためには、アルファベットを基準とした仕組みに、日本語を強引に詰め込む必要があった。</sentence>
+<sentence>しかし、英語のアルファベットが二六文字であるのに対し、わたしたちは通常、一万二〇〇〇もの文字を使っている。</sentence>
+<sentence>いや、これは、辞典『広辞苑』に使われている文字の種類の数で、実際には六万種とも、八万種ともいう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　現在、日本のパソコンには、日本工業規格（ＪＩＳ）の第一水準＋第二水準に指定されたおよそ六五<sampling type="end" />〇〇文字が搭載されているが、この数は『広辞苑』を表示するために必要な文字種の、ほぼ半数にしかならない。</sentence>
+</paragraph>
+</article>
+</sample>

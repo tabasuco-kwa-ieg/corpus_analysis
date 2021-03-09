@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf6_00009" version="1.0" type="fixedLength">
+<article articleID="LBf6_00009_F001">
+<list>
+<listItem>
+<sentence type="quasi"><sentence>（根<sampling type="start" />詰まりを起こしている。</sentence>
+<sentence>このままでは水や肥料を吸収できないで、やがて株は枯れてしまいます。）</sentence>
+</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・灌水してもすぐに吸い込まない。</sentence>
+<sentence type="quasi">（長い間植え替えを行っていないので用土が固くしまっており、根も鉢中に回って水排けが悪くなっている。）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　観葉植物に限らず鉢植えにされた植物は、鉢の用土の中でしか根を張ることができません。</sentence>
+<sentence>鉢の中いっぱいに根が回ってしまうと、水分や肥料分を吸収できないため、根腐れを起こしたり栄養切れになったりして、生育が悪くなりやがては枯れてしまうのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">ｂ</enclosedCharacter>　植え替えの時期</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　＝熱帯、亜熱帯原産の種類が多い観葉植物は、気温の低い時期の植え替えは危険です。</sentence>
+<sentence>少なくとも最低気温が１０〜１５度Ｃを超える日が数日続いた頃から始めましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最も適しているのは６〜７月中旬までで、真夏はできるだけ避けます。</sentence>
+<sentence>秋も可能ですが１０月になってからでは、根が十分活着しないうちに気温が下がってしまうので植え替えは９月中に行います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">ｃ</enclosedCharacter>　植え替えの用土</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　＝特にこれを使用しなければならないということはありませんが、水排けがよく、しかもある程度保水力のある用土を使用します。</sentence>
+<sentence>そのような土のことを団粒構造の土と呼ばれ、粘土のようにべたつくことはありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　畑の土も粒子が細かすぎて鉢植えには不向きです。</sentence>
+<sentence>観葉植物の用土としていろいろの材料（パーライトやバーミキュライト、ピートモス等々）をミックスしたものが市販されていますが、それほど、神経質になることはないと私は考えています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般的には赤玉土と腐葉土かピートモスを混合したものを使い、元肥として緩効性の肥料を加えてやれば十分です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">ｄ</enclosedCharacter>　植え替えの手順</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>鉢から株を抜き出す＝鉢底から根が出ていたらハサミで切り落とし、鉢の縁をトントンたたけば抜けやすくなります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>古い土を１／３〜１／２程度落とす＝枯れた根や茎、葉を取り除き、長く伸びすぎた根も切り詰めます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>同時に株分けを＝株が込みすぎている場合は、同時に株分けを行いますが、あまり細かく分けない方が後の生育がよくなります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>植え替える鉢を用意し、鉢底にゴロ土か、素焼き鉢のかけを入れる＝大きく生長させたい場合には、一回り大きい鉢を、あまり大きくしたくない時はそのままの鉢を使用します。</sentence>
+<sentence>ゴロ土や鉢片を敷くのは排水をよくするためで、鉢の１／５程度まで入れます。</sentence>
+<sentence>穴底にナメクジ防止用のネット片を置くのを忘れないように。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>株を鉢の中心に置いて周りから用土を入れ込む＝株を少し浮かし気味に持ち上げるのがこつで、根の下にも土が入るように植えてやります。</sentence>
+<sentence>終了したら床で鉢底を数回軽くたたくと、隙間<sampling type="end" />なく土が入るものです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

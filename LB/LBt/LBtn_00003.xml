@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBtn_00003" version="1.0" type="fixedLength">
+<article articleID="LBtn_00003_F001">
+<abstract>
+<sentence>ここでは、Ｍａｃ　ＯＳ　Ｘで利用できるプリンタの条件を簡単にまとめておき<sampling type="start" />ます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">●Ｍａｃ　ＯＳ　Ｘのドライバが提供されている</sentence>
+<br type="automatic_original" />
+<sentence>古い機種ではＭａｃ　ＯＳ　Ｘで利用できるドライバが提供されていないことがあります。</sentence>
+<sentence>逆に、比較的新しいプリンタ（おおよそ２０００年以降に発売された機種）であれば、Ｍａｃ　ＯＳ　Ｘがあらかじめドライバを用意しているものもあり、接続するだけで利用できることもあります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●Ｍａｃｉｎｔｏｓｈ側で接続可能なポートが存在する</sentence>
+<br type="automatic_original" />
+<sentence>ＵＳＢ接続インターフェイスを持つプリンタであれば問題ありません。</sentence>
+<sentence>Ｍａｃｉｎｔｏｓｈ側のＵＳＢインターフェイスが、ＵＳＢ１．１の低速なポートであっても、印刷そのものにほとんど影響はありません。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＯＬＵＭＮ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｍａｃ　ＯＳ　Ｘの印刷方式</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>Ｍａｃ　ＯＳ　Ｘの印刷機能には、Ｌｉｎｕｘの多くのディストリビューションで用いられているＣＵＰＳ（Ｃｏｍｍｏｎ　Ｕｎｉｘ　Ｐｒｉｎｔｉｎｇ　Ｓｙｓｔｅｍ）と呼ばれる仕組みが採用されています。</sentence>
+<sentence>従来、ＬｉｎｕｘなどＵＮＩＸ系ＯＳで用いられてきたＬＰＲなどと比べると、Ｗｅｂページと同じＨＴＴＰで印刷命令が送れるＩＰＰ（Ｉｎｔｅｒｎｅｔ　Ｐｒｉｎｔｉｎｇ　Ｐｒｏｔｏｃｏｌ）に対応している他、ＰＰＤ（ＰｏｓｔＳｃｒｉｐｔ　Ｐｒｉｎｔｅｒ　Ｄｅｓｃｒｉｐｔｉｏｎ）ファイルに対応し、Ｗｅｂブラウザからの設定ができるなど、メリットがたくさんあります。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence><quote>「ｈｔｔｐ：／／１２７．０．０．１：６３１／ｐｒｉｎｔｅｒｓ」</quote>というＵＲＬをＷｅｂブラウザで開くと、インストールされているプリンタの一覧が表示される。</sentence>
+<sentence>ここからコントロールすることも可能だ。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>テクニック！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＴＥＣＨＮＩＱＵＥ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">３１１　Ｍａｃ　ＯＳ　Ｘでプリンタを接続する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>ここでは家庭用プリンタを利用する場合の、ＵＳＢインターフェイスへの接続方法について紹介します。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<sentence>現在入手可能なプリンタの多くは、ＵＳＢ接続インターフェイスを備えています。</sentence>
+<sentence>Ｍａｃｉｎｔｏｓｈとの接続もＵＳＢケーブルを接続するだけで済みます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<sentence>プリンタのＵＳＢインターフェイスにＵＳＢケーブルを差し込みます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<sentence>ＭａｃｉｎｔｏｓｈのＵＳＢインターフェイスにＵＳＢケーブルを差し込みます。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">４</sentence>
+<br type="automatic_original" />
+<sentence>Ｍａｃ　ＯＳ　Ｘが標準でドライバを用意しているプリンタであれば、接続するだけで印刷が可能になります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>テクニック！</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＴＥＣＨＮＩＱＵＥ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">３１２　最新ドライバを入手する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>Ｍａｃ　ＯＳ　Ｘに対応しているプリンタであれば、プリンタメーカーのホームページから最新のドライバファイルをダウンロードすることができます。</sentence>
+<sentence>ここでは、キヤノン社のＷｅｂサイトから最新のプリンタドライバファイルをダウンロードします。</sentence>
+<br type="automatic_original" />
+</abstract>
+<list>
+<listItem>
+<sentence type="quasi">１<sampling type="end" /></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

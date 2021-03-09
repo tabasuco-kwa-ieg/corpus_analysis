@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00004" version="1.0" type="fixedLength">
+<article articleID="LBl4_00004_F001">
+<sentence>さらに，図３．２０や関係式（３．１１）（３．１２）をつかえば，例えば，火砕流中の火砕物の体積分率，そのときの温度などが求めら<sampling type="start" />れる．</sentence>
+<sentence>実際に数値を代入して，実感をつかむのは，演習問題として読者にゆだねる．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>表３．５　噴火様式によってできる陸上火山噴出物の性質の比較（中村ほか，１９６３を一部修正）．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図３．１９　伊豆大島における降下火砕物の地層断面（撮影＝白尾元理氏）．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>図３．２０　火砕物と火山ガスと空気の混合比による混合物の密度変化．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｂ）噴煙と火砕流のダイナミックス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　噴火様式や運搬様式と堆積物の性質を対照させるという実用的な問題からひとまず離れて，噴煙のダイナミックスについて最も基本的な問題，つまり，<quote>「噴煙の規模を決めているものはなにか」</quote>と<quote>「火砕流の発生条件はなにか」</quote>という２つの問題について考える．</sentence>
+<sentence>まず，図３．２１に目を移して，セントヘレンズ山における１９８０年のプリニー式噴火の噴煙の写真ながめることからはじめよう．</sentence>
+<sentence>実は，この写真には地球上の火山噴煙のダイナミックスを理解する上で最も本質的事項が含まれている．</sentence>
+<sentence>それは，噴煙に<quote>「もくもく」</quote>とした凹凸が見られることである．</sentence>
+<sentence>このことを頭にいれて，上昇しつつある噴煙のダイナミックスを順次追ってゆくことにしよう．</sentence>
+<sentence>火道の中でマグマは破砕し，火砕物とガスが均質に混合した噴霧流として膨張し加速され，数百ｍ／ｓの速度で噴出する．</sentence>
+<sentence>先にも述べたように，この時点で火砕物＋火山ガスの混合物の密度は空気の密度のおよそ１０倍程度大きい値をもつ．</sentence>
+<sentence>したがって，このままでは，火口から吹き上げられた噴煙はまたたく間に上昇速度を失って，公園の<quote>「噴水」</quote>のように地表に下降してしまうはずである．</sentence>
+<sentence>ここで写真の<quote>「もくもく」</quote>が重要な役割をはたす．</sentence>
+<sentence>この<quote>「もくもく」</quote>した形は，実は，噴煙が乱流状態で上昇する際に周囲の空気との境界でできた渦のひとつひとつを反映している．</sentence>
+<sentence>噴煙はこの渦によって周囲の空気を取り込む．</sentence>
+<sentence>取り込まれた空気は火砕物からの熱によって瞬時に温められ，膨張し，噴煙全体の密度が上昇とともに急速に減少する．</sentence>
+<sentence>もし，十分な空気を取り込み，噴煙が大気の密度より小さくなれば，噴煙は浮力によって大気中を上昇する．</sentence>
+<sentence>周囲の大気の密度は高度とともに減少するので，上昇した噴煙は高層大気で再び周囲の大気と同じ密度となる．</sentence>
+<sentence>ここで噴煙はふたたび上向きの運動量を失い，水平方向に広がる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上の議論をまとめると，噴煙は大きくみて３つの部分に分かれることがわかる．</sentence>
+<sentence>下から，ガス推進（ｇａｓ‐ｔｈｒｕｓｔ）域，対流（ｃｏｎｖｅｃｔｉｖｅ）域，かさ型（ｕｍｂｒｅｌｌａ）域と呼ばれている（図３．２２）．</sentence>
+<sentence>ガス推進域は，噴出時の運動量のため重力に逆らって乱流状態で上昇している領域である．</sentence>
+<sentence>ここでは，流れのもつ運動量に対する浮力<sampling type="end" />の影響が小さい．</sentence>
+</paragraph>
+</article>
+</sample>

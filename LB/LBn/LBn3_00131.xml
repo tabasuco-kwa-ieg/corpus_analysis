@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn3_00131" version="1.0" type="fixedLength">
+<article articleID="LBn3_00131_F001">
+<paragraph>
+<sentence>　遺留分は，被相続人が相続人に最低相続させなければならない<sampling type="start" />財産です。</sentence>
+<sentence>被相続人は，遺言やあるいは贈与などによって，この遺留分を侵すことができません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　被相続人が，相続人の遺留分を侵した場合，どうなるでしょうか。</sentence>
+<sentence>たとえば，妻と子１人ある父が，死亡する半年前に妾に３，０００万円贈与し，死亡して相続が開始したときには，１，０００万円の相続財産しかなかったとします。</sentence>
+<sentence>相続財産は，３，０００万円プラス１，０００万円で，４，０００万円です。</sentence>
+<sentence>妻の法定相続分は２分の１の２，０００万円，同じく子も２分の１で，２，０００万円です。</sentence>
+<sentence>すると，妻と子の遺留分は，各々２分の１ですから，１，０００万円と１，０００万円，計２，０００万円です。</sentence>
+<sentence>被相続人である父が，妾に３，０００万円贈与したことによって妻の１，０００万円，子の１，０００万円，計２，０００万円の遺留分を侵害したことになります。</sentence>
+<sentence>そこで，妻と子は，妾に対して，侵害された２，０００万円を取り返すことができます。</sentence>
+<sentence>これを，<quote>「遺留分の<ruby rubyText="げんさい">減殺</ruby>請求」</quote>といいます。</sentence>
+<sentence>妻と子は，遺留分権利者として，減殺請求権をもっております（民１０３１条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし，減殺請求権は，減殺するべき贈与または遺贈のあったことを知ったときから１年，または相続の開始から１０年経過しますと，時効によって消滅します（民１０４２条）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">参考法令</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆民法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">［贈与・遺贈の規定の準用］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">第４１条</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　生前処分ヲ以テ寄附行為ヲ為ストキハ贈与ニ関スル規定ヲ準用ス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　遺言ヲ以テ寄附行為ヲ為ストキハ遺贈ニ関スル規定ヲ準用ス</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［認知の方式］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">第７８１条</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　認知は，戸籍法の定めるところにより届け出ることによってこれをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　認知は，遺言によっても，これをすることができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［未成年者の指定後見人］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">第８３９条</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　未成年者に対して最後に親権を行う者は，遺言で，後見人を指定することができる。</sentence>
+<sentence>但し，管理権を有しない者は，この限りでない。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　親権を行う父母の一方が管理権を有しないときは，他の一方は，前項の規定によつて後見人の指定をすることができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［指定後見監督人］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>第８４８条　後見人を指定することができる者は，遺言で，後見監督人を指定することができる。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［遺言による推定相続人の廃除］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>第８９３条　被相続人が遺言で推定相続人を廃除する意思を表示したときは，遺言執行者は，その遺言が効力を生じた後，遅滞なく家庭裁判所に廃除の請求をしなければならない。</sentence>
+<sentence>この場合において，廃除は，被相続人の死亡の時にさかのぼつてその効力を生ずる。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［廃除の取消］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">第８９４条</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　被相続人は，何時でも，推定相続人の廃除の取消を家庭裁判所に請求することができる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　前条の規定は，廃除の取消にこれを準用する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">［法定相続分］</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence>第９００条　同順位の相続人が数人あるときは，その相続分<sampling type="end" />は，左の規定に従う。</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+</article>
+</sample>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo4_00019" version="1.0" type="fixedLength">
+<article articleID="LBo4_00019_F001">
+<sentence>“熱い、寒い（冷える）、乾燥する、湿気がたまる、風が吹<sampling type="start" />いているよう”などのように、自然現象になぞらえて病気の状態を把握し説明する方法があります。</sentence>
+<sentence>これは、ある病気の結果、二次的にもたらされた体の変化<noteMarker text="★" />であり、虚実両証ともに出現してくるのです。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>★内生五変（ないせいごへん）といい、ある病気の結果出現した体内の変化という意味。</sentence>
+<sentence>熱証と寒証が最も重要。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">病期：</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>東洋医学では、発病から回復あるいは死亡までの経過を想定しており、診察時点の状態がこの流れのなかのどこにあるのか考えようとします。</sentence>
+<sentence>とくにカゼなどの発熱性の病気では病態の変化が速く、この病期をはっきりさせることが治療方法を決める上で非常に重要となります。</sentence>
+<sentence>そこで、変化の原則を見てみましょう。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　第一の原則は、表証から裏証に移っていくというもの。</sentence>
+<sentence>発病初期は悪寒や関節痛などの体表面の症状が出現し、時間とともに咳や食欲不振など体の内側の症状が出現してくるものです。</sentence>
+<sentence>発熱性疾患などに典型的に見られます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二の原則は、発病時は邪が強い実証であることが多く、時間がたつにつれ虚証になるというものです。</sentence>
+<sentence>これは慢性化するにつれ生命力は低下していくというきわめて現実的な考えであり、病気の流れの基本ともいえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第三の原則は、病気は肺や脾（＝胃腸）から始まり、重症になると肝や腎に移っていくというものです。</sentence>
+<sentence>これは、腎は生命力を肝は血（栄養物）をそれぞれ貯蔵すると考えられているからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●証と八綱分類<noteMarker text="★" /></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>★八綱（はっこう）　表裏、虚実、寒熱、陰陽の八つの重要な病態をいう。</sentence>
+<sentence>綱とは重要という意味。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>Ｑ１３　西洋医学の症候群（Ｓｙｎｄｒｏｍｅ・シンドローム）と証とは同じようなものですか。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　症候群の症候とは症状のことで、原因は不明だがいくつかの同じような症状の組み合わせが出現する病気をいいます。</sentence>
+<sentence>めまい・耳鳴り・難聴が急に出現する原因不明の病気を“メニエール症候群”というのがその例です。</sentence>
+<sentence>つまり、症候群とはある症状の組み合わせで決まる病気といえ、ここから東洋医学の証との類似性を指摘する書物もあります。</sentence>
+<sentence>ですがこれらは以下のように異なる概念です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず症候群は原因不明ですから、原因がはっきりするまでの一時的な仮の病名であり、根本的な治療方法も不明なものが多いのです。</sentence>
+<sentence>これに対し証は、原因も含めて最終的に病気を解明したもので、それに従って治療方針も組み立てられていくものです。</sentence>
+<sentence>また症候群や西洋医学の病名は肺炎・糖尿病のように確定すれば変化しません。</sentence>
+<sentence>これに対し、前述のように証は変化することが前提になっているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence>Ｑ１４　証の実際例を挙げてみてください。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　実際の病気の例を見ながら、証を挙げてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>［症状］急<sampling type="end" />に寒くなった１０月、喉が痛み、強い寒気と関節痛が出現したＡさん。</sentence>
+</article>
+</sample>

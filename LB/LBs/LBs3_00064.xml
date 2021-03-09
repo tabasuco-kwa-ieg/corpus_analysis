@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00064" version="1.0" type="fixedLength">
+<article articleID="LBs3_00064_F001">
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">４</enclosedCharacter>　登記申請書に、その家屋の所在地の市町村長等がこれらの家屋<sampling type="start" />に該当する旨を証明した書類を添付すること</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">■　登録免許税が非課税となるもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　住宅金融公庫の融資にかかる抵当権の設定登記については、登録免許税は非課税となっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">マイホーム購入の税金<enclosedCharacter description="●">３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">マイホームを取得したときの<quote>「不動産取得税」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter>得</enclosedCharacter>ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●　要件を満たしたマイホームには特例がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●　一定の住宅用土地には税額控除の特例がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">■　不動産取得税は登記の有無に関係なくかかってくる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　不動産取得税は、土地や建物などの不動産を取得したときにかかる税金で、取得権の取得に関する登記の有無にかかわらず課税されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">■　課税標準と税率は</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　不動産取得税の課税標準は<quote>「固定資産税評価額」</quote>となっていますが、平成２１年３月３１日までに取得した土地については、<quote>「固定資産税評価額を２分の１した金額」</quote>になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして、住宅および住宅用地に対する不動産取得税の税率は、平成２１年３月３１日までの取得については３％となっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◎土地について税額が軽減される場合◎</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◎不動産取得税の軽減が受けられる住宅かどうかのフローチャート◎</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">■　マイホームには特例がある</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前ページのフローチャート図にある要件を満たした新築特例適用住宅や中古特例適用住宅（家屋）を取得した場合には、固定資産税評価額から一定の控除額を控除した残額の３％が不動産取得税になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、２１ページ表の要件を満たす場合には、その住宅用土地の不動産取得税は、<quote>「土地の固定資産税評価額×１／２<noteMarker text="＊" />×３％」</quote>で計算された金額から、つぎの<enclosedCharacter description="○">１</enclosedCharacter>と<enclosedCharacter description="○">２</enclosedCharacter>のいずれか多い金額を控除した金額が不動産取得税となる“税額控除の特例”があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊　―の部分は平成２１年３月３１日までです。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　４万５，０００円</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　なお、特別控除や税額控除を受ける場合には、取得から一定の期間内に特例や減額を受けるための申告書の提出を必要としている自治体もあります（下表の首都圏の例を参照）。</sentence>
+<sentence>事前に各自治体に問い合わせてみてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi">◎不動産取得税の特例を受ける場合の申告書の提出期限◎</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">東京都　条例により、取得の日から６０日以内</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（ただし、６０日を超えていても、申告があれば弾力的に対応）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">神奈川県　条例により、取得の日から１０日以内</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（ただし、１０日を超えていても、申告があれば弾力的に対応）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">千葉県　期限は特に定められていない</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">埼玉県　期限は特に定められていない</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">マイホーム購入の税金<enclosedCharacter description="●">４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><quote>「住宅ローン控除」</quote>が受けられる条件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter>得</enclosedCharacter>ＰＯＩＮＴ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>●　償還期間が１０年以上の借入金が対象。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●　控除対象となる家屋の床面積は５０ｍ<superScript>２</superScript>以上。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">■　住宅ローン控除の適用要件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「住宅ローン控除」</quote>（住宅借入金等特別控除）とは、住宅金融公庫や銀行などの金融機関で住<sampling type="end" />宅ローンを組み、マイホームを取得し居住している人に、毎年、年末の借入金残高に応じて所得税を軽減しようという制度です。</sentence>
+</paragraph>
+</article>
+</sample>

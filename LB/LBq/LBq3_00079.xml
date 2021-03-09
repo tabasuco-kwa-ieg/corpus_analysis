@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00079" version="1.0" type="fixedLength">
+<article articleID="LBq3_00079_F001">
+<noteBody>
+<sentence>貨幣量と物価の間の関係を考えるときには、両方の因果関係がある可能性があるのですが、それぞれの個々の現象で因果関係がどういう方向にあるのかを、つねに<sampling type="start" />意識する必要があります。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">財政制度とビルトイン・スタビライザー</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　財政政策というと、景気状況に対応して、政府が能動的に対応するというイメージが強いようですが、それだけが財政政策の機能ではありません。</sentence>
+<sentence>実は、政府が積極的に対応しなくても、財政制度そのものが景気を安定化させる機能を持ちます。</sentence>
+<sentence>これを、財政のビルトイン・スタビライザー（自動安定化装置）機能といいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ビルトイン・スタビライザー機能とは、景気が悪化してきたときには、自動的に減税や財政支出拡大が起こり景気を刺激し、逆に景気が過熱してきたときには、自動的に増税や支出削減が起こるような仕組みが、財政制度のなかに備わっていることを指しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　財政制度のなかに組み込まれているビルトイン・スタビライザー機能には、多様なものがあります。</sentence>
+<sentence>そのもっとも代表的なケースとして、個人所得税における累進課税について簡単に説明しておきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　多くの国の所得税は、ほとんどの場合、累進的構造を持っています。</sentence>
+<sentence>図６‐３は、累進税の形態を図で示したものです（日本の所得税の体系も、おおむねこのような形をとります）。</sentence>
+<sentence>縦軸には所得税、横軸には課税対象となる所得の額がとられています。</sentence>
+<sentence>この図で限界税率は、折れ線の各線部分の傾きで表わされています。</sentence>
+<sentence>この傾きが次第に大きくなっていますので、所得が高くなるほど、限界税率も高くなっています<noteMarker text="―５" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>５―累進度が下がる傾向にある主要国の所得税　近年、各国の所得税の累進度は下がる傾向、つまりフラット化する傾向にあります。</sentence>
+<sentence>日本の場合でいえば、かつては国税と地方税を合わせて高額所得者向けの最高税率は７５％であったものが、現在は５０％にまで下げられています。</sentence>
+<sentence>アメリカなどでは、もっと大胆なフラット化が行なわれており、最高税率は低くなっています。</sentence>
+<sentence>こうした傾向が見られるのは、あまりに極端な累進度で最高税率を高くすると、高い所得を生み出し経済活動の拡大に貢献する高額所得者の勤労意欲を挫いたり、あるいは所得税率の低い海外への逃避を促すということになりかねないと考えるからでしょう。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　この図に示したような税体系では、平均税率も所得とともに増加しています。</sentence>
+<sentence>平均税率とは、総税額を所得額で割ったもので、総所得額のうちどの程度の割合が税としてとられるかを表わしています。</sentence>
+<sentence>図のうえで、平均税率が所得とともに高くなっていることを確認してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　累進的な所得税は、課税後の可処分所得を平等にする働きがありますから、所得分配の平等化の観点から、多くの国で支持を受けています。</sentence>
+<sentence>ただ、累進課税はマクロ的な観点からも<sampling type="end" />重要な役割を演じており、それが自動安定化装置（ビルトイン・スタビライザー）としての役割です。</sentence>
+</paragraph>
+</article>
+</sample>

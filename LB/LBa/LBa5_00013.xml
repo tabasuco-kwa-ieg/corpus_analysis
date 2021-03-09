@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa5_00013" version="1.0" type="fixedLength">
+<article articleID="LBa5_00013_F001">
+<paragraph>
+<sentence>　エンジニアリング事業は経営の有力な一翼として期待されているが、以下では最近の鉄鋼大手五社におけるエンジニアリング事業の規模、また、全<sampling type="start" />売上高に占める比重について概観する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大手五社のエンジニアリング事業分野は<enclosedCharacter description="○">１</enclosedCharacter>製鉄エンジニアリングおよび鉄鋼プラント、<enclosedCharacter description="○">２</enclosedCharacter>パイプライン、海洋構造物などエネルギー関連エンジニアリング、<enclosedCharacter description="○">３</enclosedCharacter>鉄鋼構造物、<enclosedCharacter description="○">４</enclosedCharacter>その他、と極めて広範である。</sentence>
+<sentence>事業活動を理解するための一助として、これら事業分野の概要を述べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>製鉄エンジニアリングおよび鉄鋼プラント</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">●製鉄エンジニアリング</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　製鉄所建設のフィージビリティースタディーから建設・操業指導に至るまでのいわゆる技術協力を指す。</sentence>
+<sentence>製鉄技術開発あるいは操業技術・製鉄所建設技術の蓄積を基盤としたコンサルタント・エンジニアリング能力により実施可能となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">●鉄鋼プラント</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　製鉄に関する設備開発・設計製作・据え付けにおけるプラントエンジニアリング能力に基づくプラントの供給・建設。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>パイプライン、海洋構造物、その他エネルギー関連プロジェクト</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　建築・土木エンジニアリング能力と鋼材利用・加工技術をベースとしたエネルギー関連資源開発・生産ならびに貯蔵・輸送システムに関するプロジェクト。</sentence>
+<sentence>石油・ガスパイプライン、海洋石油生産施設などがこれにあたる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>鉄鋼構造物</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　鋼材加工技術と建築エンジニアリング能力を基盤とした鋼構造物の設計・加工・施工に関するプロジェクト。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>その他（都市・社会開発プロジェクトなど）</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　鉄鋼業の各種基盤技術の総合化と応用活用のもとに展開されつつある社会開発型のエンジニアリング・プロジェクト。</sentence>
+<sentence>ゴミ処理プラント、上下水道、都市交通システム、高層住宅団地、都市再開発、セメント・肥料プラントなどを含む。</sentence>
+<sentence>最近の特徴として、この分野の活動がいよいよすそ野を広げていることを指摘できる。</sentence>
+<sentence>例えば、生活・余暇関連サービス部門として八七年六月に新日鉄が設置したライフサービス事業部が八九年六月にはエンジニアリング事業本部に統合された。</sentence>
+<sentence>内需拡大、アメニティーの向上などの時流からも、この分野はますます幅広く展開するだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">九、〇〇〇億円を超えた売上高</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このように広範な事業展開をみせるエンジニアリング事業の事業規模はどうであろうか。</sentence>
+<sentence>表３‐１は鉄鋼大手五社のエンジニアリング事業について一九八四〜八八年度の推移を示している。</sentence>
+<sentence>八六年度まで八、〇〇〇億円前後であった売上高は、八七年度には六、八一二億円と前年度から一、〇〇〇億円以上の落ち込みとなった。</sentence>
+<sentence>これはそれまでの六年間で最低である。</sentence>
+<sentence>エンジニアリング事業は受注から売上計上まで数カ月あるいは数年かかるという、いわゆる足の長い事業である。</sentence>
+<sentence>前年までの受注額の減少傾向は八七年度に売上高が減少することを<sampling type="end" />予想させていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

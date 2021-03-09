@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc4_00003" version="1.0" type="fixedLength">
+<article articleID="LBc4_00003_F001">
+<sentence type="quasi">このとき，開区<sampling type="start" />間（−１／２，１／２）の逆像は，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となり，開集合ではない．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６０</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６１</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　３番目は，この２つとは少し変わった例を考えてみよう．</sentence>
+<sentence type="quasi">いま，Ｃ［０，１］からＲへの写像Φを，ｆ∈Ｃ［０，１］が，区間［０，１］でつねにｆ（ｔ）≧０，またはつねにｆ（ｔ）≦０のときには</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>とおく．</sentence>
+<sentence type="quasi">そうでないｆに対しては，すなわちｆのグラフがｘ軸を横切るときには</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>とおく．</sentence>
+<sentence type="quasi">このとき，Φは，多くの場所で不連続となるが，たとえば</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>という関数ｆ<subScript>０</subScript>のところで不連続となる．</sentence>
+<sentence>不連続となる状況は図６１を見るとわかる．</sentence>
+<sentence><rejectedSpan type="formula"></rejectedSpan>であるが，Ｖ<subScript>ε</subScript>（ｆ<subScript>０</subScript>）の中にあるｈに対しては，Φ（ｈ）＝０となっている．</sentence>
+<sentence>ｈのような関数を通って，ｆ<subScript>０</subScript>に近づくことができるが，このとき，Φ（ｈ）＝０なのに，<rejectedSpan type="formula"></rejectedSpan>となるのだから，Φはｆ<subScript>０</subScript>で不連続である．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　そこで<rejectedSpan type="formula"></rejectedSpan>に対して，Ｒの開区間<rejectedSpan type="formula"></rejectedSpan>のΦによる逆像<rejectedSpan type="formula"></rejectedSpan>を考えてみる．</sentence>
+<sentence>この逆像の中にはｆ<subScript>０</subScript>は含まれているが，ｆ<subScript>０</subScript>のどんな小さい近傍の中にもある，ｈのような関数は含まれていない．</sentence>
+<sentence>したがって<rejectedSpan type="formula"></rejectedSpan>の中で，ｆ<subScript>０</subScript>は内点でなくなり，この集合はＣ［０，１］の開集合ではないことがわかる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第１６講</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">同相写像</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<contents>
+<titleBlock>
+<title>
+<sentence type="quasi">テーマ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">◆　距離空間ＸからＹの上への１対１連続写像φ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">◆　同相写像：φと逆写像φ<superScript>−１</superScript>が連続</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>◆　同相写像で距離は保たれない．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">◆　同相写像で保たれるもの：閉包，開集合，閉集合，近傍</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">◆　位相的性質：同相写像によって保たれる性質</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</contents>
+<titleBlock>
+<title>
+<sentence type="quasi">逆写像</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　集合ＸからＹの上への写像φが１対１となっているときは，逆写像φ<superScript>−１</superScript>を考えることができる．</sentence>
+<sentence>このときは，φを通して，ＸとＹは，完全に１対１に対応し合っているから，集合としては，本質的には同じものと考えてもよい．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同様の発想に立てば，距離空間（Ｘ，ｄ），（Ｙ，ｄ´）が与えられたとき，ＸからＹの上への，１対１の連続写像φがあって，φ<superScript>−１</superScript>もまた連続となっているような状況を調べてみることは，大切なことになるだろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず，その前に，φが連続ならば，逆写像φ<superScript>−１</superScript>は連続となっているのかどうかを調べておこう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<sentence>一般に，φが連続であっても，逆写像φ<superScript>−１</superScript>は連続とは限らない．</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<paragraph>
+<sentence>　実際，φ<superScript>−１</superScript>が連続とならない例を１つ与えておこう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｘとしては，３次元空間の中で，ｘｙ−座標平面のｘ軸の正の方のつくる半直線を，９０°回して平面に垂直に立てたものを考える．</sentence>
+<sentence>空間にあるふつうの距離を，ここに制限して考えることにより，Ｘは距離空間となる．</sentence>
+<sentence>Ｙとしては，ｘｙ−座標平面をとる．</sentence>
+<sentence>ＸからＹへの写像φとしては，垂直に立てた半直線を，もとの場所に‘寝かす’という写像をとる．</sentence>
+<sentence>したがって，それ以外の点では，φは恒等写像である．</sentence>
+<sentence>φは，ＸからＹの上への１対１の連続な写像であるが，φ<superScript>−１</superScript>は連続ではない．</sentence>
+<sentence>図６２で，点列Ｐ<subScript>ｎ</subScript>（ｎ＝１，２，…）は，ｘ軸上の点Ｐに近づくが，φ<superScript>−１</superScript>（Ｐ<subScript>ｎ</subScript>）（ｎ＝１，２，…）は，どこにも近づかない．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図６２</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">同相写像</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このよう<sampling type="end" />な例があることを知った上で，次の定義をおく．</sentence>
+</paragraph>
+</article>
+</sample>

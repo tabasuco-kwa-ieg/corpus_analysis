@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00007" version="1.0" type="fixedLength">
+<article articleID="LBh4_00007_F001">
+<abstract>
+<list>
+<listItem>
+<sentence type="quasi">□体重が（身長−１００）×０．９の１．２倍以上ある→高血圧・動脈硬化・心臓病・糖<sampling type="start" />尿病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□喫煙の習慣がある→ガン・高血圧・動脈硬化・心臓病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□日頃から運動不足→動脈硬化・高血圧・糖尿病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□手足や顔などがむくむことがある→心臓病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□階段を上がったくらいで息切れがして、脈がなかなか戻らない→心臓病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□夜寝ていても水を飲みに起きることがよくある→糖尿病</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□小魚や牛乳はあまりとらない→骨粗鬆症</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□体つきが華奢で、閉経を迎えている→骨粗鬆症</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□腰や関節が痛む→骨粗鬆症</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□近くの物が見えにくくなった→老眼</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□肩こりや頭痛がある→高血圧・老眼</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">□物を見るとき目がぼうっと霞む→老眼・糖尿病</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">死因の第一位を占める　（ガン）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１０年以上の長期にわたって、死因のトップの座を独占しているガン。</sentence>
+<sentence>子宮ガン、乳ガン、卵巣ガンなど女性に多いガンについてはすでにお話しましたが、胃ガン、肺ガン、大腸ガン、肝臓ガンなどもこれからふえてくる年代です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ガンについてはまだ分かっていないこともありますが、誰でも細胞一つ一つの中に眠った状態のガンの遺伝子を持っているといわれています。</sentence>
+<sentence>ガン細胞が目覚めて育ち、検査で初期ガンと認められるような一人前のガンになるまでには１０年、２０年という長い年月が必要です。</sentence>
+<sentence>ちょうどその時期に入ってくるというわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ガンを目覚めさせたりガンを育てたりする働きがあるのではないかと疑われるものは、汚染された大気や水、紫外線、ストレスなど私たちを取り巻く環境の中に数限りなくありますが、その中でも、とくに直に口から入る食物のもたらす影響は大きいといえます。</sentence>
+<sentence>ガン予防には添加物の多い食品はなるべく避け、ビタミンＡやＣの豊富な緑黄色野菜をたくさんとって一日３０品目の食品をバランスよくとるようにするとよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　またタバコは百害あって一利なしといわれますが、子宮ガン、乳ガン、肺ガンなどあらゆるガンの促進因子にもなります。</sentence>
+<sentence>本人が吸わなくても、タバコを吸う人の近くにいるだけでその煙を無理やり吸わされていることになりますので注意してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ガンにかからないような生活習慣を心掛ける一方で、定期的なガン検診を受けることもたいせつです。</sentence>
+<sentence>胃ガン、大腸ガンなどは子宮ガンや乳ガン検診とともに自治体や職場検診、あるいは人間ドックなどで行なっているところが多いので、チャンスは上手に利用して検査を受けるようにしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">更年期症状と紛らわしい　（高血圧）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　更年期になると、高血圧になる人がふえてきます。</sentence>
+<sentence>これは年齢的なこともありますが、エストロゲンの分泌低下にともなって血中のコレステロールがふえて動脈硬化が起こりやすいこと、ストレスがふえること、肥満がちになることなどさまざまな高血<sampling type="end" />圧の促進因子が強く出てくることが関係してきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

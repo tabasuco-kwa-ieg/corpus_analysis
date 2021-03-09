@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00016" version="1.0" type="fixedLength">
+<article articleID="LBd5_00016_F001">
+<paragraph>
+<sentence>図に示すように，商用電源周波数電流を電源装置により高周波交流電流に変換し，<sampling type="start" />円板状の磁力発生コイルに流し，なべを加熱します．</sentence>
+<sentence>ファンモータは電源装置の部品および磁力発生コイルを冷却するために設けられています．</sentence>
+<sentence>操作部は電源スイッチと火力調節器で，火力調節は弱でおよそ２００Ｗから，強でおよそ１２００Ｗまでの連続調節が可能です．</sentence>
+<sentence>磁力発生コイル中央部のマグネットとスイッチはなべが加熱できる適性な材質かどうかをマグネットの吸引により判断するため設けられています．</sentence>
+<sentence>トッププレートはグラスセラミックとよばれる高耐熱硬質セラミック板です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，電源装置には制御装置が設けられ，ナイフ，スプーンなどの小物負荷を加熱しないようにする小物発熱防止，空なべによる異常温度上昇を防止する温度過昇防止装置が付いています．</sentence>
+<sentence>なお，機種により天ぷら，保温などの温度調節機能の付いたもの，適正ななべを判断するためにマグネットを使わない方式のものもあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図７・１１　電磁誘導加熱調理器の構造図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〔３〕　電磁誘導加熱調理器の使用上の注意と特長</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　使用できるなべは，市販の鉄ほうろうなべ，鉄なべ（鉄フライパン，鉄板を含む），鋳鉄なべ，１８クロームステンレスなべなど磁石の吸着するなべです（マグネットを用いない方式のものは１８‐８ステンレスなべも使えます）．</sentence>
+<sentence>また，なべの底径が１２ｃｍ以下のもの，および底が球状あるいは足の付いたなべは加熱しないことがあります．</sentence>
+<sentence>なお，低周波方式のものは専用なべが必要です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　調理品目としてたいていのものは可能ですが，金網を使う魚焼きはできません．</sentence>
+<sentence>この調理器は炎がないため炎を使う調理はできません．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　消費電力が強でおよそ１２００Ｗなので，専用のコンセントにプラグを差し込むようにします．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この調理器の特長は，なべ自体が発熱するため，調理後トッププレートの上はほとんど熱くならず，炎を使わないため清潔で安全であるといえます．</sentence>
+<sentence>また，火力が細かく調節できるので，天ぷらあるいは長時間の煮込み，低温での調理など幅広く使えます．</sentence>
+<sentence>さらに，この調理器は熱効率が高い（約８０％）ため経済的であるといえます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７・５　電気なべ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〔１〕　電気なべの種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電気なべを大きく分けますと，自動式（センタタッチ式サーモスタットおよびプラグイン式サーモスタットの２種類があります）と非自動式に分けられます．</sentence>
+<sentence>図７・１２が自動式の一例です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに，料理がなべ底にこげ付かず，非常に使いやすく，手入れも簡単な，四ふっ素樹脂加工のものがあります．</sentence>
+<sentence>また，なべを着脱できるようにした加熱盤方式のものと，なべとヒータとが一体になったヒータ一体方式のものとがあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，小さい電力のとろ火で調理す<sampling type="end" />る煮まめなどの煮込み料理に適したスロークッカや，圧力をかけて調理する圧力式電気なべなどもあります．</sentence>
+</paragraph>
+</article>
+</sample>

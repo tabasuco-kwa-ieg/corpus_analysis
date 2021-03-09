@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBln_00009" version="1.0" type="fixedLength">
+<article articleID="LBln_00009_F001">
+<verse>
+<sentence type="verse"><sampling type="start" />あ　つばさに　ひかりをのせて<verseLine />ことりが　とんでいくよ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">お　しっぽに　ひかりを　むすびつけ<verseLine />子犬が　はしっていくよ<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">そうか<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ことりも子犬も　さかなも葉っぱも<verseLine />みんな　ひかりのなかを<verseLine />泳いでいるんだね<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<titleBlock>
+<title>
+<sentence type="quasi">ただいま練習ちゅう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「だいじょうぶかしら、ね、わたしの根っこ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　小川のなかで<ruby rubyText="みず">水</ruby><ruby rubyText="くさ">草</ruby>が、ひとりごとを言った。</sentence>
+<sentence type="quasi">すきとおる水にながされて、ゆらゆらするのは、とても気持ちがいいけれど、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　（あんまりゆらゆらして、すっぽん、と根っこがぬけたら、こまるわ）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、思っているのだ。</sentence>
+<sentence>ことし生まれたばかりなので、<quote>「根っこ・ふんばり<ruby rubyText="じゅつ">術</ruby>」</quote>も、まだ<ruby rubyText="れん">練</ruby><ruby rubyText="しゅう">習</ruby>ちゅうだし…。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「だいじょうぶだよ。</sentence>
+<sentence type="quasi">わたしがちゃんとオモシになってるから」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　あしもとで石ころが、ちからづよく言った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ありがとう。</sentence>
+<sentence type="quasi">じゃ、わたし、もっと『ゆらゆら』の練習をしてみるね」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　そう、水草は<quote>「はっぱ・ゆらゆら<ruby rubyText="じゅつ">術</ruby>」</quote>も、もっとおぼえたいのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「それがいい。</sentence>
+<sentence type="quasi">そうすれば、わたしも『おしり・どっしり』の練習ができるし、な」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「あら、石ころ、あなたもなにか練習してるんですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「もちろんだとも。</sentence>
+<sentence>そうか、あんたは生まれたばかりだから知らないんだな。</sentence>
+<sentence>みんなみんな、じぶんの<ruby rubyText="す">好</ruby>きな練習をしてるんだよ。</sentence>
+<sentence>きみが、いちばんしたいのは『はっぱ・ゆらゆら』なんだろ？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ええ、そうです」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「うむ、それが水草たちにとってはピッタリだもんな。</sentence>
+<sentence type="quasi">で、わたしがいちばんしたいこと、なりたいもの、というのが『おしり・どっしり』なわけなのさ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ふうん、みんな練習してるのね」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　水草がゆらゆらしていると、さかなが通りかかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「こんにちは、さかな。</sentence>
+<sentence>あなたいま、なんの練習してるの？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「やあ、こんにちは。</sentence>
+<sentence type="quasi">いま『ウロコ・キラリ』の練習してるとこさ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「ウ・ロ・コ？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「そう。</sentence>
+<sentence>ほら、こんなふうに泳ぐと、キラリッとするだろ？</sentence>
+<sentence>　これが、ぼく<ruby rubyText="す">好</ruby>きなの。</sentence>
+<sentence>じまんのウロコを、もっとぴかぴかさせたくて、からだのひねりかた、<ruby rubyText="けん">研</ruby><ruby rubyText="きゅう">究</ruby>してるとこ。</sentence>
+<sentence>じゃあまた、ね。</sentence>
+<sentence type="quasi">きみの、ゆらゆらはっぱも、すてきだよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　水草は、ながれたり、うずまいたりしている水にもたずねた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「こんにちは水。</sentence>
+<sentence>あなたはいま、なんの練習をしているの？」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「あら、かわいい水草、こんにちは。</sentence>
+<sentence type="quasi">わたしたちはね、『みずたま・ぴちっ』の練習ちゅうですよ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「みずたまになるのが<ruby rubyText="す">好</ruby>きなんですか？」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「ええ、これがうまくなると、いつか空にのぼって、あの、ふかふかの<ruby rubyText="わた">綿</ruby><ruby rubyText="ぐも">雲</ruby>になれるんだもの。</sentence>
+<sentence type="quasi">…ああ、はやく行きたいな」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　小川の水たちは、ぴちっ、ぴちっと、しぶきをあげながら、ながれていった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence type="quasi">　さらさらながれる小川のなか、水草は、はっぱを思いきりのばして、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「よいしょっ、ゆらゆら、よいしょっ、ゆらゆら」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、かけごえをかけた。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">７</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">カンタの日記・７　かぜとあそんだひ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ひるねしてたら、だれかがしっぽをくすぐるので、だれかとおもったらかぜでした。</sentence>
+<br type="automatic_original" />
+<sentence><quote>「おいおい」</quote>と、しっぽにつかまっているかぜを、おいかけました。</sentence>
+<br type="automatic_original" />
+<sentence>かぜのやつ<quote>「わい<sampling type="end" />わい」</quote>と、わらってにげるんだ。</sentence>
+</article>
+</sample>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00070" version="1.0" type="fixedLength">
+<article articleID="LBp5_00070_F001">
+<sentence><sampling type="start" />Ｐａｌｍには、ＣＬＩＥやＶｉｓｏｒのほかにもあります。</sentence>
+<sentence>パームコンピューティングが発売している<quote>「Ｐａｌｍ」</quote>シリーズは、低価格の<quote>「ｍ１００」</quote>から薄型でカラー液晶を搭載した<quote>「ｍ５０５」</quote>まで幅広いラインナップを揃えています。</sentence>
+<sentence>日本ＩＢＭは、<quote>「ＷｏｒｋＰａｄ」</quote>シリーズを発売しています。</sentence>
+<sentence><quote>「ｃ５０５」</quote>はパームコンピューティングのｍ５０５と同じ形ですが、本体の色が黒になります。</sentence>
+<sentence>また付属するソフトがｍ５０５とは異なります。</sentence>
+<sentence>Ｐａｌｍは持ち歩いて使うものなので、デザインや色などにこだわって選ぶのもいいでしょう。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐｏｉｎｔ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">種類が豊富なＰａｌｍ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＰａｌｍＯＳを搭載したＰＤＡを総称して<quote>「Ｐａｌｍ」</quote>と呼びます。</sentence>
+<sentence>Ｐａｌｍには基本機能として、スケジュール帳やアドレス帳、メモ帳といった個人情報を管理できるアプリケーションが入っています。</sentence>
+<sentence>Ｐａｌｍの特徴は、はじめて使う人にも操作がわかりやすいこと、動作がきびきびしていること、パソコンと同じデータが手軽に入れられること、アプリケーションを追加して自分好みに変えられることです。</sentence>
+<sentence>また、いろいろなメーカーからＰａｌｍが発売されています。</sentence>
+<sentence>それぞれデザインが異なりますし、独自機能を搭載しています。</sentence>
+<sentence>いろいろな機種が発売されているので、ほかのＰＤＡと比べて選択肢が広いのも特徴のひとつです。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｐａｌｍの電源を入れるには</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">初期設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐａｌｍを充電する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　電源をつなぐ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　買ってきてすぐはＰａｌｍが充電されていないので、しばらく充電してください</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　乾電池式のＰａｌｍは充電する必要はありません</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">２　クレードルとアダプタをつなぐ</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence type="quasi">◆クレードル</sentence>
+<br type="automatic_original" />
+<sentence>Ｐａｌｍとパソコンを接続するときに使う。</sentence>
+<sentence type="quasi">充電式のＰａｌｍはクレードルに載せることで充電できる</sentence>
+<br type="automatic_original" />
+</noteBody>
+<list>
+<listItem>
+<sentence type="quasi">●ＣＬＩＥ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●Ｖｉｓｏｒ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">３　充電する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　Ｖｉｓｏｒ　Ｅｄｇｅでは充電中は本体の電源ボタンが点滅します</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　Ｐａｌｍとパソコンはまだ接続しないでください</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>ＨＩＮＴ！</sentence>
+<br type="automatic_original" />
+<sentence>充電にはどれぐらいかかるの？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＣＬＩＥでは、最初の充電に約４時間かかります。</sentence>
+<sentence>Ｖｉｓｏｒ　Ｅｄｇｅでは約９０分です。</sentence>
+<sentence>購入したらすぐに使いたいと思いますが、少し我慢しましょう。</sentence>
+<sentence>なお、充電が完了しても、充電中ランプは点いたままになっています。</sentence>
+<sentence>このランプは、クレードルにＰａｌｍが正しくセットされているかどうかを知るためにあると考えてください。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">はみだしＴｉｐｓ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＣＬＩＥでは、アダプタから出ているコネクタをＣＬＩＥの下側にあるコネクタに直接つないで充電することもできます。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｐａｌｍの電源を入れる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　電源ボタンを押す</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">●ＣＬＩＥ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">●Ｖｉｓｏｒ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">２　スタイラスを取り出す<sampling type="end" /></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

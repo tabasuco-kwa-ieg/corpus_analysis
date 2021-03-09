@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa8_00001" version="1.0" type="fixedLength">
+<article articleID="LBa8_00001_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence>（ⅲ）　ｒｅｍｉｎｄ，ｓｔｒｉｋｅの目的語は，疑問詞，関係代名詞にすることができな<sampling type="start" />い．</sentence>
+<sentence type="quasi">（ｃｆ．ｏｐ．ｃｉｔ．ｐｐ．６１―６２）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>Ｎ．Ｂ．　Ｋｉｍｂａｌｌ（１９７０　ｐ．５１８）は，Ｐｏｓｔａｌが非文法的文と判断した文は容認可能であると述べている．</sentence>
+<sentence>そして，上記の文からＭａｘ　ｔｈｏｕｇｈｔをとってしまうと容認可能性はいっそう高まるという．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（ⅳ）　<quote>「ｒｅｍｉｎｄ＋目的語＋ｏｆ」</quote>に続く名詞が総称的複数名詞であるなら，主語もまたそうでなければならない．</sentence>
+<sentence>したがって，次のように，主語が定名詞句であれば，非文法的文となる．</sentence>
+<sentence type="quasi">（ｃｆ．Ｐｏｓｔａｌ　１９７０ａ　ｐ．７２）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<list>
+<listItem>
+<sentence>Ｎ．Ｂ．　１．　この制約は，類似性を表す述語に共通するものである．</sentence>
+<sentence type="quasi">（ｃｆ．ｉｂｉｄ．）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>Ｎ．Ｂ．　２．　しかし，Ｂｏｌｉｎｇｅｒ（１９７１ａ　ｐ．５３５）は，本文中の誤文のｔｒａｖｅｌｌｅｒｓ，ｔａｐ　ｄａｎｃｅｒｓになんらかの修飾詞句が加えられると文法性は向上すると述べている．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence>（ⅴ）　文末に主張の根拠を表すｉｎ　ｔｈａｔ節が添えられている場合，ｒｅｍｉｎｄ，ｉｍｐｒｅｓｓの目的語は，その全体の文が主節の被伝達部となっていれば主節の伝達動詞の主語と同一でなければ非文法的となる．</sentence>
+<sentence>また，独立文であれば，その文の話者［＝ｍｅ］でなければ，非文法的となる．</sentence>
+<sentence type="quasi">（ｃｆ．Ｐｏｓｔａｌ　１９７０ａ　ｐｐ．７７―７８）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<sentence>Ｎ．Ｂ．　しかし，Ｂｏｌｉｎｇｅｒ（１９７１ａ　ｐ．５３７）は，次のような文は文法的であると判断している．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>（ⅵ）　ｒｅｍｉｎｄに後続するｏｆの目的語が動名詞である場合，その意味上の主語はｒｅｍｉｎｄの目的語であるか，総称的なｏｎｅでなければ非文法的となる．</sentence>
+<sentence>また，<quote>「ｉｔ＋ｓｔｒｉｋｅｓ＋目的語＋ｔｈａｔ節」</quote>の構文でｔｈａｔ節の主語が動名詞である場合，その意味上の主語もｓｔｒｉｋｅの目的語であるか，総称的なｏｎｅでなければ，非文法的となる．</sentence>
+<sentence type="quasi">（ｃｆ．Ｐｏｓｔａｌ　１９７０ａ　ｐｐ．８０―８２）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　次のように，ｒｅｍｉｎｄ，ｓｔｒｉｋｅの目的語と異なる（代）名詞が所有形で表されている場合は，すべて非文法的となる．</sentence>
+<sentence type="quasi">（ｃｆ．Ｐｏｓｔａｌ　１９７０ａ　ｐ．８０）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　また，上記の文が，たとえば，ｔｈｉｎｋを含む主節の従位節となっても，動名詞の主語は主節の主語ではなく，ｒｅｍｉｎｄ，ｓｔｒｉｋｅの目的語かｏｎｅでなければ非文法的となる．</sentence>
+<sentence type="quasi">（ｃｆ．ｏｐ．ｃｉｔ．ｐ．８２）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="foreign" />
+<list>
+<listItem>
+<sentence>Ｎ．Ｂ．　１．　ｔｈａｔ節補文が<quote>「動名詞主語＋ｂｅ　ｓｉｍｉｌａｒ　ｔｏ＋動名詞」</quote>であり，その補文がｓａｙ，ｔｅｌｌ，ｔｈｉｎｋなどの動詞の補文となると，動名詞の意味上の主語は主節の主語か，総称的ｏｎｅでなければ非文法的となる．</sentence>
+<sentence type="quasi">（ｃｆ．ｏｐ．ｃｉｔ．ｐ．７８）</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</listItem>
+<listItem>
+<sentence>Ｎ．Ｂ．　２．　Ｎ．Ｂ．　１．のｔｈａｔ節補文が独立文となった場合も，動名詞の（意味上の）主語は文の話者か，総称を表すｏｎｅでなければ非文法的である．</sentence>
+<sentence type="quasi">（ｃｆ．ｏｐ．ｃｉｔ．ｐ．７８<sampling type="end" />）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</listItem>
+</list>
+</article>
+</sample>

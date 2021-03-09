@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00011" version="1.0" type="fixedLength">
+<article articleID="LBrn_00011_F001">
+<list>
+<listItem>
+<paragraph>
+<sentence>　［グラフの種類］ダイアログボックスで、［サンプルを表示する］ボタンをクリックすれば、完成イメージのプレビューが表示されるので、グラフを<sampling type="start" />選択するときの参考になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲［サンプルを表示する］ボタンをクリック</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　４　グラフの種類が変更できた</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">３‐Ｄグラフ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　作成したグラフが３‐Ｄの場合、［グラフ］メニューから［３‐Ｄグラフ］を選択すると、［３‐Ｄグラフの設定］ダイアログボックスが表示され、詳細な設定をすることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲［３‐Ｄグラフの設定］ダイアログボックス</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＥＣＴＩＯＮ　４１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｅｘｃｅｌのグラフを挿入するには</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">［挿入］→［オブジェクト］</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｅｘｃｅｌのグラフを新規作成する</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>ＰｏｗｅｒＰｏｉｎｔ　２００３では、Ｅｘｃｅｌ形式のグラフをスライドに挿入することができます。</sentence>
+<sentence>ここでは、Ｅｘｃｅｌ形式のグラフを新規作成する方法を解説します。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">チェックポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><image description="□にチェックマーク" no="2" />Ｅｘｃｅｌのグラフを新規作成する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><image description="□にチェックマーク" no="3" />ワークシートにデータを入力する</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　１　新しいスライドを用意する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　２　［オブジェクトの挿入］ダイアログボックスを表示する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　３　Ｅｘｃｅｌのグラフを挿入することを指定する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｅｘｃｅｌのグラフをファイルから挿入する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　すでにＥｘｃｅｌで作成してあるグラフのファイルを挿入するには、［オブジェクトの挿入］ダイアログボックスで［ファイルから］を選択します。</sentence>
+<sentence>ファイルから挿入する方法に関してはＳＥＣＴＩＯＮ４３<quote>「Ｅｘｃｅｌのファイルをリンクさせるには」</quote>（１３６ページ）を参照してください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　４　Ｅｘｃｅｌのグラフが挿入できた</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　５　グラフのもとになるデータを入力する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ワンポイント</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アイコンで表示</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　［オブジェクトの挿入］ダイアログボックスで、［アイコンで表示］にチェックすると、スライド上には、グラフではなく、Ｅｘｃｅｌのアイコン形式で表示されるようになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▲［アイコンで表示］にチェック</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＥＣＴＩＯＮ　４２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｅｘｃｅｌのファイルをインポートするには</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">［編集］→［ファイルのインポート］</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ファイルをインポートする</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>同じＯｆｆｉｃｅアプリケーションのＥｘｃｅｌですでに作成した表やグラフがあれば、そのままＰｏｗｅｒＰｏｉｎｔ　２００３にインポートして、スライドに貼り込むことができます。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">チェックポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><image description="□にチェックマーク" no="4" />ファイルをインポートする</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><image description="□にチェックマーク" no="5" />インポートするファイルを選ぶ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　１　新しいスライドを用意する</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　２　データシートを表示させる</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　３　インポートの準備をする</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">テクニック</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">データシートのデータを削除する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　データシートに入力されているサンプルデータは、［全セル選択］ボタンをクリックした後、［編集］メニューから［クリア］→［すべて］を選択して、削除しておきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">ｓｔｅｐ　４　インポートするファイルを選ぶ</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">テクニック</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">テキストデータ<sampling type="end" />をインポートする</sentence>
+</title>
+</titleBlock>
+</listItem>
+</list>
+</article>
+</sample>

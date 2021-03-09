@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00040" version="1.0" type="fixedLength">
+<article articleID="LBl5_00040_F001">
+<paragraph>
+<sentence>その主な種類を以下に列挙して<sampling type="start" />みましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　国債</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　政府が発行する債券。</sentence>
+<sentence>償還期限によって長期・中期・短期などの国債に区分される。</sentence>
+<sentence>このほか公共事業の財源にあてるために発行する“建設国債”、政府の歳入不足をおぎなうための“赤字国債”がある。</sentence>
+<sentence>赤字国債は端的にいえば、国庫の財源を確保するために行う国の借金。</sentence>
+<sentence>その額が金利もふくめて累積すれば、増税という形で国民にハネかえってきやすい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　地方債</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　都道府県、市町村が発行する債券。</sentence>
+<sentence>これは特定少数の投資者（縁故者）向けで、一般公募されるのは東京都や大阪府など約二七団体に限られている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　政府保証債</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　公団や公庫など政府の関係機関が発行。</sentence>
+<sentence>公募発行されるものは国が元本の償還と利子の支払いを保証するのが通例。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　金融債</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　長期信用銀行、信用金庫など特定の金融機関が発行。</sentence>
+<sentence>発行額が大きく一般投資者にも所有されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　社債</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　企業が発行する事業債のこと。</sentence>
+<sentence>電力会社が発行する電力債、その他の会社がだす一般事業債がある。</sentence>
+<sentence>普通の社債のほか株式に転換できる転換社債、新株の引受け権をもつワラント債など、様々な権利を付与したものも公社債市場に出回っている。</sentence>
+<sentence>近年は普通社債の発行が増加している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの公社債は証券会社の店頭で取引されるのがほとんど。</sentence>
+<sentence>証券業務も行う銀行は公共債については扱えますが、社債の場合は証券会社だけに限定されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この社債は従来から担保つきで発行することが原則でしたが、最近はサービス・情報産業の隆盛に伴い無担保社債が増えつつあります。</sentence>
+<sentence>株式と同じように社債の発行は長期の企業資金を調達するための有効手段。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに加えて短期的な資金を調達するＣＰ（コマーシャルペーパー）も導入されています。</sentence>
+<sentence>ＣＰは信用力のある企業が無担保で発行する一種の約束手形。</sentence>
+<sentence>すでにアメリカでは短期資金をまかなうポピュラーな方法として普及しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もともと手形は支払いを一定の期日までのばす、代金決済のための有価証券類。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのうち約束手形とは、手形の振出人であるＡひとりが、受取人のＢに手形金額の支払いを約束したものです。</sentence>
+<sentence>これを単名手形とも呼び、振出人と支払い人が別だったり裏書き人がある、といった手形は複名手形といいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　裏書きとは手形の受取人が、受取の権利を自分以外の人に譲渡するようなときに、振出人に指図して手形の裏面に記載する行為です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　手形は使用目的によって、主に商業手形と融通手形に区分されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　商業手形は商品の売買代金を支払うために振り出される手形。</sentence>
+<sentence>手形金額が売上代金によって自動的に決済される、確実でポピュラーな手形といえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　融通手形は俗に“空手<sampling type="end" />形”といわれ、代金決済ではなく資金を融通するために振り出すもの。</sentence>
+</paragraph>
+</article>
+</sample>

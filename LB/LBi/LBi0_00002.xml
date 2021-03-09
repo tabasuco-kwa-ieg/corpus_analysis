@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi0_00002" version="1.0" type="fixedLength">
+<article articleID="LBi0_00002_F001">
+<paragraph>
+<sentence>これは，脳や計算機を含むいかなる物理的媒体においても，情報の容量が限定されているなどの事情により，記号論理によ<sampling type="start" />って記述された理論が完全には当てはまらないからである．</sentence>
+<sentence>能力は意味レベルの何らかの側面に対応し，運用は機能レベルと物理レベルを合わせたものに対応すると考えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　認識論的問題としてのフレーム問題は，論理主義の枠組みにおいて生ずる問題であるが，これとは異なるフレーム問題の定義もある．</sentence>
+<sentence>たとえばＤ．Ｃ．Ｄｅｎｎｅｔｔ（１９８７）は，フレーム問題の例として，時限爆弾を仕掛けられた部屋からバッテリーを持ち出そうとするロボットを想定している．</sentence>
+<sentence>このロボットは，自らの行為の帰結を予測する能力に加えて，目下の状況に関係する情報と無関係な情報とを識別する能力を持っているが，その能力を発揮して無関係な帰結をせっせと挙げつらっては無関係なもののリストに入れ続けている最中にバッテリーもろとも爆破されてしまう．</sentence>
+<sentence>ここでのフレーム問題は，無関係な情報をいちいち数え上げることなく単に無視するにはどうするかという，情報処理の制御に関する問題である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この意味でのフレーム問題もＭｃＣａｒｔｈｙ＆Ｈａｙｅｓのもとのフレーム問題も，情報の部分性への対処法を求める問題である．</sentence>
+<sentence>ところが，推論の制御法を定めることによって推論の帰結は自動的に定まるから，制御に関するフレーム問題は，もとのフレーム問題を真に含む，より一般的な問題となっている．</sentence>
+<sentence>そこで，もとのフレーム問題と制御に関するフレーム問題とを区別するために，それぞれ，狭義のフレーム問題および一般フレーム問題（ｇｅｎｅｒａｌ　ｆｒａｍｅ　ｐｒｏｂｌｅｍ）と呼ぼう．</sentence>
+<sentence>前者は論理主義に固有の問題であるが，後者は認知システムの設計一般において生ずる普遍的な問題である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ｈａｙｅｓは，一般フレーム問題はまさにＡＩの一般問題であり，フレーム問題のそのような解釈は不毛な過度の一般化だと主張する．</sentence>
+<sentence>しかし，もしも狭義のフレーム問題が要請するヒューリスティクスを一般フレーム問題が要請するヒューリスティクスから区別する理由がないとすれば，狭義のフレーム問題は擬似問題であり，一般フレーム問題こそが問う価値のある問題だということになる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで，２つのフレーム問題が想定しているヒューリスティクスを比較してみよう．</sentence>
+<sentence>狭義のフレーム問題を問う意義があるかどうかはある種の能力理論を措定する意味があるかどうかということであり，能力とは前記のように意味レベルの何らかの側面だから，この議論は計算主義に深く関わっていると考えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ヒューリスティクスとは情報が欠けているときにこれを補う方法のことであった．</sentence>
+<sentence>したがっ<sampling type="end" />て，補う情報の種類によってヒューリスティクスを分類することができる．</sentence>
+</paragraph>
+</article>
+</sample>

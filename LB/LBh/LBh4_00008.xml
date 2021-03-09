@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh4_00008" version="1.0" type="fixedLength">
+<article articleID="LBh4_00008_F001">
+<paragraph>
+<sentence>ヒトにも原形ｒａｓ遺伝子があって、ガン細胞のｒａｓやウイルスのｒａｓと何とたった一つのＤＮＡの塩基の変異の差しかないこ<sampling type="start" />とがわかったのです（図３）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般的にガン遺伝子というのは、正常細胞が増殖するときに必要な遺伝子が多いことも明らかになってきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの遺伝子の機能が、たった一つの遺伝子の一塩基変異で起こることは驚くべきことです。</sentence>
+<sentence>ヒトでは体細胞突然変異によって起こるわけで、ようやく発ガンのメカニズムもわかるようになってきた昨今です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかしすべてのガンの原因がわかってきたわけではないのが残念です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■図１　ニワトリに肉腫を起すラウス肉腫ウイルス遺伝子の構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■図２　ガン遺伝子</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■図３　ｒａｓ遺伝子の塩基配列</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＣＯＬＵＭＮ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アメリカでの臓器移植の実態</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本では限られた臓器と限られた人たちが臓器移植の対象になっていますが、外国ではどうなのでしょうか。</sentence>
+<sentence>よく例にとられるアメリカについて、そのすさまじい実態を見ていきましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図１は臓器移植を待つ人たちの数（１９９２年１０月）を棒グラフに表わしたものです。</sentence>
+<sentence>総勢２万８４９２人のうち、約４分の３が腎臓移植を待つもので、これはこの臓器移植の移植定着率が９５％以上であるということや、２つある臓器のうちの１つを摘出しても生命に異常がないなどの条件が重なってのものでしょう。</sentence>
+<sentence>驚くべきことは、肝臓や心臓についても２０００人以上のウェイティングが見られることです。</sentence>
+<sentence>これらの手術がむずかしいことはいうまでもありませんが、手術の向上・免疫抑制剤の改良などにより、心臓移植でも５年生存率が８０％、最もむずかしいといわれる肝移植でも５年生存率が６０％以上になっているといわれています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図２は１９９１年の実績ですが、やはりウェイティングに比例して臓器移植が行なわれています。</sentence>
+<sentence>また、これだけのデータからでは推定できませんが、やはり手術を待たずに死亡した例もあるものと思われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それでは、平均何日待つと手術が行なわれるのでしょうか。</sentence>
+<sentence>日本のように心臓移植が行なわれていない国では想像できませんが、心臓で１８６日、最も長い心肺同時移植では６８２日というデータが出ています。</sentence>
+<sentence>予想に反して腎臓の待つ期間が４２０日と長い理由はよくわかりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　アメリカでも移植に対する要求は年々増えてきており、免疫抑制剤の改良によって、この数も増えていくものと思われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◆図１　臓器移植を待っている人</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◆図２　実績（１９９１年）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">◆図３　臓器移植の待ち時間</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">７章　生命と精神</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">脳と心</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">精神的な現象とニューロン間の伝達がどのように関連しているか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アリストテレスは心は心臓に宿ると考え、デカルトは心は物質的なものではない、と訴えました。</sentence>
+<sentence>現在では一部の人を除いて、心は脳が<sampling type="end" />つかさどっていることに疑問をもつ人はいなくなりました。</sentence>
+</paragraph>
+</article>
+</sample>

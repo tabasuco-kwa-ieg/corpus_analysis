@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm5_00025" version="1.0" type="fixedLength">
+<article articleID="LBm5_00025_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　じゃがいもの水けをふいて、簡易カッターでごく薄い輪切りにし、いかと一緒<sampling type="start" />にボウルに入れて、<enclosedCharacter>Ａ</enclosedCharacter>の塩、こしょうで調味し、ピザ用チーズを混ぜ入れます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　グラタン皿に<enclosedCharacter description="○">４</enclosedCharacter>を平らに入れて、にんにくを散らしてパセリのみじん切りをふり、オリーブ油を全体に回しかけて、２００度に熱しておいたオーブンの中段で２０分ほどこんがりと焼きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">たこ焼き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">ゆでだこ２００ｇ　ねぎ１０ｃｍ　<enclosedCharacter>Ａ</enclosedCharacter>（卵２個　だし汁または水２<fraction>１／２</fraction>〜３カップ　薄力粉２カップ　塩小さじ１／３）　天かす（揚げ玉）１／２カップ　紅しょうがの粗みじん切り・お好み焼き用ソース・青のり粉・糸がつお各適宜　油</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　たこは、たこ焼き器の大きさに合わせて一口大に切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　ねぎは小口切りにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　ボウルで<enclosedCharacter>Ａ</enclosedCharacter>の卵を割りほぐし、だし汁を混ぜて、薄力粉と塩を加えて泡立て器で混ぜ、こし器を通してこします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　たこ焼き器を熱して油をよくならし、いったん油をふき取って冷まします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　たこ焼き器に新しく油少々を熱して、<enclosedCharacter description="○">３</enclosedCharacter>の生地を型の八分目まで入れ、たこ、ねぎ、天かす、紅しょうがを加えます。</sentence>
+<sentence>さらに穴の周囲にこぼれるくらいまで生地を流して、中火で焼きます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　周囲が色よく焼けてきたら、穴の周りの生地も入れ込むようにして、目打ちのような<ruby rubyText="とが">尖</ruby>ったものではがしてくるりと上下を返し、中火で中まで火を通します。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">７</enclosedCharacter>　器にたこ焼きを盛って、お好み焼き用ソースをかけ（全体にからめてもよい）、青のり粉と糸がつおをのせます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">たこソースのコーンチップ添え</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">ゆでだこ２００ｇ　にんにく１片　玉ねぎ１／４個　トマト２個　赤唐辛子（あれば生がよい）・青唐辛子（あれば生がよい）各２本　パセリのみじん切り大さじ２　<enclosedCharacter>Ａ</enclosedCharacter>（オリーブ油大さじ４　レモン汁大さじ２　塩小さじ１　こしょう少々）　コーンチップ適宜</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　たこは５ｍｍ角くらいに切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　にんにくと玉ねぎはみじん切りにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　トマトはヘタをくり抜いて、熱湯をさっと通し、冷水に取って皮をむきます。</sentence>
+<sentence>横２つに切って種を取り、１ｃｍ角くらいに切ります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　赤唐辛子と青唐辛子は種を抜いて、薄い輪切りにします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　ボウルで<enclosedCharacter description="○">１</enclosedCharacter>〜<enclosedCharacter description="○">４</enclosedCharacter>とパセリのみじん切り、<enclosedCharacter>Ａ</enclosedCharacter>を混ぜ合わせ、器に盛って、コーンチップにつけて食べます。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>●メモ　コーンチップの代わりに、ポテトチップやクラッカー、カリッと焼いたフランスパンの薄切りなど、手近にあるもので。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">サラダ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>いか、たこは高たん白で脂質はほとんどありません。</sentence>
+<br type="automatic_original" />
+<sentence>味は淡泊で、生野菜やフルーツとの相性もいい。</sentence>
+<br type="automatic_original" />
+<sentence>ダイエットメニューにもおすすめの３品です。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">生いかのバジル風味サラダ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">いかの胴（さしみ用）２００ｇ　バジル（生ハーブ）適宜　オリーブ油大さじ２　塩小さじ１／２　レモン汁大さじ１／２　こしょう少々　チコリ１株　ト<sampling type="end" />マトのみじん切り大さじ３</sentence>
+</article>
+</sample>

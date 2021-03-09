@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00003" version="1.0" type="fixedLength">
+<article articleID="LBo5_00003_F001">
+<paragraph>
+<sentence>材料の放射線損傷の加速試験だけでなく、最高水準の中性子実験や超ウラン元素の製造、原子炉の極限状態の研究、などさまざまな用途があり、貴重な体験を<sampling type="start" />積むことができる。</sentence>
+<sentence>また一方小さな原子炉は教育やある種の研究にとって丁度飛行機におけるセスナ型の小型機のような重要な役割をする貴重な設備として必要なものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">炉心構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">中高年肥満は人間だけではない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　反射体要素は黒鉛角材をアルミでキャンニング（缶詰に）して外形が燃料要素と同型にしたものである。</sentence>
+<sentence>黒鉛を閉じこめた隙間にヘリウムガスを封じ込んだ構造になっている。</sentence>
+<sentence>黒鉛は放射線でたたかれて少々膨脹する見込みでその分隙間をあけてある。</sentence>
+<sentence>運転中放射線でたたかれ発熱はかなり大きな値になるので、隙間のため熱伝達が不十分にならないかと少し懸念されたが、ヘリウムが封入してあり、黒鉛の燃焼などのトラブルは先ず起こらない、と判断した。</sentence>
+<sentence>これは一応予想通りであったと考えられるが、実は別のトラブルが起こった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全部ではないが、二本ほどが異常に膨らんできたのである。</sentence>
+<sentence>一本は特にひどく、断面が円形に近くなる程膨脹した。</sentence>
+<sentence>他の一本は缶の平面板の部分で一センチ程度の膨らみであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全部の反射体要素には起こっていないことから、これは黒鉛の膨脹のような共通の現象とは考え難く、恐らく何らかの加工の欠陥によるものと考えられた。</sentence>
+<sentence>これが次々に起こると運転継続にも支障が起こる心配があるので、早速別のメーカーに反射体要素の追加注文をした。</sentence>
+<sentence>ところが、その作り直しの要素は一見かなりよく出来ているように見えたにもかかわらず、水中に入ると相当数の要素で、溶接部から泡が吹き出した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　膨らむ原因を正確に調べるには、大規模な試験が必要である。</sentence>
+<sentence>いっぱい仕事をかかえているので、原子炉部としては、一つのことだけに力を集中するわけに行かない。</sentence>
+<sentence>現実的な判断として、新しく作ったものと交換するのは却って問題があり、注意しながらもとの要素を継続して使うこととした。</sentence>
+<sentence>幸いあの二本のほかはその後膨れるものは出なかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　簡単な推測は次の通りである。</sentence>
+<sentence>溶接の微少なキズ、ヒビ割れなどから入った微量の水が放射線によって分解して酸素と水素に分かれ、酸素はそのあたりの金属などと結合して残った水素ガスが次第に増え、圧力が上がって膨れたというシナリオである。</sentence>
+<sentence>この推測は別の場所に発生した似た現象によって裏付けられたが、そのことは別項で述べる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに限らず一般に、密閉した部分は、長い年月が経つと膨脹することがある。</sentence>
+<sentence>収縮することはない。</sentence>
+<sentence>人間に限らず不節制は、肥満の原因、ということらしい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">寿命を決める炉心タンク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アルミ製の原子炉炉心タンクについては、ＫＵＲ建設の数年前に、腐食で孔があき大騒動になった米国<sampling type="end" />の例が伝えられ、緊張した。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBln_00015" version="1.0" type="fixedLength">
+<article articleID="LBln_00015_F001">
+<paragraph>
+<sentence>たとえば、図書館で一人だけ声をだして読んでいたら、みんなが出ていけ！</sentence>
+<sentence>っていう顔で見るにちがいな<sampling type="start" />い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえあいてが読んでほしいといっても、ただ読めばいいっていうものでもなさそうだ。</sentence>
+<sentence>またハイジの話にもどるけど、字をおぼえたペーターがおばあさんにハイジと同じものを読んであげても、あまり<ruby rubyText="よろこ">喜</ruby>ばれなかった。</sentence>
+<sentence>おばあさんは、ペーターに読んでもらっても、よくわからないし<ruby rubyText="むね">胸</ruby>にもしみてこないという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　声をだして読むということはかんたんそうだけど、けっこうむずかしい。</sentence>
+<sentence>あいてのことをよく考えてくふうして読めば、ハイジのようにほかの人に<ruby rubyText="よろこ">喜</ruby>んでもらえることがある。</sentence>
+<sentence>だまって読んでいたときは気がつかなかったことも、声をだして読むことで気がついたりする。</sentence>
+<sentence>声をだして読んで自分自身に聞かせていると、とても元気がわいてきたりする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　声にだして読むということにはいろいろなやりかたがあって、それを時と場合に<ruby rubyText="おう">応</ruby>じて使い分けていくと、<ruby rubyText="たつ">達</ruby><ruby rubyText="じん">人</ruby>になれる。</sentence>
+<sentence>でも、はじめからうまいとか下手とか気にしてると、かえってだめになることって多いんじゃないかな。</sentence>
+<sentence>ハイジのように、他人の<ruby rubyText="よろこ">喜</ruby>びをすなおに自分の<ruby rubyText="よろこ">喜</ruby>びにすることが、その<ruby rubyText="だい">第</ruby><ruby rubyText="いっ">一</ruby><ruby rubyText="ぽ">歩</ruby>だと思うよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２　<ruby rubyText="もく">目</ruby><ruby rubyText="てき">的</ruby>にあわせて</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●オススメは<quote>「つぶやき読み」</quote></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一人で声をだして読むことがわたしは<ruby rubyText="す">好</ruby>き。</sentence>
+<sentence>だれかに聞いてもらうのでもなく、ただ自分で声をだして読むだけ。</sentence>
+<sentence>そう、<quote>「つぶやき読み」</quote>。</sentence>
+<sentence>そんなに大きい声ではなく、ただつぶやくように読んでみるのね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本の詩や<ruby rubyText="しょう">小</ruby><ruby rubyText="せつ">説</ruby>にはひとりごとをいっているようなものがけっこうある。</sentence>
+<sentence><quote>「つぶやき読み」</quote>はそんな感じのものにとくにあっている。</sentence>
+<sentence>大きい声をはりあげたりせず、ぼそぼそといってたほうが気分にあって楽しいときもある。</sentence>
+<sentence>ひとに聞かせるわけでもないから、<ruby rubyText="す">好</ruby>きなように読む。</sentence>
+<sentence>自分が気に入ったものをね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「つぶやき読み」</quote>で読んでると楽しくなるものはいろいろあるけど、こんな詩はどう？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">ベスト・フレンド</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi"><ruby rubyText="おさ">長</ruby><ruby rubyText="だ">田</ruby>　<ruby rubyText="ひろし">弘</ruby></sentence>
+<br type="automatic_original" />
+</authorsData>
+<verse>
+<sentence type="verse">すばらしい<ruby rubyText="ひげ">髭</ruby>もない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ぴんと<ruby rubyText="するど">鋭</ruby>い耳もない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">長いみごとな<ruby rubyText="しっ">尻</ruby><ruby rubyText="ぽ">尾</ruby>がない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="つめ">爪</ruby>だっても立てられない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="くら">暗</ruby><ruby rubyText="やみ">闇</ruby>をみることもできない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">どんなんだい？<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">何もないって？<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">きみはニンゲンだ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ぼくはねこだ<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">追いかける　<ruby rubyText="こい">恋</ruby>したら<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="おこ">怒</ruby>ったら　毛を<ruby rubyText="さか">逆</ruby>だてる<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="つか">疲</ruby>れたら　<ruby rubyText="のど">咽喉</ruby>ならして<ruby rubyText="ねむ">眠</ruby>る<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">一日はいつもすてきだ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="なみだ">涙</ruby>をどッとこぼしたりしない<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">どんなんだい？<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">悲しいって？<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">きみはニンゲンだ<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ぼくはねこだ<verseLine /></sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence type="verse">ニンゲン<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">さびしいんだね<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">ぼくはここにいる<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse"><ruby rubyText="ほほえ">微笑</ruby>んでください<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+<source>
+<sentence type="quasi">『心の中にもっている問題』晶文社</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　漢字が読めないときがあるって、だれかいった？</sentence>
+<sentence>　つぶやいて読んでると漢字が読めなかったり、くぎりがわからなかったりしてつっかえることがあ<sampling type="end" />るでしょ。</sentence>
+</paragraph>
+</article>
+</sample>

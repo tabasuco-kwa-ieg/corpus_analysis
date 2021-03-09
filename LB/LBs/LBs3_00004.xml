@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00004" version="1.0" type="fixedLength">
+<article articleID="LBs3_00004_F001">
+<paragraph>
+<sentence>　今回の新版では、一層のわかりやす<sampling type="start" />さと内容の充実に努めて、次のような改訂をしました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<enclosedCharacter description="○">１</enclosedCharacter>プロローグで、実際にあった中国人留学生の起業体験物語と財務諸表の変化を追います。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>Ⅳ章の<quote>「新しい会計基準を理解する」</quote>を充実させ、最近の減損会計や企業結合会計の説明を追加しました。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>Ⅴ章として<quote>「企業統治と財務諸表の保証」</quote>を追加しました。</sentence>
+<sentence>財務諸表の信頼性の確保は、遵法経営に依存していることを話します。</sentence>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>新規に実践編を設け、村田製作所の財務諸表を読んでみます。</sentence>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>さらに読者の便宜のために、会計用語の解説集を最後に追加掲載しました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１９８９年に初版を出版して以来、今回で第４版となりました。</sentence>
+<sentence>読者の皆さんに支えられたおかげで、長年にわたり継続出版できたことに対して、大変感謝しております。</sentence>
+<sentence>著者にとって大変幸せなことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　初版以来、企画や編集内容の向上にご協力していただいた、日本経済新聞社出版局の歴代の編集部員、西林啓二氏、網野一憲氏、細谷和彦氏に厚くお礼申し上げます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">２００４年１２月</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">佐々木秀一</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBs3_00004_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">プロローグ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">留学生の起業体験</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■全体の流れとポイント</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　２０年近く前のことですが、私は大手監査法人を辞めた後、ある大学の経営学部で教鞭をとっていました。</sentence>
+<sentence>期末試験を実施して、５４０人の学生の答案を採点していた時のこと。</sentence>
+<sentence>８５点以上の学生が３人しかいない中で、最高得点の９６点をマークした学生が中国人の名前なのに驚きました。</sentence>
+<sentence>私はその生徒の成績表にＡよりも上のＳを与えて大学に報告しました。</sentence>
+<sentence>日本語のハンディキャップを克服して、大変な努力をしたのでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その中国人は李さんという女性でした。</sentence>
+<sentence>４年間の学生生活を奨学金だけを頼りにして、毎月２万円で暮らしていたそうです。</sentence>
+<sentence>良い成績をあげて奨学金の推薦状をもらわないと食べていけないので、睡眠時間を削り必死に勉強したと聞きました。</sentence>
+<sentence>大学卒業の時には、卒業生総代として学長賞をもらいました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　恵まれた若い世代の日本人は、真剣に生きている中国人に負けている。</sentence>
+<sentence>日本は中国にまもなく追いつかれるのではないかと、その時思いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　驚かされたのは、それだけではありませんでした。</sentence>
+<sentence>大学を卒業後、その李さんが、学長と共に私の会計事務所を訪ねてきたのです。</sentence>
+<sentence><quote>「日中貿易を始めたいので、会社設立と会計帳簿を依頼したい」</quote>。</sentence>
+<sentence>支援者の協力で李さんが社長になるとのことでした。</sentence>
+<sentence>李さんが思いついたビジネスは、道路やダム等の国土開発途上の中国に、日本の中古の建設機械を輸出することでした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は不安になりました。</sentence>
+<sentence>なぜかと言うと李さんが日本に来る前は、資本主義市場や企業の利益追求とは縁のない仕事をしていたの<sampling type="end" />です。</sentence>
+</paragraph>
+</article>
+</sample>

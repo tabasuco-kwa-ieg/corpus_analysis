@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq3_00154" version="1.0" type="fixedLength">
+<article articleID="LBq3_00154_F001">
+<paragraph>
+<sentence>ここでは、インスタントラーメンの製造で説明しましょ<sampling type="start" />う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　図<enclosedCharacter description="●">１</enclosedCharacter>のように１年に、農家は小麦を作って製粉メーカーに７０万円で売り、製粉メーカーは小麦を粉にひき、即席麺メーカーに１００万円で売り、即席麺メーカーは消費者にインスタントラーメンを１５０万円で売るとします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このときの三者の付加価値の総額は、図のように販売高から仕入額を差し引いた利益の合計（７０万円＋３０万円＋５０万円＝１５０万円）となります。</sentence>
+<sentence>これを国内総生産というのです。</sentence>
+<sentence>もちろん国内には数多くの企業や農家がありますから、これはあくまでものごとを単純化した話だと考えてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また図<enclosedCharacter description="●">１</enclosedCharacter>でみるように、各段階の仕入額はダブるので、差し引いています。</sentence>
+<sentence>あくまで作られた価値の総額が国内総生産なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="●">１</enclosedCharacter>　ＧＤＰが付加価値総額の意味</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">用語の使い方について</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本書では総供給／総需要の中で<quote>「中間投入額」</quote>を〈右から左〉という名称で取り扱っています。</sentence>
+<sentence>文字どおり、中間投入額は創造される価値でなく、〈右から左〉へ動くだけのものだからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらにＧＤＰは、図<enclosedCharacter description="●">２</enclosedCharacter>のように分配レベルでは〈家計所得〉〈企業利益〉〈税金〉となり、支出レベルでは〈消費〉〈貯蓄〉〈政府支出〉と考えることができます。</sentence>
+<sentence>支出レベルをＧＤＥ（国内総支出・Ｇｒｏｓｓ　Ｄｏｍｅｓｔｉｃ　Ｅｘｐｅｎｄｉｔｕｒｅ）と呼んでいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＧＤＰはＧＤＥと同じなので、〈消費〉〈貯蓄〉〈政府支出〉を、その内容として用いることが多く、本書でもそうした使い方をしています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、本書では総供給／総需要という言葉を使っていますが、図<enclosedCharacter description="●">３</enclosedCharacter>に示したように、中間投入分を含め、さらに輸入や輸出を含めた総額を言っています。</sentence>
+<sentence>総供給とは海外からの輸入も含め、入ってきたものすべて、総需要は輸出も含め、出ていったものすべて、というぐらいに考えてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="●">２</enclosedCharacter>　ＧＤＰを分配、消費レベルで見る</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="●">３</enclosedCharacter>　総供給と総需要とは入ってくるものすべて、出ていくものすべて</sentence>
+<br type="automatic_original" />
+<sentence>注）総需要のＧＤＥの中には輸入分が含まれる場合もある。</sentence>
+<sentence>実はこれがＩＳバランスの意味である。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２　ＩＳバランスで日米経済の姿が見えてくる</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">日本はあいも変わらぬ貯蓄過剰、アメリカは超過需要</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">経常黒字、経常赤字には、実はこんな意味がある</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前のページでは日米の輸出入構造が、まるで反対だということを述べました。</sentence>
+<sentence>では、なぜこんなことになっているのでしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　総供給／総需要を<noteBodyInline text="１７６ページ" />さらに検討していけば、その意味がのみこめてきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、<enclosedCharacter description="●">１</enclosedCharacter>の図で日本の<enclosedCharacter description="●">Ａ</enclosedCharacter>の総需要／総供給の〈右から左〉は共通部分ですし<noteBodyInline text="１８２ページの図" />、ＧＤＰ／ＧＤＥの〈消費〉も共通ですね。</sentence>
+<sentence>したがって違う部分をクローズアップしますと、<enclosedCharacter description="●">Ｂ</enclosedCharacter>のようになることがわかります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　同じように下の<enclosedCharacter description="●">２</enclosedCharacter>の図<quote>「アメリカの経済構造」</quote>で<enclosedCharacter description="●">Ａ</enclosedCharacter>’の注目部分をクロ<sampling type="end" />ーズアップしますと図<enclosedCharacter description="●">Ｂ</enclosedCharacter>’となります。</sentence>
+</paragraph>
+</article>
+</sample>

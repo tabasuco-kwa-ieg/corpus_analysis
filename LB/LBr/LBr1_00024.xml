@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr1_00024" version="1.0" type="fixedLength">
+<article articleID="LBr1_00024_F001">
+<paragraph>
+<sentence>およそ論理によって決定される問いは、論理のみに<sampling type="start" />よってすべて決定されねばならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（そして、もしわれわれが世界を観察することによってそのような問いに答えようとするのであれば、それはわれわれが根本的に道をまちがえていることを示している。）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五二</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　論理を理解するためにわれわれが必要とする<quote>「経験」</quote>は何かがかくかくであるというものではなく、何かがあるというものである。</sentence>
+<sentence>しかしそれはまさにいささかも経験ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　論理は何かがこのようにあるといういかなる経験よりも前にある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　論理は<quote>「いかに」</quote>よりも前にあるが、<quote>「何が」</quote>よりも前ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五二一</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そうでないとすれば、われわれはどうやって論理を適用できるだろう。</sentence>
+<sentence>こう言ってもよい。</sentence>
+<sentence>―世界が存在しないとしても論理があるというのだとすると、世界が存在するときにどうして論理がありえようか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五三</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ラッセルは、さまざまな数のもの（個体）の間に単純な関係が成立する、と語った。</sentence>
+<sentence>しかし、何個のものの間になのか。</sentence>
+<sentence>そしてｎ項関係<noteMarker text="（８４）" />が存在するか、どうやって決定されるというのか。</sentence>
+<sentence>―経験によって？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（８４）　ｎ項閣係―たとえば<quote>「ｘとｙは親子である」</quote>は二つの項をもつ関係であるから、二項関係と呼ばれ、<quote>「ｘはｙとｚの長男である」</quote>は三つの項をもつ関係であるから、三項関係と呼ばれる。</sentence>
+<sentence>一般にｎ個の項をもつ関係をｎ項関係と呼ぶ。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence type="quasi">　（特別扱いされる数など存在しない。）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五四</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　特定の形式を挙げたとしても、それはまったく恣意的なものとなるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五四一</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　たとえば私が二七項関係の記号で何かを表さねばならないことになるのかどうか、それはア・プリオリに答えられねばならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五四二</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そうだとすると、しかし、われわれはそもそもそのような問いを立てることができるのだろうか。</sentence>
+<sentence>ある記号の形式を提示しておきながら、なおそれが何かに対応しうるのか否かを知らないなどということが、ありうるだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　あることがらが成立しうるということから、そのためには何が存在しなければならないのか、と問う。</sentence>
+<sentence>このような問いに意味はあるのか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五五</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　明らかに、われわれがもっている要素命題の概念は、要素命題の個々の論理形式を考慮したものではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、ある体系に従ってシンボルを構成しうるところでは、論理的に重要なのはその体系であり、ひとつひとつのシンボルではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、私が新たに考案しうるような形式など、どうして私が論理において関わらねばならないものでありえようか。</sentence>
+<sentence>むしろ、私がその形式を考案することを可能にさせたもの、それこそ私が関わらねばならないものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">五・五五六</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　要素命題の形式に階型などありえない。</sentence>
+<sentence>われわれ自身が構成するもののみ<sampling type="end" />をわれわれは予見しうるのである。</sentence>
+</paragraph>
+</article>
+</sample>

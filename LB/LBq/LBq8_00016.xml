@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq8_00016" version="1.0" type="fixedLength">
+<article articleID="LBq8_00016_F001">
+<paragraph>
+<sentence>　あなたは、ア、カ、オ、ウ、エを選<sampling type="start" />んで、次の文章を考えたかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（作成例１）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　お父さんが会社から帰って部屋に入りかけ、赤ちゃんに手を振っている。</sentence>
+<sentence>部屋の中では、お母さんが赤ちゃんを抱いて座布団にすわっている。</sentence>
+<sentence>お母さんは、赤ちゃんに、絵本の読み聞かせをしていたところである。</sentence>
+<sentence>赤ちゃんは、お父さんの方へ身を乗り出して右手を伸ばしている。</sentence>
+<sentence>赤ちゃんの前には、絵本や積木が置かれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　あるいは、あなたは、キ、カ、コ、ウ、エを選んで、次の文章を考えたかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（作成例２）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　お父さんが会社へ出勤しようとして、部屋の入口で赤ちゃんに手を振っている。</sentence>
+<sentence>部屋の中では、お母さんが赤ちゃんを抱いて座布団にすわっている。</sentence>
+<sentence>お母さんは、赤ちゃんに、絵本の読み聞かせをしようとしている。</sentence>
+<sentence>赤ちゃんは、お父さんの方へ身を乗り出して右手を伸ばしている。</sentence>
+<sentence>赤ちゃんの前には、絵本や積木が置かれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　しかし、あらかじめ注意した事柄を振り返ってください。</sentence>
+<sentence><quote>「あなたが感じたこと、想像したこと、あなたの意見、これらは加えないように注意してください」</quote>とあったはずです。</sentence>
+<sentence>絵からは、描かれている時間が朝なのか、夕方あるいは夜なのかはわかりません。</sentence>
+<sentence>だから、お父さんが会社へ出勤しようとしているとも、会社から帰ってきたとも言えません。</sentence>
+<sentence>また、男の人と女の人との関係もわかりません。</sentence>
+<sentence>男の人は、お父さんかもしれないし、赤ちゃんの兄さんかもしれません。</sentence>
+<sentence>女の人は、赤ちゃんのお母さんかもしれないし、姉さんかもしれないし、また、親類のおばさんかもしれないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　絵の中の人物を<quote>「お父さん」</quote>と<quote>「お母さん」</quote>としたり、<quote>「会社から帰って」</quote>または<quote>「会社へ出勤しようとして」</quote>としたりするのは絵に対する解釈で、事実とは違っているかもしれないのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「お母さんは、赤ちゃんに、絵本の読み聞かせをしていたところである」</quote>や<quote>「お母さんに、赤ちゃんに、絵本の読み聞かせをしようとしている」</quote>は、絵を見て行った想像です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、絵に対して解釈や想像を加えずに、【考えてみよう】の問題が示した条件通りの五つの文を選んで絵の内容を報告すると、イ、ク、ケ、エ、サとなります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（作成例３）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　部屋の中では、女の人が赤ちゃんを抱いて座布団にすわっている。</sentence>
+<sentence>部屋の入口で、めがねをかけた男の人が左手にかばんを抱え、右手を上げている。</sentence>
+<sentence>赤ちゃんは、男の人の方へ身を乗り出して手を伸ばしている。</sentence>
+<sentence>赤ちゃんの前には、絵本や積木が置かれている。</sentence>
+<sentence>部屋の入口のそばには本を入れた箱がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　これが、正しい答です。</sentence>
+<sentence type="quasi">イとクとの順序を入れ換えて、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　部屋の入口で、めがねをかけた男の人が左手にかばんを抱え、右手を上げている。</sentence>
+<sentence>部屋の中では、女の人が赤ちゃんを抱いて座布団にすわっている。</sentence>
+<sentence>赤ち<sampling type="end" />ゃんは、男の人の方へ身を乗り出して手を伸ばしている。</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

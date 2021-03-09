@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBqn_00011" version="1.0" type="fixedLength">
+<article articleID="LBqn_00011_F001">
+<list>
+<listItem>
+<sentence>これで，ピボットテーブルが値に変<sampling type="start" />換されて複写されます．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１４８　ピボットテーブルの値変換複写結果</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　そのままの状態で，［編集（Ｅ）］→［形式を選択して貼り付け（Ｓ）］を指定します．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　左図のように［書式（Ｔ）］を指定します．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１４９　ピボットテーブルの値変換複写</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">結果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>これで，ピボットテーブルの罫線や，データの表示形式などの書式が複写されます．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５０　ピボットテーブルの値変換複写結果</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">６</enclosedCharacter>　全体に，セル色や罫線などの書式を設定して，必要であれば行見出し名などを変更します．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">データを除外した集計</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１４１　小計値を除外して集計する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>販売計画表の途中に小計行があり，総計を求めるために<quote>「＝Ｃ５＋Ｃ８＋Ｃ１１」</quote>などと入力するのは面倒です．</sentence>
+<sentence>この総計を簡単に求めるには？</sentence>
+<br type="automatic_original" />
+</abstract>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５１　集計元とその集計結果</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＵＢＴＯＴＡＬ関数の入力</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>このような場合は，小計や総計にＳＵＢＴＯＴＡＬ関数を使用します．</sentence>
+<sentence>この関数では，計算範囲に含まれるＳＵＢＴＯＴＡＬ関数で算出した値は除外されます．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５２　数式の内容</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">数式の内容</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<sentence>Ｃ３〜Ｃ１１の範囲を合計する．</sentence>
+<sentence>ただし，範囲の途中に含まれるＳＵＢＴＯＴＡＬ関数で算出した値は，無視される．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＵＢＴＯＴＡＬ関数：各種集計値を求める</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence>内容：<quote>「範囲」</quote>のセル範囲について，下記の<quote>「集計方法」</quote>で指定された値を集計する．</sentence>
+<sentence><quote>「範囲」</quote>の途中に含まれるＳＵＢＴＯＴＡＬ関数で算出した値は，無視される．</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">１：平均値</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２：数値の個数</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３：データの個数</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４：最大値</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">５：最小値</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">６：積</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">７：母集団の標準偏差</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">８：標準偏差</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">９：合計値</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０：母集団の分散（不偏分散）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１：分散（不偏分散）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●コマンドによるＳＵＢＴＯＴＡＬ関数の入力</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ＳＵＢＴＯＴＡＬ関数は，［データ（Ｄ）］→［集計（Ｂ）］を指定すると自動的に入力することができます．</sentence>
+<sentence>この場合は，アウトラインも設定されます．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５３　［データ（Ｄ）］→［集計（Ｂ）］の指定</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５４　集計結果</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１４２　非表示行を除外して集計する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>個人別の給与リストにオートフィルタを設定して，特定の行を抽出できるようにしてあります．</sentence>
+<sentence>このとき，非表示行を除外して，表示されている行のデータだけを合計するには？</sentence>
+<br type="automatic_original" />
+</abstract>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５５　抽出前の集計値</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼図５‐１５６　抽出後の集計値</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＵＢＴＯＴＡＬ関数による集計</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>非表示行を無視した集計を行うには，ＳＵＢＴＯＴＡＬ関数を使用します．</sentence>
+<sentence>この関数では，オートフィルタで行を非表示にすると，集計範囲に含まれていても，そのデータは除外して集計されます．</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　リストの任意のセルを選択します．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　［データ（Ｄ）］→［フィルタ（Ｆ）］→［オートフィルタ（Ｆ）］を指定します．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">結果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>これで，各列見出しのセルに，オートフィルタ矢印が設定されます．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　<quote>「部署」</quote>のオートフィルタ矢印を左図のように指定して，<quote>「企画開発」</quote>の行だけを表<sampling type="end" />示します．</sentence>
+</listItem>
+</list>
+</article>
+</sample>

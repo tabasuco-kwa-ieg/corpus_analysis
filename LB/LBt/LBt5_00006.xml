@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00006" version="1.0" type="fixedLength">
+<article articleID="LBt5_00006_F001">
+<titleBlock>
+<sentence type="quasi"><sampling type="start" />ゆばの美味しさがきわだつシンプルな一皿</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">生ゆば●４枚</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">たまり醤油●適量</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">粉山椒●適量</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ハケ（なければスプーンで）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">アルミホイル●１５ｃｍ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">油●少々</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">一人分７１ｋｃａｌ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　アルミホイルに薄く油を塗っておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　引き上げゆばを巻いて<enclosedCharacter description="○">１</enclosedCharacter>に乗せる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　オーブントースターでこげ目がつくまで焼く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<enclosedCharacter description="○">３</enclosedCharacter>にハケでたまり醤油を塗り、乾かす。</sentence>
+<sentence>これを２〜３回繰り返し、焼き上げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　粉山椒を添えて供する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<sentence type="quasi">懐石ゆば（紅緑）</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">すまし汁</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">吸地にゆばを浮かすだけで華やかな一品に</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">懐石ゆば（紅緑）●８個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">よもぎ麩●１／４本（８つ切りにする）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">三つ葉●１／２束（熱湯で色よくゆでる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">柚子●１／４個（皮の黄色の部分を薄くむいて松葉に切る）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">一人分２４ｋｃａｌ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">吸地</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">一番だし汁●７００ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">薄口醤油●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">塩●少々</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　よもぎ麩はだし汁で温めておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　三つ葉は、片結びにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　お椀に<enclosedCharacter description="○">１</enclosedCharacter>、<enclosedCharacter description="○">２</enclosedCharacter>、懐石ゆば、柚子を入れて吸地をゆっくり注ぐ。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<sentence type="quasi">引き上げゆば</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">海老の生ゆば巻き含め煮</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>昔から伝わる伝統料理の一つ。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">車海老の風味がゆばに移るまでじっくり煮て</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">生ゆば●２枚</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">車海老●８尾（殻をむいて背わたを取り、竹串を差してゆばを巻く）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">里芋●４個（皮をむいてゆでる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">手まり麩●１２個</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">粟麩●１／４本（８つ切りにする）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">きぬさや●１２枚（色よくゆでる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">柚子●１／４個（皮の黄色の部分を千切りにする）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">竹串●８本</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">だし汁●４００ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">薄口醤油●大さじ１．５</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">酒●大さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">濃口醤油●小さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂ</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">だし汁●２００ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">薄口醤油●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">みりん●小さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<sentence type="quasi">一人分１８７ｋｃａｌ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　車海老はＡの煮汁を沸騰させて３〜４分間煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　ゆでた里芋はＢの煮汁で４〜５分間煮て含め煮にする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　手まり麩、粟麩もＡの煮汁で１〜２分間さっと煮る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　きぬさやはＢのだし汁でさっと煮、ざる上げし、だし汁ときぬさやが冷めたら一緒に漬けておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　器に<enclosedCharacter description="○">１</enclosedCharacter>〜<enclosedCharacter description="○">４</enclosedCharacter>を美しく盛り、柚子の皮を天盛りにして供する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<sentence type="quasi">引き上げゆば</sentence>
+<br type="automatic_original" />
+<title>
+<sentence type="quasi">ゆば身丈のきのこあんかけ</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">温かいきのこあんとゆばの組み合わせは、栄養満点で上品な一皿</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">材料（４人分）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><ruby rubyText="しん">身</ruby><ruby rubyText="じょう">丈</ruby></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">生ゆば●６０ｇ（荒きざみにする）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">すり身●２５０ｇ（固いときはすり鉢に入れてする）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">きくらげ●１枚（水で戻して千切り）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">人参●１０ｇ（千切り）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">グリーンピース●大さじ１（ゆでる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">薄口醤油●小さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">酒●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖●小さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">梅麩●１／３本（１２枚に薄切り）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">舞茸●１／２パック（ほぐす）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">白しめじ●１／２パック（石づきを取って子房に分ける）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">きぬさや●１２枚（軸と筋を取って色よくゆでる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">水溶きくず粉●大さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ａ</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">だし汁●４００ｃｃ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">薄口醤油●大さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">みりん●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">砂糖●小さじ２</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">酒●大さじ１</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<sentence type="quasi">一人分１４３ｋｃａｌ</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　ボールに身丈の材料をすべて入<sampling type="end" />れて、よく混ぜる。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

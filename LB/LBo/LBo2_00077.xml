@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo2_00077" version="1.0" type="fixedLength">
+<article articleID="LBo2_00077_F001">
+<paragraph>
+<sentence>ただ、使用した文献資料だけは、感謝の意味をこめて、すべて掲げておいたので、それによって<sampling type="start" />お察しいただきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBo2_00077_F002">
+<info arg="sample_type" value="beginning" />
+<titleBlock>
+<title>
+<sentence type="quasi">第一章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">刀についての素朴な疑問</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">一　現存作品のきわめて多い刀</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">武器のさまざま</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　戦国時代には、実にさまざまな兵器が用いられた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大きく分けると、兵器は、攻撃用と防御用に区分されるが、それぞれに個人が用いるものと集団で用いるものとがある。</sentence>
+<sentence>個人用兵器については、攻撃に使用するものを<quote>「武器」</quote>、防御に使用するものを<quote>「武具」</quote>と呼んで区別している人もいる。</sentence>
+<sentence>こうした限られた意味で、この時代の武器を取り上げてみても、その中身はきわめて多様である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　武器を機能から見た場合、遠戦用と接戦用がある。</sentence>
+<sentence>遠戦用武器の代表的なものは、弓と鉄砲である。</sentence>
+<sentence>このうち弓は、この時代に固有のものではなく古くから存在し、鉄砲が普及するまでは、もっとも重視されていた武器である。</sentence>
+<sentence>鉄砲定着後は、さすがに主役の座を譲らざるをえなかったが、戦国時代を通じてずっと用いられ続けた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一口に弓といっても素材や仕様によって、いくらも細分することができるが、サイズ的には<ruby rubyText="だい">大</ruby><ruby rubyText="きゅう">弓</ruby>（長弓）と<ruby rubyText="はん">半</ruby><ruby rubyText="きゅう">弓</ruby>に区別される。</sentence>
+<sentence>戦場で主として用いられたのは大弓のほうであるが、半弓もしばしば用いられている。</sentence>
+<sentence>このほか護身用短弓とでもいうようなものもあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　弓の仲間に機械力を加えて矢を射出す<ruby rubyText="ど">弩</ruby>（クロスボウ）というものがある。</sentence>
+<sentence>中世のヨーロッパではしきりに用いられて、例のウィリアム・テルのお話などにも出てくるから、ご存じの方も多いだろう。</sentence>
+<sentence>わが国でも同じような物が古代から存在していたが、なぜか中世以降には、ほとんど使用された形跡がない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　鉄砲は、この時代の途中に海外から入ってきた新鋭の武器であるが、戦国時代の後半には最重要視される武器となった。</sentence>
+<sentence>軍事史家の中には、鉄砲渡来以後の時代を<quote>「小銃本位時代」</quote>と名づけた人さえいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この鉄砲には、文字どおりの<quote>「小銃」</quote>から、<ruby rubyText="かか">抱</ruby>え<ruby rubyText="う">撃</ruby>ちにするようなものまで、サイズはさまざまあったが、いずれも筒口から弾丸を込め、火縄で点火して発射する形式のものであったことは共通である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　遠戦用の武器としては、このほかに石があった。</sentence>
+<sentence>小さなものは投げつけ、大きなものは城の上などから落としかけた。</sentence>
+<sentence>鉄砲が普及した後になっても、かなり使用されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　接戦用の武器は、いわゆる<quote>「白兵」</quote>とそれ以外のものとに分けられる。</sentence>
+<sentence>白兵というのは、刃を持った武器の総称で、これも機能に即して分類すると<quote>「<ruby rubyText="じん">刃</ruby>兵」</quote><quote>「<ruby rubyText="ほう">鋒</ruby>兵」</quote><quote>「刃鋒兵」</quote>の三種類となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「刃兵」</quote>は斬撃に用いるもので、代表的なものは刀剣である。</sentence>
+<sentence>もっとも、一口に刀剣といっても、長いもの、短いもの、真っ直ぐなもの、反ったもの、両刃のもの、片刃のものと内容はさまざまある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般に<quote>「日本刀」</quote>と呼ばれているものは、おおむね片刃であり、か<sampling type="end" />つ反りがあるものが多いが、わが国の刀剣がこうした形式をとるようになったのは、平安時代中期にさかのぼる。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq5_00038" version="1.0" type="fixedLength">
+<article articleID="LBq5_00038_F001">
+<paragraph>
+<sentence>人口の集中などで貯水池のろ過能力が追いつかなくなったのだ<sampling type="start" />が、貯水池を増やすなど他の方法はとらなかった。</sentence>
+<sentence>安易な方法をとったのである。</sentence>
+<sentence>都民の水ガメであった淀橋浄水場跡には、醜悪とも思える都庁や、住友三角ビル、京王プラザホテルなどが建っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　急速ろ過はどんなに汚い原水でもわずか五、六時間で一挙に浄水処理を行なってしまう。</sentence>
+<sentence>浮遊物やにごりなどの物理的汚れは除去できるため見た目はきれいな水に見えるが、完全な浄化とはいえない。</sentence>
+<sentence>色はある程度のこってしまうし、マンガン、アンモニア、合成洗剤の成分、カビ臭、農薬、鉛などを取り除く能力はない。</sentence>
+<sentence>さらに緩速ろ過のように、土壌細菌、水棲細菌や水棲微小動物が持っている有機物の分解作用や捕食作用もなく、水に含まれている病原菌は除去されないまま残っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで急速ろ過では、マンガン、アンモニアなどを除去するための浄化処理に、アンモニアの１１倍の塩素を投下しなければならない（前塩素処理）。</sentence>
+<sentence>そのうえ殺菌消毒のための塩素をあらためて投下することになる（後塩素処理）。</sentence>
+<sentence>二重の塩素投下がなされる理由である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私たちは薬品による浄化というと大腸菌や病原菌などの有害細菌が完全にいなくなるような錯覚をおこすが、水の浄化に関する限り、これは間違いなのである。</sentence>
+<sentence>水中の土壌細菌などの微生物による分解や微小動物による捕食のほうが、大腸菌や病原菌がよりよく除去できるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">急速ろ過による二次公害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　水道水として飲める水にするために投下される塩素量は公表されないので明らかではないが、莫大な量に達していると思われる。</sentence>
+<sentence>消毒に耐えて生き残った細菌は消毒剤に対し耐性を備える。</sentence>
+<sentence>Ｏ‐１５７大腸菌の出現はそのせいではないかという人もいる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ときどき院内感染という言葉を聞くが、これは病院内で消毒をひんぱんに行なうため、逆に消毒に対し耐性を持つ菌が出現し、消毒が効かなくなったためである。</sentence>
+<sentence>それと同じ現象が起こっているというのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、マンガンやアンモニアを取る浄水処理のためには、アンモニアの１１倍以上の塩素が投下されていると書いたが、そのため二次公害として、投入された塩素と河川水中の汚濁物質であるフミン酸とが反応し、トリハロメタンやクロロホルムなどの発ガン性のあるハロゲン化合物を発生させ、これが私たちの飲む水道水に含まれることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">水道水の塩素量には上限がない</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日本の水道法では、水道法施行規則により水道蛇口で０．１ｐｐｍ<quote>「以上」</quote>の塩素が残っていることを義務づけている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが上限の定めがない。</sentence>
+<sentence>急速ろ過方式では塩素投入が必須のため、上限を設けることができないのである。</sentence>
+<sentence>そのため、水<sampling type="end" />源の水質の悪化にともない塩素量は無制限に増大している。</sentence>
+</paragraph>
+</article>
+</sample>

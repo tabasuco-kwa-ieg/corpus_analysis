@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl6_00014" version="1.0" type="fixedLength">
+<article articleID="LBl6_00014_F001">
+<paragraph>
+<sentence>　このうち、書面<sampling type="start" />交付義務の違反に対しては、クーリング・オフの期間が進行しないという民事的効果に結び付いているが、勧誘行為規制については、行政規制権限および刑事罰則には結び付いているものの、民事的効果については特に規定されていない。</sentence>
+<sentence>そのため、本法の行為規制に違反した契約の効力がどうなるかが、実務的には重要となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第２節　適用対象</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　<quote>「訪問販売」</quote>の定義（法２条１項）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　訪問販売の要件を整理すると、次のとおりである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（主体）販売業者または役務提供事業者が</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（相手方）消費者に対し</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（場所）営業所等以外の場所において（法２条１項１号）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence type="quasi">特定の誘引方法による顧客については、営業所等において（法２条１項２号）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（対象）指定商品・役務・権利の</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">（行為）契約の申込みを受け、または契約を締結して行う取引</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　販売業者または役務提供業者（主体）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　法は、<quote>「訪問販売」</quote>の主体について、各条文中に<quote>「販売業者又は役務提供事業者」</quote>と併記している。</sentence>
+<sentence>これは、適用対象について後述の指定商品制を採っていることの反映であって、商品および権利については<quote>「販売」</quote>契約とし、役務については<quote>「有償提供」</quote>契約と定めていることから、主体についても、商品および権利については<quote>「販売業者」</quote>、役務については<quote>「役務提供事業者」</quote>と書き分けているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本書では、支障がない範囲で単に<quote>「事業者」</quote>あるいは<quote>「販売業者」</quote>と呼ぶことがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　<quote>「消費者に対し」</quote>（相手方）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　法２条１項１号（定義）には、訪問販売の相手方に関する<ruby rubyText="もん">文</ruby><ruby rubyText="ごん">言</ruby>はなく、法１条（目的）には<quote>「購入者等」</quote>とあり、法５条（書面交付義務）には<quote>「購入者または役務の提供を受ける者」</quote>という文言を用いている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これらの規定自体には相手方の限定はないが、本法がそもそも消費者保護を目的とすること、法１０条１項１号（適用除外）では<quote>「営業のために若しくは営業として締結するもの」</quote>を除外する旨定めていることからも明らかなとおり、本法は、事業者と消費者との取引を対象とするものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　営業所等以外の場所において（場所の原則的要件）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　法２条１項１号は、<quote>「営業所、代理店その他の通商産業省令で定める場所（以下<quote>「営業所等」</quote>という）以外の場所」</quote>と定める。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　消費者が商品購入のために自らの意思で店舗等に出向いて取引を行う場合と、事業者側の働きかけによりこれ以外の場所で取引を行う場合とを区別するもので、訪問販売の基本的要件である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　省令１条は、<quote>「営業所等」</quote>の例として、<enclosedCharacter description="○">１</enclosedCharacter>営業所、<enclosedCharacter description="○">２</enclosedCharacter>代理店、<enclosedCharacter description="○">３</enclosedCharacter>露店、屋台店その他これらに類する店、<enclosedCharacter description="○">４</enclosedCharacter>前三号に掲げるもののほか、一定の期間にわたり、指定商品を陳列し、当該指定商品を販売する場所であって、店舗に類するもの、と定める。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ア）　<quote>「営業所等」</quote>とは（法２条１項１号）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　商法上登記を要する本店、支店に限<sampling type="end" />らず、広く営業の行われる場所をいう（通達）。</sentence>
+</paragraph>
+</article>
+</sample>

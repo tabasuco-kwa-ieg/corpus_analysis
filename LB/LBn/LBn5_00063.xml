@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn5_00063" version="1.0" type="fixedLength">
+<article articleID="LBn5_00063_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　アドレスに（ｈｔｔｐ：／／ｗｗｗ．ｃｎｎ．ｃｏｍ／）を入力し、ＣＮＮのトップページにアク<sampling type="start" />セスします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　翻訳ソフトの〈翻訳〉ボタンをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　このように、瞬時に英語→日本語と翻訳してくれます。</sentence>
+<sentence>これで、あなたの世界が広がること間違いなしです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">インターネットがわかる　その１１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">アクセスポイントとテレホーダイ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　パソコン通信やプロバイダに接続するための電話番号を、アクセスポイントと言います。</sentence>
+<sentence>大手の場合、全国展開してますから、たとえば大阪の人は市内電話０６…にかけることでパソコン通信やインターネットができます。</sentence>
+<sentence>つまり、かかる電話代はアクセスポイントにかける電話代ですから、多くの場合市内電話代で済みます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　さらに、夜１１時から翌朝８時までは、テレホーダイ１８００やテレホーダイ３６００というＮＴＴのサービスに加入すれば、どんなに使っても１８００円（または３６００円）で済みます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　私達がインターネットをする場合にかかる費用は、この電話代とプロバイダに払うお金ですが、これも今はずいぶん安くなっています。</sentence>
+<sentence>いくら使っても、月額１０００〜３６００円くらいでさがせるはずです。</sentence>
+<sentence>そうすると、テレホーダイと定額制のコースを組み合わせると、インターネットは月５０００円以下でやり放題楽しめます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>テレホーダイ申込ページです。</sentence>
+<sentence>インターネット上から申込が可能です。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">インターネットがわかる　その１２</sentence>
+<br type="automatic_original" />
+<sentence>ＩＳＤＮとは？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電話線を通るアナログ信号を、パソコンが分るデジタル信号に変換する装置がモデムです。</sentence>
+<sentence>この性能に不満があるとき、より性能のよいモデムに替えるより、最近ではＩＳＤＮに替える人が多くなりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　ＩＳＤＮでは、モデムの代りにＴＡ（ターミナルアダプタ）とＤＳＵという２つの機器を使います。</sentence>
+<sentence>そして、この２つが一緒になったものに、一体型のＴＡ（ターミナルアダプタ）があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　ところで、家庭でＩＳＤＮを使う場合、ＮＴＴのＩＮＳ６４というサービスを利用します。</sentence>
+<sentence>今ある電話線をそのまま使うので特別な工事も必要なく、先の一体型ＴＡを買ってきて自分でつないでもよいし、ＮＴＴに頼んでも３万円ちょっとで済みます。</sentence>
+<sentence>ＩＳＤＮにした場合、基本料金は確かに高くなりますが、電話線として２回線分使える（例えば、インターネットをしながら電話をかけられる）ことと、通信速度が非情に速いことを考えれば、十分に元は取れます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ＩＳＤＮにすれば、通信速度が速くなり、インターネットをしながら電話を使うことができます。</sentence>
+<sentence>とても便利です。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第６章　パソコン操作の基本</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>ここでは、パソコンを操作する上で、基本の基本となることがらを説明します。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">●　フォルダ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　ファイル</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●　フロッピーディスクのフォーマット</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>などです。</sentence>
+<br type="automatic_original" />
+<sentence>これらについて<sampling type="end" />は、知っているようであまり理解できていないのではないでしょうか？</sentence>
+</abstract>
+</article>
+</sample>

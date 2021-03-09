@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00003" version="1.0" type="fixedLength">
+<article articleID="LBj5_00003_F001">
+<paragraph>
+<sentence>　ただ、このシステムだけでは、最初の現在位置を自動的に設定してくれはし<sampling type="start" />ないし、またフェリーなどに乗ったときは、フェリーを降りたときに再設定しなければならないなどの不便が生じる。</sentence>
+<sentence>そこで、今では自律航法を採用しても絶対位置が簡単に測位できるＧＰＳ方式も併用するハイブリッド型を採用するのがふつうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以前、ホンダ・レジェンドがガスレートセンサーによる高価な自律航法システムを搭載したことがあるが、その後、ＧＰＳ方式を併用する形に変更したのもこういった理由があったと思われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、自律航法によるカーナビも手放しでは喜べない部分もある。</sentence>
+<sentence>それは車速データをもらうための接続が必要になるということだ。</sentence>
+<sentence>これはクルマのコンピュータとの接続が不可欠で、この接続が素人にはちょっとむずかしい。</sentence>
+<sentence>もし、間違って接続してしまえば作動しないばかりか、クルマ自体のトラブルを引き起こすことにもなりかねない。</sentence>
+<sentence>対して、ＧＰＳ方式はアンテナを屋外に置くだけで、あとの作業は電源を取ることぐらいだ。</sentence>
+<sentence>こちらは複雑な接続は一切いらないから、素人でも比較的簡単に取付ができるのだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　結局、自律航法のカーナビは取付ができるカー用品店が中心となり、家電店で取り扱うのはＧＰＳ方式ばかりとなっているのが現状だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>●衛星からの電波は上に遮蔽物があると途端に受信しにくくなる。</sentence>
+<sentence type="quasi">とくに高層ビルが林立する市街地では写真のように軌跡が不安定になってしまう</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●レシーバーを１１ｃｈとし、アンテナを２個用意することで可能な限りの電波を受信しようと設計されたケンウッドのＧＰＸ‐０７</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">実験―ＧＰＳ方式と自律航法、両者を比較走行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">東京・品川から横浜のランドマークタワーまでのドライブ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これまでに、カーナビにはＧＰＳ方式と自律航法の二通りがあると述べた。</sentence>
+<sentence>ここでは、両者の違いを実験を交えながら述べてみたいと思う。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実験は、九四年秋に新たに自律航法方式を加えたソニー製品で行なってみた。</sentence>
+<sentence>モデル名は、ＧＰＳ方式が一つ前のモデル・ＮＶＸ‐Ｆ１５、ＧＰＳ＋自律航法では九四年秋に登場したばかりのＮＶＸ‐Ｂ５０。</sentence>
+<sentence>ソフトはどちらもゼンリンから発売されている<quote>「全国版Ⅲ」</quote>を使用することにした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　出発地点は東京・品川駅。</sentence>
+<sentence>ここから都心でのロケーションを調べるために日本橋付近までしばらく走行し、そこから首都高速・芝浦ランプから入って首都高速１号線を南下。</sentence>
+<sentence>途中、羽田付近のトンネルをくぐり、最終目的地は横浜のランドマークタワーということにした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　経路点の設定は両者ともまったく同じ。</sentence>
+<sentence>自動経路設定機能がないので曲がるべきポイントを探し出し、順番に設定していく。</sentence>
+<sentence>経由点は全部で一五までできるが、道路が単純<sampling type="end" />なため、一〇個ほどの設定で済んだ。</sentence>
+</paragraph>
+</article>
+</sample>

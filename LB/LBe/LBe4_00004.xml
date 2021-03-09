@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe4_00004" version="1.0" type="fixedLength">
+<article articleID="LBe4_00004_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">図７．１７　試作→実<sampling type="start" />用化の移行でのハードウエア</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第八章…誰にでもわかるファジィの応用システムの開発環境</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ファジィの応用システムの開発環境の概要</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ファジィの開発環境、すなわちファジィの応用システムを開発する時に用いる素子、道具が、開発の成否に大きくかかわることは、すでに第七章で説明した通りです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして、これらの検討には、次の三つを考えれば良いでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　ファジィのソフトウエア開発環境→試作・評価環境</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　ファジィのハードウエア環境</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">↓入手可能な、商品システム用ハードウエア→実用化環境</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　提供を受けることのできるエンジニアリング→総合環境</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　次に、これらの内容について説明しましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図８．１　ファジィ開発環境の検討・選定</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ファジィの応用システムのソフトウエア開発環境</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　メンバーシップ関数を定義し、ＩＦ・ＴＨＥＮルールを作り、プログラム化するための環境で、次のようなもので構成されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">開発支援ソフトウエア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　プログラムを入力・編集を支援するエディタ、プログラムの不具合の発見、修正を支援するデバッガ、評価を支援するシュミレータ、モニタ、などと名付けられたソフトウエア群で、ファジィ開発支援装置に内蔵されているか、フロッピーディスクなどの媒体で、メーカ側から提供されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そして、これらはプログラムレスとして色々と使い易いように工夫されているのが普通ですが、その能力は色々です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　又、制御用の分野では、ファジィソフトウエア・プログラムの開発環境と共に汎用的コントローラとして実用レベルの入出力信号の接続端を持ち、そのままで試作・評価および実用システムとして使用できるシステムも市販されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">コンパイラ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ファジィ用のコンパイラとは、開発支援ソフトウエアによって作成された、メンバーシップ関数、ＩＦ・ＴＨＥＮルールなどのファジィ語から、商品となるターゲットシステム用のプログラム言語、例えば<quote>「Ｃ言語」</quote>などを生み出すものや、ファジィ語を直接ファジィ・プロセッサーが理解できる機械語に変換するものなどがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ファジィコンパイラによってターゲットシステム用のプログラム言語、例えば<quote>「Ｃ言語」</quote>になったファジィ知識ベースは、そのターゲットシステム用のコンパイラ、例えば<quote>「Ｃコンパイラ」</quote>などによってターゲットシステムのコンピュータが理解できるコードに変換されることは従来から使われているコンピュータシステムと同じです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図８．２　ファジィ開発支援プログラムとファジィコンパイラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ファジィの応用システムのソフトウエア・プログラム開発システムの実例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　現在、数社から市販されていますが、ここでは、プログラム<sampling type="end" />レスで評判のトガイ・インフラロジック社から出されているファジィ開発システム<quote>「ＴＩＬシェル」</quote>を紹介しましょう。</sentence>
+</paragraph>
+</article>
+</sample>

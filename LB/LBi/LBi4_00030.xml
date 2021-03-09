@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00030" version="1.0" type="fixedLength">
+<article articleID="LBi4_00030_F001">
+<paragraph>
+<sentence>　ところが、一九七六年のこの裁判の二審（結果は有罪）と最高裁上告審（結果は棄却）では何の<sampling type="start" />被告人の利益も守られなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　きわめて異常なことに、二審の意気込みの違いは歴然としていた。</sentence>
+<sentence>証人のたてかたも、検察側は六七人であるのに、弁護側は二人であった。</sentence>
+<sentence>検察側は裁判官の心証形成に効したともいわれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかも、一審と二審との間で、使われた資料の判定と評価がくつがえっただけである。</sentence>
+<sentence>そのよって立つのは、犯罪が<quote>「起こったかもしれない可能性」</quote>と<quote>「起こらなかったかもしれない可能性」</quote>しかない。</sentence>
+<sentence>病気に<ruby rubyText="り">罹</ruby><ruby rubyText="かん">患</ruby>した人間はいる。</sentence>
+<sentence>関連性も事件性も、証拠だてるものはない。</sentence>
+<sentence>正当な弁護側は、ひたすら正義と科学を信じたとも言い直せる。</sentence>
+<sentence>だが、判決をくつがえそうとする側は、必死であった。</sentence>
+<sentence><ruby rubyText="きゅう">窮</ruby><ruby rubyText="そ">鼠</ruby>は猫を<ruby rubyText="か">嚙</ruby>む。</sentence>
+<sentence>レトリックを駆使して、有罪を得る。</sentence>
+<sentence>そこでは、<quote>「起こったかもしれない可能性」</quote>で、疑わしき人を罰して、事件を解決せしめたということだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　法廷での争点は三点。</sentence>
+<sentence>一に、自白の<ruby rubyText="しん">信</ruby><ruby rubyText="ぴょう">憑</ruby>性、二に、起訴状に書かれた方法で、潜伏期の短かさや発病に至るか、三に、犯罪による流行か、自然流行か、であった。</sentence>
+<sentence>最後には、<quote>「この事件の患者の中に潜伏期が三日以内というものがいるが、腸チフスの病理からいって短すぎる、短い潜伏期の腸チフスはあるのかどうか」</quote>という細菌学的な問題が最大の争点となった。</sentence>
+<sentence>さきにも述べたように、腸チフスは他の動物では実験しようのない人間だけの感染症であるため、実証的な資料は出し得ない。</sentence>
+<sentence>そこで、アメリカでメリーランド大学医学部伝染病学科ホーニック教授が一九七〇年に発表した研究論文『腸チフス・病因と免疫学的予防』の中で提示された研究が、取り上げられた。</sentence>
+<sentence>これは、腸チフスワクチンの耐性を調べる研究の一環として、囚人を使って行なわれた、世界で唯一の大規模な人体実験である（七三一部隊の研究は公表されていない）。</sentence>
+<sentence>ここで、投与菌量と発病率と潜伏期の関係が示される。</sentence>
+<sentence>投与量が多いと、発病率は上がり、潜伏期は中央値で見れば、いくぶん短縮されている。</sentence>
+<sentence>ちなみに、チフス菌の生菌数が一〇の七乗で、発病率五〇パーセント、潜伏期四〜五六日、中央値七・五日で、これを一〇の九乗にすると、九五パーセント、三〜二二日、中央値は五・五日となる。</sentence>
+<sentence>ここでは三日で発症したものはいるということである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一審の判決文は、<quote>「<sentence>腸チフスの潜伏期は他の諸条件の関係もあるが、概して言えば一〇の九乗の菌量の場合、ほぼ三日が標準的限界ではないかと考えられる。</sentence>
+<sentence>（中略）もともと腸チフス菌を人体に投与するにしても投与方法の制約があるし、他方腸チフスが全身性の感染症である以上、病理上の限界も考えなければならない。</sentence>
+<sentence type="quasi">したがって、潜伏期二日以内というのはありえないか、きわめて稀な事例、一日という<sampling type="end" />のは現代医学ではありえないことと解釈されるのではあるまいか</sentence>
+」</quote>とある。</sentence>
+</paragraph>
+</article>
+</sample>

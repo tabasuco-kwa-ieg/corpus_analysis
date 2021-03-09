@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq6_00002" version="1.0" type="fixedLength">
+<article articleID="LBq6_00002_F001">
+<list>
+<listItem>
+<figureBlock>
+<caption>
+<sentence type="quasi">かけ合わ<sampling type="start" />せたい株から、咲いたばかりの花をそっと取ってくる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<paragraph>
+<sentence type="quasi">　花粉を吹いている雄しべを選びとる</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">６</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<paragraph>
+<sentence type="quasi">　雌しべの柱頭に雄しべの花粉をつけてやる</sentence>
+<br type="automatic_original" />
+</paragraph>
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">７</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ラベルに、種子親、花粉親の品種名と作業をした日付を書いて、とめる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">８</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>紙袋をかぶせ、ホッチキスでとめておく。</sentence>
+<sentence type="quasi">うまくいけば、秋にタネを採集できる</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">雄しべ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">雌しべ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●鉢植えツツジの管理・作業</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">置き場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　戸外で直射日光を受けると花弁が日焼けすることがあります。</sentence>
+<sentence>日陰に移してやると長く花を楽しむことができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、雨にあうと花が早く落ちるので開花期には室内か軒下に置いて観賞するのもよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">水やり</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　開花中の鉢を乾燥させると、花がしおれてしまいます。</sentence>
+<sentence>強くしおれると回復不可能になります。</sentence>
+<sentence>注意して早めに水をやってください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">肥料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　庭植えと同じ理由で肥料は施しません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">病害虫の防除</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ツツジグンバイムシ、ルリチュウレンジが発生することがあります。</sentence>
+<sentence>薬剤を散布して防除します（１１７から１１８ページ参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">花がら摘み</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　花がら摘みの作業は庭植えと同じ要領で行います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">鉢植えの室内観賞</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ツツジの鉢植えを、蕾が色づきかけたころに室内に持ち込んで室内光線のもとで開花させると、花色が上品な淡色になります。</sentence>
+<sentence>盆栽のツツジはこのような方法で室内に持ち込んで開花させ観賞されています。</sentence>
+<sentence>盆栽に限らず普通の鉢植えツツジでも室内で開花させると戸外とはまったく違った上品な花色で咲きます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<rejectedBlock type="foreign" />
+<sentence type="quasi">蕾が色づいてから室内に持ち込んで咲かせたクルメツツジ‘天女の舞’</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４月のアザレア</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アザレアを温室に入れずに戸外の霜よけの下で自然に咲かせると、４月から５月に開花してきます。</sentence>
+<sentence>寒さに弱いので、冬の間は霜よけが必要です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●アザレアの管理・作業</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">置き場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　花の終わった鉢は戸外の日当たりのよい場所に置きます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">水やり</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　雨の日以外は毎日水をやります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">肥料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　３月にお礼肥を施さなかった鉢に施肥します。</sentence>
+<sentence>４号鉢当たり大粒の緩効性肥料を４〜５粒鉢土の表面に置きます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">剪定、鉢替え</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　花の終わったものは、先月に引き続き剪定、鉢替えを行います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ツツジの名所</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ツツジの名所としてよく知られているのはキリシマツツジで有名な群馬県の館林つつじが丘公園でしょう。</sentence>
+<sentence>千葉県野田の清水公園、浜松市フラワーパーク、東京都の六義園と根津神社、箱根の三河屋蓬莱園や山のホテルの庭園、京都の長岡天神のキリシマ、三重県の青山高原のヤマツツジ、九州では雲仙、阿蘇、霧島、久住、由布、万年山などのミヤマキリシマの自生地、久留米市のツツジ公園、長崎県平戸の武家屋敷、鹿児島県高峠つつじヶ丘公園のサタツツジ、沖縄県東村の村民の森のケラマツツジの群植など<sampling type="end" />も見事です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00029" version="1.0" type="fixedLength">
+<article articleID="LBk3_00029_F001">
+<paragraph>
+<sentence>　一方、日本では東大が九五年九月から、国産ＯＳ<quote>「トロン」</quote>の創案者である坂村教授らの音<sampling type="start" />頭取りで、漢字のコード化プロジェクトを開始した。</sentence>
+<sentence>まず、日本で使われるあらゆる漢字を収集。</sentence>
+<sentence>中国、台湾、韓国とも連携を取って、すべての漢字にコードを与える。</sentence>
+<sentence>それを電子文字化し、トロン・システムを通じてだれでも自由に使えるようにする。</sentence>
+<sentence>ゆくゆくは世界の諸言語のあらゆる文字をコンピューターで使えるようにするという気宇壮大な計画だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　プロジェクトの研究代表を務める田村毅教授（仏文学）は<quote>「<sentence>コミュニケーションの道具にすぎないコンピューターに合わないから、言語の方を変えろとは本末転倒も甚だしい。</sentence>
+<sentence type="quasi">言語に合わせて技術が進歩すべきなのだ</sentence>
+」</quote>と強調する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　情報革命が手に入れた世界の直接コミュニケーションの結果が、多様な文化を破壊することであってはならない。</sentence>
+<sentence>むしろ固有文化を充実し、情報発信のためのツールを強化することこそ豊かな地球につながる。</sentence>
+<sentence><quote>「アジアの時代」</quote>を迎え、日本が果たすべき役割は小さくない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆ユニコード</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　世界のあらゆる文字をコンピューターで表現するため、ＩＳＯはかねて共通の文字コード体系を検討していた。</sentence>
+<sentence>検討作業の遅れに業を煮やした米国がＩＳＯに受け入れを迫ったのが自ら研究開発したユニコード。</sentence>
+<sentence>日本などの強い反対にもかかわらず、ユニコードは九二年、ＩＳＯの投票で世界基標に決まった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ユニコードはルーツが同じ漢字には、現在、各国で多少、字形が異なっても同じコードを割り当てたため、日本向け仕様のソフトでは中国語で使っているとおりの字形では同時に使えない。</sentence>
+<sentence>地名・人名用や異体字などを含めて十万字近いという日本の漢字の七〇％以上を切り捨てた。</sentence>
+<sentence>これが普及すると、コンピューターで漢籍や古文書が保存できなくなるなどさまざまな弊害が予想される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">７　情報洪水で脚光浴びる検索・整理の水先案内人</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">情報ソムリエ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　東京・秋葉原にある凸版印刷本社。</sentence>
+<sentence>消費行動研究室の手塚優子のところに営業担当者から急ぎのファクスが届いた。</sentence>
+<sentence>検索依頼だ。</sentence>
+<sentence><quote>「コンビニエンスストアでどんな新製品を発売しているか、全国の状況をすぐ調べてほしい」</quote>。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　手塚は<quote>「コンビニエンスストア」</quote>とキーワードを入力。</sentence>
+<sentence>検索結果は数千件もある。</sentence>
+<sentence>普通の人ならここで途方に暮れてしまう。</sentence>
+<sentence>実はここからが、手塚の腕の見せ所だ。</sentence>
+<sentence>いったん元に戻り、コンビニエンスストアの略<quote>「ＣＶＳ」</quote>でも拾えるようにする。</sentence>
+<sentence>一方で<quote>「新製品」</quote><quote>「弁当」</quote><quote>「パン」</quote><quote>「総菜」</quote>などのキーワードをＯＲ（または）で検索式に盛り込む。</sentence>
+<sentence>結果は見事に<quote>「八百件」</quote>と出た。</sentence>
+<sentence>後は見出しをチェックして必要なものを指定してもらえばわけはない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　手塚は各種のデータベースを駆使して情報を探し出す<quote>「サーチャー」</quote>だ。</sentence>
+<sentence>『新英和大辞典』（研究<sampling type="end" />社）で<quote>「コンピューター」</quote>を引くと第一義的には<quote>「計算者」</quote>とあり、次が<quote>「計算機」</quote>だ。</sentence>
+</paragraph>
+</article>
+</sample>

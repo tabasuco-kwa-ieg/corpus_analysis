@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj4_00013" version="1.0" type="fixedLength">
+<article articleID="LBj4_00013_F001">
+<titleBlock>
+<title>
+<sentence>水道<sampling type="start" />水がおいしくないのは何が原因でしょうか？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　有機物</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　ミネラル</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　塩素</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">なぜおいしいのかを知ること</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　山道を歩いていると、水飲み場がありました。</sentence>
+<sentence>近くのわき水を樋（とい）で引いているようです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「うまそうな水だ。</sentence>
+<sentence type="quasi">飲んでみよう</sentence>
+」</quote>と、子どもに問いかけても、子どもは水道水しか飲んだことがなく、しりごみするかもしれません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ましてや、木の葉や砂が混じっていると、それだけできたない水と思ってしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ハンカチを袋のように結んで樋の先につけると、木の葉や砂がきれいにとれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは、ハンカチを使った簡単な<quote>「<ruby rubyText="ろ">濾</ruby><ruby rubyText="か">過</ruby>」</quote>を行ったのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この濾過は、浄水場でも必ず行われるし、水をきれいにする基本ともいえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地下水は、自然が水を濾過しているともいえます。</sentence>
+<sentence>牛乳パックに、小石、炭、じゃり、土を使って<quote>「濾過装置」</quote>を作ってみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、この濾過の方法では、水に溶けているものによっては分離して取り除くことができません。</sentence>
+<sentence>そのときには、<quote>「蒸留」</quote>という方法を用います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは、水に何かが溶けているとき、いったん水で熱して沸騰させて水蒸気にします。</sentence>
+<sentence>水が気化されることによって生じた水蒸気を、また冷やすことによって水に戻すというわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水に溶けていたものは、水が蒸発することによって水から分離されます。</sentence>
+<sentence>もし、食塩が溶けていたのであるならば、白い固体として現れてきます。</sentence>
+<sentence>このことを<quote>「蒸発乾固」</quote>といいます。</sentence>
+<sentence>ここでできた水を<quote>「蒸留水」</quote>といい、<quote>「純水」</quote>に近い状態になります。</sentence>
+<sentence>この蒸留水は無機塩類や有機物がほとんど取り除かれており、薬剤を作る際や、化学実験などで使われていますが、飲んでおいしい水ではありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　純粋な水がけっしておいしいとはいえません。</sentence>
+<sentence>山の自然な水は、水道水や蒸留水よりも、人間の口にはおいしいと感じるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これは、よく<quote>「ミネラルウォーター」</quote>とか<quote>「ナチュラルウォーター」</quote>といわれていますが、水の成分の中に、カルシウム、マグネシウム、ナトリウム、カリウムなどが含まれているのです。</sentence>
+<sentence><quote>「鉱水」</quote>ともいわれますが、自然の水の中にはこのような成分が含まれており、おいしく感じるとともに、人間のからだの栄養になる成分も含まれているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「殺菌のために入れる塩素でカルキ臭い水道水はあまり飲みたくない」</quote>という風潮が高まり、多くのミネラルウォーター類が販売されるようになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼簡単にできる濾過装置</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼簡単にできる蒸留</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">▼水道の水ができるまで</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">昔の人々の知恵は自然に優しい</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　昔の日本人は、台所からの排水を直接川に流さない工夫をしていました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、佐賀県の農村では、<quote>「ゆどね」</quote>と呼ばれる排水をためる装置がありました。</sentence>
+<sentence><quote>「ゆどね」</quote>で汚れを沈殿させてか<sampling type="end" />ら、上澄みの水を流していたのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

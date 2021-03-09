@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd8_00010" version="1.0" type="fixedLength">
+<article articleID="LBd8_00010_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">書<sampling type="start" />き手の立場の不明確な文章</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　書き手がどんな状況、また環境の中で文章を書いているのか、この点が明らかでないことには、読み手に対して、内容を正しく伝えることができません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次の文章を読んでみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　昨日の午後、ある患者が看護室を訪れ、<quote>「<sentence>保護室の掃除をさせてください。</sentence>
+<sentence type="quasi">以前、落書きをしたことがあるんです</sentence>
+」</quote>と言いました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、一緒に保護室へ行きました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　これは、ある精神病院における看護婦と患者の交流を描いた文章の書き出しですが、一読して、どこか物足りません。</sentence>
+<sentence>物足りないのは、<quote>「そこで…」</quote>の行です。</sentence>
+<sentence><quote>「そこで、私は、患者と一緒に保護室へ行きました」</quote>と、<quote>「一緒」</quote>の主体となる<quote>「私」</quote><quote>「患者」</quote>を入れることで、文章が明確になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このように、書き手の立場がどうもすっきりしないな、と思われる文章には、必ず、主語が抜けています。</sentence>
+<sentence>主格があいまいです。</sentence>
+<sentence>主語を明確に打ち出すことは、書き手の立場、行動が、読み手にしっかり植え付けられるということです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　猫をテーマにしたユニークな短文を講評したことがあります。</sentence>
+<sentence>その短文の悪い点は、書き出しの箇所でした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　先日、テレビ番組で、“日本猫にも血統証を”というテーマを耳にしました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　まず、テレビ番組と耳は、もちろん、音声の部分でかかわりがありますが、“日本猫にも血統証を”というテレビ番組の放映されることをラジオできいたのか、それとも、テレビを見ていて、このテーマの文字が画面に流れるのを同時に耳にしたのか、どちらともとれる書き出しです。</sentence>
+<sentence>しかし、これは、後者の方でしょう。</sentence>
+<sentence>とすると、次のように書くことで、筆者の状況を特定することができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　先日、“日本猫にも血統証を”というテレビ番組を見ました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　テレビは、見ることときくことが同時に可能です。</sentence>
+<sentence>そして普通は、テレビはきくことを主体にするのではなく、見ることを主体にすることにおいてテレビを受けとめていることを考えると、見ることに重点をおいて表現することが、書き手の立場を鮮明にさせることになるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">敬語の使い方を誤った文章</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　敬語とは、その場にいる相手、または第三者をうやまう言葉のことをいいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　敬語には、尊敬語、謙譲語、ていねい語の三種類があり、尊敬語は、他人に対して敬意を表するもの、謙譲語は、自分がへりくだることによって相手を高めること、ていねい語は、相手に対し話し方をていねいにするもの、というふうにわけられます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日常生活の場においても、敬語は、人間関係の潤滑油の役目を果たすほどに重要な言葉で、敬語の使い方を誤ったばかりに相手を怒らせてしまったり、まとまるはずであった商談がまとまらなかった、という話をよく耳にします。</sentence>
+<sentence>言葉の行き違いというの<sampling type="end" />は、敬語の使い方をまちがったことからくる例が多いようです。</sentence>
+</paragraph>
+</article>
+</sample>

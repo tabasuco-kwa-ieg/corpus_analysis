@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00042" version="1.0" type="fixedLength">
+<article articleID="LBf3_00042_F001">
+<paragraph>
+<sentence>　居住者に対し国内において給与等の支払いをする者は、その支払いの際、その給与等について所得税を<sampling type="start" />徴収し、その徴収の日の属する月の翌月１０日までに、これを国に納付しなければならない。</sentence>
+<sentence>ただし、常時２人以下の家事使用人のみに対し給与等の支払いをする者は、その給与等について所得税を徴収して納付することを要しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●源泉徴収税額の納期の特例</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（げんせんちょうしゅうぜいがくののうきのとくれい）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　居住者に対して国内において給与等の支払いをする者は、当該支払いをする者の事務所その他これらに準ずるものでその支払事務を取り扱うもの（<sentence>給与等の支払いを受ける者が常時１０人未満であるものに限る。</sentence>
+<sentence type="quasi">以下事務所等という</sentence>
+）につき、当該事務所等の所在地の所轄税務署長の承認を受けた場合には、１月から６月まで、および７月から１２月までの各期間（当該各期間の内その承認を受けた日の属する期間については、その日の属する月から当該期間の最終月までの期間とする）に当該事務所において支払った給与等について源泉徴収した所得税額については、当該各期間の翌月１０日までに国に納付することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、当該源泉徴収所得税額の納付の期限の特例の適用を受けているものについては、そのものが７月から１２月までの間に支払った給与等に係る源泉徴収所得税額の納付の期限について、当該事務所等の所在地の所轄税務署長の承認を受けた場合には、翌年１月１０日ではなく、同月２０日を納付の期限とする特例の規定の適用を受けることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">税額表の使用区分</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●給与所得の源泉徴収税額</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（きゅうよしょとくのげんせんちょうしゅうぜいがく）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　賞与以外の給与について所得税法１８３条１項（源泉徴収義務）の規定により徴収すべき所得税の額は、次に掲げる給与等の区分に応じそれぞれに定める税額とする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　給与所得者の扶養控除等申告書を提出した居住者に対し、その提出の際に経由した給与等の支払者が支払う給与等については、次に掲げる場合の区分に応じ、その給与等の金額（<enclosedCharacter description="○">ロ</enclosedCharacter>、<enclosedCharacter description="○">ハ</enclosedCharacter>、<enclosedCharacter description="○">ニ</enclosedCharacter>または<enclosedCharacter description="○">ヘ</enclosedCharacter>に掲げる場合にあっては、それぞれ当該金額の２倍に相当する金額、３倍に相当する金額、給与等の月割額または日割額とする）を基として、当該申告書に記載された控除対象配偶者の有無、および扶養親族の有無または人数に応ずる次に定める税額。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">イ</enclosedCharacter>　給与等の支払期が毎月と定められている場合には、別表第２の甲欄に掲げる税額。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">ロ</enclosedCharacter>　給与等の支払期が毎半月と定められている場合には、別表第２の甲欄に掲げる税額の２分の１に相当する税額。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">ハ</enclosedCharacter>　給与等の支払期が毎旬と定められている場合には、別表第２の甲欄に掲げる税額の３分の１に相当する税額。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">ニ</enclosedCharacter>　給与等の支<sampling type="end" />払期が月の整数倍の期間ごとと定められている場合には、別表第２の甲欄に掲げる税額に当該整数を乗じて計算した金額に相当する税額。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

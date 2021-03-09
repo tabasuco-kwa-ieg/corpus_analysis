@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp4_00008" version="1.0" type="fixedLength">
+<article articleID="LBp4_00008_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">第４章　試験管から臓器が芽生<sampling type="start" />える日</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">培養中のマウスＥＳ細胞（大阪大学、２０００年）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">バイオ企業の資金でヒトＥＳ細胞を分離</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一九九八年十一月六日、ある意味では体細胞クローン動物よりも衝撃的な研究成果が発表された。</sentence>
+<sentence>アメリカのウィスコンシン大学のジェームス・トムソンらが、ヒトのどんな組織をもつくることができるとされる細胞を取り出すことに成功したのだ。</sentence>
+<sentence>この細胞は<quote>「ＥＳ細胞」</quote>と呼ばれ、ある時期の胚の内側の細胞を取り出し、特殊な方法で培養することで得られる。</sentence>
+<sentence>トムソンらは、その細胞から軟骨や骨、筋肉などをつくり出すことに成功した。</sentence>
+<sentence>また同日、アメリカのジョンズ・ホプキンス医科大学のジョン・ギアハートらが、胚ではなく胎児の始原生殖細胞（将来、精子や卵子になる細胞）から、ＥＳ細胞とよく似た細胞を取り出したと発表した。</sentence>
+<sentence>こちらは<quote>「ＥＧ細胞」</quote>と呼ばれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＥＳ（Ｅｍｂｒｙｏｎｉｃ　Ｓｔｅｍ）細胞とは、<quote>「胚性幹細胞」</quote>と訳され、発生初期の胚（受精してから子宮に着床するまでの卵）からつくられることから、この名前が付けられている。</sentence>
+<sentence>ＥＳ細胞には大きな特徴が二つある。</sentence>
+<sentence>一つは身体のあらゆる臓器や組織に分化する能力＝<quote>「多能性」</quote>であり、もう一つは無限に増殖できる能力＝<quote>「不死性」</quote>である。</sentence>
+<sentence>通常の細胞は一定の回数分裂すると、それ以上は分裂できない。</sentence>
+<sentence>ガン細胞など不死性をもつほかの細胞では染色体の数が通常の数から増減することが多いのだが、ＥＳ細胞は通常の状態を維持し続ける。</sentence>
+<sentence>だからＥＳ細胞は、マスコミなどでは<quote>「万能細胞」</quote>などとも呼ばれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ヒトでは、受精後五〜七日の<quote>「胚盤胞」</quote>と呼ばれる初期胚の内部を取り出してつくる。</sentence>
+<sentence>マウスでは一九八一年に初めてつくられ、トランスジェニックマウスやノックアウトマウス（第３章参照）の作成などに利用されている。</sentence>
+<sentence>それ以来、ＥＳ細胞またはＥＧ細胞は、ニワトリ、ミンク、ハムスター、ブタ、アカゲザル、キヌザルですでに報告されている。</sentence>
+<sentence>アカゲザル、キヌザルについては、後述するトムソンらが報告している。</sentence>
+<sentence>ヒトのものは前述のトムソンらとギアハートらが世界初だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このＥＳ細胞に、ある条件を与えてやれば、目的の組織や臓器だけをつくることができ、たとえばパーキンソン病や糖尿病などの治療に役立つと期待されている。</sentence>
+<sentence>クローン技術と組み合わせれば、自分と同じ遺伝情報をもち、拒絶反応を起こさない組織や臓器をつくることもできるとされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　だが、ヒトのＥＳ細胞をつくるためには、どうしてもヒトの胚を壊さなくてはならない。</sentence>
+<sentence>さらに、核を取り除いた未受精卵に体細胞を移植してつくった<quote>「クローン胚」</quote>からも、ＥＳ細胞がつくれるとされている。</sentence>
+<sentence>したがって、ＥＳ細胞から<sampling type="end" />も倫理的な問題が生じる可能性があり、規制が必要だという議論がまき起こった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

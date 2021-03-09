@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl3_00058" version="1.0" type="fixedLength">
+<article articleID="LBl3_00058_F001">
+<list>
+<listItem>
+<noteBody>
+<sentence>８）　東京高判平成５年６月２９日高刑４６<sampling type="start" />巻２号１８９頁，西田典之<quote>「電子計算機使用詐欺罪の成立が認められた事例」</quote>判時１５１５号２５２頁（１９９５年）参照。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　つぎに<quote>「不正な指令」</quote>の例としては，プログラムを改変することにより，自己の口座への不実の振替入金を実現する場合等が考えられよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　前段の行為は，積極利得型と債務免脱型に分けられる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　積極利得型の典型例は，すでにのべたＣＤカードの不正利用による預金の付け替え，架空の入金データの入力であるが，最近では，ファームバンキング・システムを利用した架空の振替送金データの入力の事例も発生している。</sentence>
+<sentence>そこでは，事実に反するデータの入力が<quote>「虚偽の情報」</quote>にあたり，その結果改変された顧客元帳ファイル上の口座残高記録が<quote>「不実の電磁的記録」</quote>であり，そのことによって事実上預金を自由に処分できるに至ったことが<quote>「財産上不法の利益」</quote>にあたることになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　金融機関のオンラインシステムの不正操作につき，本条の適用された事例としては，前述の神田信金事件のほか，つぎのものがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（ア）　第一勧銀事件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　預金・為替業務に従事する銀行員である被告人が，顧客Ａが預金通帳等を貸金庫に預けたままにしているのを利用し，あらたにＡ名義の普通預金通帳を作成し，これを使用してオンラインシステムの端末機を操作し，顧客の口座から自己の口座および第三者の口座にに不正に合計１６０万円を振替入金した事案であり，振替入金の事実がないのにかかわらず振替入金があったとする虚偽の情報を与えたものと認定されている。</sentence>
+<sentence>なお，本件の被告人は，このほかにも，金額４５００万円の偽造の振込依頼書を作成して，他の為替係員Ｂに回付し，Ｂに正規の振込依頼書と誤信させて，被告人らが予め開設しておいた他の銀行の口座に振込入金処理をなさしめているが，この点については，Ｂが他の行員による照査の手続を経ないでオンラインシステムの端末機を操作して送信を行う，いわゆるダイレクト送信の権限を有していたことから，Ｂに処分権限ありとして，Ｂを被欺罔者とする２４６条２項の詐欺利得罪で起訴され，同罪の成立が認められている<noteMarker text="９）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>９）　前掲注４）大阪地判昭和６３年１０月７日。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">（イ）　青梅信金事件</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　本件の被告人は，信用金庫の為替係の職員であったが，Ｘと共謀のうえ，オンラインシステムの端末機を不正に操作し，実際には振込依頼をうけた事実がないにもかかわらず，昭和６０年６月１２日から６２年４月２３日までの間，２回ないし１０回に分けてＸが設定した他の金融機関の預金口座に振込入金処理を行い，昭和６２年１２月１４日から６３年１１月１０日までの間，５回<sampling type="end" />にわたり同様の行為を行い，合計９億７０００万円の入金処理を行った。</sentence>
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

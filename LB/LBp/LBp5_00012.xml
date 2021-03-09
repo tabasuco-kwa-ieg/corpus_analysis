@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00012" version="1.0" type="fixedLength">
+<article articleID="LBp5_00012_F001">
+<paragraph>
+<sentence>半導体チップなどを内蔵しても表面に凸凹が生<sampling type="start" />じないための技術なども開発されています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">【接触型ＩＣカードの構造】</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">非接触型ＩＣカードの構造</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　非接触型ＩＣカードも，基本的には接触型ＩＣカードと同様の構造となっています．</sentence>
+<sentence>半導体チップを内蔵しており，そこに情報を記憶させたり，そこで情報を処理する仕組みとなっています．</sentence>
+<sentence>また，カードの基材にも大きな違いはありません．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　最も大きな違いは，非接触型ＩＣカードは電波を使って外部と情報のやりとりをする必要があるため，接触型ＩＣカードの接点（端子）の代わりに電波を受発信するためのアンテナ（コイル）をカードに内蔵していることです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このアンテナは，製品によって形が違いますが，通常はカードの平面上に図のように配置されています．</sentence>
+<sentence>このアンテナは，外部と情報のやりとりをする役割を担いますが，同時にＩＣカードのＣＰＵなどに電力を供給する役割も果たしています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　カードをリーダ／ライタに近づけると，アンテナであるコイルに微量の電流が流れますが，これを電源として半導体チップを動かします．</sentence>
+<sentence>そのため非接触型ＩＣカードには，通常，電池は内蔵されていません．</sentence>
+<sentence>この仕組みのおかげで，カードを薄型化・軽量化することが可能になり，また電池切れの心配がなくなるなど，信頼性の面でも大きく貢献しています．</sentence>
+<sentence>また，アンテナに発生する電流の変化を利用してＩＣカードとリーダ／ライタの間でデータのやりとりを行います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　非接触型ＩＣカードは，さらに電波の飛ぶ距離の長さに応じて，密着型，近接型，近傍型，遠隔型などの種類があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　密着型は，リーダ／ライタにワンタッチするような形で使うものです．</sentence>
+<sentence>一応非接触型なので，接触型のようにリーダ／ライタとＩＣカードの接点を完全に接触させる必要はありませんが，軽く触れるような感じで使うものです．</sentence>
+<sentence>非接触型の通勤・通学定期券や交通機関のチケットなどは，近接型のＩＣカードが採用されることが多いのですが，念のため，<quote>「軽く触れるように」</quote>などといわれることがあるようです．</sentence>
+<sentence>ＪＲ東日本の通勤・通学定期券，プリペイドカードも<quote>「タッチ・アンド・ゴー方式」</quote>などといわれています．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　逆に遠隔型になると，１ｍぐらい離れていても使えるカードがあります．</sentence>
+<sentence>ただし，遠くまで電波を飛ばすということは，それだけ電波の強度を強くする必要がある，あるいは電波が弱くてデータの交信に抜けが生じる可能性が高くなるということを意味します．</sentence>
+<sentence>したがって，遠隔型のＩＣカードは電波の管理上の制約や送るデータの量や質をよく考えたうえで採用する必要があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，世界各国でＩＣカードを用いた有料道路の料金所の自動料金収<sampling type="end" />受システムが実用化されており，日本でもスタートしましたが，これは，車に搭載したＩＣカードと料金所ゲートとの間で電波の交信をしている<quote>「遠隔型」</quote>ということではなく，車に搭載したＩＣカードリーダ（車載器）とゲートとの間で電波の交信をしています．</sentence>
+</paragraph>
+</article>
+</sample>

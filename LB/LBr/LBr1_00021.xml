@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr1_00021" version="1.0" type="fixedLength">
+<article articleID="LBr1_00021_F001">
+<paragraph>
+<sentence>実際に出版されたのは彼の死後で、彼が許可したわけ<sampling type="start" />ではなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+<article articleID="LBr1_00021_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">付録</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">澤田　直　編</sentence>
+<br type="automatic_original" />
+</authorsData>
+<contents>
+<list>
+<listItem>
+<sentence type="quasi">サルトル主要作品案内</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">サルトル年譜</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">用語集</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">参考文献リスト</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">訳者あとがき</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</contents>
+<titleBlock>
+<title>
+<sentence type="quasi">サルトル主要作品案内</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　サルトルの仕事は多岐にわたる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここでは便宜的にⅠ文学、Ⅱ哲学、Ⅲ評論、Ⅳ評伝、Ⅴ遺稿に分類して、簡単に内容を紹介しよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅰ文学</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　文学作品は、哲学とともにサルトルの仕事の主軸をなす。</sentence>
+<sentence>第２次大戦頃までは主に小説、戦後は戯曲を中心に創作活動が行われた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">『嘔吐』Ｌａ　Ｎａｕｓéｅ（１９３８）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　３０代の年金生活者アントワーヌ・ロカンタンの手記という体裁をとった哲学小説。</sentence>
+<sentence>世界中を旅したこともある主人公は、いまフランスの港町ブーヴィルの図書館で、歴史論文を仕上げる単調な日々を過ごしている。</sentence>
+<sentence>ある日、平凡な日常性のただなかで不思議な嘔吐感を経験をする。</sentence>
+<sentence>繰り返されるこの不快感の意味を探るうちに、公園でマロニエの木の根を見ているロカンタンに、存在の偶然性という哲学的な意味が開示される。</sentence>
+<sentence>彼は論文を放棄し、これまでの生活に終止符を打つことにする。</sentence>
+<sentence>ブーヴィルを立ち去る日、黒人歌手が歌うジャズのレコードを開いているうちに、自分が真に求めているのが芸術作品の創造であることに気づき、小説を書く決意をかためる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　完璧な瞬間を求める女性アニーや、図書館の本をアルファベット順に読破することを夢みる独学者といった魅力的な人物も登場し、若きサルトルのあらゆる問題系が凝縮された傑作。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">『壁』Ｌｅ　Ｍｕｒ（１９３９）※新潮文庫版のタイトルは『水いらず』</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　実存の不安を主題とした短編<quote>「水いらず」</quote><quote>「壁」</quote><quote>「部屋」</quote><quote>「エロストラート」</quote><quote>「一指導者の幼年時代」</quote>を収めた短編集。</sentence>
+<sentence>表題作<quote>「壁」</quote>の舞台は、内戦中のスペイン。</sentence>
+<sentence>人民戦線派の活動家パブロ・イビエタは、フランコ軍につかまり、処刑されるのを待っている。</sentence>
+<sentence>隠れている仲間の居場所を白状すれば命の助けてやると言われるが、もちろん仲間を裏切るつもりはない。</sentence>
+<sentence>死の直前、相手をからかうつもりで、嘘の隠れ場所を告げると、偶然にもそこに友人が隠れていた、という運命のいたずらが結末になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">『自由への道』Ｌｅｓ　ｃｈｅｍｉｎｓ　ｄｅ　ｌａ　ｌｉｂｅｒｔé（１９４５，１９４９）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マチウ・ドラリュを主人公とした長編小説。</sentence>
+<sentence>当時のサルトルの中心テーマである自由の問題が、全編の主題となっており、スペイン市民戦争をはじめ、歴史という巨大な歯車と、そこに否応なく巻き込まれる人間の姿を描いた力作。</sentence>
+<sentence>全４巻の予定だったが、結局、３巻までしか書かれず、第４巻は一部だけが発表され、未完に終わった。</sentence>
+<sentence>主人公は１９０５年生まれの独身、モンパルナス界隈で物語は展開し、自伝的な側面もある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第１巻『分別ざかり』は１９３８年６月<sampling type="end" />下旬の２日間の出来事を描いている。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00028" version="1.0" type="fixedLength">
+<article articleID="LBp5_00028_F001">
+<paragraph>
+<sentence>　これはノードの直結に限らず、もし<sampling type="start" />ハブが全二重モードに対応しているならば、ノードとハブとの間も全二重モードで通信することができます。</sentence>
+<sentence>次節（３‐８）で説明するスイッチングハブと呼ばれるハブのほとんどは、全二重モードに対応しています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ハブによる接続</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ストレートケーブルとクロスケーブル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">全二重通信モード</sentence>
+<br type="automatic_original" />
+<sentence>互いの送信線が異なるから、２台のノードが同時にデータを送信しても、伝送媒体上でのコリジョンが発生しない。</sentence>
+<sentence>そのため、一方がデータを送信している間も、もう一方がデータを送信できる。</sentence>
+<sentence>すなわち、ＣＳＭＡ／ＣＤを無視することができ、送信しながら受信するという全二重通信を実現できる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">３‐８</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ハブの種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　ツイストペアケーブルを使ったＥｔｈｅｒｎｅｔでは、ハブを使ってノードを接続します。</sentence>
+<sentence>ハブとは、多数のポートをもったリピータやブリッジのことで、性能や機構により、いくつかの種類があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">▶リピータハブとはリピータとして機能するハブのこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ハブにはいくつかの種類があります。</sentence>
+<sentence>最も機構が単純で安価なのがリピータハブ<noteMarker text="＊" />と呼ばれるハブです。</sentence>
+<sentence>リピータハブはダムハブ<noteMarker text="＊" />と呼ばれたり、省略されて<quote>「ハブ」</quote>と呼ばれたりすることもあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊リピータハブ　ｒｅｐｅａｔｅｒ　ｈｕｂ。</sentence>
+<sentence>リピータとして機能するハブ。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>＊ダムハブ　ｄｕｍｂ　ｈｕｂ。</sentence>
+<sentence>リピータハブの俗称。</sentence>
+<sentence>ｄｕｍｂとは<quote>「愚かな」</quote>という意味。</sentence>
+<sentence>頭が悪いハブという意味で<quote>「馬鹿ハブ」</quote>と呼ばれることもある。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　リピータハブとは、複数の伝送媒体（ツイストペアケーブル）を接続できるようにしたリピータです。</sentence>
+<sentence>伝送媒体を接続する場所が、ハブの各ポートということになります。</sentence>
+<sentence>リピータハブは、あるポートに送信されたフレームを、そのまま別の全ポートに流すという中継機能をもちます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すでに説明したように、リピータは電気的なレベルでの転送となりますから、コリジョンドメインは、ハブに接続されている伝送媒体全体ということになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　リピータでは異なる速度のＥｔｈｅｒｎｅｔ規格の変換はできないため、リピータハブの場合、１０ＢＡＳＥ‐Ｔなら１０ＢＡＳＥ‐Ｔ同士、１００ＢＡＳＥ‐ＴＸなら１００ＢＡＳＥ‐ＴＸ同士の接続ということになります。</sentence>
+<sentence>１０ＢＡＳＥ‐Ｔ環境と１００ＢＡＳＥ‐ＴＸ環境の混在はできません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">リピーターハブの構成</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">▶スイッチングハブとはブリッジとして機能するハブのこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スイッチングハブ<noteMarker text="＊" />は、ブリッジとして機能するハブです。</sentence>
+<sentence>すでに説明したようにブリッジは、フレームの内容を判別して、送信先となっているＭＡＣアドレスをもつノードが接続されている伝送媒体にだけフレームを転送する機能をもちます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>＊スイッチングハブ　ｓ<sampling type="end" />ｗｉｔｃｈｉｎｇ　ｈｕｂ。</sentence>
+</noteBody>
+</article>
+</sample>

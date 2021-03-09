@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00029" version="1.0" type="fixedLength">
+<article articleID="LBl5_00029_F001">
+<paragraph>
+<sentence>この日本語入力システムには、一太郎を開発したジャストシステム<sampling type="start" />の日本語研究の成果が良く生かされている。</sentence>
+<sentence>また日本語の編集・加工では、日本語の特性に対応しているという意味でワードを一歩リードしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、ワードの方は<quote>「オフィス」</quote>というパッケージ化したソフト群の中に含まれていることからも分かるが、ビジネス使用に良く対応している。</sentence>
+<sentence>とくにアウトライン・プロセッサ機能やＨＴＭＬ文書作成機能（第二編第二章参照）については一太郎を一歩リードしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　どちらを使うか、あるいは使っているかに関係なく、知的生産性の強化ツールとしては両方とも使える。</sentence>
+<sentence>機能的な比較は第二編の各章で必要に応じて行うことにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第一編第三章　シミュレーション＝本書執筆の方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　デジタルテキストの革命性についてずいぶんと書いてきたが、それなら本書の原稿もその解説のとおりに、ワープロソフトで書かれ、縦横無尽の修正、移動、入れ替えなどを行ったのか？</sentence>
+<sentence>　もちろんである。</sentence>
+<sentence>しかしワープロソフト一本で書かれたのではなく、第二章で触れたようにワープロ機能を拡張した専用ソフト、すなわちエディタやアウトライン・プロセッサなど何本かのアプリケーションを組み合わせて執筆している。</sentence>
+<sentence>デジタルテキストの特性をフルに利用した原稿執筆過程を、企画の段階からたどりながら、具体的にアプリケーションソフトの利用の仕方、その機能と性能比較などを紹介する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">企画を練る、構成を作る、企画書を作る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">【最初に浮かんだタイトルイメージ及びテーマ化】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そもそも本書はどのようにして企画が成立したのか。</sentence>
+<sentence>実は最初にタイトルを思いついた。</sentence>
+<sentence>そのタイトルのイメージ喚起力が強かったため、そこから構想が膨らんだ。</sentence>
+<sentence>それは<quote>「地上最強のワープロ」</quote>というものだった。</sentence>
+<sentence>現在の執筆時点でまだ正式タイトルは決まっていないので、どうなるか分からないが、このタイトルなら今までにないワープロソフトについての解説書が書けそうだ、という予感が最初にあったのだ。</sentence>
+<sentence>あるいは予感のみがあって、実際の内容構想は最初から具体的に描かれていたわけではなかったのである。</sentence>
+<sentence>しかし、このタイトルを思いつき、それを企画として展開してみようと考えた時から、これは自分のテーマとなったのである。</sentence>
+<sentence>単なる思いつきと、それを自分のテーマとするということの間には大きな違いがある。</sentence>
+<sentence>テーマとすれば主体的に展開する対象となる。</sentence>
+<sentence>このことは前章で説明している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">【ラフな企画案作り】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そこで、まずタイトルのイメージ喚起力を頼りにラフな企画を考えてみる。</sentence>
+<sentence>この段階で私がいつも使用するソフトは、ワープロよりもアウトライン・プロセッサとエディタである。</sentence>
+<sentence>全体の構成は<quote>「イン<sampling type="end" />スピレーション」</quote>というアウトライン・プロセッサでラフに作ってみる。</sentence>
+</paragraph>
+</article>
+</sample>

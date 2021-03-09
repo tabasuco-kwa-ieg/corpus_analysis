@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb9_00052" version="1.0" type="fixedLength">
+<article articleID="LBb9_00052_F001">
+<paragraph>
+<sentence>次にとりあげるのは、覚一本巻四の<quote>「還御」</quote>の章と、それに対応するとみられ<sampling type="start" />る『百練抄』治承四年（一一八〇）四月二二日条である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　延慶本については、覚一本の記述と大差ないので省略するが、ここでも一見して明らかな如く、『百練抄』の記事とよく一致するであろう。</sentence>
+<sentence>こうした覚一本・延慶本と『百練抄』との照合作業を広く行なうと、驚くほどに一致箇所の多いことが判る。</sentence>
+<sentence>したがって『百練抄』の成立年代からみて、『平家』も『百練抄』も同一の日記に基づいて構成されたものであるという一応の結論がひき出せるであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのことよりして『百練抄』から『平家』のもととなった日記を求める方法が可能となる。</sentence>
+<sentence>『百練抄』はその性格上、もととした日記にかなり忠実に記事を抄出している筈であり、また『平家』にはない様々な記事を載せているからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　とはいえ、これまでにその点に先学が気づかぬ筈もなかった。</sentence>
+<sentence>実はそうした作業を既に、詳細に行なったのが平田俊春民の研究である<noteMarker text="（５）" />。</sentence>
+<sentence>その結果、もとになった日記は、藤原経房の『吉記』であるという結論に到達された。</sentence>
+<sentence>経房と言えば、院の近臣であり、幕府の成立とともに関東（幕府）の奏事の申次となった人物である。</sentence>
+<sentence>その日記には朝廷の重要な政治事項が記されていて、『平家』や『百練抄』の依拠する年代記に選ばれるのにまことにふさわしいと言えよう。</sentence>
+<sentence>だが果して問題の日記は『吉記』なのであろうか。</sentence>
+<sentence>その考証には少なからぬ疑問がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（５）　前注（４）平田著書。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　氏は『百練抄』と『吉記』写本との本文比較をされたのである。</sentence>
+<sentence>写本として今に残されている部分や『吉記』から抄出したことの明らかな『<ruby rubyText="きち">吉</ruby><ruby rubyText="ぶ">部</ruby><ruby rubyText="ひ">秘</ruby><ruby rubyText="くん">訓</ruby><ruby rubyText="しょう">抄</ruby>』の記事を利用して『吉記』本文と『百練抄』の該当記事とをあげて詳細に比較対照されている。</sentence>
+<sentence>それは全く正当な分析方法である。</sentence>
+<sentence>しかし『平家物語』と『百練抄』との間にみられるような相関度の高さは、氏の指摘にもかかわらず私にはどうしても見出されないように思われる。</sentence>
+<sentence>氏はそれにもかかわらず相関関係を指摘されているが、その考証の手続をみてゆくと、『吉記』がもとになっているという予断があまりに強すぎるようである。</sentence>
+<sentence>一例として、先に『平家』と『百練抄』との比較でとりあげた部分に対応する『吉記』寿永二年六月一一日条と、治承四年四月二二日条をみることにしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　前者には延暦寺での薬師経読経の記事はあるものの、大神宮行幸の記事が全くみえない。</sentence>
+<sentence>後者では比較的『百練抄』と似ているものの、覚一本や『百練抄』で特筆されている右大臣（九条兼実）の言動が、他の左大将（徳大寺実定）らの公卿の言動といっしょにされており、特記されていない。</sentence>
+<sentence>これらをみると、『百練抄』が『吉記』によったというのにはためらいを覚える。</sentence>
+<sentence>そこでさらに広くみてゆくと、寿永二年（一一七八）七月、平氏一門が叡山・日吉社を<sampling type="end" />氏寺・氏社とする旨の連署起請文を山門に送ったことについて、覚一本は<quote>「平家山門連署」</quote>の章でとりあげているが、これに関係する『百練抄』七月八日条と、『吉記』七月十二日条の記事とを次に記す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBln_00024" version="1.0" type="fixedLength">
+<article articleID="LBln_00024_F001">
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><sampling type="start" />ピエロＤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい、わたしがとりあげました。</sentence>
+<sentence>これです。</sentence>
+<sentence type="quasi">（教師に手渡す）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　よくやったわ。</sentence>
+<sentence>出川さん、あなたたちみたいなすばらしい学級委員がいてくれるから、先生大助かりです。</sentence>
+<sentence>校長先生もいつもこのクラスのことほめてくださっているわ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ありがとうございます。</sentence>
+<sentence>先生。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　それにしても何この雑誌、こんなもん読んでいると勉強が身につきませんよ。</sentence>
+<sentence>沙織さんあなたも他の人達見習ったら？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">沙織</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　先生、でもその雑誌今中学生に一番売れているんですよ。</sentence>
+<sentence>このクラスの人達だってみんな買ってますよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　うそおっしゃい。</sentence>
+<sentence>なら、この雑誌買ったことのある人、手を挙げて？</sentence>
+<sentence type="quasi">（沙織、浩子しか手を挙げない）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ほら、ごらんなさい。</sentence>
+<sentence>わかったわね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">沙織</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　本当にみんなピエロなんだから。</sentence>
+<sentence>以後気をつけます。</sentence>
+<sentence>（ペロッと舌を出す）いやねえ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">健児</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ほんとほんと。</sentence>
+<sentence>ところで先生。</sentence>
+<sentence>佐山誠君今日も欠席ですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ええ今日も具合が悪いって。</sentence>
+<sentence>学校きたくないんだって困ったわね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＦ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あの無口な少年ね、いるかいないかわからない。</sentence>
+<sentence>登校拒否っていうものですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">健児</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　何だよその言い方。</sentence>
+<sentence>誠は黙っていることで自分を主張してんだよ。</sentence>
+<sentence>言うなりおべっかつかいのおまえらピエロよりずっとましだよ。</sentence>
+<sentence>今度そんなこといってみろ。</sentence>
+<sentence>ただじゃすませねえからな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　高岡君、なんですかその口のききかたは。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">仮面</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">厚紙でつくり、輪ゴムなどで耳につける</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第二場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>放課後。</sentence>
+<sentence>上手よりピエロＨが<ruby rubyText="に">逃</ruby>げてくる。</sentence>
+<sentence>それをピエロたちが追ってくる。</sentence>
+<sentence>ピエロＨを取り囲む。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＨ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　やめてくれよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＦ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あんたが今日メソメソしてるから、山下たちがうるさくなったのよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もう少しでやばかったわよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＡ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　だいたいおまえをみてると頭にくるんだよ。</sentence>
+<sentence>ちょっとぐらい頭がいいからってよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＧ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　誠の時だっておまえさえ、<ruby rubyText="だま">黙</ruby>っていればいいものをよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＡ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　おまえ、まさか高岡たちにちくってないだろうな。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＨ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そんなこと言ってないよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あん時は先生たちごまかすの大変だったんだから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＡ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ああまたむかついてきた。</sentence>
+<sentence>やっちまえ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>目配せをして、ピエロを囲み、こづいたりしていじめる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＨ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　もうやめてくれよ。</sentence>
+<sentence type="quasi">（泣きながら<ruby rubyText="たお">倒</ruby>れる）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>そこに教師が入ってくる。</sentence>
+<sentence>みんなあわてる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＦ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あら先生。</sentence>
+<sentence>さようなら。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　みんなどうしましたか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＡ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　先生、羽田君がおなかが痛くてたまらないって言うんで。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　わたしたちで家まで送ってあげようと思って。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＦ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　羽田君大丈夫？</sentence>
+<sentence>　羽田君痛い痛いって泣き出しちゃって。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　羽田君、大丈夫なの。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＨ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　先生、違うんです。</sentence>
+<sentence type="quasi">（ピエロＨ走り去る）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">教師</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　羽田君。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ピエロＡ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　先生、羽田君のおうちには僕から<ruby rubyText="れん">連</ruby><ruby rubyText="らく">絡</ruby>を取っておきま<sampling type="end" />す。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00169" version="1.0" type="fixedLength">
+<article articleID="LBs3_00169_F001">
+<paragraph>
+<sentence>　各種の基準により介護サービスの種別で介護報酬が設定され，さらに各種の加減算を伴いますので，清算するには複雑な計算が<sampling type="start" />必要です。</sentence>
+<sentence>その他に介護保険の介護サービスに含まれない代金も必要になります。</sentence>
+<sentence>施設入所等のおむつ代は介護報酬に含まれますが，石鹸やティッシュ代等は利用者負担になります。</sentence>
+<sentence>食事の材料費も食事加算と別に必要になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　介護報酬は介護保険制度の誘導のために，じわりじわりと上昇していきます。</sentence>
+<sentence>それに合わせて，要介護認定のブラックボックスを操作し，介護費用の総量が抑制される危険性があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<caption>
+<sentence type="quasi">表６‐５　介護報酬の４つの料金体系</sentence>
+<br type="automatic_original" />
+</caption>
+<figure>
+<list>
+<listItem>
+<sentence type="quasi">要介護度で決まるもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">施設介護サービス，短期入所系サービス，痴呆対応型共同生活介護，特定施設入所者生活介護</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">時間と要介護度できまるもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">通所介護，通所リハビリテーション</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">時間で決まるもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">訪問介護，訪問看護</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">一律いくらのもの</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">訪問入浴介護，訪問リハビリテーション，居宅療養管理指導，福祉用具貸与，居宅介護支援費</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</figure>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">７　要介護認定と介護給付管理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　介護サービス計画を立てて介護サービスを利用した後に，毎月利用した介護サービスの種類とその費用をまとめる介護給付管理の業務が必要になります。</sentence>
+<sentence>介護保険事業所は，それらを計算して所定の書類にまとめて，国民健康保険連合会（国保連）に保険請求することになります。</sentence>
+<sentence>以下の理由で，介護サービス計画書だけでは正確な費用を計算できないからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>（１）　要介護度ごとに区分支給限度額が設定され，どこまで保険給付あるいは自己負担かを明確にする必要があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>（２）　計画通りに介護サービスが提供あるいは利用されていない場合があります。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　介護支援専門員は，介護サービス計画に基づき，毎月利用者に<quote>「サービス利用票」</quote>を，事業所には<quote>「サービス提供票」</quote>を配布しています。</sentence>
+<sentence>１ヶ月ごとに毎月初旬に前月分の介護サービスの種類とその費用の実績を<quote>「サービス利用票」</quote>と<quote>「サービス利用別表」</quote>にその実績をまとめます。</sentence>
+<sentence>それらを給付管理票・明細書と介護給付請求書に転記して，毎月１０日までに国民健康保険連合会（国保連）に提出します。</sentence>
+<sentence>それで実際にかかった費用の９割が介護保険から支給されます。</sentence>
+<sentence>その１割が自己負担になり，さらに介護保険が適用されない費用を自己負担として加算し，利用者に請求します。</sentence>
+<sentence>国保連で，請求された書類の照合やチェックを経て２ヶ月後に事業者の指定口座に入金されます。</sentence>
+<sentence>査定やミスで返戻されるとそれを訂正して再請求することになります。</sentence>
+<sentence>そのためにも，介護支援専門員と利用者・事業者との確実な連絡調整が大切なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">８　要介護度による介護報酬の設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　介護報酬の設定には，医療と福祉を一体として統合する介護報酬体系が設定されています。</sentence>
+<sentence>その基本原則として　１）要介護<sampling type="end" />度や介護時間に応じる　２）人員基準や設備環境の評価　３）人件費と地域差を反映するなどに基づいています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

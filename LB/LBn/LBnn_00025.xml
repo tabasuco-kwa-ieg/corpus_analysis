@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBnn_00025" version="1.0" type="fixedLength">
+<article articleID="LBnn_00025_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>　わたしの言葉、<sampling type="start" />わからないの？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる１</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　カスデレダ、タナア？</sentence>
+<sentence type="quasi">　<enclosedCharacter description="○">５３</enclosedCharacter></sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence><enclosedCharacter description="○">５３</enclosedCharacter>さかさまに読むと意味がわかります。</sentence>
+<sentence>その言葉に合った動作や<ruby rubyText="ひょう">表</ruby><ruby rubyText="じょう">情</ruby>をするようにしてください。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　え？</sentence>
+<sentence>　なあに？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる２</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ノタキ、ラカコド？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　…。</sentence>
+<sentence type="quasi">（首をかしげる）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる３</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ルイテシオニナ、デロコトナンコ？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ぜんぜんわからない。</sentence>
+<sentence>…夜の虫だから、言葉がちがうのね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる４</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（仲間に）イナラカワンゼンゼ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる５</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（うなずいて）ネイルワガミキ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>ほたるたちは、きみ悪そうに後ろへ下がっていく。</sentence>
+<sentence type="quasi"><enclosedCharacter description="○">５４</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence><enclosedCharacter description="○">５４</enclosedCharacter>ほたるたちは体を<ruby rubyText="よ">寄</ruby>せ合い、しだいにマーヤからはなれていきます。</sentence>
+<br type="automatic_original" />
+<sentence>そして、マーヤが身ぶり手ぶりをして<ruby rubyText="ちか">近</ruby><ruby rubyText="よ">寄</ruby>っていくと、ますます下がって、はなれようとします。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ねるところ（身ぶりをして）…わかるでしょ？</sentence>
+<sentence>　どこかにない？</sentence>
+<sentence>それから、みつ（身ぶりをして）…、食べ物…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる６</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　（マーヤの<ruby rubyText="けん">剣</ruby>を指さして）アッ、ルテケツオンケ！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる７</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ゾイナブア、ロケツオキ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">ほたる８</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　イワコ！</sentence>
+<sentence>　ロゲニ、ロゲニ！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>ほたるたちは、口々に<quote>「ロゲニ、ロゲニ」</quote>とさけびながら、にげ去る。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　待って。</sentence>
+<sentence>ちょっと待って！</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>マーヤは追いかけようとするが、力つきて、たおれてしまう。</sentence>
+<sentence type="quasi"><enclosedCharacter description="○">５５</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence><enclosedCharacter description="○">５５</enclosedCharacter>マーヤがたおれると、シーンとした<ruby rubyText="ま">間</ruby>（五、六秒）があります。</sentence>
+<sentence>さあ、どうなるか？</sentence>
+<sentence>　と思わせる時間があって、それから音楽が聞こえるのです。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<sentence>しばらくして、清らかな、けだかい音楽（曲１３）がわきおこる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<source>
+<sentence type="quasi">歌（曲１３）</sentence>
+<br type="automatic_original" />
+</source>
+<verse>
+<sentence type="verse">わがふるさとは　光なり　</sentence>
+<br type="automatic_original" />
+<sentence type="verse">明るき空は　わが心<verseLine /></sentence>
+<br type="automatic_original" />
+<sentence type="verse">この世のさまは　変われども　わがたましいは　変わりなし<verseLine /></sentence>
+<br type="automatic_original" />
+</verse>
+</citation>
+</quotation>
+<sentence>池に<ruby rubyText="う">浮</ruby>かぶ、いちばん大きい、すいれんのつぼみが明るくかがやく。</sentence>
+<sentence>―そして、音楽とともに花びらが開き、中から、光りかがやく花の<ruby rubyText="せい">精</ruby>があらわれる。</sentence>
+<sentence type="quasi"><enclosedCharacter description="○">５６</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence><enclosedCharacter description="○">５６</enclosedCharacter>つぼみを明るくするのは、中に入った<quote>「花の<ruby rubyText="せい">精</ruby>」</quote>がスイッチをおします。</sentence>
+<br type="automatic_original" />
+<sentence>花びらが開くのは、花の<ruby rubyText="せい">精</ruby>が内側から花びらに付けたひも（左図）を持っていて、ゆっくりはなせばいいのです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">花の<ruby rubyText="せい">精</ruby></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　マーヤ、マーヤ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>その声に引かれるようにマーヤは起き上がり、花の<ruby rubyText="せい">精</ruby>を見て、目をみはる。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あ、あなたは…。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">花の<ruby rubyText="せい">精</ruby></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　マーヤ、ここへいらっしゃい。</sentence>
+<sentence>ここは、あなたの花の宿ですよ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　あなたは、どなたですか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">花の<ruby rubyText="せい">精</ruby></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　わたし？</sentence>
+<sentence>　わたしは花の<ruby rubyText="せい">精</ruby>。</sentence>
+<sentence>さあ、わたしの宿でゆっくり、あなたの体と心を、お休めなさい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ワーッ、うれしい！</sentence>
+<sentence type="quasi">（と、喜んで花の中へ）</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">花の<ruby rubyText="せい">精</ruby></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　さあ、みつもいっぱいありますよ。</sentence>
+<sentence>たくさん、おあがりなさい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　はい、いただきまーす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>マーヤは、みつの入った大きな入れ物から一気に飲む。</sentence>
+<sentence>が、急にすすり泣く。</sentence>
+<sentence type="quasi"><enclosedCharacter description="○">５７</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence><enclosedCharacter description="○">５７</enclosedCharacter>みつの入れ物は、どんなものがいいでしょうか？</sentence>
+<sentence>　空想上のものですから、何でもいいのです。</sentence>
+<sentence>その形や大きさを自由に考えてください。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">花の<ruby rubyText="せい">精</ruby></sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　どうしたの、マーヤ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">マーヤ</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　いいえ、うれしいんです。</sentence>
+<sentence>うれしいのに、なみだが出ちゃ<sampling type="end" />うんです。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

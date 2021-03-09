@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg5_00015" version="1.0" type="fixedLength">
+<article articleID="LBg5_00015_F001">
+<paragraph>
+<sentence>　ＤＳＣは，ディジタル信号技術を用いて，一斉呼出し，群呼出<sampling type="start" />し（海域，船舶の種類等を特定した呼出し），個別呼出し等の各種の呼出し方法により船舶局や海岸局を呼び出して通信連絡設定を行うためのものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このシステムでは，時刻，船舶の識別符号及び位置，ＤＳＣに続く通信方法等を簡単なボタン操作で送信することが可能である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（イ）ＮＢＤＰ（Ｎａｒｒｏｗ　Ｂａｎｄ　Ｄｉｒｅｃｔ　Ｐｒｉｎｔｉｎｇ：狭帯域直接印刷電信）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　短波の無線電話での交信を開始したが，感度，明りょう度とも極めて悪かったため，意思の疎通はほとんど不可能であった。</sentence>
+<sentence>そこで，海上保安庁は，ＮＢＤＰを使用して文字による通信を試みたところ，Ａ丸からの応答があり，以後，ＮＢＤＰによって浸水状況の確認等を行うこととした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　ＮＢＤＰは，送信者がキーボードを操作することにより，その送信内容が，受信者側のブラウン管上に自動表示され，又は受信紙上に自動印字される無線テレタイプである。</sentence>
+<sentence>ＧＭＤＳＳでは従来のモールス無線電信に代わるものとして使用される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">イ　ＣＯＳＰＡＳ／ＳＡＲＳＡＴシステム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ＮＢＤＰによる通信連絡設定がなされたが，間もなく浸水が激しくなり，船体が沈み始めた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　突然，<quote>「これで通信を打ち切る」</quote>旨の最後のメッセージを残して，通信不能となった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし，Ａ丸に装備されていた衛星ＥＰＩＲＢが水没と同痔に船体を離脱・浮上し，自動的に遭難信号を発信した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この遭難信号は衛星を経由し，海上保安庁の地上局がこれを受信，この遭難信号がＡ丸からのものであることを確認するとともに，この信号の発信位置を特定した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　ＣＯＳＰＡＳ／ＳＡＲＳＡＴシステムは，船舶が遭難した場合，船舶に搭載された衛星ＥＰＩＲＢ（非常用位置指示無線標識）から自動的に発信される（手動による発信も可能）遭難信号を極軌道周回衛星で中継し，陸上において遭難の発生を知ると同時に，遭難の位置を特定するシステムである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　海上保安庁では，同システムの地上施設として，地上受信局（ＬＵＴ）を関東統制通信事務所に，ＬＵＴからの情報を受け，これを自国又は外国の適切な救助調整本部（ＲＣＣ）へ配信する業務管理センター（ＭＣＣ）を本庁警備救難部に，それぞれ設置している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ＣＯＳＰＡＳ／ＳＡＲＳＡＴ地上局のブラウン管表示</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ウ　ＩＮＭＡＲＳＡＴシステム</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　海上保安庁は，短波ＤＳＣにより遭難位置の情報を入手した時点で，前進しょう戒中の巡視船<quote>「やしま」</quote>及び羽田航空基地所属ジェット飛行機<quote>「おおたか」</quote>を現場に急行させるとともに，ＮＡＶＴＥＸシステム及びＩＮＭＡＲＳＡＴ‐ＥＧＣシステムにより，付近航行船舶に対しＡ丸の海難情報の提供を開始していたが，さらに，日本の船位通<sampling type="end" />報制度（ＪＡＳＲＥＰ）の活用により，衛星ＥＰＩＲＢの発信位置付近を航行しているＫ丸を検索，直ちに同船に対してＩＮＭＡＲＳＡＴシステムを利用した電話によって救助要請を行った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

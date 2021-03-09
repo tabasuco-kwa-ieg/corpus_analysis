@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00116" version="1.0" type="fixedLength">
+<article articleID="LBs3_00116_F001">
+<list>
+<listItem>
+<sentence>友人に自動車を一日だけ貸し<sampling type="start" />てあげたというような場合が、これに当たるでしょう。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>消費貸借契約とは、金銭など、借りたものを<quote>「消費」</quote>してしまっても構わず、契約終了時に同種同量のものを返還すればよいという契約です。</sentence>
+<sentence>銀行などからの金銭の借入れが典型的な例です。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>【コラム】　消費貸借契約は必ず利息を払う？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　民法上、消費貸借契約は無償とされています。</sentence>
+<sentence>つまり、特別の定めがない限り、利息は取れないということです。</sentence>
+<sentence>したがって、友人とお金の貸し借りをした場合、<quote>「貸してよ」</quote><quote>「いいよ」</quote>というだけならば、法律上は利息は払わなくて良いのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただし、民法上では無利息が原則でも、商人間の場合には利息付きが原則です。</sentence>
+<sentence>また民法上でも、通常は、利息が付かない消費貸借契約はほとんどありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ⅲ　役務型（雇用、請負、委任、寄託という他人の労力の利用に関する契約）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>雇用契約は、通常の労働契約のことです。</sentence>
+<sentence>もっとも、民法で定められた雇用契約の条項は、労働基準法をはじめとする各種の労働法制によって、ほとんど意味をなさなくなっています。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>請負契約は、家の建設を業者に依頼したり、ソフトウェアの開発を依頼する場合の契約です。</sentence>
+<sentence>雇用と違うのは、請け負ったものは自分の責任で仕事を完成しなければならないという義務があり、完成しないと代金を払ってもらえないという点にあります。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>委任契約は、法律行為を行うことを委託する場合の契約です。</sentence>
+<sentence>具体的には、弁護士に訴訟をしてもらうよう依頼するといった場合などです。</sentence>
+<sentence>また社会においては、会社と取締役の関係、法人と理事の関係などが委任の性質を持つため、広く利用されています。</sentence>
+<sentence>たとえば従業員が会社のために交渉することなども、委任の性格を持つ場合があるでしょう。</sentence>
+<sentence>委任の特徴としては、あくまでも本人の利益のために独立して自分の裁量で職務を行うこと、請負のように仕事の完成を目的としているのではないことが挙げられます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>寄託契約は、物の保管を目的とする契約です。</sentence>
+<sentence>手荷物の一時預かりなどがこれに当たります。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">【コラム】　医療契約と委任</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　委任契約は、法律行為を委託することを目的としています。</sentence>
+<sentence>したがって、医療行為を委託する医療契約は、本来の委任契約ではなく、<quote>「準委任契約」</quote>と言われています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この医療契約において医者はどのような義務を持つかということが、医療過誤の問題などを通してクローズアップされていることは、皆さんもご存知のことと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　民法では、受任者は、<quote>「委任の本旨に従い善良な管理者の注意をもって委任事務を処理する義務を負う」</quote>と定められています。</sentence>
+<sentence>これを善管注意義務といいます。</sentence>
+<sentence>では、医者の善管注意義務とは、いったいどのようなものでし<sampling type="end" />ょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

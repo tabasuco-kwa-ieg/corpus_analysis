@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm3_00010" version="1.0" type="fixedLength">
+<article articleID="LBm3_00010_F001">
+<paragraph>
+<sentence>　分母の資本概念および<sampling type="start" />分子の利益概念には，つぎのようにそれぞれ多様性があることから，それらの選択と組み合わせいかんによって，さまざまな資本利益率が算出される。</sentence>
+<sentence>分析にあたっては，分析の目的と組み合わせの論理性とを考慮する必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">○　利益概念（分子）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">総利益，営業利益，事業利益，経常利益，当期純利益</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">○　資本概念（分母）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">総資本，経営資本，自己資本</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">総資本経常利益率</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　これは，資本を利用する企業の観点ないし経営者の観点からみた収益性を表わしている。</sentence>
+<sentence>経営に投下されたすべての資本（他人資本＋自己資本）と，正常な経営活動をつうじて経常的に生ずる利益との関係から収益性をみる指標であって，総資本の正常収益力をしめしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　利益として経常利益（金融費用を控除したのちの利益）をもちいることによって，有利子負債と金融費用との関係から資本構成が収益にあたえる影響も考慮することができる。</sentence>
+<sentence>そのため，資本調達の巧拙をふくめた収益性を総合的に判断する指標として広く利用されている。</sentence>
+<sentence>しかし，総資本には他人資本をふくむにもかかわらず，経常利益は他人資本から生ずる金融費用を控除したのちの利益であることから，資本と利益とが対応していないという難点がある。</sentence>
+<sentence>この点を解決した指標が，つぎの総資本事業利益率である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">総資本事業利益率</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　総資本をもちいて産み出す利益には，営業活動の成果たる営業利益と財務活動の成果たる金融収益とがあり，これらを合算したものが事業利益である。</sentence>
+<sentence>すなわち，事業利益とは，営業利益に受取利息，受取配当金などの金融収益を加算した利益のことである（言い換えれば，金融費用を控除するまえの利益）。</sentence>
+<sentence>この事業利益と総資本とを対比することによって，資本と利益との関係に論理性が確保される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　近年ではこの指標が重視されてきているが，その理由としては，企業の新規事業展開が子会社を設立しておこなわれることが多くなったことから，その成果が受取配当金となって表われること，有価証券などの金融資産の運用機会が増大したことから，その成果をみる必要性が著しく高まったことなどがあげられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，この比率は，企業の社債発行において，適債基準および格づけ基準としても使用されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">経営資本営業利益率</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　これは，総資産という形態をもって運用されている総資本のうち，その企業の本来の営業活動のために使用される資産に投下された資本，すなわち経営資本の収益性を測定する指標である。</sentence>
+<sentence>この経営資本は，余剰資金として財務活動に投下され運用されている財務活動資本および企業活動に利用されていない未利用資本を，総資本から控除しても<sampling type="end" />とめられる。</sentence>
+</paragraph>
+</article>
+</sample>

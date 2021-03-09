@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh3_00123" version="1.0" type="fixedLength">
+<article articleID="LBh3_00123_F001">
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi"><sampling type="start" />北沢</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　たとえば、はしかも、おたふくかぜも、一度かかったら二度とかからないよね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">女子</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　予防接種って、どういうものですか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">北沢</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　予防接種は、こういう病原体を、病気を起こさないよう弱めてからだのなかに入れてやり、記憶させて二度とかからないようにするわけです。</sentence>
+<sentence>女の子はとくに、風疹の予防接種を受けておいたほうがいいですよ。</sentence>
+<sentence>妊娠中に風疹にかかると、胎児に悪い影響を与える場合がありますから。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence type="quasi">（女子、うなずく。）</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>▲一枚一枚のパネルで紙芝居風に説明したあと、黒板に四枚の続き絵としてはる。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence>エイズウイルス（ＨＩＶ）の特徴は？</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<paragraph>
+<sentence>　さて、ＨＩＶ―エイズウイルスはほかの病原体とどうちがうか、くらべてみましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そのまえに、細菌とウイルスのちがいを見てみましょうか。</sentence>
+<sentence>ウイルスは細菌とちがって遺伝子と、それを包む蛋白質と膜だけの存在で、自分で増殖するための物質をもっていません。</sentence>
+<sentence>だから生き残るのには、生きている細胞にすみつき、その働きを利用するほかはないという困ったシロモノなのです。</sentence>
+<sentence>ＨＩＶ、つまりエイズをひき起こすウイルスも、ここが問題なんですね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　エイズウイルスが体内にはいってきました。</sentence>
+<sentence>マクロファージがどんどん食べていきます。</sentence>
+<sentence>指令するＴ細胞は、その情報を受け取ると、いち早く指令を発します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、なぜか指令が弱くて十分に相手に伝わりません。</sentence>
+<sentence>というのは、このＴ細胞のなかにエイズウイスルがはいりこんでしまっているからなんです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　指令するＴ細胞（正しくはヘルパーＴ細胞）は、ＣＤ４という特殊な入り口（レセプター）をもっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　エイズウイルスは、まわりにはえているキノコ型のアンテナでこの入り口を見つけ、ヤスヤスとはいりこむのです。</sentence>
+<sentence>また、抗体をつくる工場のＢ細胞にも侵入。</sentence>
+<sentence>そのため、抗体の生産もはかどりません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような状態で、エイズウイルスは数年から十数年も潜状しつづけます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　やがて、なにかのきっかけで活性化したエイズウイルスは、ヘルパーＴ細胞の膜をやぶってとび出し、同じ方法で増殖。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　のっとられたＴ細胞はボロボロになって死んでしまいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">北沢</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　エイズウイルスが増殖を続けると、どうなるでしょうか。</sentence>
+<sentence>みなさんの血液の１ｍｍ<superScript>３</superScript>のなかにはヘルパーＴ細胞が約１０００以上あります。</sentence>
+<sentence>ところが、このウイルスにどんどんやられていくと、血液中のヘルパーＴ細胞は目にみえて減り、たとえば５００個以下になってしまう。</sentence>
+<sentence>そのため免疫の力が極度に落ちて、エイズ関連症候群の症状がでてくるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで、ヘルパーＴ細胞が５００個以下に減ったり、エイズの症状がでたりすると、お医者さんはＡＺＴとかｄｄＩなどの薬を処方してくれ<sampling type="end" />ます。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

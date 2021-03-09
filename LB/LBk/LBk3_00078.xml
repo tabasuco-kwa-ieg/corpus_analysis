@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00078" version="1.0" type="fixedLength">
+<article articleID="LBk3_00078_F001">
+<paragraph>
+<sentence>ところで固定資産税の評価額は、このうちの５年の公示地価を使います（図中の<sampling type="start" />Ａ点）。</sentence>
+<sentence>評価作業が手間取るため６年度の評価替えにあたっては１年前の公示地価を使うしかないのです。</sentence>
+<sentence>５年から６年の間にもかなりの落差がありますが、実際の評価にはこの下落分が反映されていません。</sentence>
+<sentence>納税者にとっては、なぜ直近の６年時点をとらないかがまず納得いかないところです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　真ん中の線が自治省の通達した<quote>「公示地価×７割」</quote>の線です。</sentence>
+<sentence>前回（平成３年度）の評価替え時点に比べ公示地価とは逆に跳ね上がっているのがわかります（Ｂ点）。</sentence>
+<sentence>本来はこれが課税のもとになる評価額で、これに１．４％（最高２．１％）の税率をかければ実際の固定資産税額が出るという主張です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さすがにこれをこのまま適用するわけにもいかず、自治省は次に<quote>「負担調整率」</quote>を作ります。</sentence>
+<sentence>評価額の上昇率が１．８倍以下だったら固定資産税の納税額は前年比５％、１．８倍を超え２．４倍以下だったら７．５％増にとどめる、といった内容になっています。</sentence>
+<sentence>こうした調整を経て、実際の納税額を計算するもとになる<quote>「課税標準額」</quote>が一番下の線になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　固定資産税には<quote>「固定資産評価審査委員会」</quote>という制度があります。</sentence>
+<sentence>評価に不服や疑問のある納税者が、評価のやり直しをこの委員会に請求できる制度です。</sentence>
+<sentence>平成６年度の評価替え後、委員会に寄せられた不服審査請求は全国で２万２，０００件に達しました。</sentence>
+<sentence>大都市部の商工業者、不動産業者が圧倒的に多かったようです。</sentence>
+<sentence>ただこの委員会はあくまでも市役所や町村役場の一部署であり中立性に欠けるうえ、扱える案件も評価の技術的領域にとどまっています。</sentence>
+<sentence>納税者の不服審査請求はほとんどが<quote>「評価額を公示地価の一律７割にしたのは不当だ」</quote>といった自治省の政策決定に集中しましたが、委貝会の手に負えるものではありません。</sentence>
+<sentence>訴えの大半は却下されています。</sentence>
+<sentence>一部の納税者は裁判所への提訴に踏み切りました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図５‐７　地価公示価格，固定資産税評価額及び同課税標準額の関係（大都市地域の１地点を例にとって）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　地価下落と評価替え</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　自治省もさすがに何もしないわけにはいかないと判断し、平成８年度の上昇率を従来よりも軽減しました。</sentence>
+<sentence>５％増える予定だったケースなら２．５％にしたわけです（表５‐４）。</sentence>
+<sentence>しかしこれはあくまでも当座しのぎにすぎません。</sentence>
+<sentence>平成９年度の評価替えが控えているからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　再び図５‐７を見て下さい。</sentence>
+<sentence>図中のＥ点が９年度評価替えにあたっての<quote>「公示地価×７割」</quote>。</sentence>
+<sentence>Ｆ点が８年度の実際の評価額です。</sentence>
+<sentence>この図で示されたケースでは、９年度はＥ点とＦ点が同水準になります。</sentence>
+<sentence>自治省にすれば<quote>「だからこのまま公示地価×７割を課税評価額（課税標準）にすればいい」</quote>と言いたいところでしょう。</sentence>
+<sentence>しかし納<sampling type="end" />税者は反発するはずです。</sentence>
+</paragraph>
+</article>
+</sample>

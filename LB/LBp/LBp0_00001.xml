@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp0_00001" version="1.0" type="fixedLength">
+<article articleID="LBp0_00001_F001">
+<paragraph>
+<sentence>　また、コンテンツジャパンが、インターネット・アニメーションに着目したのは、以上に述べたように多くの可能性<sampling type="start" />があるからだが、これまでのところ、インターネット・アニメーションは次のような課題が残されており、インターネット上での本格的なアニメーション配信は、ほとんど行われていないのが現状である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・　端末の処理能力不足</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・　脆弱な通信インフラ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・　情報量の多いアニメーションのダウンロードに要する膨大な時間</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・　視聴者にかかる多大なストレス</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・　現状のストリーミングで不十分な視聴環境</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">アナログから出発したからこそ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　そこで、コンテンツジャパンとしては、次に示すユニークな制作技術によってこれらの問題を解決しようとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">・　画像を線と面で認識・処理するベクトル形式アニメーション</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これまでは、画像情報を画素の集まりとして見るビットマップ形式を取り入れるのが通例であった。</sentence>
+<sentence>しかし、同社は、アニメーション制作ソフトとして、マクロメディア・フラッシュを使用しており、画像情報を画素の集まりとしてみるのではなく、方向性をもつ線分の集合として扱っている。</sentence>
+<sentence>そのため、画像処理の単位が格段に大きく、情報量が大幅に圧縮される。</sentence>
+<sentence>この結果、滑らかな線と均一な面によって画面が構成され、いつも観ているアニメのイメージに近く、なじみやすい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">・　アニメーション制作ソフトの運用ノウハウを蓄積</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　同社の中心メンバーは、通常のアニメーション・ソフトの制作段階から、上記ベクトル形式ソフトを使い込むことにより、作品の質を落とさず、さらにデータ量を削減するノウハウを蓄積してきた。</sentence>
+<sentence>これらのノウハウをもとに、今回、現状の端末や通信環境でも快適に楽しめるアニメーション配信を実現しようとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">・　インタラクティブな仕掛け</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　リアル・プレイヤーなど、ストリーム系の従来ツールとは異なり、マクロメディア・フラッシュでは、様々なスクリプトを組むことによって、シナリオ記述が可能となる。</sentence>
+<sentence>すなわち、単に見るだけのものではなく、インタラクティブ性やゲーム性を含んだコンテンツ記述が実現される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">・　アニメらしいアニメ制作技術</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インターネット・アニメに参入を試みる企業の多くは、コンピュータ・グラフィックスなど、あくまでコンピュータ技術が出発点となっている。</sentence>
+<sentence>しかし、このコンテンツジャパンの主力メンバーにとってはマンガ・アニメが出発点であり、アニメらしい表現に習熟している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　したがって、元々コンピュータ上の技術を出発点とする他の企業と異なり、アナログのマンガから出発して、そこにディジタルの技術を加えてきた。</sentence>
+<sentence>だからこそ、ファンを納得させるクオリティのインターネット・アニメの制作が可能なのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以下に同社の制作実績を示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">・　依頼製作作品</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　無限のリ<sampling type="end" />ヴァイアス・イリュージョン（一〜六話）、Ｃａｒ子　Ａ　ＧｏＧｏ！</sentence>
+</paragraph>
+</article>
+</sample>

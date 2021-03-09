@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg3_00016" version="1.0" type="fixedLength">
+<article articleID="LBg3_00016_F001">
+<paragraph>
+<sentence>自治体は通例市と呼ばれるが、わが国とは異なり、市と呼ぶための条件<sampling type="start" />が決められているわけではない。</sentence>
+<sentence>人口二〇〇〇の自治体でも市と呼ばれている。</sentence>
+<sentence>むしろアメリカの場合、人口一〇〇万を超す巨大都市は六市を数えるにとどまり、人口一〇万から二五万程度の中都市が多いことが一つの特徴といえよう。</sentence>
+<sentence>住民自治で自治体を創設する伝統があるため、過大都市の住民は新しい中小都市を創設して、人口を拡散させる傾向がみられるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">地方政府の構造</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アメリカの地方自治体は多様性を特徴としているが、この特徴は地方自治体の政府の組織のしかたに典型的に現れている。</sentence>
+<sentence>地方自治体の政府を地方政府と呼ぶが、地方政府には大きく分けて四つの類型がみられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>市長・市議会型―直接公選で選出される市長と市議会が、それぞれ行政と立法を担当する形態で、わが国の制度に最も近い類型といえよう。</sentence>
+<sentence>ただ市長の権限には、大きく分けて、強力型と弱体型の二類型がある。</sentence>
+<sentence>強力型の市長は、主要な公職者を任命する権限を持ち、議会に対する拒否権を認められていて、市長自身が強力なリーダーシップをもって市政を統括することができる。</sentence>
+<sentence>大都市では、市長の強い統率力が要求されるので、強力型の市長を持つことが多い。</sentence>
+<sentence>とくに、人口一〇〇万人以上の六市はすべて強力型の市長を置いている。</sentence>
+<sentence>弱体型の市長の場合は、主要公職者（助役、収入役、警察署長、消防署長、教育長など）が直接公選で選出され、議会に対する拒否権もない。</sentence>
+<sentence>主要公職者や議会に対する影響力が弱いため、市長の統率力も弱くなる。</sentence>
+<sentence>弱体型の市長の地位には、バラエティがあり、主要公職を兼ねて特定の分野だけで活動する市長もあれば、単なる名誉職として儀礼的形式的な役割に専念する市長もある。</sentence>
+<sentence>市長・市議会型は、市全体の約五四％を占める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>市議会・市支配人型―直接公選による市議会が行政の統括責任者である市支配人を任命する形態である。</sentence>
+<sentence>行政の能率を高めるために、市政と行政を分離して、行政の専門家に市の行政を委ねようという方式であるといえよう。</sentence>
+<sentence>この形態は、政治的リーダーシップよりも行政官としての実務能力が重視される中小都市に適合している。</sentence>
+<sentence>市全体の約三六％が市議会・市支配人型であり、人口五〇万人以上の大都市では、ダラス、サンアントニオ、カンザスシティ、サンディエゴ、フェニックスなどで、この方式がとられている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>理事会型―市議会と市長あるいは市支配人との間で、立法権と行政権とを分立させる方式をとらずに、住民の直接選挙で選出される理事会に立法機能と行政機能とを集中させる形態である。</sentence>
+<sentence>理事会は、一方では合議制の下で議会としての機能を果たし、他方では個々の理事に各行<sampling type="end" />政部局を分担させて、行政部を統括する機能を果たす。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

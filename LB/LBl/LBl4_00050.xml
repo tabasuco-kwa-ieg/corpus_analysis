@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl4_00050" version="1.0" type="fixedLength">
+<article articleID="LBl4_00050_F001">
+<paragraph>
+<sentence>　青銅の合金元素となる金属なので、利用され始めたのは古<sampling type="start" />く<quote>「青銅器時代」</quote>までさかのぼる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　スズは決して安価な金属ではないが、無害で耐食性に優れ、外観が美しいために、さまざまなところで使われている。</sentence>
+<sentence>しかし、単体は、外力により変形しやすいので、ほかの金属のメッキや合金の添加元素として用いることが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その代表がブリキ。</sentence>
+<sentence>鉄板の表面にスズを付着させたものである。</sentence>
+<sentence>バケツや缶詰、昔のおもちゃなど身近な製品をはじめとして、用途は多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　スズが最も使われるのはブリキとしてであるが、次に多い用途は<quote>「はんだ」</quote>である。</sentence>
+<sentence>はんだは、スズと鉛（融点３２７．５℃）を主成分とする合金で、２００℃程度で溶けて１８２．８℃で固まるので、比較的低い温度で金属を接合することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、酸化スズ（ＳｎＯ<subScript>２</subScript>）は白色の粉末で、乳白ガラスや白色タイルの着色に使われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">▲変態点→ｐ７６熱処理とは、青銅→ｐ８９青・黄・白の銅、鉛→ｐ１５７鉛、着色剤→ｐ２４７顔料</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">２‐５‐１１　ナトリウム（Ｎａ）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">性質</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　比重は０．９２であり、水より軽い。</sentence>
+<sentence>融点は９８℃。</sentence>
+<sentence>ナトリウムはアルカリ金属元素に属し、活性が高く、１価の陽イオンになりやすいため、水に接すると激しく反応して燃え、多量の場合は爆発を起こす。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　天然では、単体の状態では存在せず、いろいろな化合物の形をとっている。</sentence>
+<sentence>地殻中、海洋中ともに、広く存在し、例えば海水中では塩化ナトリウム（ＮａＣｌ）の形で２〜３％の濃度で存在する。</sentence>
+<sentence>鉱床は岩塩と呼ばれるものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">精錬法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　化合物になっているとき、その結合力が大きいので、ナトリウム単体を取り出すのは非常に難しい。</sentence>
+<sentence>生成したものが水に溶けやすいため、水溶液にして還元することもできないので、原料を加熱して溶解したものを電気分解する方法をとる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＮａＣｌ（塩化ナトリウム，食塩）やＮａＯＨ（水酸化ナトリウム，カ性ソーダ）が入手しやすいので、これらから分解して抽出している。</sentence>
+<sentence>ほかの金属のように鉱物から得ているものではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　水酸化ナトリウムを原料とする場合、鉄、ニッケルを陰極とし、黒鉛を陽極にして、水酸化ナトリウムの融点３１８℃を超えた３２０℃付近まで加熱して行う。</sentence>
+<sentence type="quasi">つまり、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">陽極ではＯＨ<superScript>−</superScript>が引きつけられ、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+<listItem>
+<sentence type="quasi">陰極ではＮａ<superScript>＋</superScript>が電子を受け取ってナトリウムとなり、</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</listItem>
+</list>
+<sentence>という反応が起きる。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　塩化ナトリウムを使用する場合も同様の電気分解を行うが、融点を下げるため塩化カルシウムや塩化カリウムを加える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">利用方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　５０００年前のエジプトでは、炭酸ナトリウム（Ｎａ<subScript>２</subScript>ＣＯ<subScript>３</subScript>）を多く含んだ湖水から、これを採取し、貝殻や砂と混ぜてガラスを作っていたという。</sentence>
+<sentence>歴史は古いが、単体を得たのは約２００年ほど前のことなのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ナトリウムは、カリウムとともに動物の体内に多く含まれる。</sentence>
+<sentence>カリウムは細<sampling type="end" />胞内に集中し、ナトリウムは細胞外の体液、リンパ液などに集中して、酸とアルカリの釣り合いを調節したり、筋肉組織の働きを助けたりするのに役立っている。</sentence>
+</paragraph>
+</article>
+</sample>

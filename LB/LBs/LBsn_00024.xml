@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBsn_00024" version="1.0" type="fixedLength">
+<article articleID="LBsn_00024_F001">
+<list>
+<listItem>
+<sentence>熱湯にいかを入れて、さ<sampling type="start" />っと火を通し、湯引きをして生臭さを抜く。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　冷水にとる</sentence>
+<br type="automatic_original" />
+<sentence>ボールに氷と水を入れ、湯引きしたいかをさっとくぐらせて身をしめる。</sentence>
+<sentence>水気を拭き、塩と酒を振り、金ぐしに刺し、黒ごまを振る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　遠火の強火であぶる</sentence>
+<br type="automatic_original" />
+<sentence>鉄きゅうに焼き網をセットし、金ぐしをかけて遠火の強火にし、あぶる程度に焼く。</sentence>
+<sentence>金ぐしをはずし、形を整える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">かにつめの子持ち揚げ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>かにのつめにえびのすり身を詰めこみ、あたかも卵を持っでいるように形作り、子持ち揚げと名づけました。</sentence>
+<br type="automatic_original" />
+<sentence>つめを持って食べられる気軽さは、子供さんにも喜ばれそうです。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">【材料】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence type="quasi">１　むきえびをたたく</sentence>
+<br type="automatic_original" />
+<sentence>むきえびは背わたをとり、包丁で細かくたたいて、滑らかにする。</sentence>
+<sentence>豚背脂も包丁で細かくたたく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　豚の背脂を混ぜる</sentence>
+<br type="automatic_original" />
+<sentence>むきえびと豚の背脂を混ぜ合わせ、Ａの塩、砂糖、卵白を加えて混ぜ、かたくり粉を入れて混ぜ、まとめやすくする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　すり身を詰める</sentence>
+<br type="automatic_original" />
+<sentence>かにのつめの根もとの殻をはさみで切って広げ、かたくり粉（分量外）を薄くまぶし、２のすり身を、等分につめて包むように形づくり、パン粉をつける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　揚げる</sentence>
+<br type="automatic_original" />
+<sentence>揚げ油を１７０度に熱し、３を入れる。</sentence>
+<sentence>返しながら、色よく揚げて、油をきる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">こはだのうの花あえ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>こはだはこのしろの小さいもの。</sentence>
+<br type="automatic_original" />
+<sentence>小ぶりで身が固く、斑点が鮮やかなものを選びます。</sentence>
+<br type="automatic_original" />
+<sentence>おからはすって細かくしてからいりにすると、仕上がりがきれいに。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">【材料】</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<list>
+<listItem>
+<sentence type="quasi">１　半身にし、皮に切り目を入れる</sentence>
+<br type="automatic_original" />
+<sentence>こはだは半身にし、皮に切り目を入れて丸めておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　おからをする</sentence>
+<br type="automatic_original" />
+<sentence>おからはすり鉢に入れ、すり混ぜて細かくする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　おからをいっで調味する</sentence>
+<br type="automatic_original" />
+<sentence>鍋に油を入れで火にかけ、おからを入れる。</sentence>
+<sentence>さらさらになるまでいりつけ、Ａを加え、いる。</sentence>
+<sentence>さらに卵、酢の順にいりつけながら加えて仕上げ、さましておく。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">４　こはだにおからをまぶす</sentence>
+<br type="automatic_original" />
+<sentence>１のこはだに３のおからをまぶし、種を出して小口切りにした赤とうがらしをのせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">「三の重」</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">煮もの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>数種の煮ものを詰めこんだ三の重は、日本料理ならではの味の詰め合わせです。</sentence>
+<br type="automatic_original" />
+<sentence>野菜の煮ものを中心に乾物などを加え、じんわりとしたおいしさを楽しみます。</sentence>
+<br type="automatic_original" />
+<sentence>切り方にもおめでたさを表現して。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">よく煮込んだものと、薄味のバランスを考えて</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　三の重は山の幸の煮ものを中心に詰め合わせます。</sentence>
+<sentence>おせちの原型は<quote>「お煮しめ」</quote>といわれていまずが、ここではその代わりに七宝煮と呼ばれる根菜と鶏肉のいり煮を入れました。</sentence>
+<sentence>同じ煮ものでも、薄味に仕上げた長いものの煮ものや、高野豆腐の煮ものを加えると、若い人から年配の人まで幅広く喜ばれるお重になります。</sentence>
+<sentence>また、煮ものは見た目に地味になりがちなので、鮮やかな素材を加えたり、形を工夫するといいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">詰めやすい“田の字”にして形の変わ<sampling type="end" />らないものから詰めます</sentence>
+</title>
+</titleBlock>
+</article>
+</sample>

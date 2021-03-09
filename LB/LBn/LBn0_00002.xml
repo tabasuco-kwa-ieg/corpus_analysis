@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn0_00002" version="1.0" type="fixedLength">
+<article articleID="LBn0_00002_F001">
+<list>
+<listItem>
+<sentence>つぎのように表<sampling type="start" />示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　<quote>「請求書の作成」</quote>をクリックして、<quote>「実行（Ｒ）」</quote>をクリックする。</sentence>
+<sentence>つぎのように表示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、マクロが実行されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ショートカットキーでも、確認しておいてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　記録したマクロを見てみましょう。</sentence>
+<sentence><quote>「ツール（Ｔ）」</quote>→<quote>「マクロ（Ｍ）」</quote>→<quote>「マクロ（Ｍ）」</quote>を選択して、<quote>「編集（Ｅ）」</quote>をクリックします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<paragraph>
+<sentence>　<quote>「ファイル（Ｆ）」</quote>→<quote>「終了してＭｉｃｒｏｓｏｆｔ　Ｅｘｃｅｌへ戻る（Ｃ）」</quote>を選択して、Ｅｘｃｅｌ画面に戻ります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ツールバーにボタンを登録する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここでは、作成したマクロをすぐに実行できるようにツールバーのボタンとして登録する方法を説明します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">用意されているボタンを登録</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここでは、すでに用意されているボタンをメニューバーの右側に登録してみることにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<quote>「表示（Ｖ）」</quote>→<quote>「ツールバー（Ｔ）」</quote>→<quote>「ユーザー設定（Ｃ）」</quote>を選択する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<quote>「コマンド」</quote>タブをクリックして、つぎのように設定。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　続けて、つぎのように設定。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<quote>「閉じる」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、メニューバーの右側にボタンが登録されました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">登録したボタンでマクロを実行</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　それでは、登録したボタンをクリックして、マクロを実行します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<image no="4" description="にこにこマーク" />をクリックする。</sentence>
+<sentence>つぎのように表示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<quote>「請求書の作成」</quote>をクリックして、<quote>「ＯＫ」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　シート見出し<quote>「１月」</quote>をクリックして、<quote>「顧客名」</quote>の▼をクリックして、<quote>「ＡＢＣ商会」</quote>を選択する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<image no="5" description="にこにこマーク" />をクリックする。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、マクロが実行されて、請求書が作成されました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">表示されるメッセージの設定</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　登録したボタンにマウスポインタを合わせたときに表示されるメッセージを設定します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<image no="6" description="にこにこマーク" />を右クリックする。</sentence>
+<sentence>つぎのように表示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<quote>「ユーザー設定（Ｃ）」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　もう一度、<image no="7" description="にこにこマーク" />を右クリックして、つぎのように設定。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<quote>「閉じる」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、表示されるメッセージを設定しました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<image no="8" description="にこにこマーク" />にマウスポインタを合わせてください。</sentence>
+<sentence><quote>「請求書の作成」</quote>と表示されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">デザインの変更</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　にこにこマークのデザインを変更します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<image no="9" description="にこにこマーク" />を右クリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<quote>「ユーザー設定（Ｃ）」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　もう一度、<image no="10" description="にこにこマーク" />を右クリックして、<quote>「ボタンイメージの編集（Ｅ）」</quote>をクリックする。</sentence>
+<sentence>つぎのように表示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<quote>「クリア（Ｃ）」</quote>をクリックして、つぎのように設定。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　<quote>「ＯＫ」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">６</enclosedCharacter>　<quote>「閉じる」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これで、ボタンのデザインが自由に変更されました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｚｏｏｍ　Ｕｐ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ボタンとメッセージのどちらも表示するには</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ボタンとメッセージのどちらも表示することができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<image no="11" description="紙シート" />を右クリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　<quote>「ユーザー設定（Ｃ）」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　もう一度、<image no="12" description="紙シート" />を右クリックして、<quote>「イメージとテキストを表示（Ａ）」</quote>をクリックする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　<quote>「閉じる」</quote>をクリックする。</sentence>
+<sentence>つぎのように表示。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">登録したボタンの削除</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　登録したボタンの削除の方法を説明します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">操作</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　<image no="13" description="紙シート" />を右クリックする<sampling type="end" />。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

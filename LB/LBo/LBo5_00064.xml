@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo5_00064" version="1.0" type="fixedLength">
+<article articleID="LBo5_00064_F001">
+<paragraph>
+<sentence>十六進法とは、〇〜九までの十文字<sampling type="start" />とＡ〜Ｆまでの六文字の組み合わせを一つの単位にしたもので、これの繰り返しによって次の桁に進んでいく。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　暗号化の計算式に入れる秘密の数式を<quote>「カギ」</quote>と呼ぶが、そのカギから新しいカギを次々に発生させる方式で暗号を複雑にしている。</sentence>
+<sentence>どのくらい複雑かを言葉で説明するのは難しいが、カギの開け方によっては、十の二百六十乗通りの組み合わせから答えを探し出さなければならない。</sentence>
+<sentence><quote>「十の二百六十乗」</quote>と言われても、われわれ人間の想像力をはるかに超えるが、同社は<quote>「宇宙全体に散らばる素粒子の数と同じと考えてもらえばいい」</quote>と説明する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そう聞いても、ますます頭が混乱するばかりだろう。</sentence>
+<sentence>もはや人知を超えた世界であり、コンピューターの長足の進歩があればこそ可能になった暗号といえる。</sentence>
+<sentence type="quasi">十六進法を採用したのも、コンピューターの処理方式を前提にしたためで、開発を担当した同社の<ruby rubyText="い">井</ruby><ruby rubyText="せき">関</ruby><ruby rubyText="たか">隆</ruby><ruby rubyText="のぶ">喜</ruby>主任研究員（工学博士）は、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「従来の数学的な方法では解けないし、すべての組み合わせに挑戦すれば何十年、何百年かかるかわからない。</sentence>
+<sentence type="quasi">鈴木先生をはるかに超える天才的な人物がいれば、絶対に解ける可能性がないとは言い切れないが、担当者の自負も込めて言わせてもらえば解読は無理だと思う」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と、自信満々に語っている。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　解読が不可能なほど複雑な暗号なら、コンテストを催す面白みはあっても、ビジネスの利用価値はゼロではないかという疑問が湧く。</sentence>
+<sentence>暗号を複雑にすればするほど解読に時間がかかり、サイバー・スペース上を瞬時にデジタル情報が駆け巡るネットビジネスでは、宝の持ち腐れになると考えても不思議ではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところが、ＦＳＡｎｇｏは暗号化の各段階の計算式が単純なため、カギの<ruby rubyText="ありか">在処</ruby>さえわかっていれば、きわめて短時間に解読することができるという。</sentence>
+<sentence>パソコンでも一秒間に百メガピット（新聞四百ページ分）の高速処理が可能だから、テレビ画像や携帯電話などの暗号化にも対応できるそうだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこに同社の隠された狙いがあって、井関は<quote>「電子商取引（エレクトロニック・コマースー＝Ｅコマース）」</quote>と、<quote>「ペンタゴン（国防総省）」</quote>の二つのキーワードを挙げた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　前者の電子商取引は、ネットワークを介した商取引のことで、インターネットの爆発的な普及により、国内だけでなく、国境を越えて個人や企業が海外の取引先と商品・サービスのやり取りをする動きが加速している。</sentence>
+<sentence>インターネット上に実際の商店街と同じように<quote>「商店」</quote>を出店し、顧客があたかも商店街を訪れたかのような感覚で買い物ができる<quote>「仮想商店街（バーチャルモール）」</quote>も増えている。</sentence>
+<sentence>こうした世界でデファクト・スタンダード（業界標準）として認<sampling type="end" />知されるのが目標であり、井関は次のように語った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

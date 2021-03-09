@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb4_00012" version="1.0" type="fixedLength">
+<article articleID="LBb4_00012_F001">
+<sentence>アインシュタインは，科学概念の発明とその上に理論を構築することとは人間精神の創造的特性の一つであるということを常に信じ<sampling type="start" />ていた，と語った．</sentence>
+<sentence>マッハは，科学の法則は事実の巨大な集合を記述する経済的な方法にすぎないと思っていたのだから，アインシュタイン自身の見方は，このように，マッハに反対するものであった．</sentence>
+<sentence type="quasi">［Ｃ２］<noteMarker text="††" /></sentence>
+<br type="automatic_original" />
+<noteBody>
+<rejectedBlock type="foreign" />
+</noteBody>
+<noteBody>
+<sentence>††　自伝的ノートの中で，アインシュタインは，特殊相対論の発見に必要であった批判的推論はマッハの哲学上の著作を読むことで決定的に促進されたと述べた［Ｅ２７］．</sentence>
+<sentence>この時点でアインシュタインはもう一度マッハの力学を念頭においていたのだと私はあえて推測する．</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　第３のテーマ―慣性の動力学的起源についてのマッハの推論―は，われわれを宇宙論に関するアインシュタインの研究へと導く．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２．アインシュタインとマッハ原理</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マッハの力学の中の中心となる改変は，慣性の法則を定式化する際に絶対空間を捨ててしまうことである．</sentence>
+<sentence>この法則を次のように書く．</sentence>
+<sentence>力の作用していない系は静止しているか，あるいはｘｘｘに相対的に一様な運動をする．</sentence>
+<sentence type="quasi">そうすると</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">ｘｘｘ＝絶対空間　ニュートン</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｘｘｘ＝固定した系として理想化された恒星　マッハ．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence><quote>「物体が空間内でその方向と速度を変えずにいるとわれわれが言う…とき，われわれの主張は宇宙全体に対する関係を簡潔に述べているに他ならない」</quote>［Ｍ１０］．</sentence>
+<sentence>これはマッハの言葉であり，下線も彼による．</sentence>
+<sentence>彼はさらに，近くの諸物体に関する一つの物体の相対運動は平均すると消えてしまうので，宇宙全体に対する関係は，固定した系として理想化された恒星を形作っている遠方の重い物体に対するものに限定される，と論じた．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　マッハは続いて新しい質問を持ち出す<noteMarker text="†" />．</sentence>
+<sentence>ニュートンの慣性の法則は，絶対空間に相対的な一様運動に関するものである；この法則は運動学の第１原理である．</sentence>
+<sentence>対照的に，慣性の法則についての彼自身の見解は恒星に相対的な物体の運動に関して説かれる．</sentence>
+<sentence>ちょうど，惑星の軌道を重力の力学によって，あるいは荷電粒子の相対運動を電気力学によって動力学的に説明するのと同じように，上述の運動の動力学的説明を探すべきではないのか．</sentence>
+<sentence>以上はマッハ自身の言葉ではない．</sentence>
+<sentence>けれども，この動力学的見方は彼の質問の中に暗黙に含まれている．</sentence>
+<sentence><quote><sentence>「もし全天が動き始め，星が群がって混乱状態になったら，慣性の法則はどうなるのだろう．</sentence>
+<sentence>その場合，われわれはその法則をどのように適用するのだろう．</sentence>
+<sentence>その場合，その法則はどのように表わされるのだろう．</sentence>
+<sentence type="quasi">…宇宙が粉々になった場合にだけ，それにあずかる天体すべて［下線はマッハによる］が慣性の法則で重要になる，ということをわれわれは知る</sentence>
+」</quote>［Ｍ１１］．</sentence>
+<sentence>このすべての天体の重要性がどういう形ではっきり示されるのか<sampling type="end" />，マッハの本には見当たらない；彼は慣性の法則についての新しい解釈のはっきりとした動力学的構成をついに提案しなかった．</sentence>
+</paragraph>
+</article>
+</sample>

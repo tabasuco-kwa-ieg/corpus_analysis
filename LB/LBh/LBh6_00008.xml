@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh6_00008" version="1.0" type="fixedLength">
+<article articleID="LBh6_00008_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　大店審の拡充、審<sampling type="start" />査要領の見直し、事務処理体制の整備などを行う。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　このうち最も大きな変化は商調協の廃止である。</sentence>
+<sentence>それを決定した前述の合同会議においても、当初の原案では、事前商調協と正式商調協を一本化し、法定機関とするとの案が伝えられた（<quote>「日経流通新聞」</quote>平成二年七月十七日・八月二十六日・二十八日）。</sentence>
+<sentence>しかし坂本商務流通審議官の談話記事では<quote>「<sentence>商調協が今後、どういう役割を果たしていくのかを議論する必要がある。</sentence>
+<sentence type="quasi">諮問機関を法定機関化したり、委員を公務員扱いにすることは組織論からいって可能なのかどうか</sentence>
+」</quote>（<quote>「日経流通新聞」</quote>同年九月二十日）としており、最終的には商調協を活用しない調整という戦後の調整では初めての経験が始まることとなった（なお各地の商工会議所の多くには大店審による意見聴取に応ずるため、また地元関係者の意見を集約するために、商調協に類似の構成員による、<quote>「商業振興・街づくり委員会」</quote>等の名称の組織が作られている）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地域社会にとって好ましい調整がなされるよう、<quote>「都道府県知事・市町村長、商工会議所・商工会の長その他の関係者による『街づくり』の観点からの一層の意見表明が期待される」</quote>（<quote>「中間答申」</quote>）。</sentence>
+<sentence>そのためには<quote>「意見」</quote>の基盤となるべき地域振興のビジョンとそこにおける地域商業のあり方についてのビジョンを用意しておく必要がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<authorsData>
+<sentence type="quasi">（鈴木　安昭）</sentence>
+<br type="automatic_original" />
+</authorsData>
+</article>
+<article articleID="LBh6_00008_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">１２　独禁法の展開</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">再販制度の見直しへ動く</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<paragraph>
+<sentence type="quasi"><sentence>　「ビールの価格について弊社が発表している希望卸売価格・希望小売価格は、あくまで参考価格であり、卸売店様・販売店様の販売価格を何ら拘束するものではありません。</sentence>
+<sentence>販売価格は卸売店様・販売店様が自由に決定できるものです。</sentence>
+<sentence type="quasi">以上、公正取引委員会の要請に基づき、お知らせします」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ビール会社各社は、以上のような広告を平成二年十月三十一日に全国紙・有力地方紙に掲載した。</sentence>
+<sentence>この広告掲載に至ったいきさつは次のようなものであった。</sentence>
+<sentence>ビール会社各社は平成二年（一九九〇）三月に小売価格の値上げを行ったが、公正取引委員会はこの値上げがカルテルではないかとの疑いをもった。</sentence>
+<sentence>国産ビール会社はわずか四社の寡占的状態にあり、なかでもキリンビールのシェアが圧倒的に高く、カルテルを行いやすい市場構造となっていた。</sentence>
+<sentence>しかし、公取委は証拠不十分のためにカルテルとしての告発を断念し、従来通りに独禁法第一八条二に基づいてビール会社各社から同調値上げの報告を求めることになった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　単に報告を求めるだけであったならば、ビールの小売価格の横並び状態にメスを入れることはできない。</sentence>
+<sentence>そこで、公取委は冒頭のような広告掲載をビール会社に要請し、流通を担う卸売店・小売店が<sampling type="end" />、価格設定の自由をもっていることを強調する異例ともいえる広告が新聞に掲載されることとなった。</sentence>
+</paragraph>
+</article>
+</sample>

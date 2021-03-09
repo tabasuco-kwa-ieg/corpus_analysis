@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm4_00047" version="1.0" type="fixedLength">
+<article articleID="LBm4_00047_F001">
+<paragraph>
+<sentence>同じような銀河団としては乙女座銀河団や，髪の<sampling type="start" />毛座銀河団などが知られている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに我々の銀河を含んだ局所銀河団は，乙女座銀河団を中心とする超局所銀河団と呼ばれる超銀河団（図１．９参照）をつくっている。</sentence>
+<sentence>これらの超銀河団は，ボイドと呼ばれる銀河をほとんど含まない領域を取り囲むように分布していることもわかってきた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような，宇宙の遠方の観測による空間的な構造の研究は，必然的に宇宙の進化の研究へとむすびつく。</sentence>
+<sentence>より遠方の光はより過去に放出された光であるから，宇宙の遠方の構造を探ることは，宇宙の過去を探ることでもあるからである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　観測された宇宙の大構造がどのようにしてできたのか，ひいては宇宙そのものがどのようにしてできたのかを，観測と理論に基づいて研究するのが宇宙論であり，本書でこれから述べていこうとしているテーマでもある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．８　局所銀河団</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">〔須藤靖，宇宙の大構造，ｐ．１４，培風館（１９９２）〕</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．９　超局所銀河団</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">オルバースのパラドックス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　星が無限の空間を一様に満たしているというブルーノの宇宙モデルには，明らかな矛盾がある。</sentence>
+<sentence>そのことを最初に気づいたのは，ケプラーであるという。</sentence>
+<sentence>ケプラーは，夜空が暗いことから宇宙は有限であると考えた。</sentence>
+<sentence>もし無限の空間に無限の寿命の星が無数に輝いているなら，夜空のどの方向を向いても，必ずいつかは星とぶつかる。</sentence>
+<sentence>したがって，夜空は星で埋め尽くされることになり，真昼のように明るく輝くことになってしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　個々の星が太陽と同じくらい明るく輝いているとしても，遠くの星は暗く見えるので夜空は暗い，と思うかもしれないが，実はそうではない。</sentence>
+<sentence>星が単位時間当たりに放出するエネルギーをＬとすると，そのエネルギーは，星から距離ｄだけ離れると，半径ｄの球面上に一様に広がる。</sentence>
+<sentence>したがって，その球面上の単位面積に単位時間当たりに受け取るエネルギーは，次のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　こうして星から離れれば離れるほど，一つの星から受け取るエネルギーは小さくなる。</sentence>
+<sentence>しかし問題なのは，我々が受け取るエネルギーの総量である。</sentence>
+<sentence>我々が受け取るエネルギーの総量とは，個々の星から受け取るエネルギーに，星の数をかけたものになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いま簡単のために，すべての星が同じ単位時間当たりのエネルギーＬを放出しているとしよう。</sentence>
+<sentence>我々から距離ｄだけ離れている星の数は，星が空間に一様に分布しているとすると，半径ｄの球の表面積４πｄ<superScript>２</superScript>に比例する。</sentence>
+<sentence>こうして，距離ｄにあるすべての星から受け取るエネルギーは，その距離によらないことがわかる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もし宇宙が無限ならば，すべての距離から同じエネルギーを受け取ることになり，その和は無限に大き<sampling type="end" />くなって，夜空は昼間のように明るくなる。</sentence>
+</paragraph>
+</article>
+</sample>

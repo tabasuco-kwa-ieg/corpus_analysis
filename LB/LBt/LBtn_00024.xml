@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBtn_00024" version="1.0" type="fixedLength">
+<article articleID="LBtn_00024_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">１７</enclosedCharacter>　［完了］を<sampling type="start" />クリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１０</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="●">１８</enclosedCharacter>　違う場所のロールオーバー効果が設定されました。</sentence>
+<sentence>［完了］をクリックします。</sentence>
+<br type="automatic_original" />
+<sentence>ほかのロゴも同じ要領で設定します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">１１</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="●">１９</enclosedCharacter>　［プレビュー］タブをクリックして、<quote>「おトラ母さん」</quote>にマウスポインタを置いてみましょう。</sentence>
+<sentence>基本の地図がネコの写真入りの地図に入れ替わります。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<image description="鉛筆のマーク" no="3" /></title>
+</titleBlock>
+<sentence>入れ替える画像は、最初にマウスポインタが置かれる場所の近くに画像を選択するのがポイントです。</sentence>
+<sentence>あまり離れた場所にある画像に効果を設定すると、ブラウザで表示したときにウィンドウに入りきらず、効果が確認できなくなります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ここに注目</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">Ｗｉｎｄｏｗｓ　ＸＰとＩｎｔｅｒｎｅｔ　Ｅｘｐｌｏｒｅｒ６．０の組み合わせだと表示制限がかかります</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ここで解説した、ロゴをポイントすると写真が表示されるしくみは、Ｗｉｎｄｏｗｓ　ＸＰとＩｎｔｅｒｎｅｔ　Ｅｘｐｌｏｒｅｒ６．０の組み合わせだと、アドレスバーの下に［<sentence>セキュリティ制限のため、コンピュータにアクセスできるアクティブコンテンツは表示されないよう、Ｉｎｔｅｒｎｅｔ　Ｅｘｐｌｏｒｅｒで制限されています。</sentence>
+<sentence type="quasi">オプションを表示するには、ここをクリックしてください</sentence>
+］というメッセージが表示され、期待した効果が現れません。</sentence>
+<sentence>この場合、メッセージをクリックしてメニューから［ブロックされているコンテンツを許可］を選べば、効果が出るようになります。</sentence>
+<sentence>これはほかのページで紹介している操作でも同様です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">４・１１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">素材集のアイコンをアレンジしてわがもの顔で使おう</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">ウェブアートデザイナー</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<abstract>
+<sentence>素材集のアイコンが<quote>「これとこれを組み合わせられないかな」</quote>とか<quote>「この角度では使いにくい」</quote>と思うことはよくあるもの。</sentence>
+<sentence>複数の素材を組み合わせたり、横の素材を縦にしたりして<quote>「<sentence>自分で作ったの？</sentence>
+」</quote>と感心されるような仕上がりにしてみましょう。</sentence>
+<br type="automatic_original" />
+</abstract>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">これを作ろう</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　複数の素材とロゴを組み合わせてオリジナルのコンテンツロゴにする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="●">１</enclosedCharacter>　［テンプレート　ギャラリー］を非表示にしている場合は、ウェブアートデザイナーを起動して、メニューから［表示］→［テンプレートギャラリー］を選んで表示します。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">２</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence><enclosedCharacter description="●">２</enclosedCharacter>　［テンプレート　ギャラリー］の［素材］タブをクリックします。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">３</enclosedCharacter>　好きなアイコンを２種類選んで配置します。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<image description="鉛筆のマーク" no="4" /></title>
+</titleBlock>
+<sentence>素材の配置のしかたはホームページ・ビルダーと同じです。</sentence>
+<sentence>８３ページを参照してください。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="●">４</enclosedCharacter>　アイコンとアイコンの間に、ロゴ作成機能（１２４ページ参照）で作った素材を配置します。</sentence>
+<sentence>ここでは<quote>「●」</quote>を入力してオリジナルの飾り罫を作ってみました。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<rejectedBlock type="figure" />
+</listItem>
+<listItem>
+<sentence type="quasi">３</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="●">５</enclosedCharacter>　飾り罫の上にロゴを配置して、コンテンツロゴの完成です。</sentence>
+<sentence>ロゴと素材を複数選択して保存すれば、ひとつの素材とし<sampling type="end" />て扱うことができます。</sentence>
+</listItem>
+</list>
+</article>
+</sample>

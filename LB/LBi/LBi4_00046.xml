@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi4_00046" version="1.0" type="fixedLength">
+<article articleID="LBi4_00046_F001">
+<figureBlock>
+<caption>
+<sentence>アメリカ国立衛生研究所（ＮＩＨ）の<sampling type="start" />中心に位置するビルデイング１０。</sentence>
+<sentence>この中には遺伝子治療の実施されたクリニカルセンターも含まれている。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第三章　対談・遺伝子治療の現在と未来</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">島田隆（日本医科大学教授）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">小澤敬也</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">島田隆教授</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">著者</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<paragraph>
+<sentence>　未来の遺伝子治療はどのような形になっているのでしょうか？</sentence>
+<sentence>　私はそのイメージを二章の物語の主人公の夢として書いてみました。</sentence>
+<sentence>しかし、実際にあの未来の遺伝子治療が現実化されるには、まだまだ時間が必要です。</sentence>
+<sentence>遺伝子治療の研究には解決すべき問題がたくさんあるからです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第三章では遺伝子治療の研究者である日本医科大学教授の島田隆先生を迎えて対談を行います。</sentence>
+<sentence>この対談を通して、現在、研究者の前にたちはだかる問題がどんなものなのかが見えてくると思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　対談の相手をしてくださる島田先生はエイズの遺伝子治療法に関する研究を行っています。</sentence>
+<sentence>人類を<ruby rubyText="おびや">脅</ruby>かす最強の敵ともいうべきこの病気に対する治療法を語りつつ、遺伝子治療の可能性を探っていこうと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<profile>
+<sentence type="quasi">島田隆（しまだ・たかし）日本医科大学教授</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>●一九四八年東京都生まれ。</sentence>
+<sentence>一九七四年日本医科大学医学部卒業。</sentence>
+<sentence>一九八一年、医学博士の学位取得。</sentence>
+<sentence>同年より、アメリカ国立衛生研究所（ＮＩＨ）に留学し約一〇年間の研究生活を送る。</sentence>
+<sentence>一九九一年、帰国し日本医科大学生化学第二講座主任教授となり現在に至る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●主な研究領域に遺伝子治療のための遺伝子導入法の開発などがある。</sentence>
+<sentence>現在、ＨｌＶ（エイズウイルス）をベクターとして使うことの研究開発で注目されている。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</profile>
+<titleBlock>
+<title>
+<sentence type="quasi">そのころ、遺伝子治療はまだ産声さえあげていなかった</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小澤</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　島田先生とは実は留学先［アメリカ国立衛生研究所（ＮＩＨ）の中の国立心肺血液研究所（ＮＨＬＢＩ）、臨床血液学部門（ＣＨＢ）］が一緒で、いろいろとお世話になりました。</sentence>
+<sentence>先生は研究室の主みたいな方でかなり長くＮＩＨにおられたわけですが、先生が最初に行かれたのは一九八一年のことでしたか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">島田</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　そのころですね。</sentence>
+<sentence>帰ってきたのが九一年で、ＮＩＨでの生活がちょうど一〇年目でしたから。</sentence>
+<sentence>ずいぶん長くいたことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">小澤</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　私は一九八五年の春から二年半ぐらいＮＩＨにいたんですが、島田先生はアメリカでの遺伝子治療の準備段階の悪戦苦闘の時代からその画期的なスタートまでＮＩＨで研究生活を送られていたことになるわけで、遺伝子治療の歴史を身をもって体験されているわけです。</sentence>
+<sentence>そこで最初に、ＮＩＨの遺伝子治療研究にまつわる話、なかなか外部の人にはわからないところもあると思うんですが、そんな話も交えていただきながら、ＨＩＶ（エイズウイルス）ベクターをはじめとしたベクター開発の<sampling type="end" />専門家として、島田先生ご自身の研究の流れみたいなところを少しずつおうかがいしていきたいと思うんです。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

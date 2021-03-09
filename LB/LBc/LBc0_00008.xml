@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc0_00008" version="1.0" type="fixedLength">
+<article articleID="LBc0_00008_F001">
+<paragraph>
+<sentence>　したがって、統合型の人工知能システムが近い将来<sampling type="start" />続々と開発されるようになるであろう。</sentence>
+<sentence>それからの研究課題は、このようなシステムの上に、人間の思考過程に対応させたモデルを分野ごとに開発してゆくことである。</sentence>
+<sentence>このような試みに最もふさわしい問題領域は、やはり科学研究の分野であろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上述べた応用課題は、実はバイオコンピュータの研究開発を支援する技術でもある。</sentence>
+<sentence>複雑、多様、ある意味で雑多な生命科学の成果を効率よく吸収しつつ、工学的に応用してゆくためには、右に述べたような道具立てが必要になるのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１１・４　人間の思考とその関連機能に対応させた支援システム</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（文献２．　図５．１．３引用）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">５　潜在脳のコンピュータ化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">潜在脳の働きの解明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　真に創造的なコンピュータをつくるためには、潜在脳の働きを解明しなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　潜在脳は意識できず、その働きをうまく説明できない知力である。</sentence>
+<sentence>したがって、<quote>「創造性の開発」</quote>というような素人向けの本には、さまざまな文学的表現によって、その特性が語られているが、コンピュータ工学者にとって参考になりそうな記述はほとんどなきに等しい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　われわれの最大の関心事は、潜在脳がディジタル電子回路で実現できるのだろうかということである。</sentence>
+<sentence>マカロックとピッツの時代から、脳に電気回路網的な性格があることはわかっていた。</sentence>
+<sentence>その後の脳科学の発達は、シナプス伝達における伝達物質の存在、ニューロンの結合の強さが変わる可塑性、神経網形成過程での外部からの刺激の役割、脳波など、ポテンシャル場の存在を明らかにしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようなハードウェアの知見と、潜在脳と呼ばれるような知の働き方の双方を矛盾なく結びつけるには、どのようなモデルを考えたらよいのであろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、イメージで考えるという右脳思考なら、先に述べたようにパターン・マッチングと並列処理を工夫することにより、ある程度、現在の技術でもスタートできるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、脳の記憶はホログラフィ的であるという説がある。</sentence>
+<sentence>ある情景をホログラフィとして記憶することは、原理としてはむずかしくない。</sentence>
+<sentence>光コンピュータの項で述べた、フーリエ変換処理を施せばよいからである。</sentence>
+<sentence>そういう変換された情報間の演算も昔から画像処理でよく研究されている。</sentence>
+<sentence>したがって限定された機能であれば、実現できる（図１１・５）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　先に紹介した。</sentence>
+<sentence>ホップフィールドの新しい記憶モデルはパーセプトロンのように、下位から上位へ一方的に情報が統合されるモデルではなく、情報がループし、ぐるぐるまわるモデルである。</sentence>
+<sentence>このようなモデルによれば、情報を格納している番地ではなく、内容によって検索することが可能な、<quote>「メ<sampling type="end" />モリー」</quote>になりうる可能性がある。</sentence>
+</paragraph>
+</article>
+</sample>

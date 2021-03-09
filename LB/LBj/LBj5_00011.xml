@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBj5_00011" version="1.0" type="fixedLength">
+<article articleID="LBj5_00011_F001">
+<paragraph>
+<sentence>　窒素酸化物とＶＯＣのどちらが重要かは多くの要因に支配<sampling type="start" />される。</sentence>
+<sentence>米国でもアトランタなど樹木が特に多い都市では、樹木からのＶＯＣが多いので、窒素酸化物の対策が重視される。</sentence>
+<sentence>日本では排気ガス以外の各種発生源からのＶＯＣも規制を強化すべきであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国では排気ガス規制を厳しくしても、車が増えるために大気の質の改善は困難といえる。</sentence>
+<sentence>したがって大都市では、電気自動車の使用が望ましい。</sentence>
+<sentence>しかし大型電池が必要で、高価なうえに重く、高速運転や長距離運転には向かない。</sentence>
+<sentence>大都市内を専用に走るバスなどには適し、政策的に補助をして普及させることが望まれる。</sentence>
+<sentence>実用にはガソリンスタンドに替わる充電設備が多数要るが、総合的なエネルギー効率は、平坦な道路では一般のエンジン車よりも良くなる可能性がある。</sentence>
+<sentence>総合効率が良くなれば二酸化炭素の排出は減る。</sentence>
+<sentence>また、電力を作るための火力発電によって窒素酸化物が排出されるが、高い煙突から排出して拡散させるので、その影響は車より著しく少ない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｄ　酸性雨の原因と実態</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">雨の酸性度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　雨の酸性度はペーハー（ピーエッチともいい、ｐＨと記す）で表される。</sentence>
+<sentence>中性の水はペーハー七で、数値が小さいほど酸性が強い。</sentence>
+<sentence>普通の雨には空気中の二酸化炭素が溶け込んでいて、ペーハーは五・六に下がっている。</sentence>
+<sentence>これよりもペーハー値が小さい雨を酸性雨という（表３・５）。</sentence>
+<sentence>汚染されていない大気中にも、自然起源の二酸化硫黄や窒素酸化物が少量存在し、それらが硫酸や硝酸になって雨に含まれるので、ペーハーが五程度になることは珍しくなく、最近ではペーハー五以下の雨を酸性雨ということが増えた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　北欧や北米では、二酸化硫黄も窒素酸化物も排出量が多く（図３・１、３・２）、最も雨の酸性が強い地区の年間平均ペーハーは四にもなる。</sentence>
+<sentence>この酸濃度はペーハー五の十倍である。</sentence>
+<sentence>日本では関東地方の雨の酸性が強く、年平均ペーハーは四・五で、これはペーハー五の約三倍の濃度である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国では、火山の出す硫黄酸化物が年間二百万トン程度もあって、最近の人工排出量よりも多く、そのため昔から雨は酸性だったと思われる。</sentence>
+<sentence>土壌も酸性で、植物も酸性を好むものが育っている。</sentence>
+<sentence>北欧や北米では、火山の二酸化硫黄の排出はほとんどないが、ここへ人工的に多量に排出されるので、自然環境への影響が強く現れている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表３・５　各種の液と雨のペーハー（ｐＨ）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">欧米の酸性雨</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　世界で酸性雨が最初に問題になったのは北欧で、三十年ほど前からである。</sentence>
+<sentence>一九五二年のロンドンスモッグ事件以後、英国と西ドイツでは、発電所や大工場の煙突を四百から五百メートル以上（日本は最高二三〇メートル）にまで高くして、ともに年間三百万トン以上の二<sampling type="end" />酸化硫黄を放出した。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq7_00032" version="1.0" type="fixedLength">
+<article articleID="LBq7_00032_F001">
+<list>
+<listItem>
+<sentence>・ボールがタ<sampling type="start" />ッチラインを越えた地点から。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・最後にボールに触れた競技者の相手競技者に。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>スローインから直接得点することはできない。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>・試合中にタッチラインからボール全体が出たときには、出たボールに最後に触れた相手チームのプレーヤーによって、ボールの出た地点からのスローインでプレーを再開する。</sentence>
+<sentence>ボールが出た地点から数メートルも違った地点からスローインしたときは違反となり、相手チームのスローインになる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・スローインしたボールが、スローアー以外の味方・相手プレーヤーの誰にも触れずに相手ゴールに入っても得点は認められず、相手チームのゴールキックとなる。</sentence>
+<sentence>同じ状況で味方のゴールにボールが入ってしまったときも得点にはならず、相手チームのコーナーキックとなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>タッチラインからボールが出たとき、最後にボールに触れたのが守備側プレーヤーのときは、攻撃側のスローインとなる。</sentence>
+<sentence>スローインはボールの出た地点から行う。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ルール</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">進め方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">ボールを投げ入れるとき、スローアーは：</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>・フィールドに面している。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・両足ともその１部をタッチライン上またはタッチライン外のグラウンドにつけている。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・両手を使う。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・頭の後方から頭上を通してボールを投げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>ボールが他の競技者に触れるまで、スローアーはボールを再びプレーしてはならない。</sentence>
+<sentence>ボールがフィールドに入った瞬間にボールがインプレーとなる。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>・スローインするとき、スローアーは身体をフィールドに向け、両足ともタッチライン上またはタッチラインの外のグラウンドにつけていること（爪先立ちでもよい）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・ボールは両手で均等に力が入るように持ち、頭の後方に構えて頭上を通して前方に投げ入れる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・タッチラインを越えてフィールド内に足を踏み入れたり、片足でもグラウンドから離れたときはファールスローとなり相手チームのスローインとなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・また、ボールを投げ入れるときに、片手はボールの後ろで、他方をボールの横に添えて投げるのは違反である。</sentence>
+<sentence>ボールを頭の後方に構えずに頭上から投げたり、頭上を通して前方に投げずに横のほうに投げたりするのも違反で、いずれもファールスローとなり相手チームのスローインとなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>・スローインされたボールは、ボールがタッチラインを越えてフィールドに入った瞬間にインプレーとなる。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">スローイン</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">ボールの持ち方</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">足の位置</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ルール</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">違反と罰則（１）ゴールキーパー以外の競技者によるスローイン</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">ボールがインプレーになって他の競技者に触れる前に、スローアーがボールに再び触れた場合（手による場合を除く）：</sentence>
+<br type="automatic_original" />
+<sentence>・違反の起きた地点から行う間接フリーキックを相手<sampling type="end" />チームに与える。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

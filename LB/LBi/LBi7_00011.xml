@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi7_00011" version="1.0" type="fixedLength">
+<article articleID="LBi7_00011_F001">
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>キャッ<sampling type="start" />チング</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>ディフレクディング（抜けてきたボールを手ではじく）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　手を使えない場合（ペナルティーエリア外，あるいは味方が足でパスしてきた場合）には，以下のプレーの選択がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>トラップしてからパスする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>ダイレクトでパスをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>クリアキックをする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>ヘディングする（最近とくに重要になってきた）。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">攻撃に必要な技術</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１　手を使う（スローイング）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　投げる形には，ボールを受ける味方の距離，状況に応じて以下の３種類ある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>オーバーハンドスロー</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>サイドハンドスロー</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>アンダーハンドスロー</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　すなわち，遠い味方にはオーバースローで投げなければならないが，近くならアンダースローで投げる。</sentence>
+<sentence>また，速いボールを投げなければならない状況なら，サイドハンドスローが必要だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ボールの種類もいくつかあるが，受ける味方がコントロールしやすいことを最大のプライオリティー（優先順位）として投げる。</sentence>
+<sentence>その要素としては，次の４つが考えられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>グラウンダーのボール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>ワンバウンドのボール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>なるべくまっすぐなボール</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>受けやすく，しかも相手チーム選手にインターセプトされたり，トラップした瞬間にタックルされる危険性の少ない強さのボール</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">２　足を使う（キック）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>止まったボールをける場合：プレースキック（ゴールキック，フリーキック）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>保持したボールをける場合：パントキック（ノーバウンドでける），ドロップキック（ハーフバウンドでける），ドリブルからのキック</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　キックの狙いは，手で投げる場合と同じだが，キックを使える場合には，単純に陣地回復の狙いでけるときもある。</sentence>
+<sentence>そのときには，できるだけ相手陣の奥深くにけるようにしなければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">３　ＧＫトレーニングのチェックポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">基本姿勢（立ち方）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　単純なことではあるが，非常に重要なのが<quote>「基本姿勢」</quote>つまり立ち方だ。</sentence>
+<sentence>中・高校生では，とくに立ち方ができていないＧＫが多い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「基本姿勢」</quote>とは，前後左右にどこにでもスムーズに動ける立ち方のこと。</sentence>
+<sentence>個性，自分のやりやすい立ち方もあるが，まず以下の基本をチェックしてみよう（写真下）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>足：肩幅より少し広め。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>ピザ：軽く曲げる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>爪先に体重をかける。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　忘れられがちなのが上半身の<quote>「構え」</quote>だ。</sentence>
+<sentence>これもチェックしよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>やや前傾ぎみにする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>顔を前に向ける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>視線を前にする。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>頭を安定させる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>手は体より前，ヒジを軽く曲げてどの方向にも出せる状態にする。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ＧＫトレーニングの注意点</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　トレーニングで最も大事なのは，何のための練習なのか，はっきりと意識して取り組むことだ。</sentence>
+<sentence>頭の中で次のどの練習なのかきちんと区別する。</sentence>
+<sentence>そうしないと，トレーニングの成果は上がらない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>純粋な技術練習</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１本<sampling type="end" />１本に集中し，正しいフォームをイメージしながら練習する。</sentence>
+</paragraph>
+</article>
+</sample>

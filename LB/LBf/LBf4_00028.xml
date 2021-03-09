@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf4_00028" version="1.0" type="fixedLength">
+<article articleID="LBf4_00028_F001">
+<paragraph>
+<sentence>凍結乾燥標品は通常−６０℃に<sampling type="start" />保存する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もう一つ別の方法では，より低温で細胞を貯蔵する。</sentence>
+<sentence>この方法では，安定化のため薬品を含む希釈生育培地に細胞を懸濁して，容器を−１９６℃の液体窒素に浸しておく。</sentence>
+<sentence>ＡＴＣＣの特別貯蔵室には，多数のステンレス製タンクがあり，それぞれには液体窒素中に浮かべた４万個の菌株容器が保存されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＡＴＣＣの貯蔵施設は電子監視設備により２４時間監視されている。</sentence>
+<sentence>空の冷凍庫が故障にそなえて準備してあり，緊急用発電機が停電の場合電力を供給できる。</sentence>
+<sentence>大学，研究所，病院の実験室やバイオテクノロジー会社の微生物学者たちは常に，自前の冷凍庫とか小型の液体窒素貯蔵容器の中へ実験用と標準用微生物株を保存維持している。</sentence>
+<sentence>しかしながら，ＡＴＣＣで利用されているような安全体制は通常可能ではないことから，ＡＴＣＣは最近になって安全保証サービスを始めた。</sentence>
+<sentence>わずかの料金で，安全のため菌株を預けられ，かつ求めに応じてＡＴＣＣが望みの生物入り容器を送ってくれる。</sentence>
+<sentence>これは銀行で預金者だけが引き出しができるというのと同じサービスである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４　米国菌株保存機関などに保存されている細菌の例</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">第７章／微生物界のタフな生存者たち</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　微生物の凍結乾燥実験から，ある種の細菌は天然物内や自然条件下で何世紀も何千年も休眠状態で生存し続けるかもしれないと考えられる。</sentence>
+<sentence>そういった長期間生存の最有力候補は，自然な生育過程中に内生胞子を形成する細菌である。</sentence>
+<sentence>内生胞子―今後は単に胞子とよぶ―は土壌中に普通に見られる次の３属の細菌によって主として形成される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">・バチルス（Ｂａｃｉｌｌｕｓ）―桿状の好気性菌</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・クロストリジウム（Ｃｌｏｓｔｒｉｄｉｕｍ）―桿状の嫌気性菌（あるものは大気中の窒素を固定できる）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・好熱性放線菌（Ｔｈｅｒｍｏａｃｔｉｎｏｍｙｃｅｓ）―少し高温（５０℃）でいちばん良く生育する好気性細菌</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　胞子形成過程はこの違った属でも基本的に同一で，遺伝的制御をうけた複雑な一連の過程をへておこる。</sentence>
+<sentence>適当な栄養物を供給されて生育し増殖している細胞は胞子形成をしない。</sentence>
+<sentence>しかし，ある養分が消費されつくすと一連の変化の引き金がひかれ，<quote>「母」</quote>細胞ごとに１個の胞子が形成される。</sentence>
+<sentence>最後に母細胞の遺物が脱落し１個の遊離胞子が放出される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　細菌の胞子は有性過程，つまり２個の親細胞が関与する過程，の結果つくられるのではない。</sentence>
+<sentence>むしろ，<quote>「過酷な時期」</quote>を生き延び，種の拡散を助けるために仕組まれた生活環の一段階のようだ。</sentence>
+<sentence>細菌胞子の最も目立った特徴は，不利な環境条件に対して並はずれて耐久性がある点にある。</sentence>
+<sentence>胞子をつくらない細菌は化学防腐剤や<sampling type="end" />消毒剤，それに比較的穏やかな加熱によってすぐに死ぬ。</sentence>
+</paragraph>
+</article>
+</sample>

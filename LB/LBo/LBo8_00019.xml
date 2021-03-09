@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo8_00019" version="1.0" type="fixedLength">
+<article articleID="LBo8_00019_F001">
+<sentence>のような例がないわけではないが，しかしその数量は，<quote>「きっと」</quote>２７９例中７<sampling type="start" />例で２．５％，<quote>「たぶん」</quote>１０３例中７例で６．８％，<quote>「おそらく」</quote>１８２例中１４例で７．７％，である．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　さて，こうした数値をどう見るか．</sentence>
+<sentence>たとえば<quote>「たぶん」</quote>は，６．８％とはいえ，過去・連体節内の推量―蓋然性の用法に用いられる以上，副次叙法だと見るべきだろうか．</sentence>
+<sentence>内省にもとづいて可能か否かとテストしていく研究者なら，まちがいなくそうするだろう．</sentence>
+<sentence>６．８％もあるのだから．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たしかに，無と有（６．８％）とは質的に異なる．</sentence>
+<sentence>その限りでこの方法はまちがっていない．</sentence>
+<sentence>しかし，６．８％の用例と９３．２％の用例と，そのどちらでその語の基本性格を規定すべきか，ということが問題にならないような方法は，歴史的社会的所産としての言語の研究方法としては，極めて危険なものである．</sentence>
+<sentence>言語現象には常に<quote>「中心的なものと周辺的なもの」</quote>とがある，というプラーグ学派の主張したテーゼ［ｃｆ．ＴＬＰ２（１９６６）］に同意するならば，とれない方法である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　過去・連体節内の推量―蓋然性の用法の使用頻度は，<enclosedCharacter description="○">１</enclosedCharacter><quote>「きっと」</quote>では２．５％，<enclosedCharacter description="○">２</enclosedCharacter><quote>「たぶん」</quote>では６．８％，<quote>「おそらく」</quote>では７．７％，<enclosedCharacter description="○">４</enclosedCharacter><quote>「あるいは」</quote>では１０．６％，<enclosedCharacter description="○">３</enclosedCharacter><quote>「どうやら」</quote>では２３．９％，となっているが，この数値は，やはりすなおに，叙法性の強から弱への連続と見るべきであろう．</sentence>
+<sentence>そして<enclosedCharacter description="○">４</enclosedCharacter>の不確定，<enclosedCharacter description="○">３</enclosedCharacter>の推定ないし様態より，さらに対照的コトガラ的なものとして，<quote>「きまって」</quote><quote>「いつも・よく」</quote><quote>「とかく」</quote>など，習慣的・反復的な事態の起こる<quote>「確率」</quote>に関する副詞があると見るべきだ．</sentence>
+<sentence type="quasi">先の表にも示した<quote>「大抵」</quote><quote>「大概」</quote>などは，<quote>「大抵の男」</quote><quote>「大概の物」</quote>のような実体量を示す数量詞の用法から，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">（３５）</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>山に行く時はたいてい深田久弥と一緒だ．</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（小林秀雄<quote>「私の人生観」</quote>）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">（３６）</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>山上という女は十時ごろには大概帰って行った．</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（志賀直哉<quote>「暗夜航路」</quote>）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+</list>
+<sentence type="quasi">のような，事態の確率を示す用法をへて，</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">（３７）</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence type="quasi">大将のことだから，大抵出かけて来るだらうけれど…〈下略〉</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（里見弴<quote>「多情仏心」</quote>）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+<listItem>
+<sentence type="quasi">（３８）</sentence>
+<br type="automatic_original" />
+<quotation>
+<citation>
+<sentence>例の（考えておこう）だから，大概いいだろうと思う．</sentence>
+<br type="automatic_original" />
+<source>
+<sentence type="quasi">（<quote>「暗夜行路」</quote>）</sentence>
+<br type="automatic_original" />
+</source>
+</citation>
+</quotation>
+</listItem>
+</list>
+<sentence>のような，推量と呼応する用法を派生しかけている，と推測される．</sentence>
+<sentence><quote>「おおかた」</quote>の場合は派生が一応完了して，多義語もしくは同形異品詞として分化している．</sentence>
+<sentence><quote>「大抵・大概」</quote>は，いまだ過渡的な状態にあると思われるが，共時的研究としても，こうした（叙法副詞から見て）周辺的なものも，そういうものとして記述すべきだろう．</sentence>
+<sentence>そしてそのさいの手がかりは使用量であろう．</sentence>
+<sentence>質的なちがいは量的なちがいとして現象するのである．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　前節まで，基本叙法と副次叙法とを質的に異なったものとする点に力点をおいて考えてきた．</sentence>
+<sentence>本節では，両者を程度差をもって連続するものとする点に力点をおいて考えた．</sentence>
+<sentence>この二つの見方は，けっして矛盾・排除しあうものではない．</sentence>
+<sentence>量的な推移の<quote>「変」</quote>と質的な転換の<quote>「化」</quote>【あわせ<sampling type="end" />て<quote>「変化」</quote>】との相互作用の問題であって，比喩的にいえば<quote>「段階的に連続している」</quote>のである（森重敏１９６５，ｐｐ．３４‐３６）．</sentence>
+</paragraph>
+</article>
+</sample>

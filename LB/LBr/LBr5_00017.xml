@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00017" version="1.0" type="fixedLength">
+<article articleID="LBr5_00017_F001">
+<paragraph>
+<sentence>　ここでは、３０年前に一戸建てを購入したときの土地代が１０００万円、建物１０００万円と<sampling type="start" />し、現在の建物の価値は減価償却が済んだためにゼロとします。</sentence>
+<sentence>したがって、譲渡資産を取得したときの費用としては土地代だけが計算されます。</sentence>
+<sentence>ただし、その費用はそのまま控除されるのではなく、売買差額に応じて減額されます。</sentence>
+<sentence>また、譲渡費用は売却額の３％＋６万円です。</sentence>
+<sentence>ほかの費用は無視することにします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　この譲渡所得１６５３万円に税率２６％（所得税が２０％、住民税が６％）がかかりますから、約４３０万円の税額になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、居住用財産の譲渡に対しては、３０００万円の特別控除があります。</sentence>
+<sentence>この場合ではどうでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　譲渡価格から３０年前の取得費用と譲渡にかかった費用を引き、さらに３０００万円が差し引かれますから、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　この２７８４万円に課税されるわけですが、譲渡した不動産の所有期間が１０年を超えていますので軽減税率が適用されます。</sentence>
+<sentence type="quasi">課税譲渡所得金額が６０００万円以下の場合には所得税と住民税合わせて１４％（６０００万円を超えた分には２０％）ですから、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　この結果、羽柴さんは買い換え特例よりも３０００万円の特別控除を受けたほうが４０万円ほど得することになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">４２　持ち家と生涯賃貸でどちらが有利か</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　かつては、漱石も鷗外も借家住まいでした。</sentence>
+<sentence>それがごくふつうの日本人の生活様式だったのです。</sentence>
+<sentence>ところが戦後になると、誰もが競って<quote>「夢のマイホーム」</quote>を求めるようになりました。</sentence>
+<sentence>そしていまや、持ち家比率が全住宅の６割を超えています（<quote>「住宅・土地統計調査」</quote>１９９８年）。</sentence>
+<sentence>ですが、本当に持ち家は得なのでしょうか？</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　もちろん、持ち家が得だという絶対の保証はありません。</sentence>
+<sentence>現に、バブル時の不動産価格の乱高下を思い出すだけでその危うさが理解できます。</sentence>
+<sentence>資産価値が急降下する一方で、いまなお多額のローン返済に苦しんでいる人が数多くいます。</sentence>
+<sentence>しかしバブル時には、賃貸住宅に住んでいた人もその余波を受けました。</sentence>
+<sentence>インフレであれデフレであれ、分譲も賃貸もそれなりに影響を受けるわけです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　大石良子さん（３３歳）と力さん（３５歳）の夫婦は、東京近郊の新築公団住宅を前にして悩んでいます。</sentence>
+<sentence>ほぼ同じ場所に、分譲住宅と賃貸住宅のブロックが並んでいるのです。</sentence>
+<sentence>建物の構造や質も同じに見えます。</sentence>
+<sentence>良子さんは分譲のほうがいいと思っていますが、力さんは転勤のことを考えて賃貸を主張しています。</sentence>
+<sentence>さて、どちらを選択すべきでしょうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　分譲住宅で良子さんが気に入っているのは、９階建ての７階にある３ＬＤＫ（８１平方メートル）です。</sentence>
+<sentence>譲渡価格は消費税を含めて１８１７万５０００円。</sentence>
+<sentence>一方、賃貸のほうは、やはり９階建ての５階にある３ＬＤＫ（８８平方メートル）で、月額の家賃は<sampling type="end" />９万円でした。</sentence>
+</paragraph>
+</article>
+</sample>

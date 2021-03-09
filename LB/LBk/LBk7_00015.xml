@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk7_00015" version="1.0" type="fixedLength">
+<article articleID="LBk7_00015_F001">
+<paragraph>
+<sentence>　ヤスリの形は作業目的に応じて各種あ<sampling type="start" />り，それぞれ削る部分の形に合わせて使い分けます．</sentence>
+<sentence>断面の形から，平，甲丸，丸などと呼んでいます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">平</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">甲丸</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">丸</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">四角</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">シノギ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フジ山</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">フジ山ハラ丸</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">刀刃</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">先細</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">楕円</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">三角</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">両甲</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ヤスリの目</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ヤスリの目には荒いものから細かいものまで，荒目・中目・小目（または細目）・油目とがあります．</sentence>
+<sentence>インチヤスリはすべて揃っていますが，組ヤスリは中目と油目が中心です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">最初にそろえるヤスリ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　以上のヤスリを全部揃えたらたいへんな数になってしまいます．</sentence>
+<sentence>学院では，初心者が最初に揃えるヤスリとして次のものをすすめています．</sentence>
+<sentence>いずれも使用頻度の高いものです．</sentence>
+<sentence>あとのものは徐々に揃えていけばよいでしょう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>上／精密ヤスリ／上から　笹葉，腹甲丸，シノギ，三角，四角，丸．</sentence>
+<br type="automatic_original" />
+<sentence>下／左から　インチヤスリ（中目・油目），５本組甲丸（中目・油目），平角（中目・油目），１０本組甲丸（中目・油目），平角（中目・油目），シノギ（中目・油目），三角（中目・油目），小角（中目・油目），腹丸（中目・油目）．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">ヤスリがけの基本練習</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　糸ノコの基本練習で切り取った銅板を使って，ヤスリの使い方の基本練習をします．</sentence>
+<sentence>目の荒いヤスリから目の細かいヤスリへと進めていきます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　地金をしっかり押さえるということが，ヤスリがけのポイントです．</sentence>
+<sentence>親指，人さし指，中指，薬指をフルに使い，しっかり固定して作業してください．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">●平角地金</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">直進</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ヤスリをまっすぐ前方に押して削る方法．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">斜進</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>右斜め前方に向かってヤスリを押す方法．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">●曲線地金</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>カーブに合わせて，５本組の甲丸や１０本組の腹丸などで削ります．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">●丸板地金</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>スリ板の下にあてがった人さし指を支点にして丸銅板を下方に動かし，同時にヤスリを直進させます．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">●四角地金</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>面がダレない（丸まらない）ように注意します．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+<listItem>
+<sentence type="quasi">●三角地金</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>それぞれの先端が鋭角になるよう，慎重に．</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">仕上げる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ヤスリで荒削りした後をきれいに仕上げます．</sentence>
+<sentence>実際の作業では，次に紹介する曲げる作業やロウ付け作業が完全に終わった後に仕上げをする場合も多いのですが，ここでは便宜上，仕上げから説明します．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　貴金属を仕上げる用具には何種類かありますが，ベースとなる用具は紙ヤスリ（サンドペーパー）と，ヘラと呼んでいる金属製の磨き棒です．</sentence>
+<sentence>また，紙ヤスリとほぼ同じ役目をするキサゲも大切な用具です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">紙ヤスリ（サンドペーパー）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　紙ヤスリは紙（ペーパー）の上に粒状の研磨剤（カーボランダムなど）を付着したもので，ヤスリの跡を整えるのに用います．</sentence>
+<sentence>紙ヤスリをかけても貴金属はピカピカには光りませんが，広い意味での仕上げの工程として大切な作業です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　研磨剤は粒の大きいものから小さいものまで各種あり，番号が小さい方が，粒は大きくヤスリ面の目は粗くなります．</sentence>
+<sentence>たとえば２４０番の紙ヤスリは粒が大き<sampling type="end" />く粗目で，１５００番は粒が小さく細目です．</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa5_00012" version="1.0" type="fixedLength">
+<article articleID="LBa5_00012_F001">
+<paragraph>
+<sentence>確かなことは龍馬が靴をはき、その姿を写真に残したことだけであ<sampling type="start" />る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">徳川慶喜の長靴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　靴をはいた武士は龍馬一人に限らない。</sentence>
+<sentence>徳川幕府最後の将軍、慶喜も靴をはいた。</sentence>
+<sentence>十五代将軍がはいたのは軍人の長靴で、それはフランス皇帝ナポレオン三世から贈られたものであった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この最後の将軍はずいぶんとハイカラな人であったらしい。</sentence>
+<sentence>たとえば写せば寿命が縮まると信じられていた写真が好きで、また当時の日本人のほとんどが口にすることのなかった豚肉や牛肉を好んで食した。</sentence>
+<sentence>そんな慶喜だから靴をはいたとしても別に不思議はない。</sentence>
+<sentence>もっとも靴をはいたといっても、日常的に草履のかわりにしていたというわけではなく、その点、龍馬と同じには論じられない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ナポレオン三世がフランス陸軍の軍装一式を贈ってくれたとき、写真好きの慶喜はそれを身につけて写真をとる気になった。</sentence>
+<sentence>金モールや大きな肩章でごてごて飾られたフランス陸軍の元帥服を身につけ、足には膝の上までも届く長靴をはく。</sentence>
+<sentence>そしてやはりこれもフランス皇帝から贈られたアラブ馬にまたがり、そろりと写真鏡（カメラをそう呼んだ）の前に駒をすすめた。</sentence>
+<sentence>おそらくことの真相はそんなところであったのではないだろうか。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">西洋草履をはいた武士</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで喜田川<ruby rubyText="き">季</ruby><ruby rubyText="そう">荘</ruby>の『類聚近世風俗志（原名守貞漫稿）』という本にも武士が靴をはいたことが書かれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　<quote>「炮卒」</quote>とは砲兵のことである。</sentence>
+<sentence>幕末に幕府軍兵士が横浜でヨーロッパ式の軍事教練を受け、その際に<quote>「西洋草履」</quote>、つまり靴をはいたというのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　開国によって幕府は軍制改革を迫られ、それが具体化されるのが引用文にもあるように文久の頃、正確には文久二（一八六二）年六月であった。</sentence>
+<sentence>改革の中心は将軍直属の常備軍を創設することで、そのため五百石から三千石の中級の旗本からそれぞれの石高に応じて兵員を供出させた。</sentence>
+<sentence>集められた兵員はヨーロッパの軍隊を真似て歩兵、騎兵、砲兵の三兵に編成された。</sentence>
+<sentence>ところが兵の編成だけは洋式にしてはみたものの、実際の教練はできない。</sentence>
+<sentence>兵学の知識は翻訳本の域を出ず、ましてや本場の軍隊経験をした者などいるわけはなかったからである。</sentence>
+<sentence>それで横浜に駐屯しているイギリス軍に教練を依頼した。</sentence>
+<sentence>教練も当初はごく小規模なものであったらしい。</sentence>
+<sentence>それが慶応年間になってフランスから専門の軍事顧問団を呼び、本格的な教練を実施するようになったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　軍事顧問団長のシャノワンヌ大尉は教練を受けた武士たちの様子を故国に書き送っている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<paragraph>
+<sentence>　二本の刀をいぜん着しているので、日本の役人とパリの憲兵の混合ファッションであった。</sentence>
+<sentence>ズボンは合わず、サンダルばきが古くからの習慣だったので靴は大きく重<sampling type="end" />く合わなかった。</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

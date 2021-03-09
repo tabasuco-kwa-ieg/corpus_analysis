@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt2_00070" version="1.0" type="fixedLength">
+<article articleID="LBt2_00070_F001">
+<list>
+<listItem>
+<sentence type="quasi">７〜９月のシーズンは３０分ごとに出発、最終は１７：００<sampling type="start" />発</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●ウエブサイト</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ＵＲＬ　ｗｗｗ．ｓｎｏｗｄｏｎｒａｉｌｗａｙ．ｃｏ．ｕｋ</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+<article articleID="LBt2_00070_F002">
+<titleBlock>
+<title>
+<sentence type="quasi">山岳列車の旅<enclosedCharacter description="○">５</enclosedCharacter>　シャーフベルク登山鉄道</sentence>
+<br type="automatic_original" />
+<sentence type="quasi"><quote>「ドレミの歌」</quote>がこだまする</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">Ｓｃｈａｆｂｅｒｇｂａｈｎｈｏｆ　▶　Ｓｃｈａｆｂｅｒｇｓｐｉｔｚｅ</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<authorsData>
+<sentence type="quasi">ｔｅｘｔ　ｂｙ　Ｍａｙｕｍｉ　Ｓｕｚｕｋｉ</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">●オーストリアで最も人気を集める登山鉄道</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ザルツブルクＳａｌｚｂｕｒｇの南東一帯は、いくつもの湖と山々が織り成す風景が美しいオーストリア屈指の観光地。</sentence>
+<sentence>なかでもシャーフベルク登山鉄道Ｓｃｈａｆｂｅｒｇｂａｈｎは、夏になると世界中からの観光客が押し寄せる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この鉄道がこれほど人気を集めている理由は、今も根強い人気があるミュージカル映画『サウンド・オブ・ミュージック』（１９６５年）で、マリアと子供たちが<quote>「ドレミの歌」</quote>を歌うシーンに登場したこと。</sentence>
+<sentence>そして、輝く湖と白銀の山々に囲まれた山頂のパノラマのすばらしさにある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　木の香りがするノスタルジックな車両の中は、ニコニコ顔の乗客の熱気でいっぱい。</sentence>
+<sentence>湖岸の駅を出た列車は１２００ｍほどの標高差を力強く登って行く。</sentence>
+<sentence>上りの場合、進行方向左側の席を取ると、車窓からヴォルフガング湖がよく見える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●山頂からのパノラマを味わう</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　終点のシャーフベルクシュピッツェＳｃｈａｆｂｅｒｇｓｐｉｔｚｅ駅は標高１７３２ｍ。</sentence>
+<sentence>さらに歩いて上った山頂（１７８３ｍ）には、山小屋と呼ぶにはちょっと大きすぎる木造の建物があり、レストランと山頂ホテル<quote>「シャーフベルクシュピッツェ」</quote>として営業している。</sentence>
+<sentence>列車を降りた乗客はみな、ここを目指して登って行く。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　赤いパラソルの下でも陽光がまぶしいテラスのベンチに腰を下ろして、冷たい飲み物で乾いた喉を潤しながら、山頂からの眺めを堪能したい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●７つの湖を見渡す山頂ホテル</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　山頂ホテルの裏側へと歩いて行くと、シャーフベルクの北の斜面側を望める。</sentence>
+<sentence>ほとんど垂直に切り立つ断崖の下には、モントゼーやアッター湖などが大パノラマ。</sentence>
+<sentence>天気のよい日にはザルツカンマーグート地方にある７つの湖を見渡せる山頂からの眺めは、オーストリアで最も感動的な風景のひとつだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　山々が鮮やかに染まる日の出と日の入りを体験したい人のためには山頂ホテルの宿泊と登山鉄道料金がセットになったチケットも販売している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆ザルツブルクからのアクセス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>ザルツブルクからバート・イシュルＢａｄ　Ｉｓｃｈｌ行きのポストバスでシュトローブルＳｔｒｏｂｌまで行き、ここからザンクトヴォルフガングＳｔ．Ｗｏｌｆｇａｎｇ行きのバスに乗り換える。</sentence>
+<sentence type="quasi">所要約１時間４５分［Ｔａｂｌｅ　９６２］</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<list>
+<listItem>
+<sentence>写真／Ｐ．６２上：車両は何種類かバラエティがあ<sampling type="end" />る。</sentence>
+</listItem>
+</list>
+</caption>
+</figureBlock>
+</article>
+</sample>

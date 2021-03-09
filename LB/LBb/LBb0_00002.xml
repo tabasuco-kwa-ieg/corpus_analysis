@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb0_00002" version="1.0" type="fixedLength">
+<article articleID="LBb0_00002_F001">
+<noteBody>
+<sentence>△人の作ったアルゴリズムを読むより<sampling type="start" />は，自分でアルゴリズムを作る方が楽しいはずである．</sentence>
+<sentence type="quasi">恋愛小説を読むよりも自分で恋愛した方がいいのである（振られる場合は想定していないよ）</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">１１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ゲーム〈ハノイの塔〉―再帰</sentence>
+<br type="automatic_original" />
+</title>
+<sentence type="quasi">ゲームの解き方から重要な考え方を導き出す</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">例題１１</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>大きさがそれぞれ異なったＮ枚の円盤と，３本の柱が固定されている盤がある．</sentence>
+<sentence>これらの円盤は中央に穴があり，柱を通すことができる．</sentence>
+<sentence>Ｎ枚の円盤は，どれか一つの柱に，大きいものを下にして，大きさの順に積み重ねられている．</sentence>
+<sentence>これらの円盤を，他の柱へ，次の規則に従って移す方法を求めること．</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>規則（１）　一度に２枚以上動かすことはできない．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>規則（２）　どの円盤も，自分より大きな円盤の下になることはない．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>規則（３）　３本の柱は自由に利用してよい．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これは，ハノイの塔という名前の有名なパズルである．</sentence>
+<sentence>まず，３本の柱をＡ，Ｂ，Ｃと呼ぶことにしよう．</sentence>
+<sentence>そして，円盤を小さいものから順に１，２，…，Ｎ−１，Ｎと呼ぶことにしよう．</sentence>
+<sentence>一番初めにＮ枚の円盤が積み重ねられている柱，およびこのＮ枚の円盤を移す先の柱は，Ａ，Ｂ，Ｃのうちのどれを選んでもいいので，一番初めはＡにあり，それをＣに移すものとしよう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　円盤の枚数が奇数枚のときには，柱Ａの一番上にある一番小さい円盤を柱Ｃに移してから，後は，１回おきに，この小さい円盤を，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence type="quasi">の順に動かしていけばいいし，円盤の枚数が偶数枚のときには，柱Ａの一番上にある一番小さい円盤を柱Ｂに移してから，後は，１回おきにこの一番小さい円盤を，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>の順に動かしていけばいい．</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>△どのように動かしたらいいのか，実際にちょっとやってみればすぐにわかる．</sentence>
+<sentence type="quasi">紙の上ではなかなかわからないものだ</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　一番小さい円盤を動かさない回に動かす円盤とそれを移す先の柱は，このパズルの規則から一意に決まる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">△一番小さい円盤の上には，ほかの円盤をのせることができないので，その動かし方がミソになる</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">Ｎ−１に還元する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ところで，最後の円盤Ｎを動かすときに注目しよう．</sentence>
+<sentence>円盤の枚数が奇数であろうと偶数であろうと，最後の円盤ＮはＡからＣへ直接移すことになる．</sentence>
+<sentence>このときには，Ｎ以外のＮ−１枚の円盤は柱Ｂにきちんと重なってあり，柱Ｃは空いていなければならない．</sentence>
+<sentence>ということは，円盤Ｎを移す直前までに，まず，Ｎ−１枚の円盤をＡからＢにＣを使って移しておかなければならないことがわかる．</sentence>
+<sentence>そして，円盤ＮをＡからＣに移したら，こんどは，Ａを使ってＮ−１枚の円盤をＢからＣに移すことになる．</sentence>
+<sentence>このことを，図に描いてみると，次のようになるだろう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>△Ｎ−１に還元するとは何か．</sentence>
+<sentence type="quasi">それはだんだんとわかってくる</sentence>
+<br type="automatic_original" />
+</noteBody>
+<sentence>すると，一般に，“ｎ枚の円盤をＡからＣにＢを使って移す”というこ<sampling type="end" />とをアルゴリズムとしてまとめてみると，次のようになるだろう．</sentence>
+</article>
+</sample>

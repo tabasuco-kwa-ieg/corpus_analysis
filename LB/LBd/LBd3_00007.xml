@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd3_00007" version="1.0" type="fixedLength">
+<article articleID="LBd3_00007_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">赤ずきん<sampling type="start" />の世界へ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　いっきにお話の世界へはいっていって遊びましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　１番の<quote>「森の中をランララララン…」</quote>これは何のお話かわかりますか。</sentence>
+<sentence>そう<quote>「赤ずきん」</quote>のお話です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　みんなで，赤ずきんの後にくっついて，歩いていきますよ。</sentence>
+<sentence>森のはずれにあるあばあちゃんをお見舞いにいきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　オオカミがでてきたよ，どうする？</sentence>
+<sentence>　どうする？</sentence>
+<sentence>　このまま話の終りまでいってもいいし，途中で終ってもいいし。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">スイミーの世界へ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「スイミー」</quote>の絵本を読んでおいて進めることにしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">おはなしあそびうた<enclosedCharacter description="○">９</enclosedCharacter></sentence>
+<br type="automatic_original" />
+<sentence type="quasi">のんびりくまさん　なかよしりすちゃん</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">うた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">１　あそぼうよ</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">２　さかなつり，はちみつとり，やきいも</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">３　のんびりくまさん　なかよしりすちゃん</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">おはなし</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　くまさんとりすちゃんはとても仲良しです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　きょうもりすちゃんがくまさんのうちへ遊びにやってきました。</sentence>
+<sentence><quote>「くまさん，遊ぼうよ」</quote>と歌でよんでも，くまさんの返事がありません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">♬あそぼうよ</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　りすちゃんが何度もよぶと，やっとくまさんが窓から顔をだしました。</sentence>
+<sentence type="quasi"><quote><sentence>「どうしたの，くまさん？</sentence>
+」</quote>とりすちゃんがきくと，<quote>「<sentence>ぐっすり眠っていたよ。</sentence>
+<sentence type="quasi">ごめんね</sentence>
+」</quote><quote>「<sentence>ああよかった。</sentence>
+<sentence type="quasi">きょうは何して遊ぼうか</sentence>
+」</quote><quote>「<sentence>魚つりにいこう！</sentence>
+」</quote><quote>「<sentence>うんおもしろそう。</sentence>
+<sentence type="quasi">いこういこう」</sentence>
+</quote></sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　その時，<quote>「ねえ，ぼくたちも仲間にいれてよ」</quote>と他のくまとりすもやってきました。</sentence>
+<sentence><quote>「いいよ，いっしょにいこう」</quote>ということで，みんなでいくことになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「さかなつりだ！</sentence>
+<sentence>　さかなつりだ！</sentence>
+」</quote>とうたいながら，みんなで川へやってきました。</sentence>
+<sentence>そうしてつり糸を川へなげこみました。</sentence>
+<sentence>しばらくすると少しずつ魚がつれるようになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">♬さかなつり</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　ところがりすちゃんの糸にかかった魚は重くてもちあがりません。</sentence>
+<sentence>川へひっぱりこまれそうです。</sentence>
+<sentence><quote><sentence>「うーん，重いよ。</sentence>
+<sentence type="quasi">みんな助けてよ</sentence>
+」</quote><quote>「<sentence>それ，みんなでひっぱれ！</sentence>
+」</quote>とみんなで力をあわせてひっぱると，なんと糸の先についていたのは，おおきないもりです。</sentence>
+<sentence>すごい目でじろっとみんなをにらみつけました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「わあ，いもりだ！</sentence>
+」</quote><quote>「<sentence>たすけて！</sentence>
+」</quote>みんなは，いもりをみてびっくり。</sentence>
+<sentence>あわててにげていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いもりは，<quote>「ウフフフフ」</quote>と笑うと，みんながつった魚をあつめて川の中へもどっていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence><quote><sentence>　「こんどはちみつとりにいこう！</sentence>
+」</quote><quote>「うん，いこういこう」</quote>という訳で，みんなではちの巣のあるがけをのぼり始めました。</sentence>
+<sentence><quote><sentence>「そうっと，そうっと，みつばちに気づかれないように！</sentence>
+」</quote>とこっそり近づきました。</sentence>
+<sentence>ところがはちの巣をみつけるとくまさんがよろこんではねたものだから，さあ，はちは気がついて，<quote>「<sentence>それやっつけろ，はちみつどろぼうだぞ！</sentence>
+」</quote>とみんなを刺しにきました。</sentence>
+<sentence><quote><sentence>「イタタタ，にげろ！</sentence>
+」</quote>みんなはいそいで，ころげながらにげていきました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">♬はちみつとり</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence><quote><sentence>　「ねえ，こんどはやきいもつくろう！</sentence>
+」</quote><quote>「うん，それがいい」</quote>という訳<sampling type="end" />で，こんどはたき火をしてやきいもづくりを始めました。</sentence>
+</paragraph>
+</article>
+</sample>

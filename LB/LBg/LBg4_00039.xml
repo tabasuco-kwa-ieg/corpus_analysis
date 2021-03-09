@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg4_00039" version="1.0" type="fixedLength">
+<article articleID="LBg4_00039_F001">
+<paragraph>
+<sentence>地球規模の気候変<sampling type="start" />動に対する有機エーロゾルの重要度については、いま一つはっきりしていない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">各種のエーロゾルの重要度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　今までにさまざまな種類のエーロゾルについて述べてきた。</sentence>
+<sentence>ここで大気環境や気候変動に関するそれらの重要度の相互比較をしておきたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　エーロゾルの分類は、大きさについてと、化学組成の別について述べてきた。</sentence>
+<sentence>まず大きさ別についていえば、気象、気候に直接影響を与えるのは大粒子である。</sentence>
+<sentence>大粒子は日射を散乱し、天空を濁らせて視程を悪くする。</sentence>
+<sentence>しかし、気候問題でもっと重要なことは、大粒子が日射を散乱し、また吸収することによって、地表の気温に影響を与えることである（このことについては第五章で詳しく述べる）。</sentence>
+<sentence>さらに大粒子の多くは、雲粒生成の際の芯となる凝結核として働き、雲物理に大きな影響を与える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　巨大粒子も大粒子と同じ機能をもっているのだが、なにぶん大粒子に比べると空気中の数濃度が数桁も低いので、重要度が落ちる。</sentence>
+<sentence>ただし、数は少なくても一個あたりの体積ははるかに大きいから、質量濃度は大粒子と同程度の量になる。</sentence>
+<sentence>したがって、極度に汚れた空気を吸って生活する人間の保健衛生を考えるときには、巨大粒子も重要になる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　数からいえば圧倒的に多いエートケン粒子は、粒径が小さいために、日射に対する効果はあまり大きくなく、また凝結核として働くこともない。</sentence>
+<sentence>だが、いずれは成長して大粒子となるのだから、予備軍としての重要性をもっているのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　化学組成別にみた各種のエーロゾルの重要度を見てみよう。</sentence>
+<sentence>物質塊が破砕され、細分化されてできた海塩粒子と土壌粒子は、いずれも粒径が大きいので沈降速度が大きく、空気中での滞留時間が短い。</sentence>
+<sentence>したがって、大気の最下層、高度二〇〇〇から三〇〇〇メートル以内の層に限られている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　気候的に一番重要視されているエーロゾルは、気体が粒子化して生じたものである。</sentence>
+<sentence>その年間発生量を表２に見てみよう。</sentence>
+<sentence>基礎となる資料が十分にないから、人によってその推定値がかなり異なる。</sentence>
+<sentence>ここではロビンソン（Ｅ．Ｒｏｂｉｎｓｏｎ）、ロビンス（Ｒ．Ｃ．ＲＯｂｉｎｓ）のグループと、ピーターソン（Ｊ．Ｔ．Ｐｅｔｅｒｓｏｎ）、ユンゲ（Ｃ．Ｅ．Ｊｕｎｇｅ）のグループによる評価と、それらを主としてそれに多少の修正を施したＳＭＩＣレポート（マサチューセッツ工科大学）の評価を並列に示してある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　やはり、発生量の大きさから見て最も重要なのは、硫黄化合物、すなわち硫酸粒子または硫酸塩粒子（硫酸アンモニウム粒子など）である。</sentence>
+<sentence>炭化水素粒子についての評価は、前にも述べたようにまちまちであるが、この表を見る限り、人為源からの炭化水素<sampling type="end" />粒子は地球規模で見るときには無視できるし、自然源からのその重要度は硝酸塩粒子とほぼ同等である、ということになろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

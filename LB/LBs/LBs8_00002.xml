@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs8_00002" version="1.0" type="fixedLength">
+<article articleID="LBs8_00002_F001">
+<list>
+<listItem>
+<sentence type="quasi"><sampling type="start" />主張（結論）：あなたは肺ガンの手術をしなければなりません</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">事実（小前提）：あなたは肺ガンです</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">論拠（大前提）：人は一般に病気を治そうとする</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　こちらの主張、事実、論拠の三つで論理を比べてみると、三段論法のようにすべてが確実に見える場合でなくとも、<quote>「確からしさ」</quote>という判定も可能になるからだ。</sentence>
+<sentence>ある意味で、検証されることを当然として考えられた論理構築のシステムだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　論拠が存在しない議論というのは相手にどのように伝わるかというと、<quote>「あなたの言っていることも分かっているし、提出された事実も分かるが、そう考える必然性が分かりません」</quote><quote>「提出された事実は認めるが、私は違う考えを持っていますから」</quote>で終わってしまう。</sentence>
+<sentence>せっかく提出された事実をどのように解釈するか、というところまで相手に明確にしなければ不十分な論証になってしまうので注意が必要だ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">当たり前すぎて見失われやすい聴衆の価値観に基づく論拠</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　この聴衆の価値観に基づく論拠とは、我々が一般的に持つ価値観である。</sentence>
+<sentence>簡単にいえば聴衆の共感だろう。</sentence>
+<sentence>これがあれば、出された事案から主張へと理解をしていく道しるべになり、説得が可能となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、<quote>「我々は一般に不快なものを避ける」</quote><quote>「我々は一般に危険なものを避ける」</quote><quote>「我々は一般に快適なものを好む」</quote>、このような一般的価値観がそれである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この論拠がなぜ大切かというと、当たり前すぎて、わざわざ人が言わないことが多いからだ。</sentence>
+<sentence>だから、時にその論拠に対して反論する人がいると、答えるのに<ruby rubyText="きゅう">窮</ruby>してしまう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような聴衆の価値観に基づく論理の構造は、次のようになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">主張：拳銃の携帯は許されないだろう</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">事実：拳銃は危険な武器である</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">論拠：我々は危険な武器を携帯することを好まない</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これが聴衆の価値観に基づいた論理構造だ。</sentence>
+<sentence>注意する点は、これらの論拠が聴衆によって承認されていることが必要だということだ。</sentence>
+<sentence>具体例を見てみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">主張：ポイ捨ては許されないだろう</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">事実：ポイ捨ては環境を破壊する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">論拠：我々は環境破壊行為を一般に好まない</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　このようなことを言うと、<quote>「私は不快でも、苦痛でも、いいですよ」</quote>と言う人がいるかもしれないが、そういう場合は<quote>「個別的に」</quote>そう思うということであって、<quote>「一般的」</quote>に皆がそう思っているのではないから、批判に当たらないということになる。</sentence>
+<sentence>できるだけ、あまねく一般的に認められている価値観が説得力のある論拠ということになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　例えば、<quote>「日本はスピード違反者に対しての罰則を強化すべし」</quote>という主張に対して、<quote>「我々は一般的に危険な行為を回避する」</quote>という論拠に立つと、有効な議論ができるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ、問題はこれだけ情報が発達し<sampling type="end" />てくると、聴衆自体の価値観が多様化してくるため、単純には推定できないのが実際の状況である。</sentence>
+</paragraph>
+</article>
+</sample>

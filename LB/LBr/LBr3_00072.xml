@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00072" version="1.0" type="fixedLength">
+<article articleID="LBr3_00072_F001">
+<paragraph>
+<sentence>次に生活保護制度に用いられている公的扶助方式<sampling type="start" />について，社会保険方式との差異に着目しながら，その特徴と役割を解説する（２‐４，２‐５の記述は社本［１９９６］を参考にした）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２‐４　社会保険方式の特徴と役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　社会保険とは，生活を不安定にするおそれのある事態を想定し，これをリスク＝社会保険事故とみなし，拠出を前提にリスク発生時に現金や現物のかたちで給付を提供する保障方式である。</sentence>
+<sentence>社会保険は，生活を脅かす不測の事態に止まらず，老齢・退職という予想可能な事態まで含めてリスクとしてとらえる（堀［１９９４］，ｐ．４）。</sentence>
+<sentence>何をリスク＝事故とみなすかは世論や政策判断に左右される。</sentence>
+<sentence>社会保険の成立には，<enclosedCharacter description="○">１</enclosedCharacter>リスクの発生が規則的であること，<enclosedCharacter description="○">２</enclosedCharacter>リスクに備えて共同の基金をつくること，<enclosedCharacter description="○">３</enclosedCharacter>保険基金からの収支が均等であること，という保険一般の成立条件を満たした上で，さらに社会性・公共性を保持するために，<enclosedCharacter description="○">４</enclosedCharacter>国家または公的団体が保険者であること，<enclosedCharacter description="○">５</enclosedCharacter>国庫負担があること，<enclosedCharacter description="○">６</enclosedCharacter>強制加入であることが条件となる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　所得保障分野に限って言えば，社会保険方式が対象とする事故は，長期的な事故（障害，老齢，死亡）と短期的な事故（傷病，出産，失業）に分類される。</sentence>
+<sentence>これら一般的な事故とは性質が異なり，使用者の補償（賠償）責任が直接問われる事故，つまり業務上の事故である労働災害，通勤災害もある。</sentence>
+<sentence>長期的な事故である障害，老齢，死亡に対して支給されるのが長期給付としての年金である。</sentence>
+<sentence>短期的な事故である傷病，出産，失業に対しては，短期給付ないし一時金として傷病給付（傷病手当金），出産・育児給付，失業給付（雇用保険給付）が支給される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　社会保険方式は所得保障分野にとどまらず，医療保障分野（各種医療保険）と自立保障分野（介護保険）にも横断的に用いられている。</sentence>
+<sentence>社会保険は社会連帯の考え方に依拠して，異なる世代や同一世代同士で（健康・長寿・高収入などの幸運に恵まれた者と恵まれなかった者同士で），基本的な生活リスクを分散していこうとする予防的な保障方式だといえる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし社会保険方式には次のような限界がある。</sentence>
+<sentence>第１は，社会保険事故の画一性・硬直性という限界である。</sentence>
+<sentence>社会保険事故は<quote>「予め定められた」</quote>リスクであって，保険事故とされないリスクに直面した場合には，もはや社会保険は生活保障として機能しない。</sentence>
+<sentence>第２は，拠出制に伴う受給資格要件に関わる限界である。</sentence>
+<sentence>未加入者は言うに及ばず，何らかの事情で被保険者が受給要件を満たしていない場合，仮に<quote>「予め定められた事故」</quote>の発生があっても社会保険は対応しない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">２‐５　公的扶助方式の特徴と役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　これに対し公的扶助という保障方式は，社会保険方式とは違って，本人に拠出が課せられていない（無拠出制<sampling type="end" />）。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00126" version="1.0" type="fixedLength">
+<article articleID="LBp3_00126_F001">
+<paragraph>
+<sentence>このコスト分析については、データの制約など実務上の問題が現在も指摘されているが、当座は国民負担とならず、しかも連邦政府が資金調達しなくても<sampling type="start" />よい債務保証が著しく拡大し、それが後に国民負担の増大につながったという問題については、この手法の導入によりほぼ解決されたといわれている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　日本では、財投計画に資金の流れが財投機関の資金調達・運用計画として示されており、一般会計には当該年度の財投機関への出資金、利子補給金などが主要経費別に計上されている。</sentence>
+<sentence>形式的には、信用改革法後のアメリカと似ているが、予算に計上されているのは当該年度の支出であり、財投の将来コストを示すものではない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">政策コストの分析の積み重ねが必要</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　このため、わが国もアメリカの連邦信用改革法を見習って、財投機関ごとに将来の国民負担を明らかにする必要がある。</sentence>
+<sentence>財投機関が事業を行うにあたって、コスト分析の手法を通じて、将来に発生すると考えられる税負担をあらかじめ示すことは、国民負担に関する情報のディスクロージャーと財政の健全化の観点から極めて重要な課題である。</sentence>
+<sentence>政策コストが示されると、将来の国民負担がハッキリと見えないために拡大していた財投機関の事業は抑制できるであろうし、同一の政策目標を達成する上で、税制や補助金など他の政策手段との効率性の比較も可能となるからである。</sentence>
+<sentence>資金運用審議会懇談会が九七年七月に座長談話の形で、<quote>「対象事業のコスト（財政負担等）分析手法の導入の検討」</quote>を提言し、懇談会とりまとめにおいても、<quote>「コスト分析手法の導入、充実」</quote>が強調されたのは、このためである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ここで、政策コストとは、財投資金を用いている事業が終了するまでの間に、一般会計から投入が見込まれる補助金の総額を割引現在価値として示したものである。</sentence>
+<sentence>具体的には、<enclosedCharacter description="○">１</enclosedCharacter>一般会計から財投機関への補助金などの毎年の投入額を現在価値に換算する。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>一般会計から財投機関への出資金、無利子貸付金は事業の終了時に返還されるものとし、その間の機会費用（国債利子相当）は補助金と同様の効果をもつので、割引現在価値に換算する。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>財投機関からの国庫納付金、配当はマイナスの補助金と見なし、割引現在価値に換算する。</sentence>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>これらの合計が政策コストである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次に、政策コストの推計方法についてである。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>対象は当該年度に継続中の事業、および当該年度以降に新規着手することが予定されている事業である。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>対象事業が生み出す将来にわたるキャッシュ・インフローを推計する。</sentence>
+<sentence>金融機関の場合は利子収入、事業機関の場合は料金収入であるが、それらの予測に際しては、貸倒率や需要予測などの前提を明示する。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>毎年度のキャッシュ・インフローからキャッシュ・アウトフローである元利返済を控除し、その割<sampling type="end" />引現在価値として政策コストを求める。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

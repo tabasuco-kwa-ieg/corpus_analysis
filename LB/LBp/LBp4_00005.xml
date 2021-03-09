@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp4_00005" version="1.0" type="fixedLength">
+<article articleID="LBp4_00005_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　たいは、あればピチットで包んで水気<sampling type="start" />を取り、網焼きにします。</sentence>
+<sentence>完全に火を通さなくても結構です。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　ご飯が沸騰したら、たいを入れます。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　好みで、三つ葉、せり、クレソンなどのハーブを散らして召し上がれ。</sentence>
+<sentence>たいは、焼いたほうが香ばしい風味が加わって食べやすくなり、塩も少しですみます。</sentence>
+<sentence>ピチットでしめれば、塩はほとんどいりません。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">〔冷やしトマトの刻みオクラかけ〕</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　冷たく冷やした輪切りのトマトに、刻んだオクラと削りがつおをのせます。</sentence>
+<sentence>しょうゆと油を合わせたものをかけます。</sentence>
+<sentence>油のコクが出るので、薄味のほうがおいしくいただけます。</sentence>
+<sentence>すりごまを散らしてもよいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第七章</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">高血糖を予防する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">年間三〇〇〇人が糖尿病で失明している</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　糖尿病と聞くと、<quote>「尿中に糖の出る病気」</quote>と考える方が多いのですが、それは必ずしも正解ではありません。</sentence>
+<sentence>極端な場合は、甘味を多量にとったとき、イライラして眠れない夜を過したとき、腎臓の悪いとき、お乳の出すぎる授乳婦などは、尿中に糖の出ることがありますが、これは糖尿病ではありません。</sentence>
+<sentence>糖尿病は<quote>「インシュリンというホルモンの働きが悪く、それによって引き起された持続的な高血糖（血液中の糖分の値が高い）によって尿中に糖が見られる場合」</quote>を言います。</sentence>
+<sentence>問題は“高血糖”であって、糖尿はその結果起ったことに過ぎません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　糖尿病は、大別して四種くらいあります（一九九九年、日本糖尿病学会による分類）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　Ⅰ型糖尿病　<ruby rubyText="すい">膵</ruby><ruby rubyText="ぞう">臓</ruby>のランゲルハンス氏島にあるベータ細胞がこわれ、インシュリンが分泌されなくなって起る糖尿病。</sentence>
+<sentence>若い人に多く、インシュリン注射が必要です。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　Ⅱ型糖尿病　中高年になって肥満、運動不足などから、慢性的な高血糖状態を引き起し、糖尿病になるパターン。</sentence>
+<sentence>日本人の糖尿病の約九〇パーセントを占めています。</sentence>
+<sentence>必ずしもインシュリンを必要としません。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>‐１　特定の原因によるその他の糖尿病　遺伝子異常の認められたものと、ほかの病気のために起った二次性糖尿病。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>‐２　妊娠糖尿病　二次性糖尿病のひとつ。</sentence>
+<sentence>妊娠中に発症またははじめて発見された軽い糖の代謝異常。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence type="quasi">　一九九八年の厚生省（現・厚生労働省）の発表によれば、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">糖尿病の可能性を否定できない人　一三七〇万人</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">糖尿病を強く疑われる人　七〇〇万人</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">糖尿病患者　二〇〇万人</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　そして毎年三〇〇〇人からの人が、糖尿病からきた網膜症のために失明しているのです。</sentence>
+<sentence>糖尿病は日本ばかりでなく、世界的に増加しています。</sentence>
+<sentence>その原因は、食生活が豊かになったうえ運動不足も重なって、肥満が増加していることにあると指摘されています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一九九七年の国民栄養調査によると、五十歳〜五十九歳の男性の一九・五パーセントは高血糖です。</sentence>
+<sentence>高血糖とは、空腹時の<sampling type="end" />血液一デシリットル（一〇〇ｃｃ）中に、糖質を一二六〜一四〇ミリグラム含む場合をさしています。</sentence>
+</paragraph>
+</article>
+</sample>

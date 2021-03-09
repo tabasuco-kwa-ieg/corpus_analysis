@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBb5_00011" version="1.0" type="fixedLength">
+<article articleID="LBb5_00011_F001">
+<titleBlock>
+<title>
+<sentence type="quasi">インテリアエレ<sampling type="start" />メントの寿命</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　あらゆるものには寿命があります．</sentence>
+<sentence>しかし，その最後まで，すべての設備の安全が保てるというわけではなく，電気設備の最悪事態は火災を招くおそれがありますので，望ましい設備のおわりかたを考えることです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　寿命というものは何年だとは，はっきりいえず，適切な時期に交換するしかありません．</sentence>
+<sentence>新設のときから保守対策としての予算積立てが必要なのは，集合住宅の場合と同様です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　建物と設備の寿命比較</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　建物内外のライフサイクル</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　建物と設備の保守・点検</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　耐用年数の定義</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　高層集合住宅がかかえる問題点</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">蛍光灯の適切な使いかた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　蛍光灯の場合の適正交換の目安は，安定器の寿命にかかっています．</sentence>
+<sentence>安定器は鉄心と銅線と絶縁材料で構成されており，その中の絶縁材料の寿命が規格値で約１０年とされているわけです．</sentence>
+<sentence>実際にはもう少し長持ちしているようですが安定器にもバラツキがあり，早目に交換することをすすめております．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　適正交換時期の目安</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　累積故障率</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　溶断形温度ヒューズ内蔵安定器</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　安定器の寿命末期現象</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　蛍光灯器具採用の歴史</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　照明器具が暗くなる理由</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">安定器の劣化</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　絶縁物の温度と耐用年数</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　電気絶縁材料の種類と許容温度</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　経済比較</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　安定器を器具に組み込んだ場合の温度上昇限界</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">照明器具の診断</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　古い蛍光灯器具の危険な要因</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　診断チェック表</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　測定機器・法規</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">測定機器</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　照明設備を診断するために下に示した測定機器が使われます．</sentence>
+<sentence>照度，輝度，騒音，色温度，電流，電圧のほか，現場の状況に合わせて必要となります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　快適な照明環境を維持するためには，普段のこころがけが大切です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　照度計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　ベクトル照度計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　反射率計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　輝度計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　色温度計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>　騒音計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter>　メジャー</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">８</enclosedCharacter>　計算機</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">９</enclosedCharacter>　望遠鏡</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１０</enclosedCharacter>　時計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１１</enclosedCharacter>　トランシーバー</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１２</enclosedCharacter>　電流計</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１３</enclosedCharacter>　カメラ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１４</enclosedCharacter>　地図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">照明関連法規</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">７</enclosedCharacter>　シンボルマーク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">シンボルマーク</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">配線図</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">施設用蛍光灯器具劣化状態診断チェックシート</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="figure" />
+<titleBlock>
+<title>
+<sentence type="quasi">ＰＡＲＴ　６　各種用途と照明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　防災と照明</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">誘導灯の配置</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　誘導灯の配置計画は，なかなかわかりにくいものです．</sentence>
+<sentence>下図はそれらをわかりやすくするため，矢印を追うことで確認できるようにしてみました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">誘導灯の種類</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　消防法に定められた誘導灯は，下図に示したような種類があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それらも幾度かの変遷を重ねて今日の姿になったわけです．</sentence>
+<sentence>しかし，また国際規格への整合も進められております．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　誘導灯の種類</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　誘導灯の部品構成</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　誘導灯の取付工事</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">配置例</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　誘導灯がどんな所にどのように取り付けられるものかを，ほんの一例ですが示してみました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　誘導灯の取付配置（立体視図）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　工場１Ｆ</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　宿泊<sampling type="end" />施設（旅館）１Ｆ（避難階で２０ｍ以内不要）</sentence>
+</caption>
+</figureBlock>
+</article>
+</sample>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBi8_00005" version="1.0" type="fixedLength">
+<article articleID="LBi8_00005_F001">
+<quotation>
+<citation>
+<sentence>《行き先のメモを見せて》ここへはどうやって行<sampling type="start" />けばいいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>徳寿宮へ行くには、どの乗り物がいちばん速いですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>無料の観光地図はありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>レンタカーはどこで扱っていますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>航空券の手配をお願いしたいのですが…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>航空時刻表を見せていただけますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ここでホテルの予約はできますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ホテルの予約をお願いします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>市内にユースホステルはありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>あまり高くないホテルを紹介してください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆予算はおいくらぐらいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>６万ウォン以内におさえたいのですが…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆お泊まりは何名様ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>１（２／３）人です。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆客室はどのタイプがよろしいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ツインルームをお願いします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>シャワーと浴槽付きの部屋にしてください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆お泊まりは何泊ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>４泊したいのですが…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆かしこまりました。</sentence>
+<sentence>少々お待ちください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ヨンドンホテルでしたらお部屋がお取りできますが…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>そのホテルはどこにありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ホテルの近くには何がありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>交通の便のよいホテルにしてください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>治安のよい区域にありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆場所はどちらがよろしいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>繁華街の近いところがいいのですが…。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>テレビ（エアコン）は付いていますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>最寄りの駅はどこですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>明洞の周辺でホテルを探してください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>部屋代はいくらですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆７万ウォンになります。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>もっと安いホテルはありませんか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>サービス料込みの値段ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>食事付きの料金ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>◆朝食代は含まれております。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>そのホテルをお願いします。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>前金で払いますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ソウルの観光名所を教えてください。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>定期観光バスはどのようなコースがありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>おみやげを買うのにおすすめのショッピング街はありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>地下鉄の路線図は置いてありますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>現地案内員が来ないのですがどうしたらいいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>仁寺洞に行くには地下鉄何号線に乗ればいいですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>ソウル駅から南部ターミナルへ行くにはバスと地下鉄のどちらが便利ですか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence>地下鉄は何時ごろまで走っていますか？</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">役に立つ応用単語</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<citation>
+<sentence type="quasi">ホテル</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">レンタカー</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">航空券</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">鉄道乗車券</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">乗船券</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">手配</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">予約</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">購入</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">予算</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">路線図</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">時刻表</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">市内地図</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">観光案内パンフレット</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">観光ガイド</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">料金</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">高い</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<quotation>
+<citation>
+<sentence type="quasi">安い</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+</citation>
+</quotation>
+<titleBlock>
+<title>
+<sentence type="quasi">■日本と韓国の交通機関を割安に利用できる日韓共同切符</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　日韓両国の主要交通機関を１枚のチケットで割安に利用できるのが日韓共同切符です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　有効期間は７日間で、ＪＲ、フェリー、ジェットフォイル、韓国鉄道などを自由に組み合わせて乗ることができ、ひじょうに便利です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば、東京から下関まで新幹線で移動、関釜フェリーで釜山に渡り、韓国鉄道に乗り換えて特急セマウル号でソウルまで行っても、日韓共同切符を使えば２万８，４２０円。</sentence>
+<sentence>東京からソウルまでは片道航空運賃だけで４万８，２００円かかりますから、じ<sampling type="end" />っくりと各地の名所を訪れたいと思っている人には最適です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

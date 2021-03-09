@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr5_00051" version="1.0" type="fixedLength">
+<article articleID="LBr5_00051_F001">
+<paragraph>
+<sentence>労働時間がＮ<superScript>＊</superScript>のときが一番心地よ<sampling type="start" />いのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１３　効用最大化の条件</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">５　市場で価格が決まる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">†ところで経済全体はどのような構造になっているのか</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　生産と消費の理論について、経済学がどのような仮定をおいて、どのように議論しているのかを、簡単に解説してきました。</sentence>
+<sentence>おさらいをしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　企業の行動には、<quote>「収穫逓減の仮定」</quote>と<quote>「利潤最大化の仮定」</quote>という二つの仮定がおかれていました。</sentence>
+<sentence>そして、与えられた生産物価格と賃金に対して、利潤を最大化するように、<quote>「生産物の産出量」</quote>と<quote>「労働の需要量」</quote>が決まるのです。</sentence>
+<sentence>与えられたお米の値段と賃金を使って<quote>「三角定規」</quote>の角度を決め、それをあてて利潤が最大になる点を探したことを思い出して下さい（図５、三七ページ）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、消費者（家計）の行動には、<quote>「効用逓減の仮定」</quote>と<quote>「効用最大化の仮定」</quote>がおかれていました。</sentence>
+<sentence>また、与えられた生産物価格と賃金について、効用を最大化するように、<quote>「生産物の消費量」</quote>と<quote>「労働の供給量」</quote>が決まったのです。</sentence>
+<sentence>与えられたお米の値段と賃金によって定まる角度で予算制約線を引き、それをナイフにして<quote>「効用の丘」</quote>を切ったことを思い出して下さい（図１３、四九ページ）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようにして、与えられた生産物価格と賃金の組み合わせのそれぞれについて、生産物の産出量と消費量、労働の需要量と供給量が求められます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、生産物の価格と賃金はどのようにして決められるのでしょうか。</sentence>
+<sentence>現実には、製品価格は、製品の生産者が決めています。</sentence>
+<sentence>賃金も雇い主が決めているでしょう。</sentence>
+<sentence>しかし、そうはいっても、生産者や雇い主が全く勝手に値付けできるわけではありません。</sentence>
+<sentence>妥当な水準をはずれて値付けすれば、製品は売れず、労働者も集まらないということになります。</sentence>
+<sentence>経済学では、このような妥当な水準は、市場によって与えられると考えるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">†生産物市場と労働市場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まず、経済学では、生産物の価格は、生産物の市場で決められると考えます。</sentence>
+<sentence>たとえば、お米の価格は、お米の市場で決まると考えるのです。</sentence>
+<sentence>このお米は自主流通米だと思って下さい。</sentence>
+<sentence>自主流通米は、自主流通米価格形成センターというところで、入札取引が行われています。</sentence>
+<sentence>自主流通米のすべてがこのセンターに出荷されているわけではありませんが、このセンターは自主流通米についての生産物市場とみることができます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　実際の自主流通米の取引は、お米を生産した後に行われるもので、市場に出されるお米の量はあらかじめ決まっています。</sentence>
+<sentence>一方、経済学で想定されている生産物市場では、生産が実際に始められる前に需給の調整が行われます。</sentence>
+<sentence>これは変だと思われる方も多いと思いますが、そのようなものとしてとりあえず理解してください。</sentence>
+<sentence>経済学の世<sampling type="end" />界では、生産者と消費者は、生産物価格のさまざまなリストをみて、この価格だったらどの程度の生産物を出荷するのか、どの程度の生産物を消費したいと思うのかを、それぞれ生産物市場に提示することになります。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBa4_00003" version="1.0" type="fixedLength">
+<article articleID="LBa4_00003_F001">
+<paragraph>
+<sentence>その結<sampling type="start" />果は他の原子核的距離の評価と両立するか．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<titleBlock>
+<title>
+<sentence type="quasi">８‐７　</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　内半径ａ，外半径ｂの金属の球殼が中心を原点にあわせて置いてある．</sentence>
+<sentence>球殼には１点で小さい穴があけられている．</sentence>
+<sentence>球殼には全体として電荷がないとすれば，電荷ｑ<subScript>１</subScript>を無限遠から穴を通して原点まで持ってくるのに必要な仕事はいくらか．</sentence>
+<sentence>球殼には全体として電荷ｑ<subScript>２</subScript>があるとしたらどれだけの仕事が必要か．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第１０章</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐１　</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　平板コンデンサーが図に示したように同じ大きさだが違うｋをもった二つの誘電体で充たされている．</sentence>
+<sentence type="quasi">容量は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>で与えられることを示せ．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐２　</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一辺が２０ｃｍの正方形を極板とし，間隔が１ｃｍのコンデンサーがある．</sentence>
+<sentence>これを電位差１０Ｖまで充電し，それから電池から切り離す．</sentence>
+<sentence>そして厚さが１ｃｍよりほんの少し小さい正方形の大きな誘電体を極板間に插入し，コンデンサーの１０ｃｍ×２０ｃｍの部分がみたされるようにする．</sentence>
+<sentence>この誘電体の比誘電率は４．０である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>ａ）極板間の引力はどれだけか．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｂ）端の影響が無視できるような十分内側での誘電体中の単位体積あたりの双極モーメントはいくらか．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｃ）誘電体は小さい金属球を一様に埋め込んだ比誘電率４．０の物質からできているとすると，極板間の電位差は最初の均一の誘電体のときに比べてどう変わるか．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐３</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　極板間隔ｄの平板コンデンサーが空気中で容量Ｃ<subScript>０</subScript>をもっている．</sentence>
+<sentence>比誘電率ｋ，厚さｔ（＜ｄ），面積が極板と等しい絶縁体の板をこのコンデンサーに平行に入れると，ふちの影響を無視すれば容量が次の値になることを証明せよ．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐４</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　絶縁された半径ａの金属球が表面に自由電荷Ｑをもっている．</sentence>
+<sentence>この球は内半径ａ，外半径ｂの誘電体の層で覆われている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>ａ）誘電体の内側と外側の表面の分極電荷を計算せよ．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｂ）誘電体内部の分極電荷の体積密度はいくらか．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐５</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　平板コンデンサーを電池につないでその極板間の電位差をＶ<subScript>０</subScript>ボルトに保つ．</sentence>
+<sentence>比誘電率ｋの板を極板間の空間を完全にみたすように插入する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>ａ）ｑ<subScript>０</subScript>を板がないときの極板上の電荷とすれば，電池は插入の過程でｑ<subScript>０</subScript>Ｖ<subScript>０</subScript>（ｋ−１）の仕事をすることを示せ．</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>ｂ）極板間に入れられるとき板に働く力によってどれだけの仕事がなされるのか．</sentence>
+<sentence>この仕事は板を插入する人になされるのか，それともその人によってなされるのか．</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐６</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　半径ａ，ｂ（ａ＜ｂ）の共軸の二つの管が油槽に垂直につけられている．</sentence>
+<sentence>管のあいだに電位差Ｖを与えると油が次の高さだけ上昇することを示せ．</sentence>
+<sentence>ただしｋは油の比誘電率，ｇは重力加速度．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<titleBlock>
+<title>
+<sentence type="quasi">１０‐７</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　比誘電率ｋ<subScript>１</subScript>，ｋ<subScript>２</subScript>の誘電体の境界では，電気力線の，境界面での垂線に対する二つの媒質中での角度<sampling type="end" />θ<subScript>１</subScript>，θ<subScript>２</subScript>はｋ<subScript>１</subScript>ｃｏｔθ<subScript>１</subScript>＝ｋ<subScript>２</subScript>ｃｏｔθ<subScript>２</subScript>という関係をみたすことを示せ．</sentence>
+</paragraph>
+</article>
+</sample>

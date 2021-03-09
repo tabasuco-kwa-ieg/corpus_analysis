@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq4_00032" version="1.0" type="fixedLength">
+<article articleID="LBq4_00032_F001">
+<paragraph>
+<sentence>　球の中心を通る大きな平面<sampling type="start" />と交わってできる円を大円という。</sentence>
+<sentence>そして大円以外に、つまり球の中心からはずれて球面に描かれた円を小円とよぶ。</sentence>
+<sentence>地球表面に設定された経度はすべて大円であるが、緯度は赤道の一本を除いては、全部小円になっている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで平面上には直線が引けるが、球面上にはふつうの直線というものはない。</sentence>
+<sentence>ここで、<quote>「直線」</quote>という言葉をもっと広く解釈してやろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　平面上で、点Ａおよび点Ｂを通る直線とは、ＡとＢとを結ぶ最短距離の線のことである。</sentence>
+<sentence>一方、球面上の二点ＡＢを結ぶ直線こそないが、最も短い線というのは存在する。</sentence>
+<sentence>ＡとＢとを通る大円がそれである。</sentence>
+<sentence>正確に言えば、大円に沿ってＡからＢに行くには、こちら側とむこう側との二通りあるが、その短いほうが最短距離の線である。</sentence>
+<sentence>曲面幾何学ではこれを測地線とよぶ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　メルカトル式世界地図を見ると、横浜とサンフランシスコとを結ぶ航路は、北方に大きく曲がっているように描かれているが、実はあれが測地線である。</sentence>
+<sentence>球面を地図のような平面に描き直すときには、長さや形に無理を生じ、長いものが短く、短いものが長いようになってしまう。</sentence>
+<sentence>太平洋横断は北方を迂回する方がはるかに短い。</sentence>
+<sentence>というよりも<quote>「北方を迂回する」</quote>という言葉がすでに間違っているのである。</sentence>
+<sentence>昭和十六年に真珠湾を攻撃した日本海軍は攻撃前に千島に集結したが、<quote>「遠く千島に迂回集結した」</quote>のではなく、攻撃途上の千島に立ち寄ったのである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　Ａ、Ｂを結ぶ測地線はＡ、Ｂが球の両端（たとえば南極と北極のような）なら無数に引けるが、そうでなければ確実に一本引けて、二本以上は絶対に引けない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ところで平面の上で、直線ＡＢと直線ＣＤ（ＡＢやＣＤをどちら側にも非常に長く延ばして考える）とが平行とはどういうことか。</sentence>
+<sentence>二本をいくら延ばしても永久に交わらないということである（まえにはこれを、無限に遠方で交わるという言い方をした）。</sentence>
+<sentence>平面上では、Ｃを通ってＡＢに平行な直線は、確実に一本は存在するが、しかし二本以上は引けない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　球面ではどうか。</sentence>
+<sentence>球面では平行な直線（<sentence>この場合、直線とは測地線のことである。</sentence>
+<sentence type="quasi">以後、測地線のことを簡単に直線と言うことがある</sentence>
+）など存在しない。</sentence>
+<sentence>たとえば地球の経度を見ても、北極と南極とでみんな一点に集まってしまう。</sentence>
+<sentence>球面上で二本の大円を、どのような方法で描いてみても、必ず二点で交わってしまうことはすぐわかるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし緯度は交わらない。</sentence>
+<sentence>だから球面上にも平行な直線が存在するではないか、というのは誤りである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　われわれはいま、<quote>「平行な直線」</quote>を問題にしている。</sentence>
+<sentence>繰り返すが球面上で直線（正確には測地線）とよべるのは大円だけである。</sentence>
+<sentence>緯度線は直<sampling type="end" />線ではない。</sentence>
+</paragraph>
+</article>
+</sample>

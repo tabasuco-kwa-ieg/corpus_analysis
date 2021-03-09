@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBn4_00029" version="1.0" type="fixedLength">
+<article articleID="LBn4_00029_F001">
+<paragraph>
+<sentence>なぜ，生物は，１個体が永久に生きていくことができず，新しい子孫を残すような形で進化してきたのか<sampling type="start" />まず考えてみよう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ある生物種が，食うか食われるかの生存競走の世界の中で生き残っていくためには，たとえば，<quote>「人間の場合，赤ちゃんは少なく，働き盛りの成人が多く，年寄りは少ないといった人口の正規分布が，より有利である」</quote>，といった考えもできる．</sentence>
+<sentence>より生物学的な立場から考察すると，生物は地球環境変化に適応するために，いろいろな遺伝子の組合せ（遺伝子の多様性）をつくる必要があった．</sentence>
+<sentence>遺伝子が多様であればあるほど，大きな環境変化があったとき，それに抗して生き残れる確率が高くなる（たとえば，ほとんどは環境変化に追従できず死んでいくが，ある特殊な遺伝子の組合せをもったものだけが生き残れる）．</sentence>
+<sentence>多様な遺伝子の組合せができるのは，通常は受精のときのみである．</sentence>
+<sentence>たとえば，ヒトの場合，男女ともに２３対の染色体をもつ．</sentence>
+<sentence>生殖細胞（卵子と精子）をつくるとき，これらの染色体は減数分裂して半数の染色体となる．</sentence>
+<sentence>この減数分裂のとき，２対の染色体の内どちらの染色体が選ばれるかの組合せは２<superScript>２３</superScript>通り存在する．</sentence>
+<sentence>すなわち，２<superScript>２３</superScript>通りの卵子や精子ができることになる．</sentence>
+<sentence>したがって，１組の夫婦から生まれてくる子供は，２<superScript>２３</superScript>×２<superScript>２３</superScript>通りの遺伝子の組合せができる．</sentence>
+<sentence>親に似た子はできるが，兄弟でも性質が違うのは当り前である．</sentence>
+<sentence>いずれにしても，すべての生物は，遺伝子交換することによって延々と子孫を残してきたのである．</sentence>
+<sentence>しかも，生物は共通して<quote>「核酸」</quote>とよばれる物質の中に遺伝暗号を保存してきた．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　そこで，第５章では，第２の生命現象の特質である<quote>「生命の自己複製」</quote>について，<quote>「どのようなしくみで親に似た子ができるのか」</quote><quote>「<sentence>遺伝を担っている核酸とはどのような物質なのか．</sentence>
+<sentence type="quasi">なぜ核酸が共通の遺伝物質となりえたのか</sentence>
+」</quote><quote>「核酸の中に保存された遺伝暗号がどのようなしくみで情報発現されてくるのか」</quote><quote>「現在話題となっている遺伝子操作とは，バイオテクノロジーとは何か」</quote>などについて紹介する．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　全生物の共通の特質として，上記２つの他に，生物は巧妙な調節機構をもつことがあげられる．</sentence>
+<sentence>たとえば，ヒトの場合を考えてみよう．</sentence>
+<sentence>急に激しい運動をすると自然に心臓の鼓動は速くなる．</sentence>
+<sentence>これは，運動すると筋肉細胞がエネルギーを使う．</sentence>
+<sentence>そこでその細胞に養分や酸素を送り込む必要がある．</sentence>
+<sentence>そのため，心臓の鼓動が激しくなるのである．</sentence>
+<sentence>しかし，意識的に，心臓を速く動かそうとしているわけではない．</sentence>
+<sentence>この調節は主として自律神経が行っているのである．</sentence>
+<sentence>また，血液中のブドウ糖の量（血糖値）は約０．１％（１００ｇ／ｄＬ）に調節されている．</sentence>
+<sentence>この値より高くなると，いわゆる糖尿病である．</sentence>
+<sentence>もっと致命的なのは低血糖になることであ<sampling type="end" />る．</sentence>
+</paragraph>
+</article>
+</sample>

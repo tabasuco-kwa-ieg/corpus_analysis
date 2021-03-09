@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd5_00010" version="1.0" type="fixedLength">
+<article articleID="LBd5_00010_F001">
+<paragraph>
+<sentence>　アメリカにおける系統連系形は，個人住宅，公設建築物に小規模（２〜５ｋＷ）太陽光発電システムを併設したり，団地内の空間に中規模（２００ｋＷ）システムを建<sampling type="start" />設し，系統連系上の各種データを集積しているところである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　電力，電気エネルギーに関係する人達にとって興味のあるシステムの１つは，太陽光発電システムと配電系統が互いに共存共栄して新しい電力システムを構成する系統連系形システムである．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これまで，これらの研究は，ＭＩＴエネルギー研究所を中心に進められてきた．</sentence>
+<sentence>この研究所では，個人住宅に設置する太陽光発電システムの容量は，表７・３に示すようにアメリカ一般家庭の年間平均消費電力（６０００ｋＷｈ／年）をすべて賄うより，３分の１程度を賄う２．２ｋＷ（年間出力は２０００〜２２００ｋＷｈ／年）システムが系統連系上好ましいシステムと考えているようである．</sentence>
+<sentence>その理由は太陽光発電システムで発電した電力はできるだけその家屋内で消費し，太陽光発電システムによる電力を系統に逆送することによって生じる系統への影響（たとえば高調波，電圧変動）を極力少なくすることにあるものと思われる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＭＩＴでは，先に各種太陽電池アレイによる屋根一体形構造の太陽光発電システムを５つ製作制作した．</sentence>
+<sentence>図７・２８はその外観である．</sentence>
+<sentence>図の右下部の５棟がこのタイプのものである．</sentence>
+<sentence>これらのシステムはいずれも系統連系形システムであり，その容量は４．５〜８．０ｋＷである．</sentence>
+<sentence>屋根一体形構造により太陽電池アレイのコスト低減をねらったが，夏期屋根裏の温度上昇が大きく，太陽電池の効率が低下し，必ずしも良好な構成でないことがわかった．</sentence>
+<sentence>その後，新しく開発した３システムは，屋根に低い止め金を取りつけて，それに太陽電池モジュールを固定する方式をとっている．</sentence>
+<sentence>この方式によれば，作業工程が簡単になりコスト低減が図られるとともに，夏期の温度上昇に伴う効率低下もさほどのことでなくなった．</sentence>
+<sentence>図７・２９は新しく開発した容量が２．２ｋＷの太陽電池アレイの取付け図である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，１変電所の電力供給量に占める太陽光発電システムの電力量の許容割合は５〜１０％程度であれば，高調波，電圧変動などの影響をほとんど考えなくてよいとしている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　系統連系形のシステムとして次の２つの方式がある．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　個人住宅の屋根などの未利用空間に小容量の太陽光発電システムを多数分散配置する方式</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　マサチューセッツ州ガードナー市に見られる例である．</sentence>
+<sentence>ボストン市から西へ約９０ｋｍの地点にあるガードナー市は人口１．８万人の静かな街である．</sentence>
+<sentence>この街の市庁舎など５施設（図書館，コミュニティカレッジ，学校，ハンバーガーショップなど太陽光発電システムの容量が４．５〜７．０ｋＷ），個人住宅３０軒（容量が２．２ｋＷ）の合計３５軒を対象として<sampling type="end" />系統連系形太陽光発電システムの研究が進められている．</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

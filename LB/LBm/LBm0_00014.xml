@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBm0_00014" version="1.0" type="fixedLength">
+<article articleID="LBm0_00014_F001">
+<paragraph>
+<sentence>国立国会図書館においては，公立図書館や専門図書館が収集保存しない和図<sampling type="start" />書資料を網羅的に保存提供する。</sentence>
+<sentence>そして大学図書館は責任をもって洋図書資料の収集分担提供機能を担うというものである<noteMarker text="２１）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第８節　今後の課題と展望</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　今後解決すべき課題としてまず資料収集に関しては，たとえば外国雑誌センターのばあいを見てみると，以下のような点があげられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>各専門分野の範囲と境界の線引き</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>分担責任に基づく購入雑誌の増加に伴う図書館員の労働量増加</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>雑誌の評価法とその理論形成</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>分担収集のより適切，より有効な運用の模索</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>値上がりによる雑誌購入中止の結果生じる，コア周辺の雑誌の欠落</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">６</enclosedCharacter>書庫スペースの限界<noteMarker text="２１）" /></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　また，資料提供に関する課題としては，資料の検索手段および資料そのものへのアクセス手段の完備を図ることが重要であろう。</sentence>
+<sentence>所在確認のための２次的資料の整備は分担収集・保存の重要な部分であるが，それだけでは不十分である。</sentence>
+<sentence>必要な資料にいつでもどこでもアクセスできるようでなければ図書館として十分に機能したことにはならない。</sentence>
+<sentence>そのような不十分な状況下で分担収集・保存を行ったとしても利用者にとってはそれほど便利なものとは言えない。</sentence>
+<sentence>図書館として最終的にめざすべきは，すべての利用者がさまざまな分担館に所蔵されている資料を自分が所属している大学図書館，あるいは最寄りの公共図書館と同じくらいの迅速さと容易さで使える状況を作り出すということであろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　すなわち，分担収集・分担保存を含む資源共有を機能させる際に重要なことは，書誌的トゥールと資料そのものへのアクセスの両方が利用者に提供されなければならないということである。</sentence>
+<sentence>特定の資料に関する書誌情報を比較的簡単に入手できたとしても，実際にその資料を入手するのに手間がかかるのでは，資源共有の有効性は損なわれてしまう。</sentence>
+<sentence>その意味で，利用者が容易にアクセスできる範囲の身近な図書館コレクションを充実させることは資源共有の出発点であると言えよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，今日的意味合いにおいて資源共有を論じるとき，館種の違いや個別館の環境の違いによって程度の差はあろうが，コンピュータに代表される新技術のめざましい発達と，それが図書館にもたらすさまざまな影響力を無視することはできない。</sentence>
+<sentence>図書館資源と言えば，従来の図書館においては紙メディア資料および視聴覚資料，ＣＤ‐ＲＯＭといった物理的な実体をもつ<quote>「物」</quote>であり，図書館の所有物として存在するものであった。</sentence>
+<sentence>ところが近年はこれにオンライン情報検索やインターネットに代表されるような，新しい形態の情報資源が加わった。</sentence>
+<sentence>これは資料収集という面か<sampling type="end" />ら考えても，資料保存という面から考えても，従来の図書館の蔵書構成の概念の枠には収まりきらない<noteMarker text="２３）" />。</sentence>
+</paragraph>
+</article>
+</sample>

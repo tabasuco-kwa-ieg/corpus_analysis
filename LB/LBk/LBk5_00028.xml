@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00028" version="1.0" type="fixedLength">
+<article articleID="LBk5_00028_F001">
+<figureBlock>
+<caption>
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">電気洗濯機普及率…経済企画庁<quote>「消<sampling type="start" />費動向調査年報」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆　この法律の目的</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　この法律は、流域別下水道整備総合計画の策定に関する事項、並びに公共下水道、流域下水道及び都市下水路の設置、その他の管理の基準等を定めて、下水道の整備を図り、そして都市の健全な発達及び公衆衛生の向上に寄与し、あわせて公共用水域の水質の保全に役立てることを目的とする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆　この法律の適用を受ける事業場</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　公共下水道を使用して下水を継続的に排出する事業場のうち、次の事業場はこの法律の適用を受ける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　５０ｍ<superScript>３</superScript>／日以上の汚水を排出する事業場</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　政令で定める水質（図２６）の下水を排出する事業場</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　水質汚濁防止法による特定施設を設置している事業場</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<list>
+<listItem>
+<sentence type="quasi"><quote>「公共下水道」</quote>とは</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　地方公共団体が管理する下水道で終末処理場を持つもの、または流域下水道に接続するもの。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><quote>「流域下水道」</quote>とは</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　複数の市町村の下水を受けて処理し排出するための下水道で、終末処理場を持つ。</sentence>
+<sentence>地方公共団体が管理する。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><quote>「下水」</quote>とは</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　生活あるいは事業（耕作を除く）に起因するか、付随する廃水または雨水をいう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><quote>「汚水」</quote>とは</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　下水のうち、雨水以外のものをいう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+<noteBody>
+<sentence type="quasi">下水道に排出している事業場は水質汚濁防止法ではなく、下水道法の適用を受ける</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ただし、地下浸透や地下水汚染に関しては水質汚濁防止法の適用を受ける</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２６　使用の開始等の届出を要する下水の水質</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（下記のいずれかに該当するもの）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">◆　適用を受ける事業場がしなければならないこと</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　使用の開始または水量、水質の変更の届出</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　公共下水道使用開始の時期、下水の量、水質を公共下水道管理者に届け出なければならない。</sentence>
+<sentence>この量、水質を変更しようとする時も届出が必要である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　特定施設の設置及び構造等の変更の届出</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　継続して下水を排出して公共下水道を使用する者が特定施設を設置しようとする時、構造、使用法、汚水処理の方法、下水の量、水質などを変更しようとする時は公共下水道管理者に届け出なければならない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この届出から６０日以後でないと届け出た施設の設置や変更ができない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">水質汚濁防止法と同じ枠組みである</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　除害施設の設置等</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　著しく公共下水道（または流域下水道）の施設の機能を妨げるか損傷するおそれのある下水を継続して排出する者に対し、政令で定める基準（図２７）に従い、条例で、下水による障害を除くために必要な施設を設け、または必要な措置をしなければならないことを定めることができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence type="quasi">排水処理施設を設置することを要求している</sentence>
+<br type="automatic_original" />
+</noteBody>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２７　除害施設の設置を必要とする（条例の）基準</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　水質の測定義務</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　継続して下水を公共下水道に排出する特定施設の設置者は、その下水の水質を測定しその結果を<sampling type="end" />記録しておかなくてはならない（これ以外の者についても、法律では義務づけているが、これに関する政令が未制定で、今のところ測定義務はない）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

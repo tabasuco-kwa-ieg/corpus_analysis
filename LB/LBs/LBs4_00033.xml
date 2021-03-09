@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs4_00033" version="1.0" type="fixedLength">
+<article articleID="LBs4_00033_F001">
+<paragraph>
+<sentence>このような場合のもっと<sampling type="start" />も確からしい予報は，過去に起こったと同じ確率で起こると考えるのが最良の情報（予報）である。</sentence>
+<sentence>すなわち，<quote>「各階級の確率は，統計値算出期間（通常は３０年間）の各階級の出現率と同じである」</quote>と考える。</sentence>
+<sentence>なお，長期予報作業や関連資料では，しばしば平年値と並んで<quote>「気候値」</quote>あるいは<quote>「気候学的値」</quote>が使われる。</sentence>
+<sentence>気候値の定義は定かではないが，平年値をそのまま採用する場合のほか，直近の１０年間など目的に応じて種々の期間が採用される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．１．２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">東京の地上気温の順位棒グラフ（１９７１年〜２０００年）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１．１．４　異常気象の尺度</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　異常気象という言葉は世の中ではかなり幅広く使われているが，長期予報の分野では，これまでに経験した平均的な気候状態から大きくかけ離れた気象現象を意味する。</sentence>
+<sentence>台風や低気圧に伴う短期的あるいは局地的な激しい現象から，干ばつ，低温や日照不足などの数か月〜１年程度の現象も含まれる。</sentence>
+<sentence>何が異常か正常かは本来相対的な概念であることから，異常気象という用語は状況に応じて適宜使用されているのが現状である。</sentence>
+<sentence>事実，気象庁部内でも，いわゆる異常気象や災害を調査する際に決め手はなく，<quote>「出現度数の小さい現象，地点・季節として平常に現われない現象」</quote>としている。</sentence>
+<sentence>しかしながら，現象を定量的に扱う際には<quote>「異常」</quote>と判断するなんらかの尺度（数値的基準）が必要となることから，気象庁では長期予報の分野に関して，次のように定義している。</sentence>
+<sentence>異常気象は特定の現象の発生やある絶対的な閾値と連動したものではないことに留意すべきである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">異常気象</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　それぞれの地点における月平均気温や月降水量が過去３０年間あるいはそれ以上にわたって観測されなかったほど平年値から偏っている場合，あるいは月平均気温が正規分布をする場合，平年値からの偏差が標準偏差の約２倍以上偏った場合を異常高温，または異常低温とし，月降水量が過去３０年間のどの値よりも多い，あるいは少ない場合，それぞれ異常多雨，異常少雨とする。</sentence>
+<sentence>図１．１．３は，月平均気温の時系列と異常高温と異常低温の例を示す。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図１．１．３</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">月平均気温時系列，異常高温，異常低温</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">１．２　季節の顔とその偏りの特徴</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　１か月予報では毎週金曜日に向こう１か月間の予報が更新され，文章による予報とともに１・２週間平均図や１か月平均図などが予報資料として提供されている。</sentence>
+<sentence>３か月予報でも１か月平均や３か月平均図が提供されている。</sentence>
+<sentence>これら週間平均図や１か月・３か月平均図の資料は、アンサンブル予報に基づいて得られる日単位の計算結果をさらに平均することにより導かれたものである。</sentence>
+<sentence>こうした資料を解釈し有効な対<sampling type="end" />策を立てるためには，まず，平年の季節および天候の特徴やその推移，さらに平年から大きく偏った場合の特徴をよく理解しておき，平年と顕著な偏りの特徴との対比で<quote>「予報はどう言っているのか」</quote>を知ることが重要である。</sentence>
+</paragraph>
+</article>
+</sample>

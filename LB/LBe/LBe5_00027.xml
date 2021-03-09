@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBe5_00027" version="1.0" type="fixedLength">
+<article articleID="LBe5_00027_F001">
+<paragraph>
+<sentence type="quasi">　この式より抵抗を求めると</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となり，抵抗Ｒは，抵抗に加わる電圧と抵抗に流れる電流の比<sampling type="start" />から求められます．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　さらに，電圧を求めると，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となり，電圧Ｖは，Ｒ〔Ω〕の抵抗にＩ〔Ａ〕の電流を流すのに必要な電気的圧力であることを示しています．</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">３　抵抗のつなぎ方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電気回路では，いくつかの抵抗をつなぎ合わせて用いる場合が多いのです．</sentence>
+<sentence>抵抗のつなぎ方には，直列接続と並列接続とがあります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">直列接続</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　３つの豆電球を，図２・７（ａ）のように，ひとつながりにつなぐ方法を直列接続といいます．</sentence>
+<sentence>３つの豆電球の抵抗をＲ<subScript>１</subScript>，Ｒ<subScript>２</subScript>，Ｒ<subScript>３</subScript>〔Ω〕として回路図で表すと，図（ｂ）のようになります．</sentence>
+<sentence type="quasi">このとき，各豆電球に流れる電流Ｉはいずれも同じで，電池の電圧をＶ〔Ｖ〕とすると，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となります．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　ここで，３つの電流の抵抗の和をＲとすると，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>を直列合成抵抗といい，電球に流れる電流を決めるものです．</sentence>
+<sentence>図（ｂ）の回路は外から見ると，図（ｃ）の回路と同じはたらきをします．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２・７　直列接続</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">並列接続</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　３つの豆電球を図２・８（ａ）のようにつなぐ方法を並列接続といいます．</sentence>
+<sentence>３つの豆電球の抵抗をＲ<subScript>１</subScript>，Ｒ<subScript>２</subScript>，Ｒ<subScript>３</subScript>（Ω）として回路図で表すと，図（ｂ）のようになります．</sentence>
+<sentence type="quasi">このとき，各豆電球に加わる電圧Ｖ〔Ｖ〕はいずれも同じなので，各豆電球に流れる電流Ｉ<subScript>１</subScript>，Ｉ<subScript>２</subScript>，Ｉ<subScript>３</subScript>は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence type="quasi">となり，回路全体に流れる電流Ｉは，</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<sentence>となります．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　図（ｂ）の回路を，これと同じ性質を持つ図（ｃ）の回路に置き換えたときの抵抗Ｒと，各豆電球の抵抗Ｒ<subScript>１</subScript>，Ｒ<subScript>２</subScript>，Ｒ<subScript>３</subScript>の関係は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となります．</sentence>
+<sentence>このＲを並列合成抵抗といいます．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　いくつかの抵抗が組み合わせられた電気回路の電流を計算するときには，合成抵抗を求めてから行います．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　直列抵抗のときは各抵抗の和，並列抵抗のときは各抵抗の逆数の和の逆数となります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２・８　並列接続</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">４　電池のつなぎ方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　電池のつなぎ方にも，直列接続と並列接続があります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">直列接続</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　豆電球に，乾電池を１個つないだときより，図２・９（ｂ）のように，２個の乾電池を＋側と−側をくっつけてつないだときの方が明るくなります．</sentence>
+<sentence>これは，２個の方が１個のときより電気を押し出す力が大きくなり，電流がたくさん流れるからです．</sentence>
+<sentence>乾電池１個の起電力（電圧と考えてもよい）は約１．５Ｖですから，１個のとき豆電球に加わる電圧は１．５Ｖです．</sentence>
+<sentence>しかし，２個の乾電池を直列につなぐと，豆電球に加わる電圧は２個分で３Ｖになるのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このようなつなぎ方を直列接続といいます．</sentence>
+<sentence>電圧を大きくしたいときには，たくさんの電池を直列に接続すればよいのです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">並列接続</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　２個の乾電池の＋側と−側をそれぞれまとめて横につないでから豆電球につないでみましょう．</sentence>
+<sentence>豆電球の明るさは１個のときと変わりません．</sentence>
+<sentence>豆電球に加わ<sampling type="end" />る電圧は１．５Ｖで１個のときと変わらないためです．</sentence>
+</paragraph>
+</article>
+</sample>

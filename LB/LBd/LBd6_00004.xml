@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBd6_00004" version="1.0" type="fixedLength">
+<article articleID="LBd6_00004_F001">
+<figureBlock>
+<caption>
+<sentence type="quasi">第５図　開花後日数と熟度との関係（倉<sampling type="start" />田）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">品種符号であらわした調査果数　５６</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２．スイカの栄養</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（１）　果実の一般的栄養特性</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スイカは，水分と，吸収されやすい適当量の糖と，総合的に偏らないビタミンを含む。</sentence>
+<sentence>また古くからいわれている新陳代謝をよくし，利尿効果を有することをあわせて考えると，体調をととのえスタミナを補う効果が強調される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　たとえば，同時期に出荷される主な生食果物と比較すると第４表のようである。</sentence>
+<sentence>スイカは，廃棄率が高く，水分が多く，カロリーは低く，あるいは面積当たり，労働時間当たりの栄養生産量は多くはない。</sentence>
+<sentence>しかし，カルシウムを含むアルカリ食品としての意義は大きく，ビタミンをみると，Ａを多く含むものはトマト，スイカで，次いでマクワウリであり，他の果物にはほとんど含まれない。</sentence>
+<sentence>Ｂは他の果物と同程度であり，Ｃは含量は多くないがブドウ，ナシ，リンゴよりは多く，１回当たり摂取量を考えるとトマトに匹敵するであろう。</sentence>
+<sentence>これらからスイカのビタミンは総合的に評価できるものであり，ブドウ，モモ，ナシ，リンゴより明らかにすぐれ，カンキツ類のようにビタミンＣだけに偏ることはない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第４表　日本食品標準成分表（四訂，昭和５７年１１月）</sentence>
+<br type="automatic_original" />
+<sentence>注　可食部１００ｇ当たり。</sentence>
+<sentence type="quasi">０の近似値は０であらわした</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　ビタミンＡとその動き</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　ビタミンＡとしてのβ‐カロチンについてみると第５，６表のようである。</sentence>
+<sentence>これによると，果肉色とリコピン含量とは完全に比例するが，これらとβ‐カロチン含量は関連せず，品種間差異が大きい。</sentence>
+<sentence>なお，アメリカではβ‐カロチン含量の高いチャールストングレーが，わが国では著しく低いことは，栽培条件，気候条件の差であろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第７表のように，同一品種でも，収穫期がごく早いばあい，末成りで葉が損傷したばあいなどは，β‐カロチン含量がきわめて少ない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　黄，橙色品種でも，赤肉品種と同等かそれ以上のβ‐カロチンが含まれている（第２表）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上からみて，リコピンは果肉色とその濃淡に影響し，品種間差異が主体であるが，ビタミンＡは品種間差異よりも，栽培条件，果実の充実条件による動きが大きいことに注意すべきである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第５表　日本でのスイカ果実の色素比較（昭４０，倉田）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">注　１．色素含量はμｇ／ｇ　ｆ．ｗ．であらわす（第６，７表も同じ）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">２．品種は，果肉色の濃いものから並べた</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第６表　アメリカ・インディアナ州でのスイカの色素調査（トメスら）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第７表　収穫期，栽培条件による色素の影響（品種　富久光）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（３）　ビタミンＣ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　第４表のように日本食品標準成分表では６ｍｇ％をあげているが，渋谷らの調査（第８表）では未熟果は開花３０日後で４ｍｇ％前後と低い。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第８表　果肉のビタミンＣ含量（ｍｇ％）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（渋谷ら）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　種子の栄養価</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　スイカ種子を成分<sampling type="end" />分析した成績（第９表）によると，炭水化物は少ないが脂肪と蛋白質とを多く含んでいる。</sentence>
+</paragraph>
+</article>
+</sample>

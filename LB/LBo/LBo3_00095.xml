@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo3_00095" version="1.0" type="fixedLength">
+<article articleID="LBo3_00095_F001">
+<paragraph>
+<sentence>したがって，保全処分を申し立てるのは，通常，債権者で<sampling type="start" />あり，その内容は処分禁止であり，その名宛人は財産の譲受人などの第三者である。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず，１５５条１項にいう破産財団の意義をどう解するかが問題となる。</sentence>
+<sentence>この保全処分を認める積極説は，ここでいう破産財団とは，否認によって増殖されるべき法定財団を指すと解するのに対して，消極説では，宣告時の現有財団を指すと考える。</sentence>
+<sentence>下級審判例・実務は消極説をとり，かなりの学説もこれを支持しているが<noteMarker text="１０９）" />，ここでは，以下の理由から積極説を支持する。</sentence>
+<sentence>第１に，強制執行停止の保全処分にもみられるように，保全処分の名宛人は，必ずしも債務者に限定されない。</sentence>
+<sentence>第２に，保全処分によって不利益を受ける者は，１５５条２項にもとづいてその取消しを裁判所に促すことができるし，裁判所が職権によって取り消す可能性もある。</sentence>
+<sentence>第３に，積極説では，否認訴訟の管轄権をもたない破産裁判所が保全処分を発することになるが，否認訴訟についての本案の裁判所が破産裁判所の判断に拘束されるものではないから，これも決定的な問題とはならない。</sentence>
+<sentence>第４に，否認権行使の実効性を確保するためにも，積極説が優れている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>１０９）　東京高決昭和２７・７・１４判タ２８号５６頁，東京高決昭和２７・８．２９高民５巻１１号５０６頁〔倒産百選１９事件〕，山木戸６２頁，注解破産法（下）２６５頁〔麻上正信〕，石原４２１頁，加藤哲夫６４頁。</sentence>
+<sentence>これに対して，積極説の立場としては，谷口１１０頁，宗田１１２頁，野口忠彦<quote>「破産宣告前の保全処分」</quote>判タ８３０号３７頁などがある。</sentence>
+<sentence>霜島１３１頁は，１５５条にもとづく保全処分としてではなく，民事保全法にもとづく保全処分として許されるとする。</sentence>
+<sentence>なお，立法論としてこれを検討すべきことについては，検討事項第１部　第１章　第１　６　（２）　ア　ｂ，春日偉知郎<quote>「否認権行使と保全処分」</quote>松浦＝伊藤２８１，２９３頁参照。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">（４）　保全管理を命じる保全処分</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　破産宣告によって破産者の財産管理処分権は包括的に破産管財人に移転するが，それまでは，保全処分によって個別的な制限を受けるにすぎない。</sentence>
+<sentence>そこで，債務者の財産の散逸防止や事業価値の維持のために管理処分権を包括的に債務者から剥奪し，保全管理人に付与する保全処分が許されるかどうかが議論される。</sentence>
+<sentence>会社更生法３９条１項（民再案７９Ⅰ）は，保全処分の内容として保全管理を認めるが，破産法には明文の規定が存在しない。</sentence>
+<sentence>考え方としては，破産宣告によって管理処分権が破産管財人に移転することが予定される以上，例外的にではあれ，必要に応じて裁判所が保全管理命令を発することも許されるとすべきである<noteMarker text="１１０）" />。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>１１０）　破産・和議の実務（上）４４頁。</sentence>
+<sentence>なお，破産と同様に明文の規<sampling type="end" />定がない和議において保全管理命令が発せられた例があるが（東京地八王子支決昭和５９・８・１０判タ５４５号１７４頁），開始決定によっても管理処分権が剥奪されない和議においては，保全管理命令が許されないとの批判がある（東西倒産実務研究会・和議１３１頁（１９８８年），菅野孝久・和議事件の申立・審理・裁判１９８頁（１９９１年））。</sentence>
+</noteBody>
+</article>
+</sample>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00068" version="1.0" type="fixedLength">
+<article articleID="LBt5_00068_F001">
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">５</enclosedCharacter>　墨付けの後には、もう一度寸法を測るようにすると確実で<sampling type="start" />す。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">接ぎ手のいろいろ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">接ぎ手の種類と形</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<paragraph>
+<sentence>　家具や建具の分野では、長さ方向に接合する方法も、二つ以上の部材を一定の角度で接合する方法も呼び方に明確な区別がなく、接ぎ手、継ぎ手、仕口、組み手などと呼んでいます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　接ぎ手にも、材料の一部を加工して組む方法や、接着剤を併用する方法、釘やビスを使う方法などもあり、どの方法を使うか、どんな接ぎ手を選ぶか、強度、外観、難易度によって選択します。</sentence>
+<sentence>ここで掲載されたもの以外にもまだまだいろいろな接ぎ手があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">接ぎ手を考える</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　どんな接ぎ手にするかは、その合理性を考える必要があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　外観は重視せず、強度で選択する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　強度より外観を重視する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　強度、外観ともに重視する</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　簡単な方法を選択する</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　これらのことからできるだけ合理的な接ぎ手を選ぶようにしますが、アマチュア木工家にはいろいろな接ぎ手に次々と挑戦する楽しみがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">主に板材と板材を接合するときの接ぎ手</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　きわ<ruby rubyText="は">矧</ruby>ぎ、平打ち接ぎ、組み接ぎ、留め接ぎ、だぼ接ぎなどがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆きわ矧ぎ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　板材と板材を木端で合わせて板の幅を拡げる方法で、平矧ぎといわれる<quote>「摺り合わせ矧ぎ」</quote>が基本です。</sentence>
+<sentence>接着剤を使い、木端同士を合わせて接合します。</sentence>
+<sentence>木端を斜めに削り、接着面積を広くして矧ぎ合せる<quote>「斜め矧ぎ」</quote>、ほかに、相欠き矧ぎ、本ざね矧ぎなどが使われます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆平打ち接ぎ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　板の側面に他の板を突き付けて接合し、箱をつくるときなどに利用する方法です。</sentence>
+<sentence><quote>「打ち付け接ぎ」</quote>は釘やビスを使い、抽斗には<quote>「包み打ち付け接ぎ」</quote>や<quote>「片胴突き追入れ接ぎ」</quote>がよく使われ、ほかに<quote>「追入れ接ぎ」</quote>、<quote>「アリ形追入れ接ぎ」</quote>などがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆組み接ぎ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　箱をつくるときなどによく使われる手法です。</sentence>
+<sentence>組み手をつくり接合するので、結合も強度がありますが、種類が多く、技術的に高度な接ぎ手もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　基本的な<quote>「三枚組み接ぎ」</quote>や<quote>「五枚組み接ぎ」</quote>、組み手の数が多いものは<quote>「石畳」</quote>、<quote>「あられ組み」</quote>などと呼ばれ、一方からは組み手を見せない<quote>「包みアリ組み接ぎ」</quote>、まったく組み手を見せない<quote>「留め形包みアリ組み接ぎ」</quote>などがあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆留め接ぎ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　合わせる面を留め（４５度）に加工し木口を出さないつくりにします。</sentence>
+<sentence>留め加工して貼り合わせるだけでは強度が不足することが多く、内側角に隅木を入れた<quote>「大留め接ぎ」</quote>や、溝を切って薄板を挿し込む<quote>「挽き込み留め接ぎ」</quote>、留めの合わせ面に雇いざねを入れる<quote>「雇いざね大留め接ぎ」</quote>もあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">◆だぼ接ぎ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　だぼで接合する簡単な方法なので応用範囲が広く、電動ドリルを使うと速く組み手が仕上がります。</sentence>
+<sentence>だぼにらせん状の溝を刻み、接着剤がよく回るようにした市販品がありますが、丸棒でも充分代用できます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">主に板材と角<sampling type="end" />材を接合するときの接ぎ手</sentence>
+</article>
+</sample>

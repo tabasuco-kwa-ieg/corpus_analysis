@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc5_00018" version="1.0" type="fixedLength">
+<article articleID="LBc5_00018_F001">
+<paragraph>
+<sentence>この場合，一般的には高ゲインのオペアンプが使われますが，フォトダイオードの性質として，低照度側では暗電流の割合が増え，出力信号にこの影響が出てきま<sampling type="start" />す．</sentence>
+<sentence>別な表現をしますと，低照度側ではＳ／Ｎ特性が悪化するということです．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　したがって，フォトダイオードの微弱光に対する検出限界は，素子の雑音特性で限定されます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>◎フォトダイオードは低照度側ほど暗電流の影響が大きい．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ところで，フォトダイオードの雑音電流ｉ<subScript>ｎ</subScript>は，素子の並列抵抗Ｒ<subScript>ｐ</subScript>（図２．２９参照）で近似される抵抗体の熱雑音ｉ<subScript>ｊ</subScript>（またはジョンソン雑音）と暗電流（含む光電流）に起因するショット雑音ｉ<subScript>ｓ</subScript>の二乗の和の平方根で表わされます．</sentence>
+<sentence>また，これを式で表わすと下記のようになります．</sentence>
+<sentence type="quasi">すなわちフォトダイオードの雑音電流ｉ<subScript>ｎ</subScript>は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>で与えられます．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　また，フォトダイオードを無バイアスで使用した場合，暗電流の影響を無視することができますので，雑音電流ｉ<subScript>ｎ</subScript>は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>で与えられます．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　ただし，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">｛</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ｋ：ボルツマン定数</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｔ：素子の絶対温度</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂ：雑音帯域幅</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　したがってこの場合はジョンソン雑音のみとなります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また，バイアス電圧を加えて使用する場合は，その暗電流が必ず存在し，これが１Ｖから２Ｖ以上では，雑音電流の関係がｉ<subScript>ｓ</subScript>≫ｉ<subScript>ｊ</subScript>となります．</sentence>
+<sentence type="quasi">したがってこの場合は，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となります．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence type="quasi">　ただし，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">｛</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi">ｑ：電子の電荷</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｉ<subScript>ｄ</subScript>：暗電流</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">Ｂ：雑音帯域幅</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence type="quasi">　次に入射光によって光電流が存在し，その関係がＩ<subScript>Ｌ</subScript>≫０．０２６／Ｒ<subScript>ｐ</subScript>，または，Ｉ<subScript>Ｌ</subScript>≫Ｉ<subScript>ｄ</subScript>となった場合，雑音電流ｉ<subScript>ｎ</subScript>は，ショット雑音のみとなり，</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>となります．</sentence>
+<sentence>なお<enclosedCharacter description="○">４</enclosedCharacter>式のＩ<subScript>Ｌ</subScript>は光電流を表わしています．</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　ところで，これらの雑音の大きさは測定帯域幅Ｂの平方根に比例するため，単位Ｂは<rejectedSpan type="formula"></rejectedSpan>で表わされます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一般に，フォトダイオードの最少検出光の限界はさきの<enclosedCharacter description="○">２</enclosedCharacter>式，<enclosedCharacter description="○">３</enclosedCharacter>式の雑音電流と等しい信号電流を生ずる入射光量，つまり等価雑音電力ＮＥＰで表わされます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　ただし，Ｓは放射感度を，またＮＥＰとはＮｏｉｓｅ　Ｅｑｕｉｖａｌｅｎｔ　Ｐｏｗｅｒの略語です．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，直流結合での微弱光検出には増幅器の温度ドリフト，低周波領域でのフリッカ雑音などが影響しますので，素子単体のＮＥＰより大きくなります．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この場合，同期検波などの回路技法を併用すれば，その検出限界を素子単体のＮＥＰにより近づけることができます．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence>◎微弱光検出を直流結合で行う場合，増幅器の温度ドリフトが問題となる．</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図２．２９　フォトダイオードの等価回路</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">２．１２　フォトダイオードの一覧表</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　フォトダイオードの特性，その使い方などについては本章の２．１〜２．１１節で十分おわかり頂けたことと思いますので，ここでは皆さんが実際にフォトダイオードを選ぶ場合に役立つよう，身近な製品名，およびメーカ名をリストアップしてみました．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　表２．９はＰＮフォトダイオードを，また，表２．１０はＰＩＮフォトダイオードを<sampling type="end" />それぞれまとめたものです．</sentence>
+</paragraph>
+</article>
+</sample>

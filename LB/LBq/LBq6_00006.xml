@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBq6_00006" version="1.0" type="fixedLength">
+<article articleID="LBq6_00006_F001">
+<list>
+<listItem>
+<sentence>午後１時３０分　乗<sampling type="start" />員交代をせずに、平壌へ行くことが決定。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後２時３０分　機体の整備が終わった後<quote>「よど号」</quote>のドアが開き、まず乗客のうち４９人がタラップを降りる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後３時　山村次官が<quote>「よど号」</quote>の機内へ。</sentence>
+<sentence>入れ違いに残りの乗客とスチュワーデス４人が機外へ出る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後４時３０分　乗客は同日中に出発の<quote>「ひだ号」</quote>で帰国する旨、金浦空港側から発表。</sentence>
+<sentence><quote>「よど号」</quote>は平壌空港を目指して離陸。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後７時２０分　<quote>「よど号」</quote>は平壌空港近くの旧軍用飛行場に着陸。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後７時３０分　<quote>「ひだ号」</quote>が金浦空港を出発。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>午後１１時５分　<quote>「ひだ号」</quote>は福岡空港を経由して、羽田空港に到着。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">４月５日</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>午前９時９分　<quote>「よど号」</quote>が山村次官、乗務員らを乗せ平壌から羽田へ帰る。</sentence>
+<br type="automatic_original" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>ハイジャックされた<quote>「よど号」</quote>は給油を理由に福岡に着陸した。</sentence>
+<sentence>コクピットで日本刀で脅される石田機長。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi"><quote>「よど号」</quote>ハイジャック事件で運輸省指示</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　<quote>「よど号」</quote>ハイジャック事件で運輸省航空局は、ハイジャック防止を目的とした旅客及び手荷物の取り扱いなどについて、日本航空などの航空会社に次のような指示を出した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１　旅客及び手荷物の取り扱い</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　各空港においては次の諸点について具体的な取り扱い方法を定め、その徹底を図ること。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>旅客関係　旅客の氏名、年齢、住所および連絡先を必ず確認し不審があれば再確認するなど必要な処置を取ること。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>手荷物関係　受託手荷物は受託時に、機内持ち込み手荷物は搭乗手続きの際、内容について旅客に対し確認を行い、必要に応じて開梱を求めるなど、航空法により運送制限を行っている銃器、刀剣、爆発物など危険物の持ち込みが行われないよう厳重に注意するとともに、危険物該当物件および疑わしい物件の輸送拒絶などを励行すること。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　また、関係法令により所持の認められている銃器、刀剣について、会社が承認を与える場合は必ず関係官庁の所持証明書を確認するとともに、旅客自身による機内持ち込みは禁止、運送に当たってはみだりに取り出される恐れのない箇所に搭載すること。</sentence>
+<sentence>航空券の提示がない場合、手荷物の受託を行わないこと。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　持ち込み手荷物については、搭乗手続きの際、合い符（タッグ）を交付するとともに、搭乗時に危険物が持ち込まれないよう、運送約款などによる持ち込み手荷物の大きさ、容積、個数などについての制限を守ること。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">貨物関係　（略）</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">２　乗っ取り防止体制の確立</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence>社内体制　前記１による措置の実施に当たっては、各社において所要職員の確保、施設の整備を行い、社内体制の確立を図ること。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>関係当局への協力依頼　各空港ごとに関係当局と連絡のうえ、その協力を得て適切な事件防止体制の確立を図ること。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">３　旅客への協力依頼</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　前記１の取り扱いにつ<sampling type="end" />いて、チェック・イン・カウンター、待合室にその趣旨を掲示し、または随時案内するなどにより旅客の協力を得ること。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

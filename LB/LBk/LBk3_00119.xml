@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk3_00119" version="1.0" type="fixedLength">
+<article articleID="LBk3_00119_F001">
+<figureBlock>
+<caption>
+<list>
+<listItem>
+<sentence>３．　貸出しは<sampling type="start" />国内店銀行勘定の末残ベース。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第３‐１‐１０図　邦銀、米銀の長期債務格付けの推移</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（備考）</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>１．　Ｍｏｏｄｙ’ｓ公表の各国主要行の長期債務格付けにより作成。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>２．　邦銀の格付けは、東京三菱、第一勧業、富士、住友、三和、さくら６行の長期債務格付け平均。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>３．　米銀の格付けは、Ｃｉｔｉｂａｎｋ，　Ｎ．Ａ．，　Ｂａｎｋ　ｏｆ　Ａｍｅｒｉｃａ　ＮＴ　ａｎｄ　ＳＡ，　Ｃｈｅｍｉｃａｌ　Ｂａｎｋ，　Ｎａｔｉｏｎｓ　Ｂａｎｋ　Ｎ．Ａ．，　Ｍｏｒｇａｎ　Ｇｔｙ．　Ｔｒｕｓｔ　ＣＯ．　ｏｆ　ＮＹ，　Ｃｈａｓｅ　Ｍａｎｈａｔｔａｎ　Ｂａｎｋ　Ｎ．Ａ．，　Ｂａｎｋｅｒｓ　Ｔｒｕｓｔ　Ｃｏｍｐａｎｙ，　Ｂａｎｋ　Ｏｎｅ，　Ｃｏｌｕｍｂｕｓ　Ｎ．Ａ．８行の長期債務格付け平均。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（不確実性の増大）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　９０年代以降の変化としては、バブル崩壊後の地価の下落と低い成長率が、我が国経済の成長に対する確信を揺るがしたことも重要である。</sentence>
+<sentence>すなわち、企業、銀行ともに先行きの期待成長率を低下させたり、不確実性を考慮せざるを得なくなっており、短期的にせよ収益面でデメリットがある取引は積極的にリストラの対象としている。</sentence>
+<sentence>この結果、企業にとっては、将来のための<quote>「お付き合い」</quote>という形で従来通りの銀行取引を維持するよりも、銀行の絞り込みを行う方が合理的な選択となっている。</sentence>
+<sentence>また、銀行側も将来の価格上昇が見込める土地担保に依拠して、モニタリング・コストを節約することはできず、銀行の情報生産コストは従来よりもかなり高価なものとなっていることから、貸出先の選別を強化してきているとの指摘もみられる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">（銀行間のサービス提供力の格差）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　金融の国際化と金融技術の発展に伴い、銀行間で、企業に対するサービス提供力に格差が生じていることも最近の変化である。</sentence>
+<sentence>近年、金融派生商品の取引拡大が著しいが、これらは派生商品の性格上高度な取引技術や、相当量の取引を確保することが必要である。</sentence>
+<sentence>この結果、顧客の要望にこたえる商品が提供できる銀行とできない銀行の間の商品提供力格差は拡大せざるを得ない。</sentence>
+<sentence>ちなみに、先物取引契約の対事業資産比率をみると、総じて同比率が増加しているが、それにつれて銀行間の相違が生じていることが分かる（第３‐１‐１１図）。</sentence>
+<sentence>また、<quote>「金融派生商品売買高等調査」</quote>によると、金利関連の取引を中心に、特定の銀行に取引が集中していることが確かめられる（付表３‐１‐２図）。</sentence>
+<sentence>こうした状況の下では、銀行は他の銀行との差別化を図ることによって企業との取引を拡大するであろうし、企業側も、それまでの取引慣行にこだわらず、自らのニーズに見合った銀行を選択するインセンティブが生ずると思われる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">第３‐１‐１１図　都市銀行・長期信用銀行１３行の先物取引<sampling type="end" />等契約実績の動向</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+</article>
+</sample>

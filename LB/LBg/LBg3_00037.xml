@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg3_00037" version="1.0" type="fixedLength">
+<article articleID="LBg3_00037_F001">
+<paragraph>
+<sentence>以下にその算出方法<sampling type="start" />をみることにしよう．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず水準値を定義する．</sentence>
+<sentence>これは各指標の増減率，または１人（１世帯）当たりの数値を，全国平均を１００として換算したものである．</sentence>
+<sentence>増減率の場合にはパーセント表示でマイナスがでるため，基準率に対する倍率をもってしている．</sentence>
+<sentence>たとえば人口増加率（９０／８５）の全国平均は１．０２３倍であり，これを水準値１００．０とおく．</sentence>
+<sentence>Ｍ市の場合，同増加率はマイナス成長なので０．８４７倍，したがって同市の水準値はこれを全国の１．０２３で除して１００倍した８２．８となる．</sentence>
+<sentence>水準値の計算式は次で与えられる．</sentence>
+<sentence>たとえば，最近時の全国人口をＰ<subScript>０</subScript>，Ａ市の人口をＡ<subScript>０</subScript>，５年前の人口をそれぞれＰ<subScript>５</subScript>，Ａ<subScript>５</subScript>とすると，Ａ市の人口増減率の水準値は次で与えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　同様に他の指標の水準値も計算し，これらの全平均をもって成長力係数とする．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　なお，採用指標は（１）総人口，（２）地方財政歳出額，（３）工場従業者数，（４）商業従業者数，（５）工業製品出荷額，（６）卸売業年間販売額，（７）小売業年間販売額，（８）着工住宅床面積，（９）銀行預金残高，（１０）乗用車登録台数，（１１）課税対象所得額，の１１指標である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　民力度係数は９０年時点での上記指標（２），（５），（６）の各１人当たり，（７），（９），（１０），（１１）の１世帯当たりの計７指標について，それぞれ全国平均＝１００とした水準値を求める．</sentence>
+<sentence>計算式は，たとえば最近時点の全国の財政歳出額をＤ，Ａ市のそれをＣ，その年の人口をそれぞれＰ，Ａとすると，次で与えられる．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　こうして求めた７つの水準値Ｌの算術平均が民力度係数である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　市場力係数についてみよう．</sentence>
+<sentence>採用指標は（１）可住地人口密度，（２）人口社会増減率，（３）生産年齢人口比率，（４）課税対象所得額，（５）小売業年間販売額，（６）飲食店年間販売額，（７）新設住宅着工戸数，の７指標．</sentence>
+<sentence type="quasi">まず基準値を次の方法で算出する，各指標における都市別の最高値Ａ<subScript>１</subScript>，最低値Ａ<subScript>０</subScript>，Ｓ市の数値をＡ<subScript>ｓ</subScript>とすると，Ｓ市の基準値は</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="formula" />
+<sentence>で与えられ，このＫの値を５０≦Ｋ≦２００の範囲に抑えるために，次の操作を施す．</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="formula" />
+<paragraph>
+<sentence>　市場力係数は，指標（１）〜（７）の各係数Ｋをそれぞれ算出，単純平均したものである．</sentence>
+<sentence>表１０‐６はその結果の一部である．</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表１０‐５　全国主要都市圏別の民力総合指数（１０万分比）</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（出典：朝日新聞社編『’９１民力』）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表１０‐６　順位別にみた都市の成長力・民力度・市場力</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（出典：東洋経済新報社『’９１地域経済総覧』，１９９１）</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">例３</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　『平成２年地域経済レポート』には都市の類型化と魅力について多変量解析法の一つである主成分分析を用いた結果が収録されている．</sentence>
+<sentence>そこでは若年層を中心に都市への人口集中が進んでいることに注目して，さまざまな指標を使って都市の類型化を行い，若年層を引き付ける都市の魅力を探っている<sampling type="end" />．</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs9_00061" version="1.0" type="fixedLength">
+<article articleID="LBs9_00061_F001">
+<paragraph>
+<sentence>　楊貴妃　このあたりの様子は、すべて以前に<sampling type="start" />見たことがあるような。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　あのあたり、桂の花、なんと早くも咲いていること。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　寒簧　これは月中の桂でございます。</sentence>
+<sentence>四季を通じて常に茂っておりまして、花も葉もともに<ruby rubyText="よ">佳</ruby>い香を放ちます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　楊貴妃　（花を見て）ほんとに<ruby rubyText="よ">好</ruby>い花なこと。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence type="quasi">　（舞台の奥の方から音楽が聞こえて来る）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　楊貴妃　あれ、たくさんの仙女たちが白い上衣に紅い<ruby rubyText="もすそ">裳</ruby>が着けて、丹桂の樹の下から、音楽を奏でながらやって来る。</sentence>
+<sentence>なんとも好い音色だこと。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　寒簧　これが<quote>「霓裳羽衣の曲」</quote>でございます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（仙女が四人、六人、あるいは八人が、白衣、紅裙、錦の<ruby rubyText="かた">雲</ruby><ruby rubyText="かけ">肩</ruby>、<ruby rubyText="たま">瓔</ruby><ruby rubyText="かざり">珞</ruby>を着け、帯を<ruby rubyText="ひるが">飄</ruby>えして、楽器を奏でたり、歌を唄ったりして、舞台の上をめぐりつつ登場する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（楊貴妃と寒簧は仙女たちを見ている）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　楊貴妃　この楽のなんと妙なること。</sentence>
+<sentence>宛転として清らか。</sentence>
+<sentence>わたしの心の奥底まで揺り動かし、とても人の世のものとは思えませぬ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　仙女におたずねしますが、どうか月主に一度お目にかかりたいと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　寒簧　月主にお会いになりたいとのことでございましたら、まだその時機ではございません。</sentence>
+<sentence>おや、空がだんだん明るくなって参りました。</sentence>
+<sentence>どうか貴妃さまには宮殿にご帰還遊ばしますよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence type="quasi">　（楊貴妃は退場する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　寒簧　貴妃さまは宮中へお還りになりました。</sentence>
+<sentence>わたしは月主さまに覆命することにいたしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（詩を吟誦しつつ退場する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<titleBlock>
+<title>
+<sentence type="quasi">第十二幕　楽曲を作る</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　（<ruby rubyText="えい">永</ruby><ruby rubyText="しん">新</ruby>が登場する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　わたくしは永新でございます。</sentence>
+<sentence>妹の<ruby rubyText="ねん">念</ruby><ruby rubyText="ど">奴</ruby>とともに、西宮にて楊貴妃さまにお仕え申しております。</sentence>
+<sentence>貴妃さまには、再び大奥にお入りになりまして、天子さまには、以前にも増してご寵愛遊ばすようになりました。</sentence>
+<sentence>まことに<quote>「三千の寵愛　一身にあり<noteMarker text="（１）" />」</quote>、<quote>「<ruby rubyText="りく">六</ruby><ruby rubyText="きゅう">宮</ruby>の<ruby rubyText="ふん">粉</ruby><ruby rubyText="たい">黛</ruby>　顔色無し<noteMarker text="（２）" />」</quote>といった次第でございます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<noteBody>
+<sentence>（１）　三千の寵愛一身に在り　白居易の<quote>「長恨歌」</quote>の中の句。</sentence>
+<sentence>後宮の美女三千人の寵愛を楊貴妃が一心に集めた、の意。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<noteBody>
+<sentence>（２）　六宮の粉黛　顔色無し　白居易の<quote>「長恨歌」</quote>の中の句。</sentence>
+<sentence>六宮は皇后や宮女のいる奥御殿をいう。</sentence>
+<sentence>粉黛は〈おしろい〉と〈まゆずみ〉。</sentence>
+<sentence>化粧、転じて美女をいう。</sentence>
+<sentence>粉黛で美しく化粧した後宮の美女たちも、貴妃の美貌には圧倒されて到底敵わない、の意。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　今朝ほどは貴妃さまのお言い付けで、<ruby rubyText="か">荷</ruby><ruby rubyText="てい">亭</ruby>を片付けさせられまして、曲譜をお作りなさろうとのおつもりでございます。</sentence>
+<sentence>念奴はあちらで朝のお化粧の御用を勤めております故、わたくしはまずこちらに参りまして、紙に墨、筆に硯など取り揃えておくことにいたしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　おや、<ruby rubyText="らん">蘭</ruby><ruby rubyText="じゃ">麝</ruby>の香が漂うて、<ruby rubyText="おび">珮</ruby><ruby rubyText="だま">環</ruby>に吹く風も止みましたぞ。</sentence>
+<sentence>貴妃さまがもうお越しになりましたのじゃ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence type="quasi">　（楊貴妃が念奴を従えて登場する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence type="quasi">　（詩を吟誦する）</sentence>
+<br type="automatic_original" />
+</paragraph>
+<rejectedBlock type="old" />
+<paragraph>
+<sentence>　わたくし楊玉環は、自ら黒髪を<ruby rubyText="き">截</ruby>って、帝の御心を動かしましてより、ご寵愛はますます深くなりました。</sentence>
+<sentence>ただ、梅<sampling type="end" />妃どのの<ruby rubyText="きょう">驚</ruby><ruby rubyText="こう">鴻</ruby>の舞は、天子さまも常にご推奨なさっております。</sentence>
+</paragraph>
+</article>
+</sample>

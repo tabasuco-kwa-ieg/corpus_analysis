@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBl5_00013" version="1.0" type="fixedLength">
+<article articleID="LBl5_00013_F001">
+<list>
+<listItem>
+<sentence>●脳出血…動脈硬化が進み、血管の壁が破れやすくなっているところに高血圧<sampling type="start" />が加わって起こる。</sentence>
+<sentence>最初に激しい頭痛や吐きけが起こり、急激に昏睡状態に陥る。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●脳梗塞…脳にできた血栓が、動脈硬化によって狭くなった血管につまって起こる<quote>「脳血栓」</quote>と、脳以外の場所にできた血栓が血流に乗って流れてきてつまる<quote>「脳塞栓」</quote>がある。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　脳血栓の発作は、<quote>「朝起きたときは手足が少し動いたが、昼になったらまったく動かなくなった」</quote>というふうに、少しずつ起こります。</sentence>
+<sentence>発作の前ぶれとして、数分間手足が動かせなくなったり、言葉が話せなくなったりすることもあります（一過性虚血）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　一方、脳塞栓の発作は突然起こります。</sentence>
+<sentence>心房細動（１２４ページ参照）など不整脈のみられる人によく起こります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　治療は高血圧、心臓病、糖尿病、高脂血症など脳卒中を起こしやすい病気のコントロールと、脳卒中の再発予防の２本立てで行います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">早期のリハビリで障害を最小に</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　脳卒中になると、脳の１部が傷つくために、手足の片側がマヒしたり、言葉がわからなくなったり、皮膚感覚がなくなったりするなどの障害が出てきます。</sentence>
+<sentence>早いうちにリハビリテーションをはじめないと、関節が固まって動かなくなったり、筋肉の力が弱くなったりします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　脳卒中の発作による後遺症をできるだけ少なくして、回復後も社会生活が営めるようにするためには、脳卒中が起こったら、すぐに医師の診察を受け、危険な状態を過ぎたら適切なリハビリテーションを行うことが大切です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　病院を退院したあとも、在宅で理学療法士の指導を受けたり、デイサービスでリハビリに通ったりすることができます。</sentence>
+<sentence>詳しくは、地域の在宅介護支援センターに問い合わせてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">コラム</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">◆住宅改造や福祉機器のレンタルは入院中から手続きを</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　退院するとベッドやポータブルトイレが利用できないため、寝たきりになるお年寄りが大勢います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ベッド、ポータブルトイレ、車椅子、通路の手すりなどは、退院後も続けて使うことで、寝たきりを防ぐといわれます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　住宅改造や福祉機器のレンタルなどは、お年寄りが入院しているうちに病院のソーシャルワーカーや在宅介護支援センター、福祉事務所のケースワーカーなどに相談するようにしましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">脳卒中を起こす原因と障害</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence type="quasi">これらの病気や習慣には脳卒中を引き起こす危険があります</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="figure" />
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">脳卒中によって起こる障害</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">脳卒中の発作を起こしたら</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　おふろやトイレなどの狭い場所で倒れたときは、倒れた姿勢のまま、移動して寝かせます（頭はなるべく動かさない）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　あごをあげて気道を確保します。</sentence>
+<sentence type="quasi">吐いているときは、口の中に指を入れて吐いたものをかき出し、横向きに寝かせます</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　すぐに救急車を呼ぶか、かかりつけの病院に<sampling type="end" />連絡します</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

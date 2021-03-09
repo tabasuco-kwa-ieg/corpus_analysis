@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBo0_00011" version="1.0" type="fixedLength">
+<article articleID="LBo0_00011_F001">
+<quotation>
+<speech>
+<paragraph>
+<sentence>日本オラクルはストックオプション制度があって、すでに三ケタに及ぶ社員が億万長者になっていますが、もっと増やすのが僕の目標で<sampling type="start" />す。</sentence>
+<sentence>何しろ僕は、いま日本で一番元気のいい経営者なんですから（笑い）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　ＩＴ時代の第一フェーズは、早く手を挙げた者が勝利を収める“早い者勝ち”の段階だった。</sentence>
+<sentence>しかし、現在は、手を挙げることを皆が覚え、ＩＴ時代も第二フェーズに入っている。</sentence>
+<sentence>この新しい段階では、佐野会長がバリューと表現するようにＩＴビジネスの中身が問われている。</sentence>
+<sentence>いわば“中身勝負”の時代なのだ。</sentence>
+<sentence>その中身で佐野会長はマイクロソフトに挑むという。</sentence>
+<sentence>なかでも、佐野会長は同社のコンピュータウイルス対策が万全だという。</sentence>
+<sentence>しかし、多くの企業がいまもウイルス対策に悩まされている。</sentence>
+<sentence>次節では、ウイルス対策をビジネスとしている世界最大の企業・トレンドマイクロのスティーブ・チャン社長にその実態を聞こう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">トレンドマイクロ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">スティーブ・チャン社長</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　インターネットが社会や企業に浸透していくにつれ、クローズアップされているのがコンピュータ・ウイルスだ。</sentence>
+<sentence>今年五月の連休明けにも“Ｉ　ＬＯＶＥ　ＹＯＵ”という名前のウイルスがわずか六時間で世界中に蔓延。</sentence>
+<sentence>アメリカでは国防総省など政府機関が被害を受け、日本でも八万件以上の感染が報告されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＩＴ社会はインターネットという国境を越えたインフラの登場で、時空差を埋める新たな産業構造を実現しようとしている。</sentence>
+<sentence>だが世界がネットでリンクするゆえに、こうしたウイルスとの戦いはＩＴ社会の大きな課題となろうとしている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　本節は、このウイルス対策で世界をリードするトレンドマイクロのトップに、ウイルスとの戦い、また、そのなかでのビジネスチャンスを聞くことにする。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　トレンドマイクロのスティーブ・チャン社長（四十五歳）は、台湾生まれ。</sentence>
+<sentence>アメリカのリーハイ大学を卒業し、ヒューレット・パッカード（ＨＰ）などを経て二十六歳で独立。</sentence>
+<sentence>八九年、アメリカ・ロサンゼルスでトレンドマイクロを設立した。</sentence>
+<sentence>社名の由来は<quote>「トレンド」</quote>は未来のニューテクノロジーという意味で、<quote>「マイクロ」</quote>はマイクロソフトやサン・マイクロシステムズなどの躍進企業にあやかったのだという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　九三年には、アメリカから日本に拠点を移し、現在、全世界で社員は約八百五十名（うち日本は約二百五十名）。</sentence>
+<sentence>今期の予想売上高は前年比五〇％増の二百億円という。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　私は、まず、コンピュータ・ウイルスがここまで世界的なテーマとなることを予測できた彼の<quote>「先見の明」</quote>について問うた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">ウイルスに出合ってひらめいた</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">田原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　大手企業であるＨＰから独立し、会社をつくって何をしようと思っていた？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">チャン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　ノーターゲット（笑い）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">田原</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　何もなかったの？</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<speaker>
+<sentence type="quasi">チャン</sentence>
+<br type="automatic_original" />
+</speaker>
+<paragraph>
+<sentence>　自分の会社をつくりたいということはあった。</sentence>
+<sentence>また、台湾人は皆『夢はアメリ<sampling type="end" />カに行くこと』といい、グッドな仕事とグッドな家を持つことが成功の証という。</sentence>
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

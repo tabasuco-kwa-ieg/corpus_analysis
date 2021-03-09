@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBh9_00055" version="1.0" type="fixedLength">
+<article articleID="LBh9_00055_F001">
+<paragraph>
+<sentence>ただシェイクスピアの場合は一行に一つというのが圧倒的に多いらしいのですが、大ざっぱにいうと、前半期ではこの《中間休止》が規<sampling type="start" />則正しく《脚》と《脚》の間に来ていることが多い。</sentence>
+<sentence type="quasi">ということは、一脚ごとを｜で切って《中間休止》を‖で示せば―</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">弱強｜弱強‖弱強｜弱強｜弱強</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">または―</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">弱強｜弱強｜弱強‖弱強｜弱強</sentence>
+<br type="automatic_original" />
+<sentence>だとかいうふうにですね。</sentence>
+<sentence>さっきの『ローミオー』の最初の二行が、まさに右の二つのケースそのままです。</sentence>
+<br type="automatic_original" />
+<rejectedBlock type="foreign" />
+<paragraph>
+<sentence>　訳文の方も自然に―但し《脚》ということはどうにも日本語に移しようがないから別として―各行一つずつの《中間休止》を持つことになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<sentence>もういらっしゃるの？</sentence>
+<sentence>‖まだ朝は近づいてないのに。</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">さっきのはナイティンゲイル、‖<ruby rubyText="ひばり">雲雀</ruby>じゃない、</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence>　ところが後半期になると、次のような不規則な形がしばしば現われてくる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<sentence type="quasi">弱強｜弱強｜弱‖弱強｜弱強｜弱強</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　つまり三つ目の《弱》は、第二脚にくっついた字余りという感じになる。</sentence>
+<sentence>専門用語だと《<ruby rubyText="ハイバーミタ">音節余剰詩句</ruby>》というのだそうですが、例えば『マクベス』〈一の三〉の次の一行は、その典型です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<citation>
+<rejectedBlock type="foreign" />
+<sentence>だがコードーとは何だ？</sentence>
+<sentence>　え？</sentence>
+<sentence type="quasi">　コードーの領主は生きている，</sentence>
+<br type="automatic_original" />
+</citation>
+</quotation>
+<paragraph>
+<sentence><sentence>　《え？</sentence>
+》というのは、字余りの感覚を生かしてみようとしたわけです。</sentence>
+<sentence>この形は劇によく使われるというので《<ruby rubyText="ドラマティック・スィジューラ">劇的中間休止</ruby>》とも呼ばれるのだそうですが、ぼくは劇によく使われるというより、せりふを破調にすることによってより劇的たらしめる要素だという意味でそう呼ばれてもいいではないかと考えます。</sentence>
+<sentence>それは次にいう《<ruby rubyText="く">句</ruby><ruby rubyText="またがり">跨</ruby>》とも関係していることです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　《句跨》というのはおかしな言葉ですが、英語でいう“ｒｕｎ‐ｏｎ　ｌｉｎｅ”―一行の詩句の行末で意味が切れない、そこで、そこに<ruby rubyText="ま">間</ruby>を置かずに次の行頭へ続けて誦むケースのことで、これは歴史的にいえばマーローがある程度定着させたもの、シェイクスピア個人でいえば、前期に対して後期に至って大いに成功的に活用された形のわけですが、おもしろいことにこの《句跨》を英語ではまた“ｏｖｅｒｆｌｏｗ”といいます。</sentence>
+<sentence>この語は文字通りには河などが氾濫すること、さらには、収穫や資金などがあり余るほどたくさんあること、そして感情があふれ出ることと字引にありますが、そういうような定義と無関係ではない効果をせりふに与えるものだと思われ、さっきの《劇的中間休止》と併せて後期シェイクスピアの自由さ奔放さを詩型の上で示すものだといっていいでしょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただ、右のようなことを自由奔放だといえば確かにそうだが、一方それは詩型をこわすことで、そういうふうにどんどんやって行くと、十音節ずつで行をかえる意味が薄れてくるとも考えられる。</sentence>
+<sentence>いやそもそもブランク・ヴァースは行末で韻を踏まないのだから、もともと改行して印刷される必要はなかったのだといってしまえばそれまでですが。</sentence>
+<sentence>それにまた弱強という詩型は、それをいいこなす<sampling type="end" />にも自然で楽に誦める調子であると同時に、英語国民にとっては割と自然に出てくる言葉の調子らしいですね。</sentence>
+</paragraph>
+</article>
+</sample>

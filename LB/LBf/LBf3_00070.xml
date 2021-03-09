@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00070" version="1.0" type="fixedLength">
+<article articleID="LBf3_00070_F001">
+<paragraph>
+<sentence>しかし、大和證券の営業特金に関わる損失補塡が発覚、これを機に八九年一二月、不透明な取引に陥りやすい営業特金は大蔵省通達で原則禁止され、以後は投資家の自家運用か、一任取引を認められている投資顧問会社と契約を結んだ特金に切り換える<sampling type="start" />よう指導がなされている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さて、損失補塡のために、証券会社はどういう操作を行ったのか、その手口も解説しておこう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　松野大蔵省証券局長が、国会で明らかにしたところによると、おもな手口として次の四つのタイプがあったという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<enclosedCharacter description="○">１</enclosedCharacter>国債利用の方法―店頭相対取引で証券会社が企業に利付国債を売却、すぐに高値で買い戻して、その差額を補塡に充当。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>外債利用の方法―同じやり方で外債を利用。</sentence>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>ワラント利用の方法―同様にしてワラント債（ＷＢ）を使った。</sentence>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>その他の方法―さまざまな手口があり、例は少ないが現金で補塡したケースもあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以上のうち、特に、<enclosedCharacter description="○">３</enclosedCharacter>のＷＢ利用が主力と思われる。</sentence>
+<sentence>というのは、八八〜八九年まではＷＢの流通市場が未整備で大蔵当局の監視も緩やかだったのに加え、ワラント部分の値上がりは株式よりはるかに大。</sentence>
+<sentence>株価が右肩上がりのうちは、ワラントの妙味は知る人ぞ知る“麻薬”でもあった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「ワラントは玉を支配してしまえば言い値で他社が引き取った」</quote>（某大手証券）ほどプライシングが思いのままだったから各社とも必死の引受競争を展開し、“在庫”づくりに狂奔したのである。</sentence>
+<sentence>そして、引き受けたワラントを法人の損失補塡に回したわけだ。</sentence>
+<sentence>こうした“操作”が可能だったのは、欧米の証券会社と異なりわが国の場合、証券業務の垣根が確立しておらず、アンダーライティング（引受業務）とブローカレッジ（委託売買業務）との連係プレーが容易だったためだ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　大手証券は大口顧客との取引の継続性を求め、主幹事の座を維持するのに必死だった。</sentence>
+<sentence><quote><sentence>「九〇年三月期までは各社とも決算に余力があった。</sentence>
+<sentence type="quasi">手数料引き下げ論議を再燃させないためにも利益圧縮が必要だったから、損失補塡は一石二鳥の妙手だった</sentence>
+」</quote>（業界筋）との見方もあるが、大手証券としては営業目的が最優先したはずである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">委託者にも甘い意識</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　こうした損失補塡行為は決して許されるべきものではない。</sentence>
+<sentence>資金の受託者である証券側は、ニューディールのために相応の“痛み”を覚悟せねばならない。</sentence>
+<sentence>だが、資金の委託者である事業会社も、補塡という不正行為の責任から免れることはできない。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ある事業法人マンが語気を荒げる。</sentence>
+<sentence><quote><sentence>「野村の損失補塡先として昭和シェル石油、東急電鉄、日立三社の名前が新聞に出たら、私の担当会社の財務部長がすっ飛んできて、うちの社名は内緒にしてほしいと言う。</sentence>
+<sentence>何とかせよとあれほど威張っていたのに手のひらを返した態度。</sentence>
+<sentence type="quasi">なぜわれわれだけが批判されねばならないのか、どこかおかしい</sentence>
+」</quote>。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　わが国の場合、資金の委託者と受託者の“力関係”は明らかに委託者優位である。</sentence>
+<sentence>仮に、委託者に損失補塡の認識がなかったとしても、<quote>「委<sampling type="end" />託者には、受託者はわれわれに損をさせないのが当たり前、との発想がある」</quote>（大手生保年金担当者）のも確かである。</sentence>
+</paragraph>
+</article>
+</sample>

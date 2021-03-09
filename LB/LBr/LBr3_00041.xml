@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00041" version="1.0" type="fixedLength">
+<article articleID="LBr3_00041_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　固定資産税名寄<sampling type="start" />登録台帳</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　登記簿謄本</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　完成図書</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　修繕契約書・見積書</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　年次別に整理。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　賃貸借契約書</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　物件・年次別に整理。</sentence>
+<sentence>とくに敷金・保証金の在り高を確認。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">●預貯金・株式などを確認する</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">【預貯金】</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　定期預金・普通預金などの名義、銀行名、支店名、種類、口座番号、登録印を整理。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi">【株式】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　現物証券</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　金庫などを確認し、銘柄・額面・証券代行会社名・配当通知・印鑑・配当受取口座をリストアップ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　保護預り証券</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　証券会社の計算書をそろえて、リストアップ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">【保険】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　生命保険証券</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　金庫などを確認し、会社・証券番号・契約書・被保険者・受取人・契約内容・保険料・保険金などをリストアップ。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　自動車保険証書</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　損害保険証券</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">【借入金】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　金銭消費貸借契約書</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　返済予定表</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">【税務申告書】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　過去の所得税の確定申告書控え</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　過去の財産および債務の明細書控え</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　過去の相続税申告書控え</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　過去の贈与税申告書控え</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+<listItem>
+<sentence type="quasi">【法人の財産】</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　法人の定款</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　法人の登記簿謄本</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　法人の直近３期分の決算書・申告書</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　自社株式の計算には直近３期分の決算書と申告書が必要。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　借地権の無償還届出書の写し</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<paragraph>
+<sentence>　以上の資料などによって財産目録を作成することになります。</sentence>
+<sentence>被相続人が死亡する前に財産がどこにあるのかなどとは尋ねにくいものです。</sentence>
+<sentence>そのため、死亡後にやろうとすると、とかく戸惑うケースが多く、いろいろな手立てで探し出す必要があるわけです。</sentence>
+<sentence>しかし、動いてみるとわかるのですが、そう簡単にはいきません。</sentence>
+<sentence>時間がかかるものとして真剣に取り組む必要があるのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">１２</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">相続人を確定し、相続の承認・放棄を行う</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●相続人の身分をチェックする</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　配偶者・子供・父母などが相続人になるとはいえ、相続身分に誤解がないようにしたいものです。</sentence>
+<sentence>戸籍謄本をそろえて、相続関係を明らかにしておく必要があります。</sentence>
+<sentence>戸籍は改正原戸籍謄本まで遡っておくことです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　被相続人の原戸籍まで戻り、その後相続についても、１日でも断続することがないように謄本をそろえることです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　自分で市区町村役場へ行って自分で戸籍係に請求すればいいのですが、役場に行くことができないときには郵送で戸籍謄本を取ることもできます。</sentence>
+<sentence>原戸籍が遠隔地に飛んでいるときにも郵送を利用します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　問題なのは、相続人の中に失踪者がいたり、認知されていない兄弟姉妹がいたりする場合などで、早期に対処しなければならないケースも出てきます。</sentence>
+<sentence>正式な婚姻関係にない男女間の子供を非嫡出子といい、養子や実子とともに第１順位の相続人となります。</sentence>
+<sentence>もっとも認知を受けて初めて非嫡出子としての相続権が生じることになります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">●…遺言書で認知して相続権を与える…●</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●相続は選択できる</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　借金もれっきとした相<sampling type="end" />続財産ですから、被相続人の死亡によって、相続人はその債務を承継することになります。</sentence>
+</paragraph>
+</article>
+</sample>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBk5_00008" version="1.0" type="fixedLength">
+<article articleID="LBk5_00008_F001">
+<paragraph>
+<sentence>　可採埋蔵量二百年以上、しかも資源分布が偏らず価格が安い石炭からクリーンなエネルギーを<sampling type="start" />作る試みは、九四年度に技術研究が終わった<quote>「水素」</quote>がある。</sentence>
+<sentence>八六年度から通産省の補助を受け、都市ガス大手三社も参加して研究してきた。</sentence>
+<sentence>日産五十トンのパイロットプラントで三年間の運転研究を行い、千時間以上の長期運転に成功するとともに、世界最高水準のガス化率を達成している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、酸素を使ってＳＮＧを作る技術も研究されてきたが、都市ガスに使うにはカロリーの低いことが難点とされていた。</sentence>
+<sentence>石炭水添ガス化は、この両者の技術を組み合わせたものである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　製造方法は、三〇〜七〇気圧という高圧下の反応器の中で、微粉炭を摂氏八百五十〜千二百度の高温の水素と反応させる。</sentence>
+<sentence>この反応温度を調節することによって、<enclosedCharacter description="○">１</enclosedCharacter>ＳＮＧの回収率最高、<enclosedCharacter description="○">２</enclosedCharacter>熱効率最高、<enclosedCharacter description="○">３</enclosedCharacter>芳香族油の回収率最高―の三通りの操作ができるという。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　石炭を使うことによる環境対応性も検討されている。</sentence>
+<sentence>排出されるＣＯ<subScript>２</subScript>は脱炭酸工程で高い濃度で回収されるほか、石炭に含まれる窒素、硫黄分もそれぞれアンモニア、硫黄単体として製造工程で、灰分も処理が簡単なスラグ（鉱さい）として回収される。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ただこの技術開発は、水素を高温で反応させるため、プラントの設計や運転方向の研究に時間がかかる。</sentence>
+<sentence>ガス協会では<quote>「今から開発を始めても実用化は二〇一〇年代になる」</quote>と見て、国家プロジェクトとして取り組むことを期待している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　問題は、このような長期の技術開発プロジェクトは、エネルギー情勢が緩むと尻すぼみになってしまうケースが多いことだ。</sentence>
+<sentence>息の長い開発を望みたい。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">岩盤貯蔵技術なども開発</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　基本計画では、燃料電池、産業用リパワリング、天然ガス自動車についてはそれぞれの技術レベルを高めることが中心になるので、その他の部門で興味深いものをピックアップしてみよう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　国の補助事業として進めてきた<quote>「家庭用ガス冷房」</quote>は九六年に補助が終了、東京ガスなど大手事業者が九七年から商品化を予定している。</sentence>
+<sentence>九二年に日本ガス協会内にプロジェクト部を新設して開発を進めてきたもので、圧縮、吸収の両方式十機種（二・二〜七・〇キロワット）の中から、特に有望な三機種に絞って商品化する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　住宅の高気密・高断熱化時代を迎え、空調のダクト（空気流通管）を組み込んだ<quote>「ガス設備のトータルシステム」</quote>と、高齢者が操作しやすく、かつ安全に使えるフェイルセーフ（間違った使い方をしても悪い結果をもたらさない装置）型ガス機器の開発。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　前述の<quote>「ＮＥＸＴ２１」</quote>実証試験が格好のモデルになろう。</sentence>
+<sentence>とくにシステム操作の難しさは、地震で自動停止したマイコンメーター復帰の問い合わせがガス会社に殺到したことでもうかがえる。</sentence>
+<sentence>基本計画では高<sampling type="end" />性能マイコンメーターの開発も主要なテーマになっているが、<quote>「操作がやさしい」</quote>ものが望まれる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</listItem>
+</list>
+</article>
+</sample>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00007" version="1.0" type="fixedLength">
+<article articleID="LBp5_00007_F001">
+<noteBody>
+<sentence><sampling type="start" />注）メッセル工法：鋼矢板（メッセル矢板）をアーチ状に組み合わせて，油圧ジャッキで前方へ押し進め土中に圧入する工法。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<paragraph>
+<sentence>　吹付け工法・仮巻工法等も検討したが，それらと比較し，材料・機器の調達が容易で施工性も優れた袋注入工法を開発した。</sentence>
+<sentence>この工法は支保工の建込み時に，布製の大きな袋を地山と支保工の間に挿入し，布袋にエアーミルクをポンプ等で充塡し，空隙を埋め支保工と地山を一体化するものである（写真５・６）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　坑外試験の結果，木綿生地の袋がエアーミルクを漏らさず，余剰水・空気は排出し，施工注入圧（２ｋｇ／ｃｍ<superScript>２</superScript>）に十分に耐えること，袋の寸法が支保面積・余掘厚に対し，十分に大きければ袋はよく膨らみ，地山と掛板との間隙を容易に充塡できることなどがわかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　この工法には次の特長がある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　掘削後の早期に支保背面の空隙に充塡し，地山と支保を一体化できる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　支保工の耐荷力を有効に利用し，エアーミルクで地山を加圧できる</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　砂層，湧水箇所でも剝離しない</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　作業は粉塵・騒音がなく，使用機器が小型で小断面でも作業しやすい</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="○">５</enclosedCharacter>　施工速度が速く，工費も低廉である</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<paragraph>
+<sentence>　生田工区で地盤沈下が最も警戒されたのは，小田急線下部の掘削であり，トンネルの純被りは１６ｍであった。</sentence>
+<sentence>施工は先進する側壁導坑施工時から袋注入工を採用し，上半はリング掘削，支保工建込みと袋注入工，１日単位で施工する仮巻，早期覆工，早期裏込め注入を実施し，小田急線付近の沈下をわずか１０ｍｍ以下に抑えることができた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　結果として袋注入工法は，生田トンネルの上半支保工（延長２０４０ｍ）と側壁導坑支保工（延長６７１ｍ）で適用され，被りの少ない区間の地盤沈下の抑止に貢献した。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">写真５・６　袋注入工法</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（ｅ）　生田工区の調査坑</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　上記の被圧砂礫層は，概査では砂層と考えていたが，立坑施工のため追加調査すると，その一部は砂礫層であり，被圧水を伴うことがわかった。</sentence>
+<sentence>さらに２本のボーリングを追加したところ，砂層・砂礫の互層は厚さ４〜５．５ｍで，立坑の起点側１５０ｍ間のトンネルに分布する。</sentence>
+<sentence>砂礫層はシルト分が６％，透水係数は１．２×１０<subScript>−２</subScript>ｃｍ／ｓで出水・流砂しやすい。</sentence>
+<sentence>また連続性が高く被圧水が大量に賦存すること等が判明した。</sentence>
+<sentence>付近の地盤中には長沢浄水場余水吐水路トンネル（小断面），地表には小田急線・主要地方道（２万台／日），水路・道路橋・水道管等の諸施設と多くの家屋があり，流砂による地盤沈下は絶対に許されない状況であった。</sentence>
+<sentence>砂層の調査は地上から十分にできないため，本坑上部の両側に延長１２０ｍの調査坑（断面積４．５７ｍ<superScript>２</superScript>）を計画した（図５・２５）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　両調査坑では，延長約６０ｍの砂礫層を止水注入により突破<sampling type="end" />し，良好な止水効果を得た。</sentence>
+</paragraph>
+</article>
+</sample>

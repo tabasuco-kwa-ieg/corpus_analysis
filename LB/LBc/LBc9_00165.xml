@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBc9_00165" version="1.0" type="fixedLength">
+<article articleID="LBc9_00165_F001">
+<paragraph>
+<sentence>烏鴉兵は殺到したが、し<sampling type="start" />かし<missingCharacter attribute="HanIdeograph" unicode="U+54EA" daikanwa="M03651" description="口偏に「那」の横棒が突き出た形">〓</missingCharacter>吒は動じない。</sentence>
+<sentence><missingCharacter attribute="HanIdeograph" unicode="U+54EA" daikanwa="M03651" description="口偏に「那」の横棒が突き出た形">〓</missingCharacter>吒が蓮花の化身で、魂魄を持たないことを知らなかった鄭倫は、ムキになって白光を噴きつづける。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「バカ者、いまに自分が卒倒するぞ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と<missingCharacter attribute="HanIdeograph" unicode="U+54EA" daikanwa="M03651" description="口偏に「那」の横棒が突き出た形">〓</missingCharacter>吒がからかった。</sentence>
+<sentence>鄭倫は、さらにムキになる。</sentence>
+<sentence><ruby rubyText="チッ">疾</ruby>！</sentence>
+<sentence>　と<missingCharacter attribute="HanIdeograph" unicode="U+54EA" daikanwa="M03651" description="口偏に「那」の横棒が突き出た形">〓</missingCharacter>吒が<ruby rubyText="けん">乾</ruby><ruby rubyText="こん">坤</ruby><ruby rubyText="けん">圏</ruby>を投げた。</sentence>
+<sentence>中空に舞い上がった乾坤圏が、なおも白光を吐く鄭倫の背中に襲いかかる。</sentence>
+<sentence>筋が切れて骨が折れた。</sentence>
+<sentence>内臓が破れて口から血を吐く。</sentence>
+<sentence>それでも鄭倫は落騎を免れて、その首に抱きついた。</sentence>
+<sentence>金睛獣は心得て、静かに逃げ去る。</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<paragraph>
+<sentence>　重傷を受けた鄭倫は、やっとのことで<ruby rubyText="ひょう">葫</ruby><ruby rubyText="たん">蘆</ruby>から薬丹を出す。</sentence>
+<sentence>しかし鉄棒や石の傷を治す薬丹はあったが、乾坤圏の傷はわけが違う。</sentence>
+<sentence>それでも、一応つけてはみたものの、やはり効果はなかった。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　傷の痛みで呻く鄭倫を見て、蘇護の心がしぼられるように<ruby rubyText="うず">疼</ruby>く。</sentence>
+<sentence>蘇護は鄭倫を幼少のころから育て上げた。</sentence>
+<sentence>鄭倫が<ruby rubyText="ど">度</ruby><ruby rubyText="やく">厄</ruby><ruby rubyText="しん">真</ruby><ruby rubyText="じん">人</ruby>に弟子入りした数年を除いて、ずっと側においている。</sentence>
+<sentence>実子に似た感情を抱いていた。</sentence>
+<sentence>しかし心が疼きながらも蘇護は、いまこそ本音を打ちあけるべき時だと考える。</sentence>
+<sentence>痛みがやや治まったのを見定めて、その枕元で言った。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「のう鄭倫、この世には天命というのがある。</sentence>
+<sentence>すでに、おおかたの諸侯は、紂王に見切りをつけており、天下が周（西岐）に帰するのは、どうやら時間の問題だ。</sentence>
+<sentence>革命（王朝の交替）は、いまや必然である。</sentence>
+<sentence>われらは西岐征討の命を受けたが、われらには、天下の形勢を逆転させる力などない。</sentence>
+<sentence>大勢が定まっているところで、最後の悪あがきは<ruby rubyText="ぶ">無</ruby><ruby rubyText="ざま">様</ruby>で愚劣である。</sentence>
+<sentence>すべては天子が徳を失ったことから起こった。</sentence>
+<sentence>革命は天命である。</sentence>
+<sentence>それに逆らうことは誰にも出来ない。</sentence>
+<sentence>お前の傷はその啓示だ。</sentence>
+<sentence type="quasi">どうだろう鄭倫、ここで素直に天命を聴こうではないか」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「はっきり言えば、天子を裏切って西岐に帰順しよう、ということですか」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「まあ、そうだ」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「これは異なることをおっしゃる。</sentence>
+<sentence>われらが西岐に帰順すれば、皇后陛下のお立場はどうなるのですか。</sentence>
+<sentence type="quasi">それより、そのようなことは国戚たる殿が口にすることではなく、取るべき道でもありません」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と鄭倫は泣き出す。</sentence>
+<br type="automatic_original" />
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「泣くな鄭倫。</sentence>
+<sentence>人間には私情より大義を立てねばならない時がある。</sentence>
+<sentence>いまはまさにその時だ。</sentence>
+<sentence type="quasi">よく考えてくれ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「いいえ、考える必要などありません。</sentence>
+<sentence>かつて殿の意に反したことは一度もなかった。</sentence>
+<sentence>しかし、こんどだけは断じて従いかねます。</sentence>
+<sentence>もしどうしてもご翻意なさらなければ、わたくしが死んでからにして下さい。</sentence>
+<sentence>生ある限り阻止いたします。</sentence>
+<sentence type="quasi">わたくしが朝死ねば朝に、昼死ねば昼に、どうぞ投降して下さい」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<sentence>と鄭倫は傷の痛みを堪えて、勢いよく言い放つ。</sentence>
+<sentence>蘇護は長嘆息して枕元を離れた。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　やがて夜になり二更（十時）の鐘鼓が鳴る。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi">　「父上、鄭倫が病床に臥っている間に、武成<sampling type="end" />王父子を釈放しましょう」</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+</article>
+</sample>

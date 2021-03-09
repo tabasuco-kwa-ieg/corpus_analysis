@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00011" version="1.0" type="fixedLength">
+<article articleID="LBf3_00011_F001">
+<paragraph>
+<sentence>とにかく、よそと<sampling type="start" />ちがったものを作れば、それが差別化だと考えていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　それではメーカーのマスターベーションにすぎない。</sentence>
+<sentence>差別化の基本は、<quote>「わたしも儲けるが、あなたにもメリットが出る」</quote>というところにある。</sentence>
+<sentence>これがＳＩＳのめざす基本姿勢だ。</sentence>
+<sentence>これまでのようにみてくれを変えればよいとか、格好よくすればいいという話ではなく、その製品、サービスを享受することによって、その人に何らかのメリットが出るというところが大切なわけである。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">従来の情報システムとＳＩＳの比較</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">差別化でオイル・ショックを逃げ切れ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　さてこの旅行代理店のグループは、どのような差別化を考えたか。</sentence>
+<sentence>当時旅行代理店は、大きいところでは、大手航空会社から引いてきた端末が入っていた。</sentence>
+<sentence>それがなければ、電話やテレックスで各航空会社の航空便の空席状況を知り、クーポンを発行していた。</sentence>
+<sentence>いずれにしても大手航空会社からはそれぞれオンラインの座席予約端末がきていたから、その場で予約発券ができた。</sentence>
+<sentence>しかし、中小の航空会社、あるいは列車、さらにはホテルやレンタカーといったものについては、相手方にいちいち問合せてクーポン券を出していた。</sentence>
+<sentence>その際、予約番号を教えるという形になる。</sentence>
+<sentence>実はこの予約番号が大きなトラブルの原因ともなっていた。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　<quote>「そのようなことはわが国でも行われていることで、別に問題ないのではないか」</quote>と思われるかもしれないが、それはわれわれが計数管理に慣れているからのこと。</sentence>
+<sentence>早い話が、忘れそうならメモる。</sentence>
+<sentence>ところがアメリカの場合、国民性がおうようだから、番号の管理などあまり得意ではない。</sentence>
+<sentence><quote>「二百五十六番です」</quote><quote>「わかりました」</quote>という感じ。</sentence>
+<sentence>飛行場に着いて、<quote>「<sentence>予約番号は何番だっけ。</sentence>
+<sentence type="quasi">二百四十番だ</sentence>
+」</quote>ということになってしまう。</sentence>
+<sentence>こういう単純なことでトラブルになる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このような背景のもとで、特定の旅行代理店グループは考えた。</sentence>
+<sentence>たとえターミナルを敷くにしても、航空会社が十社あれば十台の端末を置かなければならない。</sentence>
+<sentence>ターミナルがなければ、いちいち各航空会社に電話やテレックスをかけまくらなければならない。</sentence>
+<sentence>そんな手間ヒマかけて出した結果が予約番号では話にならないではないか。</sentence>
+<sentence>これを決定的に変えるためには、各社の空席探しを一元化し、予約番号なしの切符を売ることだ。</sentence>
+<sentence>そうすれば、お客も空席を探している間ポカンと待つ必要もなく、予約番号がないからトラブル・フリー。</sentence>
+<sentence>あそこで買えば安心というわけでたくさんやってくるだろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これを実現しようと思えば、各航空会社の全便の情報が収納されたデータベースが必要である。</sentence>
+<sentence>ここから一台端末を引っ張っておけば、それですべての処理が可能と<sampling type="end" />なる。</sentence>
+</paragraph>
+</article>
+</sample>

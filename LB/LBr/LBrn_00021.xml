@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBrn_00021" version="1.0" type="fixedLength">
+<article articleID="LBrn_00021_F001">
+<list>
+<listItem>
+<sentence><sampling type="start" /><enclosedCharacter description="○">３</enclosedCharacter>　ゆで上がったタリアテッレを加えて混ぜ合わせる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　粗くみじん切りしたイタリアンパセリと、オリーブオイル大さじ１をふりかける。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">ドライポルチーニ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>実は、乾燥きのこの利用が多いイタリア。</sentence>
+<sentence>ダントツ登場がフンギ・ポルチーニ（ポルチーニたけ）。</sentence>
+<sentence>イタリア版のまつたけ、といっていいほど香りが高い。</sentence>
+<sentence>乾燥のきのこを使うときは、生の１／２量にすることが大切。</sentence>
+<sentence>もどし汁を加えて仕上げるため、オリーブオイルはやや減らす。</sentence>
+<br type="automatic_original" />
+<titleBlock>
+<title>
+<sentence type="quasi">Ｆａｒｆａｌｌｅ　ｃｏｎ　ｆａｇｉｏｌｉ　ｂｉａｎｃｈｉ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">白いんげん豆のファルファッレ</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">ファルファッレ・コン・ファジョーリ・ビアンキ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　いんげん豆、そら豆、うずら豆、ひよこ豆、グリーンピース、そしてレンズ豆。</sentence>
+<sentence>イタリアには豊富な種類の豆がそろっています。</sentence>
+<sentence>豆類のイタリア語はレグーミｌｅｇｕｍｉ。</sentence>
+<sentence>単品で、あるいはスープ、サラダ、肉や魚との煮込みにと、昔からテーブルに欠かせない食材となっています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　イタリアでは、デザート以外の調理に砂糖を使わないのが常です。</sentence>
+<sentence>白いんげん豆とて同じ。</sentence>
+<sentence>ほかの野菜のように、パスタにもどんどん入れて利用。</sentence>
+<sentence>素朴ながら、家庭ならではのあったかい味が好まれています。</sentence>
+<sentence>昔から豆類に親しんできたノンナたちだからこそ、パスタ用のレシピだっておまかせ。</sentence>
+<sentence>こんなこともよく耳にします。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「体にいいんだよ、豆は。</sentence>
+<sentence>植物性のたんぱく質が豊富だからね。</sentence>
+<sentence>豆をたくさん食べていれば、いつだって健康。</sentence>
+<sentence type="quasi">肉なんて口にしなくたっていいぐらいさ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　水煮缶詰を利用してもけっこう。</sentence>
+<sentence>けれど、お味はやはり、ホームメイド仕上げの豆がずっと上。</sentence>
+<sentence>一晩水につけておけば、意外と早く煮えるものです。</sentence>
+<sentence><quote>「できれば」</quote>と、ノンナから細やかなアドバイスがありました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<quotation>
+<speech>
+<paragraph>
+<sentence type="quasi"><sentence>　「セージの葉を２〜３枚入れて煮込むといいよ。</sentence>
+<sentence>豆に適度な香りがついて、味もまろやかになるからね。</sentence>
+<sentence>生の葉がなかったら、ドライだってかまわない。</sentence>
+<sentence type="quasi">少し加えただけで、ずいぶん違ってくるものさ」</sentence>
+</sentence>
+<br type="automatic_original" />
+</paragraph>
+</speech>
+</quotation>
+<paragraph>
+<sentence>　トマトピューレで煮込む白いんげん豆は、ボリュームたっぷり。</sentence>
+<sentence>そのぶん、パスタの量は少なめにしましょう。</sentence>
+<sentence>バジルもフル活用したいのがこのメニュー。</sentence>
+<sentence>各皿に盛ったあと、バジルの葉をのせるとおしゃれです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">材料</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<rejectedBlock type="etc" />
+<titleBlock>
+<title>
+<sentence type="quasi">作り方</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　いんげん豆を一晩水につける。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　豆が柔らかくなるまで煮て、塩少々で調味する。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　トマトピューレにちぎったバジル、オリーブオイルを加え、豆も入れて数分間煮る。</sentence>
+<sentence>塩少々で味をととのえてから火を止める。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">４</enclosedCharacter>　ゆで上がったファルファッレを加えて混ぜ合わせる。</sentence>
+<sentence>好みでバジルの葉（分量外）を飾る。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence>すべての材料を煮込んだもの。</sentence>
+<sentence>白いんげん豆がトマトピューレになじみ、パスタとよく合うソースのでき上がり。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">白いんげん豆</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>季節を問<sampling type="end" />わず、イタリアでもっとも頻繁に食されている豆。</sentence>
+</article>
+</sample>

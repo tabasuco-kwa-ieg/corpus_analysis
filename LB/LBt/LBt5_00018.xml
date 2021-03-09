@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt5_00018" version="1.0" type="fixedLength">
+<article articleID="LBt5_00018_F001">
+<contents>
+<titleBlock>
+<title>
+<sentence type="quasi"><sampling type="start" />この章の流れ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">ＳＴＥＰ‐１　サスペンションの基礎知識</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ＳＴＥＰ‐２　独立式サスペンション</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ＳＴＥＰ‐３　サススプリングのメカニズム</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">ＳＴＥＰ‐４　ショックアブソーバー</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</contents>
+<titleBlock>
+<title>
+<sentence type="quasi">ＳＴＥＰ‐１</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">サスペンションの基礎知識</sentence>
+<br type="automatic_original" />
+</title>
+<sentence>サスペンションは乗り心地を良くするだけでなく、直進時やコーナリング時にクルマの姿勢を保つ役割も果たしており、操縦安定性の面でも欠くことのできない装置です。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●　サスペンションの役割</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　サスペンションはシャシーとボディの間に備えられている装置で、その主な働きは３つあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第一は、<quote>「乗り心地の向上」</quote>です。</sentence>
+<sentence>もしサスペンションがなかったら、路面からの衝撃をまともに受けてしまい、速いスピードでクルマを走らせることは困難です。</sentence>
+<sentence>路面は一見して平のようでも、実際は継ぎ目やワダチなどの凹凸があります。</sentence>
+<sentence>タイヤはこの凹凸を拾ってボディに衝撃を伝えますが、スピードが速くなるにつれて衝撃は大きくなり、やがてドライバーの限界を越えてしまいます。</sentence>
+<sentence>このような状態に陥らないように、サスペンションはドライバーを衝撃から守っています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第二の仕事は<quote>「操縦安定性の向上」</quote>です。</sentence>
+<sentence>例えばコーナリング時のクルマには外に引っ張る力が働き外側のタイヤの荷重が増えますが、サスペンションがないと、この力を吸収できず内側のタイヤが浮き上がります。</sentence>
+<sentence>すると接地性が損なわれるため姿勢が不安定になり、スムーズに曲がれなくなります。</sentence>
+<sentence>サスペンションがなければ、クルマを自在に操ることは不可能です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　第三の仕事は、<quote>「骨格として車体を支える」</quote>ことです。</sentence>
+<sentence>サスペンションは前述の２つの仕事を果たすばかりでなく、車体構成要素の一部としてクルマ全体を支えているのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">●　サスペンションの構成要素</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　まずホイールとボディの間に備えている<quote>「スプリング」</quote>があげられます。</sentence>
+<sentence>スプリングはタイヤが路面から受ける衝撃を和らげ、コーナーでボディに加わる横からの力に傾かないよう、踏ん張ってくれます。</sentence>
+<sentence>しかしスプリングは力が加わるたびに伸び縮みを繰り返すので、段差などを乗り越えた後いつまでもボディを上下に揺らし、直ぐには収束しません。</sentence>
+<sentence>運転中に揺れが続くと乗り心地が悪いうえ、クルマの姿勢も不安定になります。</sentence>
+<sentence>そのためクルマには、スプリングの伸び縮みを早く収束させる装置が必要になります。</sentence>
+<sentence>それが<quote>「ショックアブソーバー」</quote>です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また主にクルマの横揺れを抑える<quote>「スタビライザー」</quote>を装備しています。</sentence>
+<sentence>簡単に言えば<quote>「つっかえ棒」</quote>のような物で、クルマに掛かる力を受け止めています。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">■　一般的なサスペンションの構造</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●　乗り心地と操縦安定性</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　サスペンションからボディに伝わる<sampling type="end" />振動は、大きく３つに分けられます。</sentence>
+</paragraph>
+</article>
+</sample>

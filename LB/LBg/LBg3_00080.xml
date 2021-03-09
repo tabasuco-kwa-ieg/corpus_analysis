@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBg3_00080" version="1.0" type="fixedLength">
+<article articleID="LBg3_00080_F001">
+<paragraph>
+<sentence>だが学説上、右の<quote>「取消と登記」</quote>に関する判例理論に対して異論を述べる者が多く、特に<enclosedCharacter description="○">２</enclosedCharacter>については民法九四条二項の類推適用を主張する見解が多数を占めるに至っているので、本判決の場合もこれらの学説<sampling type="start" />との関係で再検討する必要があろう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">登記の有効要件</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">１１０　登記官吏不当抹消事件＝大連判大正１２・７・７民集二巻四四八頁―関連条文　民法一七七条、不登法六七条</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<abstract>
+<sentence>抵当権の登記が登記官の過誤によって不当に抹消された場合に、抵当権者はその後新たに抵当権を取得した第三者に対し、自己の抵当権をもって対抗することができるか。</sentence>
+<br type="automatic_original" />
+</abstract>
+<titleBlock>
+<title>
+<sentence type="quasi">事実</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　Ｘは、Ａに対し金銭を貸し付け、同人所有の甲地と乙地に抵当権を設定したが、その後ＸＡ間の合意により甲地の抵当権を解除し、その旨の抹消登記申請をなしたところ、登記官は誤って乙地の抵当権を抹消した。</sentence>
+<sentence>そこでＡは乙地上にＹのため抵当権を設定したので、ＸはＹに対し登記回復の承諾を求めて訴を提起した。</sentence>
+<sentence>一審Ｘ敗訴、二審Ｘ勝訴。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">裁判所の見解</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　抵当権の登記が登記官の過誤によって不当に抹消された場合においても、抵当権者はその後新たに抵当権を取得して登記をした第三者に対し、自己の抵当権を対抗することができる。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">解説</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　登記の対抗力は、抹消などにより登記簿のうえで権利の存在が失わしめられた場合に消滅する。</sentence>
+<sentence>いったん対抗力が有効に取得されても、実体法上の権利変動がないにもかかわらず、権利者が任意にその登記を抹消したときは、抹消回復登記は許されずに対抗力は消滅すると解されている。</sentence>
+<sentence>問題なのは、いったん有効になされた登記がその権利者の意思に基づかないで消滅した場合にも対抗力は消滅するかである。</sentence>
+<sentence>権利者保護の立場からすれば、この場合には対抗力は存続すると解すべきであろうが、第三者の保護という観点から捉えるならば、その存続は認めるべきではない。</sentence>
+<sentence>したがってこの問題は、静的安全と動的安全とをどのように調和させるかの問題に帰着することになる。</sentence>
+<sentence>場合を分けて検討しよう。</sentence>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>登記簿の滅失の場合＝通説は、不登法二三条により滅失回復の機会が与えられているから、回復登記がなされれば対抗力は滅失期間中も存続するが、適法な回復登記がなされなければ対抗力は消滅すると解している。</sentence>
+<sentence>判例は、同条は回復登記期間の徒過の一事により登記の対抗力も消滅する趣旨を含むものではないとの理由で対抗力の存続を認めている（最判昭和３４・７．２４民集一三巻八号一一九六頁）。</sentence>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>第三者による不当抹消の場合＝抵当権設定登記が抵当権者不知の間に債務者その他の者の申請により抹消された場合につき、判例は対抗力の存続を認め（最判昭和３６・６・１６民集一五巻六号一五九二頁など）、通説もまた、不当抹消によって対抗力が失われるとすれば、抹消登記それ自体に公信力を認める結果となり、解釈として妥当を欠<sampling type="end" />くとの理由で判例を支持している。</sentence>
+</paragraph>
+</article>
+</sample>

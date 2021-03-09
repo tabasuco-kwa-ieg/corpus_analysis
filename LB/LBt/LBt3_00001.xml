@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBt3_00001" version="1.0" type="fixedLength">
+<article articleID="LBt3_00001_F001">
+<paragraph>
+<sentence>　それでは前項<enclosedCharacter description="○">４</enclosedCharacter>でご説明した<sampling type="start" />ような不確定な<quote>「変動要因」</quote>を織り込んだ場合、<quote>「キャッシュフロー表」</quote>はどのように変化するのでしょうか。</sentence>
+<sentence><quote>「キャッシュフロー表」</quote>の変化はすなわち皆さんの生活の変化です。</sentence>
+<sentence>したがって、いまから行なうシミュレーションは皆さんの“今後の生活の変化”そのものだと考えてください。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　では、手順についてまずご説明しましょう。</sentence>
+<sentence type="quasi">いまから行なうのは、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence type="quasi">●<quote>「消費税切り上げ」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●平成１６年度の年金改正による<quote>「改正後の年金制度の織り込み」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●<quote>「所得控除に関する改正点の織り込み」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">●<quote>「インフレの考慮」</quote></sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>の４点です（いずれも、家計にとってプラスに作用することだけはないようですが）。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　シミュレーションに際しては極力、標準的な家庭で行ないたいと考え、表２‐<enclosedCharacter description="○">１</enclosedCharacter>で使用した条件をベースに考えてみたいと思います。</sentence>
+<sentence type="quasi">また、上記の<quote>「変動要因」</quote>をすべて一回のシミュレーションで行なうとあまりにも激しく動きすぎ、各部分の影響度合いの分析がやりずらくなりますので、今回はまず、</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>シミュレーション１：表２‐<enclosedCharacter description="○">１</enclosedCharacter>をベースにして、<quote>「消費税」</quote>、<quote>「税制改正」</quote>の２つのパラメーターを変化させる。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>シミュレーション２：シミュレーション１の結果に、さらに<quote>「インフレ」</quote><quote>「年金改正」</quote>、の影響を加味する。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<sentence>―という手順で進めてみたいと思います。</sentence>
+<br type="automatic_original" />
+<paragraph>
+<sentence>　なお、シミュレーション１のパラメーター変更点は次のとおりです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<list>
+<listItem>
+<sentence>●消費税率の上昇―２００６年までは消費税率５％が継続、２００７年から２０１０年までは７％、２０１１年から２０１４年までは１０％、２０１５年以降は１５％で固定としました。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>●<quote>「所得控除」</quote>の削減の影響―２００６年度より手取り年収を５５，０００円減少すると仮定しました。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<blockEnd />
+<paragraph>
+<sentence>　では、さっそくシミュレーション１の結果をご覧にいれましょう。</sentence>
+<sentence>このシミュレーションの一家を引き続きＡさん一家としましょう。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ご覧のようにＡさん一家の資産残高はもともとの状態（表２‐<enclosedCharacter description="○">１</enclosedCharacter>＝３６〜３７ページ）に比べ、やや心もとなくなっていますね。</sentence>
+<sentence>たとえば、Ａさんが８０歳時点の資産残高はシミュレーション前の状態では１，２１５万円ありました。</sentence>
+<sentence>いまから３４年後の２０３９年時点をみてもまだ９００万円弱あります。</sentence>
+<sentence>奥様が８７歳時点で資産残高が９００万円あれば一応は安心ですよね。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　これに対し表２‐<enclosedCharacter description="○">７</enclosedCharacter>、シミュレーション１の結果を見てください（次ページ）。</sentence>
+<sentence>Ａさんが８０歳時点の資産残高は５９７万円、同じく奥様が８７歳になる２０３９年時点にはほぼ資産が底を尽く計算です。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　以前ご説明しましたが、一般的には死亡時には<quote>「葬儀代」</quote>や<quote>「墓石代」</quote>など数百万円は残したいものです。</sentence>
+<sentence>だとすれば非常に心もとない結果と言わざるをえません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　いかがでしょうか。</sentence>
+<sentence>一見何の不安がないように見えたＡさん<sampling type="end" />の<quote>「キャッシュフロー表」</quote>も、上記のように現段階では顕在化していない<quote>「変動要因」</quote>を考慮すると、大変きびしい結果になってしまいました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>

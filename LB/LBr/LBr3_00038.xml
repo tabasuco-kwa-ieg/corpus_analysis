@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBr3_00038" version="1.0" type="fixedLength">
+<article articleID="LBr3_00038_F001">
+<titleBlock>
+<sentence>実際には自分で行った実験の結<sampling type="start" />果や感想を書きましょう。</sentence>
+<br type="automatic_original" />
+</titleBlock>
+<quotation>
+<citation>
+<titleBlock>
+<title>
+<sentence type="quasi">リモコン信号の研究</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<authorsData>
+<sentence type="quasi">○年○組○番　名前</sentence>
+<br type="automatic_original" />
+</authorsData>
+<titleBlock>
+<title>
+<sentence type="quasi">研究の動機・目的</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　わたしたちのまわりには，テレビなどリモコンを使った電気機器がたくさんある。</sentence>
+<sentence>リモコンを使うとかなり<ruby rubyText="はな">離</ruby>れた場所からも操作ができることをふしぎに思った。</sentence>
+<sentence>そこで，リモコン信号の<ruby rubyText="とど">届</ruby>く距離や性質について調べてみることにした。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">準備したもの</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence type="quasi">　テレビ（Ａ社製・Ｂ１２‐ＳＴ９０‐１）とそのリモコン送信器（新しい電池を入れる），巻き尺，ひも，分度器，折りたたみいす，セロハンテープ，実験材料〔５００円硬貨，フライパン，<ruby rubyText="とう">陶</ruby><ruby rubyText="き">器</ruby>の大皿（白），茶わん，コップ（ガラス），ビデオテープのケース（白・黒），クリアファイル（黄・黒），ラップフィルム，アルミニウムはく，毛布，バスタオル，サマーセーター（黒），新聞紙，画用紙（白・黒）など〕</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">実験の方法</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence>〈実験１〉　リモコン送信器（リモコン）はどのくらいの距離まではたらくかを調べた。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　テレビの受信部から，リモコンをテレビの画面と垂直の方向に少しずつ離していった。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　リモコンがはたらくかどうかは，チャンネルの切りかえができるかどうかで<ruby rubyText="はん">判</ruby><ruby rubyText="だん">断</ruby>した。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　リモコンの操作ができなくなる<ruby rubyText="きょう">境</ruby><ruby rubyText="かい">界</ruby>のところでリモコンとテレビの距離をはかった。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>〈実験２〉　リモコン送信器はどのくらいの<ruby rubyText="はん">範</ruby><ruby rubyText="い">囲</ruby>まではたらくかを調べた。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　右の図のように，テレビの受信部の真下からテレビの画面と垂直になるように床にひもを置き，固定した（中央線）。</sentence>
+<sentence>別のひもを２ｍの長さに切り，ひもの一方を受信部のすぐ下に固定した。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　リモコンの高さを受信部と同じ高さにして，２ｍのひものはしにリモコンを合わせた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">３</enclosedCharacter>　ひもをピンと張った状態で，テレビの受信部を中心にリモコンをおうぎ形に移動させながら，チャンネルボタンをおした。</sentence>
+<sentence>リモコンがはたらかなくなる境界の位置で，ひもと中央線との角度をはかった。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>〈実験３〉　リモコン信号はどのようなものを通過するかを調べた。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　テレビの受信部から１ｍの位置に，リモコンを受信部とほぼ同じ高さにして置いた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　準備した実験材料を受信部にピッタリつくように置き，リモコンを操作して，チャンネルの切りかえができるかどうかを調べた。</sentence>
+<sentence>さらに，実験材料を変えて，それぞれ同じように調べた。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence>〈実験４〉　リモコン信号がいろいろなものにあたると反射するかを調べた。</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>　右の図のように，テレビの前方１ｍの位置に置いたいすに，調べるものを置いた。</sentence>
+<sentence>リモコンをテレビ上部で持って信号を出し，ものに反射した信号がテレビのチャンネルを変えるかどうかを調べた。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence><enclosedCharacter description="○">２</enclosedCharacter>　反射について調べるものとしては，実験３で調べたものの中からいくつかを選んだ。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">実験の結果</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">〈実験１〉　リモコンのはたらく距離</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　テレビの正面から８ｍ離れ<sampling type="end" />た場所までチャンネルを変えることができた。</sentence>
+</paragraph>
+</citation>
+</quotation>
+</article>
+</sample>

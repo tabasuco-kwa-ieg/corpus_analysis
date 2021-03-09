@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBf3_00002" version="1.0" type="fixedLength">
+<article articleID="LBf3_00002_F001">
+<paragraph>
+<sentence>　綿花の国際取引の指標とな<sampling type="start" />るのは、背後に大生産地と金融市場を有するニューヨーク綿花取引所（ＮＹＣＥ）で形成される相場である。</sentence>
+<sentence>天候要因とアメリカ政府の価格支持政策（具体的には、商品金融公社（ＣＣＣ）の定める融資基準価格の水準）がしばしば相場を左右する。</sentence>
+<sentence>一方、羊毛取引の国際指標となるのは、オーストラリアで開かれるオークション（競売）で形成される相場で、オーストラリア羊毛公社（ＡＷＰ）がその結果を公表している。</sentence>
+<sentence>羊毛は収穫まで三年程度かかるため供給の弾力性が小さく、世界的なウールブームの中で相場は上昇を続けている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">表４２‐１　世界の主要１次産品市場</sentence>
+<br type="automatic_original" />
+<sentence>（出所）　日本経済新聞社『日経商品面の読み方』による。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">（２）　国際商品価格指数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　一口で一次産品と言っても、これまで見てきたように需給要因や価格動向は商品ごとに違いがあり、その一つ一つをフォローするのは容易ではない。</sentence>
+<sentence>そこで、それらをひとまとめにして全般的な傾向をつかむために、代表的な産品を選びその価格動向を総合的に指数化したものが整備されている。</sentence>
+<sentence>現在では各国で多種多様な国際商品価格指数が作成・公表されているが、代表的な指標としては次のようなものがある。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">１</enclosedCharacter>　ロイター商品指数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　イギリスのロイター通信社が作成しているため、ポンドベース（わが国ではＳＤＲに換算した指数が使われることが多い）で算出されるなどイギリス偏重の色彩が濃く、イギリスの輸入商品価格指数と言えなくもないが、農・鉱産物のうち代表的な国際商品一七品目を採用しているため国際性も兼ね備えている。</sentence>
+<sentence>一九三一年九月一八日を基準としているため長期の比較に耐える。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">２</enclosedCharacter>　ダウ・ジョーンズ</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　商品指数イギリスのダウ・ジョーンズ社が作成・公表しており、現物指数のほかに先物指数も作成されている。</sentence>
+<sentence>一九三三年から作成されてきた長期の先物指数は、金属類が採用品目に含まれていなかったが、一九七四年一二月三一日を基準とした現在の指数は、鉱産物を含む一二品目で構成されている。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">３</enclosedCharacter>　エコノミスト指数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　イギリスの経済誌『エコノミスト』の発行元が作成・公表している。</sentence>
+<sentence>過去に何度か採用品目などの見直しが行われてきており、現在の指数は一九七〇年を基準時とし、ウェイトは工業国の各商品の輸入額の三カ年移動平均値から割り出している。</sentence>
+<sentence>採用商品は八二品目であり、総合のほかに、食料と工業原料、さらには後者を繊維と非鉄金属に分け、全部で五系列についてポンド建て指数とドル建て指数を作成している。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi"><enclosedCharacter description="○">４</enclosedCharacter>　ＣＲＢ先物指数</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　アメリカのコモディティ・リサーチ・ビューロー（ＣＲＢ）社が作成・公表しており、二一商品で構成される総合指数としての先物・現<sampling type="end" />物指数のほかに、貴金属、穀物、エネルギー等の類別指数も作成されている。</sentence>
+</paragraph>
+</article>
+</sample>

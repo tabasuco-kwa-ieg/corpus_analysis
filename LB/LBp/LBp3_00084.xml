@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp3_00084" version="1.0" type="fixedLength">
+<article articleID="LBp3_00084_F001">
+<list>
+<listItem>
+<sentence>★<sampling type="start" />添付書類→給与所得や退職所得又は公的・退職年金所得のある人が確定申告をする場合には、それぞれ<quote>「給与所得の源泉徴収票」</quote>、<quote>「退職所得の源泉徴収票」</quote>又は<quote>「公的年金等の源泉徴収票」</quote>を必ず確定申告書に添付します。</sentence>
+<sentence>また、事業所得や不動産所得などのある個人の事業経営者の場合は、青色申告者については青色申告決算書を、白色申告者については収支内訳書をそれぞれ確定申告書に添付します（なお、各種所得控除や住宅ローン控除などを受ける場合に添付書類が定められているときは、それらの書類の添付も必要です）。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence>★納付→申告期限である３月１５日までに納めます。</sentence>
+<sentence>ただし、全額を一時に納められない人は、確定申告で実際に納める税金の１／２以上を３月１５日までに納めれば、残額については５月３１日までに納付を延期することができます（もっとも、この延納制度を利用すると、延納する税金に対して年７．３％<noteMarker text="＊" />の割合で利子税―延納する税金の利子に該当―がかかります）。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>＊前年１１月末時点での公定歩合が年３．３％に満たない水準にあるときには、市場金利を考慮して、この年７．３％の割合はその公定歩合＋４％の割合まで軽減されます。</sentence>
+<br type="automatic_original" />
+</noteBody>
+</listItem>
+</list>
+<titleBlock>
+<title>
+<sentence type="quasi">注意</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>上記したところにより確定申告をしなくてよいひとでも、事業所得か不動産所得又は山林所得となるべき業務を営み、これらの所得にかかる総収入金額が３，０００万円を超えるという人は、<quote>「総収入金額報告書」</quote>なる書類を３月１５日までに所轄の税務署へ提出しなければならないこととなっています。</sentence>
+<sentence>ご注意ください。</sentence>
+<br type="automatic_original" />
+<sentence>なお、確定申告をした人については、この総収入金額報告書の提出は必要ありませんので、念のため…。</sentence>
+<br type="automatic_original" />
+<noteBody>
+<sentence>注　今年、平成１３年についても定率減税が実施されているため、この定率減税にからんで還付のための所得税の確定申告を必要とする場合が考えられます。</sentence>
+<sentence>３１ページを参照ください。</sentence>
+<br type="automatic_original" />
+</noteBody>
+<titleBlock>
+<title>
+<sentence type="quasi">住民税の申告とは</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<sentence>→　住民税の申告は、市町村や都道府県が前年１年間の所得に対して今年度科すべき税額を適正に計算するため、いわば課税資料の提出を要請するものとしてありますから、所得税の申告納税制度とは基本的に異なります。</sentence>
+<sentence>なお、所得税の確定申告をしているときには、その申告データは課税資料としてあなたの住所地の市町村へ流れるしくみになっていますので、重ねて住民税の申告をする必要はありません。</sentence>
+<br type="automatic_original" />
+<blockEnd />
+<sentence>住民税の申告書を提出しなければならないとき→市町村内に住所があるときは、すべてこの申告書を提出することになってはいますが、次のようなときには申告する必要がありません。</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence type="quasi"><enclosedCharacter description="●">１</enclosedCharacter>　所得税の確定申告をしているとき</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">コメント</sentence>
+<br type="automatic_original" />
+<sentence>既に説明したように、所得税の確定申<sampling type="end" />告に関するデータが住所地の市町村に流れますので、重ねて申告しなくてもよいということです。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</article>
+</sample>

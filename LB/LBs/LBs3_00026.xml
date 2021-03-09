@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBs3_00026" version="1.0" type="fixedLength">
+<article articleID="LBs3_00026_F001">
+<paragraph>
+<sentence>　身体障害者の保健福祉サービスは、身体障<sampling type="start" />害者福祉法によるサービスが中核です。</sentence>
+<sentence>ここでは、同法に基づくサービスの課題について触れておきたいと思います。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　まず、障害認定の問題があげられます。</sentence>
+<sentence>最初に触れたように、日本の障害者認定率は、他の先進諸国と比べ、まだまだ低率です。</sentence>
+<sentence>つまり、わが国には、制度が適用されない潜在的な障害者が多数いることになり、実際上のニーズのある人にサービスが適用されないという問題を抱えていることになります。</sentence>
+<sentence>また、障害等級表にみられるように、日本の障害認定は制限列挙方式で行われています。</sentence>
+<sentence>障害を状態別に１つ１つ細かく規定しているわけです。</sentence>
+<sentence>このことは、等級表に該当しない障害は認定されないことを示しています。</sentence>
+<sentence>特に、事例の高次脳機能障害のような新しい障害については、法の施行規則を改正しない限り認定されないという問題があります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　次に、新たに導入された支援費制度にも、大きな課題が残されています。</sentence>
+<sentence>支援費制度は、利用者が権利主体として、サービスを自己選択・自己決定することを理念として生まれました。</sentence>
+<sentence>サービスを権利として保障するためには、その供給が需要を下回らないことが大前提です。</sentence>
+<sentence>しかし、現実には、障害保健福祉サービスの量はそのニーズに比して決して十分とはいえず、必要があるにも関わらずサービスを受けられないという事態が発生しています。</sentence>
+<sentence>これではせっかくの理念が<quote>「絵に描いた餅」</quote>になりかねません。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　また、保健福祉のサービスは、その種類によって管轄する制度や部署が異なるという問題もあります。</sentence>
+<sentence>せっかく制度が準備されていても、複雑な社会資源を有効に活用することはなかなか困難です。</sentence>
+<sentence>ことに障害を負った直後の混乱時に、こうしたことを考えるのは至難です。</sentence>
+<sentence>そこで何より求められるのは、活用できる社会資源をコーディネイトしてくれる、福祉専門職の存在です。</sentence>
+<sentence>障害を負った場合には、早急にこうした専門職に相談することが必要なのです。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　しかし、支援費制度では、こうした専門職の配置を明確化していないことも大きな問題です。</sentence>
+<sentence>介護保険では、介護支援専門員（ケアマネジャー）が制度化され、サービスを調整する機能が重視されています。</sentence>
+<sentence>障害保健福祉においても、ケアマネジメントの機能を担う専門職員を制度化していくことが緊急の課題といえます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<titleBlock>
+<title>
+<sentence type="quasi">第３章　身体障害を負ったら</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">チェックポイント</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●身体障害者福祉法による福祉サービス</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<list>
+<listItem>
+<sentence type="quasi">身体障害者の定義</sentence>
+<br type="automatic_original" />
+<sentence><enclosedCharacter description="○">１</enclosedCharacter>法律の別表（障害程度等級表）に該当する身体上の障害があること、<enclosedCharacter description="○">２</enclosedCharacter>１８歳以上であること、<enclosedCharacter description="○">３</enclosedCharacter>身体障害者手帳を交付されていること、の３条件を満たしている人。</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">福祉の措置</sentence>
+<br type="automatic_original" />
+<list>
+<listItem>
+<sentence>診査・更生相談　在宅の<sampling type="end" />重度身体障害者を医師・看護師等が家庭訪問して相談に応じるサービス。</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+</article>
+</sample>

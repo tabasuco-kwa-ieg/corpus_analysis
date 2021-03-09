@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample sampleID="LBp5_00079" version="1.0" type="fixedLength">
+<article articleID="LBp5_00079_F001">
+<list>
+<listItem>
+<list>
+<listItem>
+<sentence type="quasi">・ＡＤＳＬモデムとの接続に必要になるＬＡＮカードをパソコンに取<sampling type="start" />り付ける</sentence>
+<br type="automatic_original" />
+<sentence type="quasi">（ＬＡＮカードが不要の場合もあり）</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・ＡＤＳＬモデムとパソコン（ＬＡＮカード）間の配線</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・ネットワークのプロパティの設定など</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・メールの設定など</sentence>
+<br type="automatic_original" />
+</listItem>
+<listItem>
+<sentence type="quasi">・ＰＰＰｏＥソフトウエアの設定</sentence>
+<br type="automatic_original" />
+</listItem>
+</list>
+</listItem>
+</list>
+<paragraph>
+<sentence>　また、わかりやすいように、接続イメージ図（次ページ図３‐２２）を示しておきます。</sentence>
+<sentence>電話回線のソケットからスプリッタに接続され、スプリッタからＡＤＳＬモデム、同時にスプリッタから通常の電話へと接続されます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ＡＤＳＬモデムとパソコンとの接続はＣＡＴＶ同様の１０ＢＡＳＥ‐Ｔか、またはＵＳＢ接続となります。</sentence>
+<sentence>さらに、ＰＰＰｏＥと呼ばれるプロトコルを利用するための専用ソフトのインストールが必要なこともあります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　現在は業者によって行われているＡＤＳＬモデムの取り付け配線工事ですが、２００１年２月から総務省の指導もあって、スプリッタ、ＡＤＳＬモデムの取り付けを利用者自らが行うことが可能になりました。</sentence>
+<sentence>実際、各プロバイダともそのようなサービスプランの開始を発表しています。</sentence>
+<sentence>ＣＡＴＶと違い、家庭内までの配線はすでに完成しているので（電話線）、大がかりな工事を必要としないためです。</sentence>
+<sentence>そのため、工事費用が非常に安く抑えられ、ユーザーにとってはより手軽なサービスになりました。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　さらに、２００１年春先からはＡＤＳＬモデムがパソコンショップの店頭に並んで販売される方向で検討されており、従来はＡＤＳＬモデム業者がレンタルするモデムしか利用できませんでしたが、今後は利用者が好きなＡＤＳＬモデムを用意して取り付けることも可能になります。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　サービスの例として、ＮＴＴ東日本の例を掲げておきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">図３‐２２　ＡＤＳＬ配線図</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●月額利用料（プロバイダの利用料金が別途必要となります）</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">・加入電話回線と共用するタイプ</sentence>
+<br type="automatic_original" />
+<sentence>加入電話と共用のため、加入電話の基本料金が別途かかります。</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<figureBlock>
+<figure>
+</figure>
+<caption>
+<sentence type="quasi">・ＮＴＴ東日本製品の販売価格</sentence>
+<br type="automatic_original" />
+</caption>
+</figureBlock>
+<titleBlock>
+<title>
+<sentence type="quasi">●ＡＤＳＬモデムとスプリッタの設置・配線</sentence>
+<br type="automatic_original" />
+</title>
+</titleBlock>
+<paragraph>
+<sentence>　すでに説明したとおりモデムとスプリッタの設置は、従来ＡＤＳＬ業者の担当者が行うことになっていましたが、現在はユーザーが自ら行うこともあるので、簡単に説明しておきます。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<blockEnd />
+<paragraph>
+<sentence>　ＡＤＳＬモデム、スプリッタの設置配線は非常に簡単です。</sentence>
+<sentence>電話やＦＡＸを取り付ける感覚となんら変わりありません。</sentence>
+<sentence>各配線は電話線（モジュラーケーブル）を利用します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　ポイントは、まず電話局から来ているソケットに対してスプリッタを接続します。</sentence>
+<sentence>スプリッタの一方をＡＤＳＬモデムへ、さらにもう一方を電話／ＦＡＸへと接続します。</sentence>
+<br type="automatic_original" />
+</paragraph>
+<paragraph>
+<sentence>　このとき、電話／ＦＡＸをスプリッタよりも手前に接続してはいけません。</sentence>
+<sentence>ノイズが入って正常な<sampling type="end" />通話が行えなくなります（次ページ図３‐２３、図３‐２４参照）。</sentence>
+<br type="automatic_original" />
+</paragraph>
+</article>
+</sample>
